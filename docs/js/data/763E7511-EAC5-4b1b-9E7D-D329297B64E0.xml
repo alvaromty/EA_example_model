@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "Composite Structure-Properties", "EARoot/EA3/EA3/EA72.htm", "182.png", "372", "0", "", "CompositeStructure diagram0","{76794FEC-6BA6-4a22-8B35-FD85AB24252C}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "Book", "EARoot/EA3/EA3/EA75.htm", "5.png", "E1495", "0", "", "Class0","{DC90E3B1-F9BE-4b8b-9CD4-8BFE61F218C6}");
+tocTab[tocTab.length] = new Array("0.3.3:3", "", "Books", "EARoot/EA3/EA3/EA76.htm", "5.png", "E1494", "0", "", "Class0","{5B395357-426E-4687-9396-7212CA4A5DD8}");
+tocTab[tocTab.length] = new Array("0.3.3:4", "", "Computer", "EARoot/EA3/EA3/EA77.htm", "5.png", "E1491", "0", "", "Class0","{1A457019-354A-4548-BFD8-4373980A86BB}");
+tocTab[tocTab.length] = new Array("0.3.3:5", "", "Stock", "EARoot/EA3/EA3/EA79.htm", "5.png", "E1496", "0", "", "Class0","{F56F668B-8633-4c21-AB6A-C3FE2D3C08E9}");
+tocTab[tocTab.length] = new Array("0.3.3:6", "", "Stock", "EARoot/EA3/EA3/EA80.htm", "5.png", "E1492", "0", "", "Class0","{2A3557FF-5003-4b6e-AE63-8C17197C3D2B}");
+tocTab[tocTab.length] = new Array("0.3.3:7", "", "BookStock", "EARoot/EA3/EA3/EA81.htm", "118.png", "E1498", "E1492", "", "Part0","{E774B7F4-2E8F-4956-8DD8-52F6FC558C47}");
+tocTab[tocTab.length] = new Array("0.3.3:8", "", "records", "EARoot/EA3/EA3/EA82.htm", "118.png", "E1497", "E1492", "", "Part0","{A2D3A86A-676D-4ba8-B4D3-4CD8BEBE6769}");
