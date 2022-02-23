@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1", "1", "Client Side", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12695.htm", "4.png", "", "", "{BC18D2D2-75ED-4e81-A0C1-3A2C1B3B9F5C}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.2", "1", "Server Side", "EARoot/EA21/EA2/EA2/EA1/EA2/EA12707.htm", "4.png", "", "", "{4C08E0B1-724C-4699-9DE4-B82D1F2D1DE6}", "Package");

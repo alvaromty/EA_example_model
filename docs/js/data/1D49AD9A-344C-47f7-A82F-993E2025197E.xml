@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7.3.4:1", "", "Data Flow Diagrams", "EARoot/EA7/EA3/EA4/EA4990.htm", "189.png", "684", "0", "", "Analysis diagram0","{B62B4F27-ABBE-46f2-BD43-10A4F1C11AA0}");
+tocTab[tocTab.length] = new Array("0.7.3.4:2", "", "«DFD_External» Customer", "EARoot/EA7/EA3/EA4/EA4997.htm", "AAB1EBBD-8_DFD_External.png", "E7139", "0", "", "Class0","{B2293E3C-5795-4c30-812E-139E3B523009}");
+tocTab[tocTab.length] = new Array("0.7.3.4:3", "", "«DFD_DataStore» Customer Profile", "EARoot/EA7/EA3/EA4/EA4998.htm", "AAB1EBBD-8_DFD_DataStore.png", "E7138", "0", "", "Class0","{53D0DBC2-872B-4857-B058-0AAD814AF3D7}");
+tocTab[tocTab.length] = new Array("0.7.3.4:4", "", "«DFD_DataStore» Inventory", "EARoot/EA7/EA3/EA4/EA4999.htm", "AAB1EBBD-8_DFD_DataStore.png", "E7140", "0", "", "Class0","{F00C22B6-522A-4dbf-BA33-C9E09B2E7099}");
+tocTab[tocTab.length] = new Array("0.7.3.4:5", "", "«DFD_DataStore» Order Data Store", "EARoot/EA7/EA3/EA4/EA5000.htm", "AAB1EBBD-8_DFD_DataStore.png", "E7136", "0", "", "Class0","{5E2F73B7-0DCE-4c25-BE13-93B608A8A204}");
+tocTab[tocTab.length] = new Array("0.7.3.4:6", "", "«DFD_Process» Process Order", "EARoot/EA7/EA3/EA4/EA5001.htm", "AAB1EBBD-8_DFD_Process.png", "E7144", "0", "", "Activity0","{2A9DBDDE-6886-43ce-87A8-9F3CE6E4296D}");
+tocTab[tocTab.length] = new Array("0.7.3.4:7", "", "«DFD_Process» Receive Order", "EARoot/EA7/EA3/EA4/EA5002.htm", "AAB1EBBD-8_DFD_Process.png", "E7141", "0", "", "Activity0","{68E4E78B-323A-4f75-B407-75D90514ECF7}");
+tocTab[tocTab.length] = new Array("0.7.3.4:8", "", "«DFD_Process» Send Notification", "EARoot/EA7/EA3/EA4/EA5003.htm", "AAB1EBBD-8_DFD_Process.png", "E7145", "0", "", "Activity0","{0918F24A-81A0-43e5-A7A1-449C46B2AB5E}");
+tocTab[tocTab.length] = new Array("0.7.3.4:9", "", "«DFD_Process» Ship Order", "EARoot/EA7/EA3/EA4/EA5004.htm", "AAB1EBBD-8_DFD_Process.png", "E7142", "0", "", "Activity0","{F6234D87-D779-4eb2-888E-D3AF797DC5D3}");
+tocTab[tocTab.length] = new Array("0.7.3.4:10", "", "«DFD_Process» Validate Order", "EARoot/EA7/EA3/EA4/EA5005.htm", "AAB1EBBD-8_DFD_Process.png", "E7143", "0", "", "Activity0","{D1017787-5E4D-4ac2-970E-9822DC361140}");

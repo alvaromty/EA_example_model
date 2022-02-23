@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.6:1", "", "Diagram - Alternative Views", "EARoot/EA2/EA6/EA604.htm", "175.png", "978", "0", "", "Logical diagram0","{7903C2B5-4B00-4f56-B890-FCFDB9C04B2D}");
+tocTab[tocTab.length] = new Array("0.2.6:2", "", "Diagram - Graphical View", "EARoot/EA2/EA6/EA606.htm", "175.png", "998", "0", "", "Logical diagram0","{B10ECD20-9D74-4168-8917-F154D15514E4}");
+tocTab[tocTab.length] = new Array("0.2.6:3", "", "Diagram - List View", "EARoot/EA2/EA6/EA608.htm", "175.png", "1022", "0", "", "Logical diagram0","{3D4CB7BD-510D-4133-A923-762164DD0247}");
+tocTab[tocTab.length] = new Array("0.2.6:4", "", "Diagram - Gantt View", "EARoot/EA2/EA6/EA610.htm", "175.png", "1023", "0", "", "Logical diagram0","{91EAAEBF-E5A5-483a-B3C5-4EFABC317869}");
+tocTab[tocTab.length] = new Array("0.2.6:5", "", "Diagram - Specification View", "EARoot/EA2/EA6/EA612.htm", "175.png", "1024", "0", "", "Logical diagram0","{C35A0FE5-9435-4bf8-8A6F-4A108C0FB740}");
+tocTab[tocTab.length] = new Array("0.2.6:6", "", "Diagram - Relation Matrix View", "EARoot/EA2/EA6/EA614.htm", "175.png", "1025", "0", "", "Logical diagram0","{1C3FF84D-E5CC-4dd5-AE5E-72280003D3C3}");
+tocTab[tocTab.length] = new Array("0.2.6:7", "", "Diagram - Construct View", "EARoot/EA2/EA6/EA616.htm", "175.png", "1026", "0", "", "Logical diagram0","{0A769D7E-E173-4dae-B29C-CFC46F3FDF37}");
+tocTab[tocTab.length] = new Array("0.2.6:8", "", "Diagram - Kanban", "EARoot/EA2/EA6/EA618.htm", "188.png", "1014", "0", "", "Custom diagram0","{A9F90698-6BE8-4bc8-93A8-5E104BBF5788}");

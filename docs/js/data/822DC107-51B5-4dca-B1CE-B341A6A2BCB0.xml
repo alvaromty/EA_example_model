@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.9.1.1.2.1:1", "", "Place Order", "EARoot/EA9/EA1/EA1/EA2/EA1/EA6753.htm", "175.png", "88", "0", "", "Logical diagram0","{85CA9744-50ED-4e28-88C4-89372188CF0D}");
+tocTab[tocTab.length] = new Array("0.9.1.1.2.1:2", "", "«testcase» Order Screen Tests", "EARoot/EA9/EA1/EA1/EA2/EA1/EA6756.htm", "7.png", "E612", "0", "", "UseCase0","{116540EC-42CD-48d1-88F4-C6C0B54E2440}");

@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Process Model</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA5097.png" usemap="#EA5097" border="0" />
+
+<MAP NAME="EA5097">
+<area shape="rect" coords="474,593,574,643" href="EA5109.htm" target="_self">
+<area shape="rect" coords="133,588,372,649" href="EA5103.htm" target="_self">
+<area shape="rect" coords="132,465,267,526" href="EA5104.htm" target="_self">
+<area shape="rect" coords="675,15,794,247" href="EA5099.htm" target="_self">
+<area shape="rect" coords="16,232,106,273" href="EA5114.htm" target="_self">
+<area shape="rect" coords="367,486,488,528" href="EA5112.htm" target="_self">
+<area shape="rect" coords="523,340,623,398" href="EA5108.htm" target="_self">
+<area shape="rect" coords="523,258,623,316" href="EA5111.htm" target="_self">
+<area shape="rect" coords="22,133,100,170" href="EA5101.htm" target="_self">
+<area shape="rect" coords="299,231,420,273" href="EA5116.htm" target="_self">
+<area shape="rect" coords="513,10,613,68" href="EA5115.htm" target="_self">
+<area shape="rect" coords="519,122,619,180" href="EA5110.htm" target="_self">
+<area shape="rect" coords="45,10,77,74" href="EA5102.htm" target="_self">
+<area shape="rect" coords="172,232,275,274" href="EA5113.htm" target="_self">
+<area shape="rect" coords="20,345,102,383" href="EA5100.htm" target="_self">
+<area shape="rect" coords="133,121,447,182" href="EA5106.htm" target="_self">
+<area shape="rect" coords="156,10,280,57" href="EA5117.htm" target="_self">
+<area shape="rect" coords="305,10,431,58" href="EA5107.htm" target="_self">
+<area shape="rect" coords="133,331,447,392" href="EA5105.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Process Model : Analysis diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9/30/2000 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">11/4/2016 2:59:05 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Benjamin Hutton</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{E1F07764-01D3-4ccd-8597-2A5B95F10CD2}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">The business process model is made up of objects and activities - the objects are the inputs and outputs to the activities or &#39;processes&#39;. In this example we have defined two processes: &#39;Sell Books On-Line&#160;&#160;and &#39;Manage Customer Orders&#39;. These processes have numerous inputs, triggers and outputs. The inputs and outputs have some equivalence to an early &#39;Domain Model&#39;; they capture the business entities and relationships between them. The processes will typically be decomposed into one or more use cases.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:1", "", "Business Location", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3235.htm", "188.png", "702", "0", "", "Custom diagram0","{79E3ED27-C47F-4d96-81A5-A017564D7D59}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:2", "", "«BranchOffice» BranchOffice1", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3240.htm", "9.png", "E4203", "0", "", "Node0","{C65EB09B-7471-4ad0-96B6-56D59695F15E}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:3", "", "«BranchOffice» BranchOffice2", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3241.htm", "9.png", "E4201", "0", "", "Node0","{170F0A89-7A4F-4e2a-8394-374D870447F1}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:4", "", "«ClientPlace» ClientPlace1", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3242.htm", "9.png", "E4209", "0", "", "Node0","{3929AA20-5B60-4074-A3EC-825EAF2F3E1A}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:5", "", "«HeadQuaters» HeadQuaters", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3243.htm", "9.png", "E4202", "0", "", "Node0","{8F1FC241-DA28-47ca-B2AA-EF0C21A242B7}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:6", "", "«Supplier» Supplier1", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3244.htm", "9.png", "E4204", "0", "", "Node0","{00189512-5259-45c9-90E8-E36FF4B16DFE}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:7", "", "«OfficeBlock» OfficeBlock1", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3246.htm", "9.png", "E3688", "E4202", "", "Node0","{B826924D-3E81-49a3-9E19-F8DBF8EF2916}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.3:8", "", "«OfficeBlock» OfficeBlock2", "EARoot/EA6/EA1/EA4/EA1/EA3/EA3247.htm", "9.png", "E4205", "E4202", "", "Node0","{3AECF415-55C4-400b-BEA2-108F68C3993B}");

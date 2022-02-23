@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.3:1", "", "Box Plot - Javascript", "EARoot/EA2/EA10/EA3/EA868.htm", "188.png", "1064", "0", "", "Custom diagram0","{ED67311E-FE15-4fb1-BBA1-850954ED3CB0}");
+tocTab[tocTab.length] = new Array("0.2.10.3:2", "", "Box Plot Data - JSON", "EARoot/EA2/EA10/EA3/EA870.htm", "188.png", "1065", "0", "", "Custom diagram0","{F078F8D7-E6E6-4a6e-B8B5-F8064299FC40}");
+tocTab[tocTab.length] = new Array("0.2.10.3:3", "", "«SSDynamicChart» Box Plot Data - JavaScript", "EARoot/EA2/EA10/EA3/EA873.htm", "5.png", "E10111", "0", "", "Class0","{6C01FA2E-3239-40f2-BDBA-42FF4C404BC4}");
+tocTab[tocTab.length] = new Array("0.2.10.3:4", "", "«SSDynamicChart» Box Plot Data - JSON", "EARoot/EA2/EA10/EA3/EA874.htm", "5.png", "E10110", "0", "", "Class0","{20A51D25-25A6-4a6c-8587-94746A453824}");

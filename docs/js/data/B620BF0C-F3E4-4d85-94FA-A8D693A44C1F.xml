@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.6.1.4:1", "", "Zachman Framework", "EARoot/EA6/EA1/EA4/EA3175.htm", "175.png", "402", "0", "", "logical diagram0","{D1C823CB-644C-4549-B696-D84420B75BFF}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1", "1", "Planner", "EARoot/EA6/EA1/EA4/EA1/EA3185.htm", "4.png", "", "", "{A2246EF3-85E0-4577-9649-6EF85FB5EF2A}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.2", "1", "Owner", "EARoot/EA6/EA1/EA4/EA2/EA3283.htm", "4.png", "", "", "{EBAEAFBB-7EE2-4cd9-B1A2-6ACC78215BD1}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3", "1", "Designer", "EARoot/EA6/EA1/EA4/EA3/EA3387.htm", "4.png", "", "", "{CFF6EBFD-BB86-4563-996B-65AD3EA5B32D}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.4", "1", "Builder", "EARoot/EA6/EA1/EA4/EA4/EA3515.htm", "4.png", "", "", "{3ABBD51A-6649-4070-9316-E17393AF7EFF}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.5", "1", "Subcontractor", "EARoot/EA6/EA1/EA4/EA5/EA3595.htm", "4.png", "", "", "{C2F46F15-E191-40fb-8ED7-59CEF6E2E7D0}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.6", "1", "Functioning Enterprise", "EARoot/EA6/EA1/EA4/EA6/EA3636.htm", "4.png", "", "", "{D8F809A6-7F45-4396-8D23-B954C4EF16CC}", "Package");

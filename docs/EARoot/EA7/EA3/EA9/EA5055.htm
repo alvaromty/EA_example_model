@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Flow Chart Diagram</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA5056.png" usemap="#EA5056" border="0" />
+
+<MAP NAME="EA5056">
+<area shape="rect" coords="10,151,442,206" href="EA5060.htm" target="_self">
+<area shape="rect" coords="11,62,456,132" href="EA5059.htm" target="_self">
+<area shape="rect" coords="10,10,339,56" href="EA5058.htm" target="_self">
+<area shape="rect" coords="39,699,104,739" href="EA5069.htm" target="_self">
+<area shape="rect" coords="39,599,104,639" href="EA5066.htm" target="_self">
+<area shape="rect" coords="274,645,348,690" href="EA5070.htm" target="_self">
+<area shape="rect" coords="161,753,211,784" href="EA5065.htm" target="_self">
+<area shape="rect" coords="149,644,223,689" href="EA5064.htm" target="_self">
+<area shape="rect" coords="274,550,348,595" href="EA5067.htm" target="_self">
+<area shape="rect" coords="171,555,201,590" href="EA5071.htm" target="_self">
+<area shape="rect" coords="39,481,113,526" href="EA5061.htm" target="_self">
+<area shape="rect" coords="164,269,208,294" href="EA5062.htm" target="_self">
+<area shape="rect" coords="171,486,201,521" href="EA5073.htm" target="_self">
+<area shape="rect" coords="149,407,223,452" href="EA5068.htm" target="_self">
+<area shape="rect" coords="149,328,223,373" href="EA5072.htm" target="_self">
+<area shape="rect" coords="274,334,349,374" href="EA5063.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Flow Chart Diagram : Flow Chart diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/21/2015 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 11:52:54 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{D4954E0A-991C-455d-8C2A-80B61F255B54}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Example Flow Chart for Strategic Modeling in Sparx Systems Enterprise Architect.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

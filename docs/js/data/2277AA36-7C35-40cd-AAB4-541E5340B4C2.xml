@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.21.2.5.1.2:1", "", "Pro Cloud Server", "EARoot/EA21/EA2/EA5/EA1/EA2/EA12864.htm", "10.png", "E7424", "0", "", "Component0","{46C95D63-E82D-4134-80D7-0F1A57771171}");
+tocTab[tocTab.length] = new Array("0.21.2.5.1.2:2", "", "Reusable Asset Server", "EARoot/EA21/EA2/EA5/EA1/EA2/EA12865.htm", "10.png", "E7311", "0", "", "Component0","{EC94533D-F4CD-48db-8FDD-1B20509F0E84}");
+tocTab[tocTab.length] = new Array("0.21.2.5.1.2:3", "", "", "EARoot/EA21/EA2/EA5/EA1/EA2/EA12866.htm", "95.png", "E7314", "E7311", "", "Port0","{63C61B2B-F568-4e57-BDB0-56894F1F1393}");
+tocTab[tocTab.length] = new Array("0.21.2.5.1.2:4", "", "https port (configrable port number)", "EARoot/EA21/EA2/EA5/EA1/EA2/EA12867.htm", "95.png", "E7440", "E7424", "", "Port0","{41769A54-E2C9-4880-92D2-7D3FD30DAC25}");
+tocTab[tocTab.length] = new Array("0.21.2.5.1.2:5", "", "Web Port (configrable port number)", "EARoot/EA21/EA2/EA5/EA1/EA2/EA12868.htm", "95.png", "E7439", "E7424", "", "Port0","{3FFA6688-E604-4d63-BC38-B73D77AF4956}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.5.1:1", "", "«DMSet» attributes", "EARoot/EA2/EA5/EA1/EA592.htm", "5.png", "E9999", "0", "", "Class0","{7B25F74E-2A74-49bb-96CB-395235EA5A82}");
+tocTab[tocTab.length] = new Array("0.2.5.1:2", "", "example.xls", "EARoot/EA2/EA5/EA1/EA593.htm", "82.png", "E10002", "0", "", "Artifact0","{994A8FFD-16CB-4c45-9824-B41ED8C28FDA}");
+tocTab[tocTab.length] = new Array("0.2.5.1:3", "", "«DMSet» links", "EARoot/EA2/EA5/EA1/EA594.htm", "5.png", "E9909", "0", "", "Class0","{4F03214C-20A9-4fad-8E07-5E974BAF7C9B}");
+tocTab[tocTab.length] = new Array("0.2.5.1:4", "", "«DMConnection» Local Spreadsheet Example", "EARoot/EA2/EA5/EA1/EA595.htm", "5.png", "E9907", "0", "", "Class0","{16EEBE9B-92EB-4f9d-84EB-41B4B1BA230A}");
+tocTab[tocTab.length] = new Array("0.2.5.1:5", "", "«DMSet» objects", "EARoot/EA2/EA5/EA1/EA596.htm", "5.png", "E10000", "0", "", "Class0","{9575FF73-5FC2-410c-A333-62E9BCBB085E}");
+tocTab[tocTab.length] = new Array("0.2.5.1:6", "", "«DMScripts» UML Excel Import", "EARoot/EA2/EA5/EA1/EA597.htm", "5.png", "E10003", "0", "", "Class0","{DBC45BC5-AB89-456b-8920-88B32410FC19}");

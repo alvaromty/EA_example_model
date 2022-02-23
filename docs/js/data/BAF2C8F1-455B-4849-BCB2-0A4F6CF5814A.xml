@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.1.4:1", "", "People - List of Organisation units", "EARoot/EA6/EA1/EA4/EA1/EA4/EA3248.htm", "180.png", "704", "0", "", "Use Case diagram0","{E3C3338B-EF46-483a-AF53-E673CD738E95}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.4.1", "1", "Organization chart", "EARoot/EA6/EA1/EA4/EA1/EA4/EA1/EA3256.htm", "4.png", "", "", "{A1F25740-B00F-4d96-87AA-3BE9CC440B38}", "Package");

@@ -1,0 +1,387 @@
+<?xml  version='1.0' encoding='windows-1252' ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="DynamicChartSchema" type="DynamicChartSchema"/>
+	<xs:complexType name="DynamicChartSchema">
+		<xs:sequence>
+			<xs:element maxOccurs="unbounded" minOccurs="0" name="Chart" type="Chart"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Chart">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Height" type="xs:integer"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Title" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Width" type="xs:integer"/>
+			<xs:element maxOccurs="unbounded" minOccurs="1" name="Axis">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="Axis_ChartChildAxis" type="ChartChildAxis"/>
+						<xs:element name="Axis_ChartAxis" type="ChartAxis"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+			<xs:element maxOccurs="1" minOccurs="1" name="Category" type="ChartCategory"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="CurveType" type="ChartCurveType"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="DataLabels" type="ChartDataLabels"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="DataMarkers" type="ChartDataMarkers"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Layout" type="ChartLayout"/>
+			<xs:element maxOccurs="unbounded" minOccurs="1" name="Series" type="ChartSeries"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Type" type="ChartType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartAxis">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="DataFormat" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="DisplayAsDate" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="DisplayUnits" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="IntervalInterlacing" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Label" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="MajorGridLines" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="MajorUnitIntervalInterlacing" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Visible" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="CrossType" type="ChartAxisCrossType"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="FixedDisplayRange" type="DisplayRange"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Index" type="ChartAxisIndex"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="LabelType" type="ChartAxisLabelType"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="TickMark" type="ChartAxisTickMarkType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartAxisCrossType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Auto"/>
+			<xs:enumeration value="AxisValue"/>
+			<xs:enumeration value="Fixed"/>
+			<xs:enumeration value="Ignore"/>
+			<xs:enumeration value="MaximumAxisValue"/>
+			<xs:enumeration value="MinimumAxisValue"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartAxisIndex">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Unknown"/>
+			<xs:enumeration value="X"/>
+			<xs:enumeration value="Y"/>
+			<xs:enumeration value="Z"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartAxisLabelType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="High"/>
+			<xs:enumeration value="Low"/>
+			<xs:enumeration value="NextToAxis"/>
+			<xs:enumeration value="None"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartAxisTickMarkType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Cross"/>
+			<xs:enumeration value="Inside"/>
+			<xs:enumeration value="None"/>
+			<xs:enumeration value="Outside"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ChartBoxPlotDataPoint">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Average" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Maximum" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Minimum" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Notched" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Q1" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Q2" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Q3" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartCategory">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Area"/>
+			<xs:enumeration value="Area3D"/>
+			<xs:enumeration value="Bar"/>
+			<xs:enumeration value="Bar3D"/>
+			<xs:enumeration value="BarSmart"/>
+			<xs:enumeration value="BoxPlot"/>
+			<xs:enumeration value="Bubble"/>
+			<xs:enumeration value="Column"/>
+			<xs:enumeration value="Column3D"/>
+			<xs:enumeration value="Default"/>
+			<xs:enumeration value="Doughnut"/>
+			<xs:enumeration value="Doughnut3D"/>
+			<xs:enumeration value="DoughnutNested"/>
+			<xs:enumeration value="Funnel"/>
+			<xs:enumeration value="Funnel3D"/>
+			<xs:enumeration value="Histogram"/>
+			<xs:enumeration value="HistoricalLine"/>
+			<xs:enumeration value="Line"/>
+			<xs:enumeration value="Line3D"/>
+			<xs:enumeration value="LongData"/>
+			<xs:enumeration value="Pie"/>
+			<xs:enumeration value="Pie3D"/>
+			<xs:enumeration value="Polar"/>
+			<xs:enumeration value="Pyramid"/>
+			<xs:enumeration value="Pyramid3D"/>
+			<xs:enumeration value="Stock"/>
+			<xs:enumeration value="Surface3D"/>
+			<xs:enumeration value="Ternary"/>
+			<xs:enumeration value="Torus3D"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ChartChildAxis">
+		<xs:annotation>
+			<xs:documentation>An axis can be split to allow another series to display other information side by side.</xs:documentation>
+			<xs:documentation>In BCG this achieved through calling Split on one axis and then calling SetRelatedAxis on the series passing it the result of the Split function.</xs:documentation>
+			<xs:documentation>In the Stock example, the Y axis is split. A new volume series is then created and given the child axis. The option allows multiple series to share the same axis 'space'</xs:documentation>
+		</xs:annotation>
+		<xs:complexContent>
+			<xs:extension base="ChartAxis">
+				<xs:sequence>
+					<xs:element maxOccurs="1" minOccurs="1" name="DisplayAbove" type="xs:boolean">
+						<xs:annotation>
+							<xs:documentation>When splitting an axis, specifies that the new axis will appear above the original.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element maxOccurs="1" minOccurs="1" name="GapInPixels" type="xs:integer">
+						<xs:annotation>
+							<xs:documentation>The visual gap between series in pixels</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element maxOccurs="1" minOccurs="1" name="Percent" type="xs:integer">
+						<xs:annotation>
+							<xs:documentation>The percentage specifies the amount of space ("pixels") to award the parent, when splitting an axis into two. The amount awarded the child axis is 100 - this figure</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element maxOccurs="1" minOccurs="1" name="Source" type="xs:string">
+						<xs:annotation>
+							<xs:documentation>This text identifies a non child axis by label</xs:documentation>
+							<xs:documentation>A non child axis of that name must be defined either before or after this one.</xs:documentation>
+							<xs:documentation>In JSON and XML instance data, the order of the axis is not important.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="ChartColumnDataPoint">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Category" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y1" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartCurveType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Line"/>
+			<xs:enumeration value="NoLine"/>
+			<xs:enumeration value="ReversedStep"/>
+			<xs:enumeration value="Spline"/>
+			<xs:enumeration value="SplineHermite"/>
+			<xs:enumeration value="Step"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartDashStyle">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Custom"/>
+			<xs:enumeration value="Dash"/>
+			<xs:enumeration value="DashDot"/>
+			<xs:enumeration value="DashDotDot"/>
+			<xs:enumeration value="Dot"/>
+			<xs:enumeration value="Solid"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ChartData">
+		<xs:sequence>
+			<xs:element maxOccurs="unbounded" minOccurs="1" name="Points">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="Points_ChartColumnDataPoint" type="ChartColumnDataPoint"/>
+						<xs:element name="Points_ChartNormalDataPoint" type="ChartNormalDataPoint"/>
+						<xs:element name="Points_ChartStockDataPoint" type="ChartStockDataPoint"/>
+						<xs:element name="Points_ChartBoxPlotDataPoint" type="ChartBoxPlotDataPoint"/>
+						<xs:element name="Points_ChartPieDataPoint" type="ChartPieDataPoint"/>
+						<xs:element name="Points_ChartDataPointXYZ" type="ChartDataPointXYZ"/>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
+			<xs:element maxOccurs="1" minOccurs="1" name="Type" type="ChartDatapointType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartDataLabels">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="0" name="Angle" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Border" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="DropLineToMarker" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Visible" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Content" type="ChartLabelContent"/>
+			<xs:element maxOccurs="unbounded" minOccurs="0" name="Legend" type="ChartLabelContent"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Position" type="ChartLabelPosition"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartDataMarkers">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Size" type="xs:integer"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Visible" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Shape" type="ChartMarkerShape"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartDataPoint"/>
+	<xs:complexType name="ChartDataPointXYZ">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="X" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Z" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartDatapointType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Box"/>
+			<xs:enumeration value="Column"/>
+			<xs:enumeration value="Normal"/>
+			<xs:enumeration value="Pie"/>
+			<xs:enumeration value="Stock"/>
+			<xs:enumeration value="XYZ"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartGradient">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Bevel"/>
+			<xs:enumeration value="CenterHorizontal"/>
+			<xs:enumeration value="CenterVertical"/>
+			<xs:enumeration value="DiagonalLeft"/>
+			<xs:enumeration value="DiagonalRight"/>
+			<xs:enumeration value="Horizontal"/>
+			<xs:enumeration value="None"/>
+			<xs:enumeration value="PipeHorizontal"/>
+			<xs:enumeration value="PipeVertical"/>
+			<xs:enumeration value="RadialBottom"/>
+			<xs:enumeration value="RadialBottomLeft"/>
+			<xs:enumeration value="RadialBottomRight"/>
+			<xs:enumeration value="RadialCenter"/>
+			<xs:enumeration value="RadialLeft"/>
+			<xs:enumeration value="RadialRight"/>
+			<xs:enumeration value="RadialTop"/>
+			<xs:enumeration value="RadialTopLeft"/>
+			<xs:enumeration value="RadialTopRight"/>
+			<xs:enumeration value="Vertical"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartLabelContent">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="AllBubbleValues"/>
+			<xs:enumeration value="AllTernaryPercentage"/>
+			<xs:enumeration value="AllTernaryValues"/>
+			<xs:enumeration value="BubbleSize"/>
+			<xs:enumeration value="BubbleValues"/>
+			<xs:enumeration value="CategoryName"/>
+			<xs:enumeration value="DPIndex"/>
+			<xs:enumeration value="Default"/>
+			<xs:enumeration value="Percentage"/>
+			<xs:enumeration value="PieNamePercentage"/>
+			<xs:enumeration value="SeriesCategoryValue"/>
+			<xs:enumeration value="SeriesName"/>
+			<xs:enumeration value="SeriesValues"/>
+			<xs:enumeration value="TernaryPercentageA"/>
+			<xs:enumeration value="TernaryPercentageB"/>
+			<xs:enumeration value="TernaryPercentageC"/>
+			<xs:enumeration value="TernaryValueA"/>
+			<xs:enumeration value="TernaryValueB"/>
+			<xs:enumeration value="TernaryValueC"/>
+			<xs:enumeration value="Value"/>
+			<xs:enumeration value="ValuePercentage"/>
+			<xs:enumeration value="XValue"/>
+			<xs:enumeration value="Y1Value"/>
+			<xs:enumeration value="Y2Value"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartLabelPosition">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Center"/>
+			<xs:enumeration value="Default"/>
+			<xs:enumeration value="InsideBase"/>
+			<xs:enumeration value="InsideEnd"/>
+			<xs:enumeration value="OutsideEnd"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ChartLayout">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="X" type="xs:integer"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y" type="xs:integer"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartMarkerShape">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Circle"/>
+			<xs:enumeration value="Rectangle"/>
+			<xs:enumeration value="Rhombus"/>
+			<xs:enumeration value="Triangle"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ChartNormalDataPoint">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="0" name="X" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartPieDataPoint">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Category" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Y" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartSeries">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Label" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Data" type="ChartData"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Shape" type="ChartSeriesShape"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="StockSeriesType" type="ChartStockSeriesType"/>
+			<xs:element maxOccurs="1" minOccurs="0" name="Style" type="ChartSeriesStyle"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartSeriesShape">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Close" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Fill" type="xs:boolean"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartSeriesStyle">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="FitDiagramArea" type="xs:boolean"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="LineWidth" type="xs:integer"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="CurveType" type="ChartCurveType"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="FillGradientType" type="ChartGradient"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="OutlineDashStyle" type="ChartDashStyle"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ChartStockDataPoint">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Close" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="DateTime" type="xs:string"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="High" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Low" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Open" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="ChartStockSeriesType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Bar"/>
+			<xs:enumeration value="Candle"/>
+			<xs:enumeration value="ChartSeries"/>
+			<xs:enumeration value="LineClose"/>
+			<xs:enumeration value="LineCustom"/>
+			<xs:enumeration value="LineHigh"/>
+			<xs:enumeration value="LineLow"/>
+			<xs:enumeration value="LineOpen"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ChartType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Default"/>
+			<xs:enumeration value="Range"/>
+			<xs:enumeration value="Simple"/>
+			<xs:enumeration value="Stacked"/>
+			<xs:enumeration value="Stacked100"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="DisplayRange">
+		<xs:sequence>
+			<xs:element maxOccurs="1" minOccurs="1" name="Lower" type="xs:double"/>
+			<xs:element maxOccurs="1" minOccurs="1" name="Upper" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

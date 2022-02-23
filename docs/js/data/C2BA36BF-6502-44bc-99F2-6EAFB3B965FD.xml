@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:1", "", "Time - Control Structure", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3572.htm", "185.png", "739", "0", "", "Sequence diagram0","{F8C3F591-3504-42f3-9C5C-AAD57F6573A4}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:2", "", "Control Structure", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3574.htm", "184.png", "738", "0", "", "Collaboration diagram0","{AF3140D9-22A4-42e9-9104-B27D9BD1F892}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:3", "", ": Actor1", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3578.htm", "25.png", "E4461", "0", "", "Object0","{E04CCF09-6DC6-4739-9199-67EBCD19E91A}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:4", "", "Actor1", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3579.htm", "6.png", "E4457", "0", "", "Actor0","{6B3C9945-1434-437e-9B0C-F0E71917791F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:5", "", "«control» Control1", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3580.htm", "57.png", "E4462", "0", "", "Sequence0","{7D15D521-610F-4f76-B18D-D024270338A1}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:6", "", "«boundary» Object1", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3581.htm", "57.png", "E4458", "0", "", "Sequence0","{9A078F20-9DD9-478e-9834-EE71FA337246}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:7", "", "«boundary» Object1", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3582.htm", "25.png", "E4465", "0", "", "Object0","{C6718B15-BA96-4eb5-9860-E6ECD0758EC9}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:8", "", "«control» Object2", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3583.htm", "25.png", "E4460", "0", "", "Object0","{5444BFB0-A8D6-4737-A06D-4BDE2FB31975}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:9", "", "«entity» Object2", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3584.htm", "57.png", "E4464", "0", "", "Sequence0","{697D17AE-8A4D-432d-9B59-836001C67B84}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.5:10", "", "«entity» Object3", "EARoot/EA6/EA1/EA4/EA4/EA5/EA3585.htm", "25.png", "E4463", "0", "", "Object0","{5E674E62-12B1-4b6d-87A0-B587C9A21C1A}");

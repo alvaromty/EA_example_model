@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.20.3.7.3:1", "", "BPSimResultChart - AverageWaitingTime", "EARoot/EA20/EA3/EA7/EA3/EA11386.htm", "175.png", "526", "0", "", "Logical diagram0","{52DDCE3F-4C7D-42b1-BA26-EE3EE0926B8E}");
+tocTab[tocTab.length] = new Array("0.20.3.7.3:2", "", "BPSimResultChart - DegreeOfUtilisation", "EARoot/EA20/EA3/EA7/EA3/EA11388.htm", "175.png", "530", "0", "", "Logical diagram0","{226B1E27-0D2D-418f-AB5E-6D1733DF2351}");
+tocTab[tocTab.length] = new Array("0.20.3.7.3:3", "", "«BPSimResultChart» Average Waiting Time", "EARoot/EA20/EA3/EA7/EA3/EA11391.htm", "5.png", "E5228", "0", "", "Class0","{F53B1E67-0A60-4e9d-B360-B9D006EAF12D}");
+tocTab[tocTab.length] = new Array("0.20.3.7.3:4", "", "«BPSimResultChart» BPSimResultChart - UtilisationRate", "EARoot/EA20/EA3/EA7/EA3/EA11392.htm", "5.png", "E5229", "0", "", "Class0","{FB13515D-BFE0-428c-AA58-220CFF1C2327}");

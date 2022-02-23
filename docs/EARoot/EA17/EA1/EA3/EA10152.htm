@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public   Text</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/13/2017 3:15:34 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">10/5/2018 2:48:33 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Pat Malone</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{0CCF772C-8B92-4bba-A0CC-6984886CBD0A}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA10147.htm">Example - TestPoints</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This example makes use of output produced by the &#39;Recording Execution&#39; example.&#160;&#160;&lt;br/&gt;Before running this example, please run through the &#39;Recording Execution&#39; example and generate all of the diagrams, as outlined in step 10. &lt;br/&gt;&lt;ol&gt;<br />&lt;li&gt;The example &#39;Recording Execution&#39; produces a number of diagrams, each one named &#39;BookTestClient_Test_RunBookStore&#39;. One of these diagrams is a &#39;Test Domain&#39; diagram - open the Test Domain diagram.&#160;&#160;It should contain one #lt;#lt;testset#gt;#gt; element and four #lt;#lt;testcut#gt;#gt; elements.&lt;/li&gt;&lt;li&gt;Open the Testpoints window.&#160;&#160;It can be accessed from the &#39;Execute&#39; ribbon, by selecting the option &#39;Analyze #gt; Testing #gt; Show Testpoints Window&#39;.&lt;/li&gt;&lt;li&gt;With the Testpoints window showing, select in turn each of the various elements on the Test Domain diagram.&lt;br/&gt;Notice that the contents of the Testpoints window update to show different Classes, operations and constraints, depending on which #lt;#lt;testcut#gt;#gt; or #lt;#lt;testset#gt;#gt; element is selected on the diagram.&lt;/li&gt;&lt;li&gt;Select the #lt;#lt;testset#gt;#gt; element &#39;BookTestClient_Test_RunBookStore&#39; on the diagram, then click the Run Tests button on the toolbar of the Testpoints window.&#160;&#160;The tests are evaluated as the program runs and the test results are tabulated in the Testpoints window.&lt;/li&gt;&lt;li&gt;In the Testpoints window, select the operation PriceTotaller.AveragePrice(), then right-click and choose &#39;Add Testpoint&#39;.&lt;/li&gt;&lt;li&gt;In the Testpoint editor window, choose &#39;Pre-Condition&#39; as the type, specify the &#39;Condition&#39; as &#39;countBooks = 0&#39;, and set &#39;Action on Fail&#39; to &#39;Continue&#39;.&#160;&#160;Add a Trace Statement as shown:&lt;br/&gt;&lt;br/&gt;Demonstration --&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;countBooks = @countBooks&#160;&#160;&#160;- anything non-ZERO is actually OK!&lt;br/&gt;&lt;br/&gt;(Note:&#160;&#160;For demonstration purposes, we are deliberately setting a condition that should always fail, namely &#39;countBooks = 0&#39;.&#160;&#160;Under normal circumstances we would specify a condition that we want to evaluate as &#39;True&#39;, such as &#39;countBooks #gt; 0&#39;.)&lt;/li&gt;&lt;li&gt;Click on the OK button to save the changes.&lt;/li&gt;&lt;li&gt;Click on &#39;Run Tests&#39;. The Testpoints window updates to show the test results.&#160;&#160;&lt;br/&gt;You should see that the new test has been executed one time, and it failed.&lt;/li&gt;&lt;li&gt;Open the System Output window and select the &#39;Testpoints&#39; page.&#160;&#160;&lt;br/&gt;You should see the trace output from the Pre-Condition test that was added to AveragePrice().&lt;/li&gt;&lt;/ol&gt;<br />&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

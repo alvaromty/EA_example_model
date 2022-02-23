@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.7.6.1:1", "", "BPEL 1.1 Model", "EARoot/EA7/EA6/EA1/EA5492.htm", "189.png", "243", "0", "", "Analysis diagram0","{BA051BF5-DB9A-4e51-B956-7EB7740A34C9}");
+tocTab[tocTab.length] = new Array("0.7.6.1:3", "", "«Pool» Customer", "EARoot/EA7/EA6/EA1/EA5504.htm", "116.png", "E2174", "0", "", "ActivityPartition0","{78BB0279-115F-4da4-B465-4077D94C6934}");
+tocTab[tocTab.length] = new Array("0.7.6.1:4", "", "«Pool» LoanServicesOrg", "EARoot/EA7/EA6/EA1/EA5505.htm", "116.png", "E2169", "0", "", "ActivityPartition0","{3E9C6608-27E3-4d14-9089-7231FBC84713}");
+tocTab[tocTab.length] = new Array("0.7.6.1:5", "", "«BPELProcess» LoanApproval_Process", "EARoot/EA7/EA6/EA1/EA5506.htm", "0BE0C110-1_BPELProcess.png", "E2170", "0", "", "Activity0","{4B5C154A-C708-4826-859E-16D58B22E080}");
+tocTab[tocTab.length] = new Array("0.7.6.1:2", "", "LoanApproval_Process", "EARoot/EA7/EA6/EA1/EA5494.htm", "189.png", "244", "E2170", "", "Analysis diagram0","{21582D31-7AE3-430c-822E-7B06AB276BA9}");
+tocTab[tocTab.length] = new Array("0.7.6.1:6", "", "«Gateway» CheckAmount", "EARoot/EA7/EA6/EA1/EA5507.htm", "56.png", "E2168", "E2170", "", "Decision0","{093C8276-057E-40ea-9690-EFADC6AFDEDC}");
+tocTab[tocTab.length] = new Array("0.7.6.1:7", "", "«StartEvent» ReceiveRequest", "EARoot/EA7/EA6/EA1/EA5508.htm", "EFC39205-8_StartEvent.png", "E2163", "E2170", "", "Event0","{9A2FF0FF-7E00-429a-BFB1-4A6A34FA1BB7}");
+tocTab[tocTab.length] = new Array("0.7.6.1:8", "", "«EndEvent» ReplyResult", "EARoot/EA7/EA6/EA1/EA5509.htm", "EFC39205-8_EndEvent.png", "E2162", "E2170", "", "Event0","{84C7D48A-87E1-4b19-BC7B-BF6272AC88C2}");
+tocTab[tocTab.length] = new Array("0.7.6.1:9", "", "«Gateway» CheckAssessment", "EARoot/EA7/EA6/EA1/EA5510.htm", "56.png", "E2175", "E2170", "", "Decision0","{CD671D5C-D701-4400-8C60-255B973DBDDC}");
+tocTab[tocTab.length] = new Array("0.7.6.1:10", "", "«Activity» ApproveLoan", "EARoot/EA7/EA6/EA1/EA5511.htm", "21.png", "E2172", "E2170", "", "Activity0","{67747291-4DB8-4d9d-9FF0-A530115E169C}");
+tocTab[tocTab.length] = new Array("0.7.6.1:11", "", "«Activity» AssessLoanRisk", "EARoot/EA7/EA6/EA1/EA5512.htm", "21.png", "E2173", "E2170", "", "Activity0","{77FBACDF-A9D8-49ee-93F1-C1E6C2AF4C88}");
+tocTab[tocTab.length] = new Array("0.7.6.1:12", "", "«Activity» AssignYes", "EARoot/EA7/EA6/EA1/EA5513.htm", "21.png", "E2171", "E2170", "", "Activity0","{4BEE5912-6AC0-4eb4-8691-8991AE2A2C40}");
+tocTab[tocTab.length] = new Array("0.7.6.1.1", "1", "SupportingElements", "EARoot/EA7/EA6/EA1/EA1/EA5514.htm", "4.png", "", "", "{9C0E31AA-6E31-4246-A85E-35805960BF8B}", "Package");

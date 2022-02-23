@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.4:1", "", "«InputData» Applicant data", "EARoot/EA20/EA3/EA17/EA2/EA1/EA4/EA11692.htm", "45A3469A-1_InputData.png", "E9957", "0", "", "Class0","{17669190-F8A7-4780-B9D0-0C4F91E92D76}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.4:2", "", "«InputData» Bureau data", "EARoot/EA20/EA3/EA17/EA2/EA1/EA4/EA11693.htm", "45A3469A-1_InputData.png", "E9953", "0", "", "Class0","{1CFFCB33-0D95-4ea2-91A7-505D559B0479}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.4:3", "", "«InputData» Requested product", "EARoot/EA20/EA3/EA17/EA2/EA1/EA4/EA11694.htm", "45A3469A-1_InputData.png", "E9955", "0", "", "Class0","{EE4A10C2-0FBB-45b7-891D-69AB03B2BD8C}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.4:4", "", "«InputData» Supporting documents", "EARoot/EA20/EA3/EA17/EA2/EA1/EA4/EA11695.htm", "45A3469A-1_InputData.png", "E9959", "0", "", "Class0","{808BD885-1D8A-4c60-881E-644639EB14ED}");

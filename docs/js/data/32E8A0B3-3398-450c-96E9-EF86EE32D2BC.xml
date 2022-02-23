@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2:1", "", "Application Architecture", "EARoot/EA6/EA1/EA4/EA3/EA2/EA3402.htm", "181.png", "717", "0", "", "Activity diagram0","{0275C836-D989-460f-BE65-B85FECE472C5}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1", "1", "Business Process1 - Activity Model", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3410.htm", "4.png", "", "", "{7FD188AA-0DC9-40a9-878B-6949CDC1AE97}", "Package");

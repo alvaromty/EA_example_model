@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>StateMachine</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA11951.png" usemap="#EA11951" border="0" />
+
+<MAP NAME="EA11951">
+<area shape="rect" coords="32,141,52,161" href="EA11961.htm" target="_self">
+<area shape="rect" coords="161,184,217,224" href="EA11986.htm" target="_self">
+<area shape="rect" coords="161,93,217,133" href="EA11985.htm" target="_self">
+<area shape="rect" coords="101,283,121,303" href="EA11984.htm" target="_self">
+<area shape="rect" coords="161,272,217,312" href="EA11987.htm" target="_self">
+<area shape="rect" coords="286,283,306,303" href="EA11983.htm" target="_self">
+<area shape="rect" coords="317,146,332,161" href="EA11982.htm" target="_self">
+<area shape="rect" coords="79,145,94,160" href="EA11981.htm" target="_self">
+<area shape="rect" coords="86,42,324,349" href="EA11962.htm" target="_self">
+<area shape="rect" coords="508,200,523,215" href="EA11980.htm" target="_self">
+<area shape="rect" coords="508,139,523,154" href="EA11979.htm" target="_self">
+<area shape="rect" coords="380,148,395,163" href="EA11978.htm" target="_self">
+<area shape="rect" coords="387,119,515,237" href="EA11963.htm" target="_self">
+<area shape="rect" coords="564,165,584,185" href="EA11960.htm" target="_self">
+<area shape="rect" coords="10,10,606,370" href="EA11965.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">StateMachine : StateMachine diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/7/2016 1:43:27 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 11:01:48 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{50A7E326-7BD5-4586-A731-525BDF7A7EF2}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">StateMachine Entry, Exit and Connection Points in Sparx Systems Enterprise Architect&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:1", "", "Business Motivation", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3271.htm", "188.png", "707", "0", "", "Custom diagram0","{57E503E2-67A3-454a-A72E-037633715A33}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:2", "", "«Assumption» Assumption1", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3276.htm", "82.png", "E4225", "0", "", "Artifact0","{1BCC826B-4BE7-4365-9480-DD8EC0C72347}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:3", "", "«Goal» Goal1", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3277.htm", "19.png", "E4232", "0", "", "Requirement0","{E94AD8FB-6AAC-4176-86C7-E91E65AC04E8}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:4", "", "«Mission» Mission1", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3278.htm", "82.png", "E4226", "0", "", "Artifact0","{3F165263-0C76-4dd5-8864-99B712139B66}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:5", "", "«document» Project ", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3279.htm", "82.png", "E4227", "0", "", "Artifact0","{D9A10DDF-4F99-47dd-B05C-A75C1C623F0F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:6", "", "«Strategy» Strategy1", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3280.htm", "190.png", "E4233", "0", "", "Feature0","{A148BD04-DD69-458c-8AE8-DB37EB65C5D6}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.6:7", "", "«Strategy» Strategy2", "EARoot/EA6/EA1/EA4/EA1/EA6/EA3281.htm", "190.png", "E4231", "0", "", "Feature0","{A2C08C9E-2BDD-43cb-ACE6-73939EACBA18}");

@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.6.7:1", "", "Organizational Units and Locations", "EARoot/EA6/EA7/EA3767.htm", "175.png", "540", "0", "", "Logical diagram0","{CD261175-933F-423f-B3C8-4EB591C90D3D}");
+tocTab[tocTab.length] = new Array("0.6.7:2", "", "Region and Locations", "EARoot/EA6/EA7/EA3769.htm", "175.png", "538", "0", "", "Logical diagram0","{EFE08F14-6DA1-4180-ABAB-E676367DE6ED}");
+tocTab[tocTab.length] = new Array("0.6.7:3", "", "Regional Connections", "EARoot/EA6/EA7/EA3771.htm", "175.png", "586", "0", "", "Logical diagram0","{FA42B956-364B-4541-ABA2-763AC6DCC823}");
+tocTab[tocTab.length] = new Array("0.6.7:4", "", "Regions and Locations Simple", "EARoot/EA6/EA7/EA3773.htm", "175.png", "587", "0", "", "Logical diagram0","{E56EAFFC-B055-41bf-970A-79AA414A6E92}");
+tocTab[tocTab.length] = new Array("0.6.7:5", "", "Support and Retail Locations", "EARoot/EA6/EA7/EA3775.htm", "176.png", "539", "0", "", "Package diagram0","{B17E5BD4-CB1D-46af-914E-200B81AC24AD}");
+tocTab[tocTab.length] = new Array("0.6.7:6", "", "Application and User Location", "EARoot/EA6/EA7/EA3777.htm", "175.png", "455", "0", "", "Logical diagram0","{7BE8BF78-1FE3-413e-90ED-37CD347B0D74}");
+tocTab[tocTab.length] = new Array("0.6.7.1", "1", "Base Locations", "EARoot/EA6/EA7/EA1/EA3791.htm", "4.png", "", "", "{1028F20A-8EB3-4e5b-A2E5-3A72838D1D46}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.2", "1", "Data Centers", "EARoot/EA6/EA7/EA2/EA3802.htm", "4.png", "", "", "{66221D1E-8017-4f45-A4FD-D31E019DBA1A}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.3", "1", "Campus Shops", "EARoot/EA6/EA7/EA3/EA3824.htm", "4.png", "", "", "{28DCBA5C-E3E8-4e90-BD7B-4B909D26414B}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.4", "1", "Airport Kiosks", "EARoot/EA6/EA7/EA4/EA3834.htm", "4.png", "", "", "{16C1700B-DD09-4786-82F9-26E7D7934D2D}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.5", "1", "Corporate Offices", "EARoot/EA6/EA7/EA5/EA3847.htm", "4.png", "", "", "{DA18E23B-0805-4806-82FB-08384256245B}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.6", "1", "Regions", "EARoot/EA6/EA7/EA6/EA3868.htm", "4.png", "", "", "{C15C58BE-DE5F-4f55-8470-CBD1E2C68054}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.7", "1", "Pop-up Stores", "EARoot/EA6/EA7/EA7/EA3873.htm", "4.png", "", "", "{69760F4B-8F72-4a39-BDA6-FC4B462ED4D6}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.8", "1", "Shop Fronts", "EARoot/EA6/EA7/EA8/EA3878.htm", "4.png", "", "", "{33431425-1786-435d-BB7A-63231CF1991D}", "Package");
+tocTab[tocTab.length] = new Array("0.6.7.9", "1", "Warehouses", "EARoot/EA6/EA7/EA9/EA3883.htm", "4.png", "", "", "{341CDC9B-B12E-4821-BB62-D1C1A129F49D}", "Package");

@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>:BookDB</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"><a href="../EA2/EA1/EA10141.htm">BookDB</a></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public   Sequence instance</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/1/2017 2:55:52 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">2/1/2017 2:55:52 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Pat Malone</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{F2E8386F-0762-4b14-AD2C-EA67366B60FC}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA10045.htm">BookTestClient_Test_RunBookStore</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">[generated]&lt;br/&gt;</div>
+
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('MessagesTo');" id="MessagesToTitle">Messages To</li>
+			<li onClick="parent.toggleItem('MessagesFrom');" id="MessagesFromTitle">Messages From</li>
+		</ul>
+		<div class="ItemBody" id="MessagesToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Message</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10109.htm">: Book</a></td>
+					<td width="50%" class="TableRow" valign="top">IsPaperback()</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12702" onclick="parent.toggleDiv('detailsDIVMessage12702', 'DetailsImageMessage12702')" />Details:
+							<div id="detailsDIVMessage12702" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> Bookstore.Book::IsPaperback()
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10107.htm">: PriceTotaller</a></td>
+					<td width="50%" class="TableRow" valign="top">AddBookToTotal(Book)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12703" onclick="parent.toggleDiv('detailsDIVMessage12703', 'DetailsImageMessage12703')" />Details:
+							<div id="detailsDIVMessage12703" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> BookTestClient.PriceTotaller::AddBookToTotal(Book)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10107.htm">: PriceTotaller</a></td>
+					<td width="50%" class="TableRow" valign="top">AddBookToTotal(Book)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12704" onclick="parent.toggleDiv('detailsDIVMessage12704', 'DetailsImageMessage12704')" />Details:
+							<div id="detailsDIVMessage12704" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> BookTestClient.PriceTotaller::AddBookToTotal(Book)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10109.htm">: Book</a></td>
+					<td width="50%" class="TableRow" valign="top">IsPaperback()</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12705" onclick="parent.toggleDiv('detailsDIVMessage12705', 'DetailsImageMessage12705')" />Details:
+							<div id="detailsDIVMessage12705" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> Bookstore.Book::IsPaperback()
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10109.htm">: Book</a></td>
+					<td width="50%" class="TableRow" valign="top">IsPaperback()</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12706" onclick="parent.toggleDiv('detailsDIVMessage12706', 'DetailsImageMessage12706')" />Details:
+							<div id="detailsDIVMessage12706" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> Bookstore.Book::IsPaperback()
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">PrintTitle(Book)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12707" onclick="parent.toggleDiv('detailsDIVMessage12707', 'DetailsImageMessage12707')" />Details:
+							<div id="detailsDIVMessage12707" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> BookTestClient.Test::PrintTitle(Book)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">PrintTitle(Book)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12708" onclick="parent.toggleDiv('detailsDIVMessage12708', 'DetailsImageMessage12708')" />Details:
+							<div id="detailsDIVMessage12708" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> BookTestClient.Test::PrintTitle(Bookstore.Book)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10109.htm">: Book</a></td>
+					<td width="50%" class="TableRow" valign="top">IsPaperback()</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12709" onclick="parent.toggleDiv('detailsDIVMessage12709', 'DetailsImageMessage12709')" />Details:
+							<div id="detailsDIVMessage12709" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							Bookstore.BookDB::ProcessPaperbackBooks --> Bookstore.Book::IsPaperback()
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="MessagesFromTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Message</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">ProcessPaperbackBooks(ProcessBookDelegate)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12710" onclick="parent.toggleDiv('detailsDIVMessage12710', 'DetailsImageMessage12710')" />Details:
+							<div id="detailsDIVMessage12710" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							BookTestClient.Test::RunBookStore --> Bookstore.BookDB::ProcessPaperbackBooks(Bookstore.ProcessBookDelegate)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">ProcessPaperbackBooks(ProcessBookDelegate)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12711" onclick="parent.toggleDiv('detailsDIVMessage12711', 'DetailsImageMessage12711')" />Details:
+							<div id="detailsDIVMessage12711" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							BookTestClient.Test::RunBookStore --> Bookstore.BookDB::ProcessPaperbackBooks(Bookstore.ProcessBookDelegate)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">AddBook(string,  string,  decimal,  bool)</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12712" onclick="parent.toggleDiv('detailsDIVMessage12712', 'DetailsImageMessage12712')" />Details:
+							<div id="detailsDIVMessage12712" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							BookTestClient.Test::AddBooks --> Bookstore.BookDB::AddBook(string,  string,  decimal,  bool)
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top"><a href="EA10108.htm">: Test</a></td>
+					<td width="50%" class="TableRow" valign="top">BookDB()</td>
+				</tr>
+		   		<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMessage12713" onclick="parent.toggleDiv('detailsDIVMessage12713', 'DetailsImageMessage12713')" />Details:
+							<div id="detailsDIVMessage12713" class="DetailsDiv" >
+							<strong>Type:</strong> Sequence Synchronous Call<br />
+							BookTestClient.Test::RunBookStore --> Bookstore.BookDB::BookDB()
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

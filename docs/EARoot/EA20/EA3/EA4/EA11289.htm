@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Event Sub-Process</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA11290.png" usemap="#EA11290" border="0" />
+
+<MAP NAME="EA11290">
+<area shape="rect" coords="488,484,518,514" href="EA11319.htm" target="_self">
+<area shape="rect" coords="385,468,458,523" href="EA11321.htm" target="_self">
+<area shape="rect" coords="322,483,352,513" href="EA11320.htm" target="_self">
+<area shape="rect" coords="305,453,526,540" href="EA11302.htm" target="_self">
+<area shape="rect" coords="234,484,264,514" href="EA11316.htm" target="_self">
+<area shape="rect" coords="131,468,204,523" href="EA11318.htm" target="_self">
+<area shape="rect" coords="68,483,98,513" href="EA11317.htm" target="_self">
+<area shape="rect" coords="53,453,274,540" href="EA11301.htm" target="_self">
+<area shape="rect" coords="280,367,310,397" href="EA11297.htm" target="_self">
+<area shape="rect" coords="162,351,235,406" href="EA11303.htm" target="_self">
+<area shape="rect" coords="547,48,577,78" href="EA11296.htm" target="_self">
+<area shape="rect" coords="347,224,420,279" href="EA11315.htm" target="_self">
+<area shape="rect" coords="447,235,477,265" href="EA11312.htm" target="_self">
+<area shape="rect" coords="240,223,313,278" href="EA11314.htm" target="_self">
+<area shape="rect" coords="177,236,207,266" href="EA11313.htm" target="_self">
+<area shape="rect" coords="160,206,489,293" href="EA11307.htm" target="_self">
+<area shape="rect" coords="341,137,371,167" href="EA11309.htm" target="_self">
+<area shape="rect" coords="238,121,311,176" href="EA11311.htm" target="_self">
+<area shape="rect" coords="175,136,205,166" href="EA11310.htm" target="_self">
+<area shape="rect" coords="160,106,381,193" href="EA11306.htm" target="_self">
+<area shape="rect" coords="340,50,370,80" href="EA11304.htm" target="_self">
+<area shape="rect" coords="237,34,310,89" href="EA11308.htm" target="_self">
+<area shape="rect" coords="174,49,204,79" href="EA11305.htm" target="_self">
+<area shape="rect" coords="149,10,503,310" href="EA11300.htm" target="_self">
+<area shape="rect" coords="82,151,124,193" href="EA11298.htm" target="_self">
+<area shape="rect" coords="10,158,40,188" href="EA11299.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Event Sub-Process : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">6/15/2016 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/23/2018 12:25:47 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{AA45E477-9CEE-4e81-9976-ED36A33FF7C7}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Event Subprocess for BPMN Process Simulation in Sparx Systems Enterprise Architect&lt;br/&gt;&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

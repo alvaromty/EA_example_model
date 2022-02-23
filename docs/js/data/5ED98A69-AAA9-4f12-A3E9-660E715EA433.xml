@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.8:1", "", "Diagram - Element Grouping", "EARoot/EA2/EA8/EA654.htm", "175.png", "980", "0", "", "Logical diagram0","{7726C4D1-3408-4493-AEE0-C050BA39E791}");
+tocTab[tocTab.length] = new Array("0.2.8.1", "1", "Pkg1", "EARoot/EA2/EA8/EA1/EA663.htm", "4.png", "", "", "{32F1306C-7149-4d87-9400-3C961D3A7231}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8.2", "1", "Pkg2", "EARoot/EA2/EA8/EA2/EA670.htm", "4.png", "", "", "{4BF47C83-FE84-4dc7-9966-FC97E2FA83F1}", "Package");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.18.8.1.3.2:1", "", "Mail Server", "EARoot/EA18/EA8/EA1/EA3/EA2/EA10983.htm", "179.png", "343", "0", "", "Deployment diagram0","{ADA8FC2D-A8C6-43dd-81D1-33DDB449A905}");
+tocTab[tocTab.length] = new Array("0.18.8.1.3.2:2", "", "Mail Exchange: MS Exchange Server", "EARoot/EA18/EA8/EA1/EA3/EA2/EA10986.htm", "10.png", "E2678", "0", "", "Component0","{A94ABD63-50B6-4717-9F53-B6A3ED33E621}");
+tocTab[tocTab.length] = new Array("0.18.8.1.3.2:3", "", "Window OS: Windows 2003 Server", "EARoot/EA18/EA8/EA1/EA3/EA2/EA10987.htm", "10.png", "E2677", "0", "", "Component0","{1BB77652-862E-42d5-9BF2-11BEBAEC88A1}");

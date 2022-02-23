@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7.7.1.1", "1", "Book Lending Example", "EARoot/EA7/EA7/EA1/EA1/EA5647.htm", "4.png", "", "", "{508DB4FD-4CE9-454a-B795-A99235A11B63}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.2", "1", "Sub Process Activity", "EARoot/EA7/EA7/EA1/EA2/EA5677.htm", "4.png", "", "", "{FE684E33-560D-4885-AAF9-03CF1CCBD267}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.3", "1", "Expanded Sub Process", "EARoot/EA7/EA7/EA1/EA3/EA5702.htm", "4.png", "", "", "{8C3563D5-DDFD-482a-8265-57385A0AC876}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.4", "1", "Travel Booking Example", "EARoot/EA7/EA7/EA1/EA4/EA5720.htm", "4.png", "", "", "{04B62190-0518-43d7-8075-C818DC8BD838}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.5", "1", "Shipment Process of a hardware retailer", "EARoot/EA7/EA7/EA1/EA5/EA5780.htm", "4.png", "", "", "{BAACC6A0-4861-4fa7-958B-7B76F6DD02FF}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.6", "1", "Ordering and delivering Pizza", "EARoot/EA7/EA7/EA1/EA6/EA5826.htm", "4.png", "", "", "{5F8E8506-774F-4821-A272-38BB68AC88C2}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.7", "1", "Order Fulfillment", "EARoot/EA7/EA7/EA1/EA7/EA5852.htm", "4.png", "", "", "{91EF510F-B81A-4203-813E-65F5942B9361}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.8", "1", "Incident Management", "EARoot/EA7/EA7/EA1/EA8/EA5870.htm", "4.png", "", "", "{26141173-3488-4c77-BA9B-E40F464A0BAD}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.9", "1", "Nobel Prize Process Diagram", "EARoot/EA7/EA7/EA1/EA9/EA5890.htm", "4.png", "", "", "{43DF1DA9-7271-4e37-8844-630330C4D43C}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.1.10", "1", "E-mail Voting Example", "EARoot/EA7/EA7/EA1/EA10/EA5932.htm", "4.png", "", "", "{2139B3CC-FE80-4191-A341-4FBC4109F365}", "Package");

@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7.5:1", "", "Business Constraints", "EARoot/EA7/EA5/EA5438.htm", "188.png", "404", "0", "", "Custom diagram0","{2BAFEF8A-22D2-4e91-AA72-E77B16D50CE0}");
+tocTab[tocTab.length] = new Array("0.7.5:2", "", "Policies Business Rules and Requirement Traces", "EARoot/EA7/EA5/EA5440.htm", "175.png", "229", "0", "", "UMLDiagram diagram0","{EB9C0975-402F-46d8-8B33-28A3D57D4104}");
+tocTab[tocTab.length] = new Array("0.7.5:3", "", "Requirement Traces", "EARoot/EA7/EA5/EA5442.htm", "188.png", "321", "0", "", "Custom diagram0","{42E6FC11-C5FB-4a5c-9712-B090C56B87E5}");
+tocTab[tocTab.length] = new Array("0.7.5:4", "", "«Business» ", "EARoot/EA7/EA5/EA5447.htm", "202.png", "E3159", "0", "", "Constraint0","{ADE67A5F-A131-4cdf-8598-AAA7B35B5C6C}");
+tocTab[tocTab.length] = new Array("0.7.5.1", "1", "Policies", "EARoot/EA7/EA5/EA1/EA5458.htm", "4.png", "", "", "{C4D44F0C-175D-4363-9AF8-9CBB945654BE}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5.2", "1", "Requirement Sources", "EARoot/EA7/EA5/EA2/EA5462.htm", "4.png", "", "", "{3CD7F7E0-53DF-4398-B28E-F96E54A1F7C6}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5.3", "1", "Features", "EARoot/EA7/EA5/EA3/EA5466.htm", "4.png", "", "", "{F5418DBE-423D-42cb-A887-BCBBCD766AEC}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5.4", "1", "Business Rules", "EARoot/EA7/EA5/EA4/EA5472.htm", "4.png", "", "", "{FFF510E5-3CD1-4892-AAAF-32A285EF505D}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5.5", "1", "Goals", "EARoot/EA7/EA5/EA5/EA5474.htm", "4.png", "", "", "{2E8106B6-C1C6-41d7-8EF6-851A75A0D8EC}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5.6", "1", "Stakeholders", "EARoot/EA7/EA5/EA6/EA5478.htm", "4.png", "", "", "{E9CB30D3-8CEF-4d60-8A02-35C35439749F}", "Package");

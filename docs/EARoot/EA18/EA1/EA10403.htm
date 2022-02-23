@@ -1,0 +1,724 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>C# Model::Order</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Order", " : "))</script>  : Public   Class</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/11/2005 1:52:53 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">11/3/2016 5:50:09 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Paulene Dean</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{25287156-06DD-4698-BD67-9B6851E89BEF}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../EA9/EA1/EA1/EA3/EA1/EA6769.htm">Orders</a>, <a href="EA10390.htm">C# Model</a>, <a href="EA10392.htm">C# Model - No Attributes</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
+			<li onClick="parent.toggleItem('Operations');" id="OperationsTitle">Operations</li>
+			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('AssociationsFrom');" id="AssociationsFromTitle">Associations From</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('ResourceAllocation');" id="ResourceAllocationTitle">Resource Allocation</li>
+		</ul>
+<div class="ItemBody" id="AttributesTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Attribute</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Private Date</i><br /><strong>&nbsp;&nbsp;date</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes13307')" style="text-decoration: none; color: #000000;"><img src="../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes13307" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes13307_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes13307_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes13307_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Private string</i><br /><strong>&nbsp;&nbsp;deliveryInstructions</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes13308')" style="text-decoration: none; color: #000000;"><img src="../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes13308" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes13308_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes13308_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes13308_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Private string</i><br /><strong>&nbsp;&nbsp;orderNumber</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes13309')" style="text-decoration: none; color: #000000;"><img src="../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes13309" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes13309_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes13309_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes13309_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>
+	</table>
+</div>
+<div class="ItemBody" id="OperationsTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Operation</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>checkForOutstandingOrders</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13310" onclick="parent.toggleDiv('detailsDIVOperations13310','DetailsImageOperations13310')" />Details:
+						<div id="detailsDIVOperations13310" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>date</strong>():Date
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13311" onclick="parent.toggleDiv('detailsDIVOperations13311','DetailsImageOperations13311')" />Details:
+						<div id="detailsDIVOperations13311" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=date<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>deliveryInstructions</strong>():string
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13312" onclick="parent.toggleDiv('detailsDIVOperations13312','DetailsImageOperations13312')" />Details:
+						<div id="detailsDIVOperations13312" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=deliveryInstructions<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>LineItem</strong>():<a href="EA10402.htm">LineItem</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13313" onclick="parent.toggleDiv('detailsDIVOperations13313','DetailsImageOperations13313')" />Details:
+						<div id="detailsDIVOperations13313" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=m_LineItem<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>orderNumber</strong>():string
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13314" onclick="parent.toggleDiv('detailsDIVOperations13314','DetailsImageOperations13314')" />Details:
+						<div id="detailsDIVOperations13314" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=orderNumber<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>status</strong>():<a href="EA10407.htm">OrderStatus</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13315" onclick="parent.toggleDiv('detailsDIVOperations13315','DetailsImageOperations13315')" />Details:
+						<div id="detailsDIVOperations13315" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=status<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+</div>		<div class="ItemBody" id="AssociationsToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10402.htm">LineItem</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13316" onclick="parent.toggleDiv('detailsDIVLink13316','DetailsImageLink13316')" />Details:
+							<div id="detailsDIVLink13316" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10406.htm">Transaction</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13317" onclick="parent.toggleDiv('detailsDIVLink13317','DetailsImageLink13317')" />Details:
+							<div id="detailsDIVLink13317" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10407.htm">OrderStatus</a><br />
+						Enumeration &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> status<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13318" onclick="parent.toggleDiv('detailsDIVLink13318','DetailsImageLink13318')" />Details:
+							<div id="detailsDIVLink13318" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="AssociationsFromTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10401.htm">Account</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> account<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13319" onclick="parent.toggleDiv('detailsDIVLink13319','DetailsImageLink13319')" />Details:
+							<div id="detailsDIVLink13319" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add New Order</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/4/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13320" onclick="parent.toggleDiv('detailsDIVTestCases13320','DetailsImageTestCases13320')" />Details:
+							<div id="detailsDIVTestCases13320" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Add a new order to the system.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Make sure there is an account set up and a set of transactions.&#160;&#160;Create the Order linked to the account and transactions.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">A new order should be added to the orders table with links to transactions and the account.&#160;&#160;&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add New Order - Check Account</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/4/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13321" onclick="parent.toggleDiv('detailsDIVTestCases13321','DetailsImageTestCases13321')" />Details:
+							<div id="detailsDIVTestCases13321" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Add a new order to the system and check that it is created against the specified account.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Make sure there is an account set up.&#160;&#160;Create the Order linked to the account.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">A new order should be added to the orders table with links to the account.&#160;&#160;&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add New Order - Check Status</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/4/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13322" onclick="parent.toggleDiv('detailsDIVTestCases13322','DetailsImageTestCases13322')" />Details:
+							<div id="detailsDIVTestCases13322" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Add a new order to the system and check that the status is set to New.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Make sure there is an account set up and a set of transactions.&#160;&#160;Create the Order linked to the account and transactions.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">A new order should be added to the orders table with links to transactions and the account.&#160;&#160;&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add New Order - Invalid Account</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/4/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13323" onclick="parent.toggleDiv('detailsDIVTestCases13323','DetailsImageTestCases13323')" />Details:
+							<div id="detailsDIVTestCases13323" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Add a new order to the system and add it against the non-valid account number.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Create the Order linked to the account.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">A new order should not be added to the orders table with links to the account.&#160;&#160;A error message stating the account number is invalid should be displayed.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add New Order - No transactions</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/4/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13324" onclick="parent.toggleDiv('detailsDIVTestCases13324','DetailsImageTestCases13324')" />Details:
+							<div id="detailsDIVTestCases13324" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Add a new order to the system that does not have any transactions.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Make sure there is an account set up and a it has zero set of transactions.&#160;&#160;Create the Order linked to the account.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">A new order should NOT be added to the orders table.&#160;&#160;It should reply with an error stating that no transactions exist for the order.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="ResourceAllocationTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="20%" class="TableHeading">Resource</td>
+					<td width="20%" class="TableHeading">Role</td>
+					<td width="20%" class="TableHeading">Time</td>
+					<td width="40%" class="TableHeading">Details</td>
+				</tr>
+				<tr>
+					<td width="20%" class="TableRow">Greg Nichols</td>
+					<td width="20%" class="TableRow">Developer</td>
+					<td width="20%" class="TableRow">
+						<strong>Allocated:</strong> 30.00<br />
+						<strong>Percent Complete:</strong> 50%<br />
+						<strong>Expected Time:</strong> 0<br />
+						<strong>Actual Time:</strong> 0
+					</td>
+					<td width="40%" class="TableRow">
+						<div class="ObjectDetailsNotes">Program the detailed code for the Order Class.&lt;br/&gt;</div>
+<br />
+						<strong>Start Date:</strong> 2/20/2017<br />
+						<strong>End Date:</strong> 2/24/2017
+					</td>
+				</tr>
+				<tr>
+					<td width="20%" class="TableRow">Jane Ward</td>
+					<td width="20%" class="TableRow">Business Analyst</td>
+					<td width="20%" class="TableRow">
+						<strong>Allocated:</strong> 0.00<br />
+						<strong>Percent Complete:</strong> 80%<br />
+						<strong>Expected Time:</strong> 0<br />
+						<strong>Actual Time:</strong> 0
+					</td>
+					<td width="40%" class="TableRow">
+						&nbsp;<br />
+						<strong>Start Date:</strong> 2/28/2017<br />
+						<strong>End Date:</strong> 2/23/2017
+					</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

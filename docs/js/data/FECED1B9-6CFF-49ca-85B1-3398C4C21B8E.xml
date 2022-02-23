@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.18.9:1", "", "Strategy Map", "EARoot/EA6/EA18/EA9/EA4505.htm", "175.png", "627", "0", "", "Logical diagram0","{7CC89982-11B8-4095-BEBD-E07FC1316AAA}");
+tocTab[tocTab.length] = new Array("0.6.18.9.1", "1", "Style 1", "EARoot/EA6/EA18/EA9/EA1/EA4518.htm", "4.png", "", "", "{074A8D12-27E0-4047-8729-116F0BEFEAB2}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.9.2", "1", "Style 2", "EARoot/EA6/EA18/EA9/EA2/EA4529.htm", "4.png", "", "", "{938C9AD5-5492-4c81-BFEC-FB2D25897DE4}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.9.3", "1", "Style 3", "EARoot/EA6/EA18/EA9/EA3/EA4548.htm", "4.png", "", "", "{F5372306-04E5-467a-A52F-8DBB7E77B9E9}", "Package");

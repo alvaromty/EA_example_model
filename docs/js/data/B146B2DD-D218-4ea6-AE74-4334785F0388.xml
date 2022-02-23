@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.20.7:1", "", "State Machine Models", "EARoot/EA20/EA7/EA12199.htm", "175.png", "380", "0", "", "Logical diagram0","{2472EF95-7FAF-46bb-B593-2CB6A5D41F59}");
+tocTab[tocTab.length] = new Array("0.20.7.1", "1", "Customer Login", "EARoot/EA20/EA7/EA1/EA12230.htm", "4.png", "", "", "{9B5FBFBE-BCBA-4db4-9AF9-4B1D4A4DFA2E}", "Package");
+tocTab[tocTab.length] = new Array("0.20.7.2", "1", "Nested Traces", "EARoot/EA20/EA7/EA2/EA12282.htm", "4.png", "", "", "{6BDDD46E-0AE2-44e2-B683-2B1430F8BDB3}", "Package");
+tocTab[tocTab.length] = new Array("0.20.7.3", "1", "Music Player", "EARoot/EA20/EA7/EA3/EA12313.htm", "4.png", "", "", "{71D7E9AC-AE07-4562-9F20-7D4A3B50F9C6}", "Package");
+tocTab[tocTab.length] = new Array("0.20.7.4", "1", "Operating States", "EARoot/EA20/EA7/EA4/EA12392.htm", "4.png", "", "", "{E9EC4F54-3A09-45ea-9E73-1A7E997C05CA}", "Package");
+tocTab[tocTab.length] = new Array("0.20.7.5", "1", "Traffic Lights", "EARoot/EA20/EA7/EA5/EA12411.htm", "4.png", "", "", "{8D996C36-A8F9-4282-9555-EEF73747BA3A}", "Package");

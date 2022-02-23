@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.3.8:1", "", "Entity Relationship Diagram", "EARoot/EA7/EA3/EA8/EA5040.htm", "175.png", "466", "0", "", "Logical diagram0","{1D5FB5EC-E4CF-4fdd-A188-2237592C3E54}");
+tocTab[tocTab.length] = new Array("0.7.3.8:2", "", "«ERD_Attribute» Comments", "EARoot/EA7/EA3/EA8/EA5045.htm", "6118BF7F-4_ERD_Attribute.png", "E3797", "0", "", "Class0","{E4D5387D-76F1-4db1-915B-65F7BDEC470D}");
+tocTab[tocTab.length] = new Array("0.7.3.8:3", "", "«ERD_Entity» Customer", "EARoot/EA7/EA3/EA8/EA5046.htm", "6118BF7F-4_ERD_Entity.png", "E3967", "0", "", "Class0","{4BB2E0D9-F823-445f-9FE7-8428AE8885DD}");
+tocTab[tocTab.length] = new Array("0.7.3.8:4", "", "«ERD_Attribute» Email Address", "EARoot/EA7/EA3/EA8/EA5047.htm", "6118BF7F-4_ERD_Attribute.png", "E3970", "0", "", "Class0","{E00A54B9-249F-4a75-BA6C-D261C1502B4A}");
+tocTab[tocTab.length] = new Array("0.7.3.8:5", "", "«ERD_Attribute» First Name", "EARoot/EA7/EA3/EA8/EA5048.htm", "6118BF7F-4_ERD_Attribute.png", "E3968", "0", "", "Class0","{8D05E7D5-E91C-446d-86F0-11226792C274}");
+tocTab[tocTab.length] = new Array("0.7.3.8:6", "", "«ERD_Attribute» Last Name", "EARoot/EA7/EA3/EA8/EA5049.htm", "6118BF7F-4_ERD_Attribute.png", "E3969", "0", "", "Class0","{426655AB-7CEE-4d75-8789-0221FD380A9D}");
+tocTab[tocTab.length] = new Array("0.7.3.8:7", "", "«ERD_Entity» Order", "EARoot/EA7/EA3/EA8/EA5050.htm", "6118BF7F-4_ERD_Entity.png", "E3965", "0", "", "Class0","{257D1FB6-F5F3-4051-B5D1-BF3724AACC19}");
+tocTab[tocTab.length] = new Array("0.7.3.8:8", "", "«ERD_Attribute» Order Date", "EARoot/EA7/EA3/EA8/EA5051.htm", "6118BF7F-4_ERD_Attribute.png", "E3972", "0", "", "Class0","{81C5C9A6-1D08-4959-BEE8-1A554B350AEA}");
+tocTab[tocTab.length] = new Array("0.7.3.8:9", "", "«ERD_Attribute» Order Instructions", "EARoot/EA7/EA3/EA8/EA5052.htm", "6118BF7F-4_ERD_Attribute.png", "E3975", "0", "", "Class0","{F5638A86-B428-40d5-85A9-C089ED3AD752}");
+tocTab[tocTab.length] = new Array("0.7.3.8:10", "", "«ERD_Attribute» Order Number", "EARoot/EA7/EA3/EA8/EA5053.htm", "6118BF7F-4_ERD_Attribute.png", "E3974", "0", "", "Class0","{1288681E-B3FB-4ad5-8F5E-986E77CBEEBF}");
+tocTab[tocTab.length] = new Array("0.7.3.8:11", "", "«ERD_Attribute» Order Value", "EARoot/EA7/EA3/EA8/EA5054.htm", "6118BF7F-4_ERD_Attribute.png", "E3973", "0", "", "Class0","{B95F88B2-F3DF-42b7-9A15-E12BF150A435}");

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.7.3.6:1", "", "Element Appearance", "EARoot/EA7/EA3/EA6/EA5018.htm", "188.png", "846", "0", "", "Custom diagram0","{E76A2E28-ED66-43f0-9BFE-246AB5A9821A}");
+tocTab[tocTab.length] = new Array("0.7.3.6:2", "", "Other Element Appearance", "EARoot/EA7/EA3/EA6/EA5020.htm", "175.png", "860", "0", "", "Logical diagram0","{255E9072-78DE-4811-B126-8B3643F19934}");
+tocTab[tocTab.length] = new Array("0.7.3.6:3", "", "Actor 1<br />- default appearance", "EARoot/EA7/EA3/EA6/EA5025.htm", "6.png", "E7737", "0", "", "Actor0","{572DF238-EFB4-4b5e-8AC6-502971109FF7}");
+tocTab[tocTab.length] = new Array("0.7.3.6:4", "", "Actor 2<br />- global appearance", "EARoot/EA7/EA3/EA6/EA5026.htm", "6.png", "E7771", "0", "", "Actor0","{F063D79C-14A5-4ea2-A203-A477E7D504A0}");
+tocTab[tocTab.length] = new Array("0.7.3.6:5", "", "Actor 3<br />- local image", "EARoot/EA7/EA3/EA6/EA5027.htm", "6.png", "E3733", "0", "", "Actor0","{0C92E5E4-4C67-448f-B9B0-4D0B8B60DDA5}");
+tocTab[tocTab.length] = new Array("0.7.3.6:6", "", "Use Case 1<br />- default appearance", "EARoot/EA7/EA3/EA6/EA5028.htm", "7.png", "E7770", "0", "", "UseCase0","{BC91C5AB-7AAA-4b47-BB40-5118897BCD39}");
+tocTab[tocTab.length] = new Array("0.7.3.6:7", "", "Use Case 2<br />- global appearance", "EARoot/EA7/EA3/EA6/EA5029.htm", "7.png", "E7774", "0", "", "UseCase0","{BFB28760-B28E-457a-9C44-1AAA06749A0D}");
+tocTab[tocTab.length] = new Array("0.7.3.6:8", "", "«GrayRect» Use Case 3<br />- stereotype shapescript", "EARoot/EA7/EA3/EA6/EA5030.htm", "7.png", "E7772", "0", "", "UseCase0","{89ED28D4-C6BF-43f1-A62A-26D8661184DD}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.10:1", "", "EstimationFactors - screen shot", "EARoot/EA8/EA10/EA6667.htm", "188.png", "689", "0", "", "Custom diagram0","{AF5C4DE4-74C5-4b6a-B2B7-D9A6227BD52C}");
+tocTab[tocTab.length] = new Array("0.8.10:2", "", "Metrics and Estimation", "EARoot/EA8/EA10/EA6669.htm", "175.png", "84", "0", "", "Logical diagram0","{FB0D502A-A09C-4822-BCF2-F3B8F128C8E9}");
+tocTab[tocTab.length] = new Array("0.8.10:3", "", "UCMetricsReport - screen shot", "EARoot/EA8/EA10/EA6671.htm", "188.png", "207", "0", "", "Custom diagram0","{32075A9B-709D-4d7d-AB33-AFC3CAFBAD07}");
+tocTab[tocTab.length] = new Array("0.8.10:4", "", "«Image» EstimationFactors_window.png", "EARoot/EA8/EA10/EA6682.htm", "82.png", "E6758", "0", "", "Artifact0","{8C27C769-F8F9-4777-AEA0-602D0CD1A617}");
+tocTab[tocTab.length] = new Array("0.8.10:5", "", "«Image» UCMetricsReport.png", "EARoot/EA8/EA10/EA6688.htm", "82.png", "E5438", "0", "", "Artifact0","{7A4363A9-C576-4014-8965-C1C2852425FF}");

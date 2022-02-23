@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.8.8.4.2:1", "", "Overfill highlight", "EARoot/EA8/EA8/EA4/EA2/EA6643.htm", "188.png", "666", "0", "", "Custom diagram0","{12A00F54-3178-46a1-9316-8DCC6612F599}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:2", "", "«Functional» Game mechanics", "EARoot/EA8/EA8/EA4/EA2/EA6647.htm", "239.png", "E6577", "0", "", "Task0","{D7D8AF3B-0F2E-4b21-8208-E0CD9E5ECFC4}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:3", "", "«Functional» Game pitch", "EARoot/EA8/EA8/EA4/EA2/EA6648.htm", "239.png", "E6570", "0", "", "Task0","{BE2AF1B1-E93B-4f66-9161-F9A67C075504}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:4", "", "«Functional» Location 1 -  Puzzles", "EARoot/EA8/EA8/EA4/EA2/EA6649.htm", "239.png", "E6565", "0", "", "Task0","{6104405C-C6D7-4900-A882-2B0BF29DAD99}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:5", "", "«Functional» Location 1 asset design", "EARoot/EA8/EA8/EA4/EA2/EA6650.htm", "239.png", "E6576", "0", "", "Task0","{E1627C75-7A32-4156-A207-47387E9283BE}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:6", "", "«Functional» Location 1 Boss design", "EARoot/EA8/EA8/EA4/EA2/EA6651.htm", "239.png", "E6572", "0", "", "Task0","{20DBFC03-4084-404a-BEBC-4CF52848A6C8}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:7", "", "«Functional» Location 1 NPC design", "EARoot/EA8/EA8/EA4/EA2/EA6652.htm", "239.png", "E6575", "0", "", "Task0","{EBB68B0A-755F-454e-B2B8-3ED389791C2A}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:8", "", "«Functional» Location 1 Quest line - Get a weapon", "EARoot/EA8/EA8/EA4/EA2/EA6653.htm", "239.png", "E6566", "0", "", "Task0","{93A4D52A-3FAE-405f-8B6E-EB7736BC3ABD}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:9", "", "«Functional» Location 1 Quest line - Save the princess", "EARoot/EA8/EA8/EA4/EA2/EA6654.htm", "239.png", "E6574", "0", "", "Task0","{C012451A-97B9-49c7-BF37-A91D4522407E}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:10", "", "«Functional» Main character - Back story", "EARoot/EA8/EA8/EA4/EA2/EA6655.htm", "239.png", "E6567", "0", "", "Task0","{9B3CE2D4-C83B-4ef1-8AB9-602CE9671170}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:11", "", "«Functional» Main character abilities", "EARoot/EA8/EA8/EA4/EA2/EA6656.htm", "239.png", "E6568", "0", "", "Task0","{D5496B05-055F-44ba-8316-8739E68F84B7}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:12", "", "«Functional» Secondary character - Back story", "EARoot/EA8/EA8/EA4/EA2/EA6657.htm", "239.png", "E6569", "0", "", "Task0","{86648B96-9760-4dad-A832-44A5FA014B5F}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:13", "", "«Functional» Secondary character abilities", "EARoot/EA8/EA8/EA4/EA2/EA6658.htm", "239.png", "E6564", "0", "", "Task0","{B3B34CE1-D562-4777-8816-52CC037F6DD8}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:14", "", "«Functional» Weapon design", "EARoot/EA8/EA8/EA4/EA2/EA6659.htm", "239.png", "E6571", "0", "", "Task0","{E5EBC99C-BE75-4eb4-9888-28C7B0457F2D}");
+tocTab[tocTab.length] = new Array("0.8.8.4.2:15", "", "«Functional» World - Back story", "EARoot/EA8/EA8/EA4/EA2/EA6660.htm", "239.png", "E6573", "0", "", "Task0","{4DC1521E-9CBF-4f9f-8FFD-DD3CAE922DD1}");

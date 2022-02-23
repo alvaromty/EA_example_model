@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.21.4.5:1", "", "Agile with Kanban", "EARoot/EA21/EA4/EA5/EA13136.htm", "188.png", "839", "0", "", "Custom diagram0","{1D2ABFDB-00AB-4709-AF3D-86EFB84374B6}");
+tocTab[tocTab.length] = new Array("0.21.4.5.1", "1", "Defects", "EARoot/EA21/EA4/EA5/EA1/EA13143.htm", "4.png", "", "", "{88B9D5DE-5DB9-49c2-8D4A-5DED89672F9E}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.5.2", "1", "User Stories", "EARoot/EA21/EA4/EA5/EA2/EA13146.htm", "4.png", "", "", "{BFE97C72-D57B-4bb6-BB71-B569EABAD3A3}", "Package");

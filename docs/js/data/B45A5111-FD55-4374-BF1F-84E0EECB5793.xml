@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.2.11.2.2:1", "", "EA_Connect", "EARoot/EA2/EA11/EA2/EA2/EA1028.htm", "196.png", "E9713", "0", "", "Signal0","{BE999923-E013-4be8-A0E4-5C09CA8D1664}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:2", "", "EA_Disconnect", "EARoot/EA2/EA11/EA2/EA2/EA1029.htm", "196.png", "E9711", "0", "", "Signal0","{66811888-0145-4ca5-A15A-F53392F407B8}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:3", "", "EA_GetMenuItems", "EARoot/EA2/EA11/EA2/EA2/EA1030.htm", "196.png", "E9707", "0", "", "Signal0","{48FABFFB-6EB6-41ef-A12C-F319CD867571}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:4", "", "EA_GetMenuState", "EARoot/EA2/EA11/EA2/EA2/EA1031.htm", "196.png", "E9712", "0", "", "Signal0","{85DEB429-1E08-4ffd-B693-EDAC97AA0E9B}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:5", "", "EA_MenuClick", "EARoot/EA2/EA11/EA2/EA2/EA1032.htm", "196.png", "E9715", "0", "", "Signal0","{CCE55722-2E0E-48e6-8C02-61BEDA3D312F}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:6", "", "EA_OnAddinPropertiesTabChanging", "EARoot/EA2/EA11/EA2/EA2/EA1033.htm", "196.png", "E9714", "0", "", "Signal0","{BF826E59-F870-4c1b-903C-76F9E4F369ED}");
+tocTab[tocTab.length] = new Array("0.2.11.2.2:7", "", "EA_OnOutputItemDoubleClicked", "EARoot/EA2/EA11/EA2/EA2/EA1034.htm", "196.png", "E9094", "0", "", "Signal0","{4CE4BC52-2392-4013-B973-B7DC2D7A7355}");

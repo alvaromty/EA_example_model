@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.3.10:1", "", "Gap Analysis", "EARoot/EA7/EA3/EA10/EA5074.htm", "188.png", "171", "0", "", "Custom diagram0","{AD9ABAD7-C000-4cf6-9D1B-989B9A50D19B}");
+tocTab[tocTab.length] = new Array("0.7.3.10:2", "", "Gap Analysis - screenshot", "EARoot/EA7/EA3/EA10/EA5076.htm", "188.png", "349", "0", "", "Custom diagram0","{7524AA49-3663-4c4d-A094-16FBCEB17F81}");
+tocTab[tocTab.length] = new Array("0.7.3.10:3", "", "«Image» GapAnalMatrix.png", "EARoot/EA7/EA3/EA10/EA5084.htm", "82.png", "E3108", "0", "", "Artifact0","{2AA31112-6A72-4505-9C23-770E0D027D07}");
+tocTab[tocTab.length] = new Array("0.7.3.10.1", "1", "Gaps Identified", "EARoot/EA7/EA3/EA10/EA1/EA5089.htm", "4.png", "", "", "{6CD7E2A5-1379-45e0-B439-8AA374C72EB7}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3.10.2", "1", "Target Architecture", "EARoot/EA7/EA3/EA10/EA2/EA5094.htm", "4.png", "", "", "{193F9A17-BDDA-448d-844B-8A875DC9FB66}", "Package");

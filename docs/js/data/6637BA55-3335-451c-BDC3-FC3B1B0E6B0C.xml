@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.14.3.2:1", "", "Example Schema 2", "EARoot/EA14/EA3/EA2/EA7399.htm", "176.png", "355", "0", "", "Package diagram0","{9878B2D6-D474-4471-98BA-4C75D362D55F}");
+tocTab[tocTab.length] = new Array("0.14.3.2.1", "1", "«XSDschema» Schema_A", "EARoot/EA14/EA3/EA2/EA1/EA7406.htm", "4.png", "", "", "{E50AD72E-D508-4871-BF1D-C7DF8E296C0B}", "Package");
+tocTab[tocTab.length] = new Array("0.14.3.2.2", "1", "«XSDschema» Schema_B", "EARoot/EA14/EA3/EA2/EA2/EA7411.htm", "4.png", "", "", "{BA2788B1-D9CC-4aa5-816C-4BD0692A0AC7}", "Package");

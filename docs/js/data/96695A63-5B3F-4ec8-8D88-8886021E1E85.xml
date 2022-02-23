@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.11.2:1", "", "Documentation", "EARoot/EA11/EA2/EA6836.htm", "188.png", "100", "0", "", "Custom diagram0","{827EA453-BAA6-49f0-AC0E-94C836CDF0D0}");
+tocTab[tocTab.length] = new Array("0.11.2:2", "", "HTML reports", "EARoot/EA11/EA2/EA6838.htm", "188.png", "104", "0", "", "Custom diagram0","{29414BA9-AA97-4504-925C-1812961E3341}");
+tocTab[tocTab.length] = new Array("0.11.2:3", "", "Reports from Search Results", "EARoot/EA11/EA2/EA6840.htm", "188.png", "105", "0", "", "Custom diagram0","{2ACE2EDE-FEAB-477f-A677-832FCDE5FF5E}");
+tocTab[tocTab.length] = new Array("0.11.2:4", "", "Standard RTF", "EARoot/EA11/EA2/EA6842.htm", "188.png", "103", "0", "", "Custom diagram0","{A42A31D4-BF66-488a-9DF4-AA653245072A}");
+tocTab[tocTab.length] = new Array("0.11.2:5", "", "Virtual Documents", "EARoot/EA11/EA2/EA6844.htm", "188.png", "99", "0", "", "Custom diagram0","{88E09843-818B-4b3e-A705-FCCACA68E47A}");
+tocTab[tocTab.length] = new Array("0.11.2:6", "", "Word Master Documents", "EARoot/EA11/EA2/EA6846.htm", "188.png", "102", "0", "", "Custom diagram0","{0D6FF476-7CCC-497c-9A5F-9C83B9DEC964}");
+tocTab[tocTab.length] = new Array("0.11.2:7", "", "«document» Domain Model and Requirements", "EARoot/EA11/EA2/EA6865.htm", "82.png", "E673", "0", "", "Artifact0","{88DC5F54-959D-474c-A985-E5EB161181C7}");
+tocTab[tocTab.length] = new Array("0.11.2:8", "", "«model document» Domain Model and Requirements", "EARoot/EA11/EA2/EA6866.htm", "5.png", "E678", "0", "", "Class0","{AB72AB11-30DA-4e1d-BD03-DE994E742504}");
+tocTab[tocTab.length] = new Array("0.11.2:9", "", "«document» Example RTF Report", "EARoot/EA11/EA2/EA6867.htm", "82.png", "E662", "0", "", "Artifact0","{33B548C6-98C1-4d3b-8766-94789DE7699B}");
+tocTab[tocTab.length] = new Array("0.11.2:10", "", "«Image» HTMLReport_Dlg.png", "EARoot/EA11/EA2/EA6869.htm", "82.png", "E7831", "0", "", "Artifact0","{C14B4CB1-AF3D-412c-B646-AF45D4E3BE22}");
+tocTab[tocTab.length] = new Array("0.11.2:11", "", "«EAReportSpecification» Process Model", "EARoot/EA11/EA2/EA6871.htm", "82.png", "E3904", "0", "", "Artifact0","{F0151EC3-D344-4874-8DCE-798174595557}");

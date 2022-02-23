@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:1", "", "Desktop: EA Client", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12696.htm", "10.png", "E6920", "0", "", "Component0","{41160944-202C-40ef-86AA-9AB7E2A35A77}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:2", "", "Desktop: EA Client", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12697.htm", "10.png", "E7392", "0", "", "Component0","{AD33246B-2DFB-4d22-B813-C54994C6822F}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:3", "", "Desktop: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12698.htm", "10.png", "E7410", "0", "", "Component0","{882700FD-286F-4b3a-9EB0-E5DD9779803C}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:4", "", "Notebook: EA Client", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12699.htm", "10.png", "E6922", "0", "", "Component0","{5C4DDA2F-9F32-4319-8F3C-D229A7F8215B}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:5", "", "Notebook: EA Client", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12700.htm", "10.png", "E6909", "0", "", "Component0","{0C422A27-6689-4a37-83EF-45336283240B}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:6", "", "Notebook: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12701.htm", "10.png", "E6918", "0", "", "Component0","{427FE46A-8F72-4256-A642-504B78D72798}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:7", "", "Notebook: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12702.htm", "10.png", "E6921", "0", "", "Component0","{126C1A87-8299-4435-B742-17DA6092C626}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:8", "", "Notebook: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12703.htm", "10.png", "E7402", "0", "", "Component0","{F4335D11-907F-4575-A087-34F7D7AE9A54}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:9", "", "Smart Phone: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12704.htm", "10.png", "E6919", "0", "", "Component0","{D7B07957-7868-4678-B882-19AFA17A34CF}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:10", "", "Tablet: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12705.htm", "10.png", "E6912", "0", "", "Component0","{1212E11C-FF31-4472-8983-5598879A3676}");
+tocTab[tocTab.length] = new Array("0.21.2.2.1.1:11", "", "Tablet: Web Browser", "EARoot/EA21/EA2/EA2/EA1/EA1/EA12706.htm", "10.png", "E7396", "0", "", "Component0","{C0694678-6602-4826-8494-AA7BB9FD8592}");

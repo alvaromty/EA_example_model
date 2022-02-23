@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.18.1:1", "", "Four Perspectives", "EARoot/EA6/EA18/EA1/EA4361.htm", "175.png", "633", "0", "", "Logical diagram0","{92AEB20A-02F2-40e4-9104-E193545EB766}");
+tocTab[tocTab.length] = new Array("0.6.18.1:2", "", "«BS_Perspective» Business Process Perspective", "EARoot/EA6/EA18/EA1/EA4366.htm", "5.png", "E6399", "0", "", "Class0","{A19A8518-E393-4fa9-8035-01D2DAE1473E}");
+tocTab[tocTab.length] = new Array("0.6.18.1:3", "", "«BS_Perspective» Customer Perspective", "EARoot/EA6/EA18/EA1/EA4367.htm", "5.png", "E6397", "0", "", "Class0","{0E1E90F5-4DD0-4d3e-B532-541F2F7128B4}");
+tocTab[tocTab.length] = new Array("0.6.18.1:4", "", "«BS_Perspective» Financial Perspective", "EARoot/EA6/EA18/EA1/EA4368.htm", "5.png", "E6398", "0", "", "Class0","{2CF720E6-99C2-4d4c-9C7D-A2D98D464A7F}");
+tocTab[tocTab.length] = new Array("0.6.18.1:5", "", "«BS_Perspective» Learning & Growth Perspective", "EARoot/EA6/EA18/EA1/EA4369.htm", "5.png", "E6402", "0", "", "Class0","{D003E1C0-60AC-4b41-981E-67616A01CC62}");

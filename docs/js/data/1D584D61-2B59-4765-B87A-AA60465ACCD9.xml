@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.18.6.1.2:1", "", "Place Order", "EARoot/EA18/EA6/EA1/EA2/EA10745.htm", "175.png", "312", "0", "", "Logical diagram0","{2F01CF08-BFEC-4c24-B20C-EFDBD69B06EC}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:2", "", "«control» Order Screen", "EARoot/EA18/EA6/EA1/EA2/EA10748.htm", "11.png", "E2503", "0", "", "Screen0","{9FB00BE3-CF92-4527-BD60-9196A2EDC4EA}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:3", "", "«button» Back", "EARoot/EA18/EA6/EA1/EA2/EA10749.htm", "16.png", "E2504", "E2503", "", "GUIElement0","{AE807868-0E6F-4723-914D-86B978867FAE}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:4", "", "«button» Cancel", "EARoot/EA18/EA6/EA1/EA2/EA10750.htm", "16.png", "E2502", "E2503", "", "GUIElement0","{42897CF6-B218-485c-9272-128BAA16C758}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:5", "", "«checkbox» Order Details", "EARoot/EA18/EA6/EA1/EA2/EA10751.htm", "16.png", "E2506", "E2503", "", "GUIElement0","{CCFD20F1-0B7F-4d3c-8105-744B2AE26D5F}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:6", "", "«text» OrderTotal", "EARoot/EA18/EA6/EA1/EA2/EA10752.htm", "16.png", "E2507", "E2503", "", "GUIElement0","{D20DB800-1066-41f3-A320-05542198CDA9}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:7", "", "«list» Ship Details", "EARoot/EA18/EA6/EA1/EA2/EA10753.htm", "16.png", "E2505", "E2503", "", "GUIElement0","{CBE43FE3-2801-4a44-BACD-E95E5A95A842}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:8", "", "«button» Submit", "EARoot/EA18/EA6/EA1/EA2/EA10754.htm", "16.png", "E2500", "E2503", "", "GUIElement0","{37DD5927-A1AD-4565-87EC-5EEAD32AF9EE}");
+tocTab[tocTab.length] = new Array("0.18.6.1.2:9", "", "«button» View Basket", "EARoot/EA18/EA6/EA1/EA2/EA10755.htm", "16.png", "E2501", "E2503", "", "GUIElement0","{383AB1A9-E42D-409a-92E5-9A3E3E733745}");

@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6.1.3.3:1", "", "Enterprise Continuum", "EARoot/EA6/EA1/EA3/EA3/EA3128.htm", "175.png", "761", "0", "", "Logical diagram0","{8417F62A-FC01-4776-B22A-BBB97F67ECC1}");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.1", "1", "«SolutionsContinuum» Industry Solutions", "EARoot/EA6/EA1/EA3/EA3/EA1/EA3142.htm", "4.png", "", "", "{63459E3A-0A29-4ee9-81EF-69AF56D04EAB}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.2", "1", "«SolutionsContinuum» Organization Solutions", "EARoot/EA6/EA1/EA3/EA3/EA2/EA3145.htm", "4.png", "", "", "{CF496339-F4B4-4dc1-97EC-14419BD0B325}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.3", "1", "«SolutionsContinuum» Products and Services", "EARoot/EA6/EA1/EA3/EA3/EA3/EA3148.htm", "4.png", "", "", "{5A5FFD9F-5DA4-4e57-A38C-C6FA078921F8}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.4", "1", "«SolutionsContinuum» Systems Solutions", "EARoot/EA6/EA1/EA3/EA3/EA4/EA3151.htm", "4.png", "", "", "{4E9B9EDD-6D96-447a-862E-31723147DD00}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.5", "1", "«ArchitectureContinuum» Foundation Architectures", "EARoot/EA6/EA1/EA3/EA3/EA5/EA3154.htm", "4.png", "", "", "{F961F207-8B0C-4649-AEF1-D49AD52E88E3}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.6", "1", "«ArchitectureContinuum» Common Systems Architectures", "EARoot/EA6/EA1/EA3/EA3/EA6/EA3157.htm", "4.png", "", "", "{2546E2A0-1F63-48ec-A9D6-79F73958C250}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.7", "1", "«ArchitectureContinuum» Industry Architectures", "EARoot/EA6/EA1/EA3/EA3/EA7/EA3160.htm", "4.png", "", "", "{FB40D507-01BB-4b29-8A55-3201F4DB0788}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3.8", "1", "«ArchitectureContinuum» Organization Architectures", "EARoot/EA6/EA1/EA3/EA3/EA8/EA3163.htm", "4.png", "", "", "{6263B29C-6D6D-4875-A83F-ADD45AD8928E}", "Package");

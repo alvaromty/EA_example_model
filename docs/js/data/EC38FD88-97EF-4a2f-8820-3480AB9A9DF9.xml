@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.8.5.1:1", "", "Extensibility Main", "EARoot/EA7/EA8/EA5/EA1/EA6301.htm", "188.png", "236", "0", "", "Custom diagram0","{A2AF74F4-88ED-45bf-B015-7705AB2F5DE8}");
+tocTab[tocTab.length] = new Array("0.7.8.5.1:2", "", "«Functional» REQ100 - System must be easily extendible", "EARoot/EA7/EA8/EA5/EA1/EA6304.htm", "19.png", "E2142", "0", "", "Requirement0","{CACDD81F-2568-4026-BB0B-B39AB49828DB}");
+tocTab[tocTab.length] = new Array("0.7.8.5.1:3", "", "«Functional» REQ101 - Other product types options can be added easily.", "EARoot/EA7/EA8/EA5/EA1/EA6305.htm", "19.png", "E2143", "0", "", "Requirement0","{D74667D2-FD47-4e58-BD80-1338C6753CCA}");
+tocTab[tocTab.length] = new Array("0.7.8.5.1:4", "", "«Functional» REQ102 - System must be able to cope with regular retail sales", "EARoot/EA7/EA8/EA5/EA1/EA6306.htm", "19.png", "E2141", "0", "", "Requirement0","{24D6554A-7912-4438-801A-9FD6887C8862}");

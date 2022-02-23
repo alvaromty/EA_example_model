@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Custom Tables::Sample4</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Sample4", " : "))</script>  : Public  &lt;&lt;custom table&gt;&gt; Artifact</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/1/2019 3:25:32 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">7/1/2019 3:25:50 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Howard Birkshire</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{444D987C-543C-4d5d-976C-F09FF5E3781F}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA180.htm">Custom Tables</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Operations');" id="OperationsTitle">Operations</li>
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+<div class="ItemBody" id="OperationsTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Operation</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>script</strong>():
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations9" onclick="parent.toggleDiv('detailsDIVOperations9','DetailsImageOperations9')" />Details:
+						<div id="detailsDIVOperations9" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+</div><div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">data</td>
+				<td width="50%" class="TableRow" valign="top">&lt;?xml version=&quot;1.0&quot;?&gt;<br />&lt;adhoctable&gt;<br />	&lt;table&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;Maturity Level&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;Capability<br /><br />Area&lt;/column&gt;<br />			&lt;column&gt;Level 1:<br /><br />Businesss Silo&lt;/column&gt;<br />			&lt;column&gt;Level 2:<br /><br />Standardized Technology&lt;/column&gt;<br />			&lt;column&gt;Level 3:<br /><br />Optimized Core&lt;/column&gt;<br />			&lt;column&gt;Level 4:<br /><br />Business Modularity&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;IT Management&lt;/column&gt;<br />			&lt;column&gt;Well-designed business case<br />Standardized project methodology&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;Centralized IT funding&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;An IT steering comittee<br />An infrastucture renewal process<br />Centralized funding for enterprise applications&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;Not known&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;Standardized technology enviroment&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;Architect on project teams<br />An architecture expectation process<br />Formal architecture compliance process<br />A centralized standards team&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;Senior management involvement&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;Enterprise-wide process owners<br />A statement of enterprise architecture guiding principles<br />Business leadership in project teams<br />Senior executive oversight of architecture initiatives<br />IT program managers&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />		&lt;/row&gt;<br />		&lt;row&gt;<br />			&lt;column&gt;Communication and assessment&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;&lt;/column&gt;<br />			&lt;column&gt;One-page architecture graphic to communicate enterprise vision<br />Post-implementation assessment<br />A formal research and adoption process<br />A full-time enterprise architecture team&lt;/column&gt;<br />		&lt;/row&gt;<br />	&lt;/table&gt;<br />&lt;/adhoctable&gt;<br /></td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario10" onclick="parent.toggleDiv('detailsDIVScenario10','DetailsImageScenario10')" />Details:
+						<div id="detailsDIVScenario10" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">dataFormat</td>
+				<td width="50%" class="TableRow" valign="top">&lt;?xml version=&quot;1.0&quot;?&gt;<br />&lt;dataformat&gt;<br />	&lt;style&gt;<br />		&lt;grid rows=&quot;7&quot; columns=&quot;5&quot;/&gt;<br />		&lt;cells&gt;<br />			&lt;cell row=&quot;0&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;16748574&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;0&quot; col=&quot;1&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;16748574&lt;/bgcolor&gt;<br />				&lt;merge&gt;<br />					&lt;left&gt;1&lt;/left&gt;<br />					&lt;top&gt;0&lt;/top&gt;<br />					&lt;right&gt;4&lt;/right&gt;<br />					&lt;bottom&gt;0&lt;/bottom&gt;<br />				&lt;/merge&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;0&quot; col=&quot;2&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;16748574&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;0&quot; col=&quot;3&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;16748574&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;0&quot; col=&quot;4&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;16748574&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;1&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;13882323&lt;/bgcolor&gt;<br />				&lt;halign&gt;1&lt;/halign&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;1&quot; col=&quot;1&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;13882323&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;1&quot; col=&quot;2&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;13882323&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;1&quot; col=&quot;3&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;13882323&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;1&quot; col=&quot;4&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;13882323&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;2&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;14474460&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;2&quot; col=&quot;1&quot;&gt;<br />				&lt;merge&gt;<br />					&lt;left&gt;1&lt;/left&gt;<br />					&lt;top&gt;2&lt;/top&gt;<br />					&lt;right&gt;2&lt;/right&gt;<br />					&lt;bottom&gt;2&lt;/bottom&gt;<br />				&lt;/merge&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;3&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;14474460&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;3&quot; col=&quot;2&quot;&gt;<br />				&lt;merge&gt;<br />					&lt;left&gt;2&lt;/left&gt;<br />					&lt;top&gt;3&lt;/top&gt;<br />					&lt;right&gt;3&lt;/right&gt;<br />					&lt;bottom&gt;3&lt;/bottom&gt;<br />				&lt;/merge&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;4&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;14474460&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;4&quot; col=&quot;2&quot;&gt;<br />				&lt;merge&gt;<br />					&lt;left&gt;2&lt;/left&gt;<br />					&lt;top&gt;4&lt;/top&gt;<br />					&lt;right&gt;3&lt;/right&gt;<br />					&lt;bottom&gt;4&lt;/bottom&gt;<br />				&lt;/merge&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;5&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;14474460&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;5&quot; col=&quot;3&quot;&gt;<br />				&lt;merge&gt;<br />					&lt;left&gt;3&lt;/left&gt;<br />					&lt;top&gt;5&lt;/top&gt;<br />					&lt;right&gt;4&lt;/right&gt;<br />					&lt;bottom&gt;5&lt;/bottom&gt;<br />				&lt;/merge&gt;<br />			&lt;/cell&gt;<br />			&lt;cell row=&quot;6&quot; col=&quot;0&quot;&gt;<br />				&lt;bold&gt;true&lt;/bold&gt;<br />				&lt;bgcolor&gt;14474460&lt;/bgcolor&gt;<br />			&lt;/cell&gt;<br />		&lt;/cells&gt;<br />		&lt;rows&gt;<br />			&lt;row id=&quot;1&quot; lines=&quot;3&quot;/&gt;<br />			&lt;row id=&quot;2&quot; lines=&quot;3&quot;/&gt;<br />			&lt;row id=&quot;3&quot; lines=&quot;5&quot;/&gt;<br />			&lt;row id=&quot;4&quot; lines=&quot;5&quot;/&gt;<br />			&lt;row id=&quot;5&quot; lines=&quot;6&quot;/&gt;<br />			&lt;row id=&quot;6&quot; lines=&quot;9&quot;/&gt;<br />		&lt;/rows&gt;<br />	&lt;/style&gt;<br />	&lt;layout autosizecolumns=&quot;1&quot; version=&quot;1&quot; xmlns:dt=&quot;urn:schemas-microsoft-com:datatypes&quot; dt:dt=&quot;bin.base64&quot;&gt;BQABAAAAAQAAAAEAAAABAAAAAQAAAAUAjwAAAJoAAACYAAAAmgAAAKEAAAAAAAAAAAAAAAAA<br />AAAAAAAAAAAAAAAAAAABAAAAAAA=&lt;/layout&gt;<br />&lt;/dataformat&gt;<br /></td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario11" onclick="parent.toggleDiv('detailsDIVScenario11','DetailsImageScenario11')" />Details:
+						<div id="detailsDIVScenario11" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

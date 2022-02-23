@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.6.14:1", "", "Book Store Domain", "EARoot/EA6/EA14/EA4085.htm", "175.png", "615", "0", "", "Logical diagram0","{2D947FFE-F681-470a-A600-CAA1FB9C4107}");
+tocTab[tocTab.length] = new Array("0.6.14:2", "", "Account", "EARoot/EA6/EA14/EA4090.htm", "5.png", "E6060", "0", "", "Class0","{E8FE4600-4042-4f87-AB4C-AF0E6FE317C6}");
+tocTab[tocTab.length] = new Array("0.6.14:3", "", "Address", "EARoot/EA6/EA14/EA4091.htm", "5.png", "E6058", "0", "", "Class0","{DA903867-CC37-46aa-88CE-5E27FC333AE8}");
+tocTab[tocTab.length] = new Array("0.6.14:4", "", "Author", "EARoot/EA6/EA14/EA4092.htm", "5.png", "E6055", "0", "", "Class0","{C9CFAFEC-4F19-40c9-861C-D311F87932CC}");
+tocTab[tocTab.length] = new Array("0.6.14:5", "", "Cart Item", "EARoot/EA6/EA14/EA4093.htm", "5.png", "E6061", "0", "", "Class0","{EBADE2FD-FC63-4a2c-AF20-3EE3A24D1D55}");
+tocTab[tocTab.length] = new Array("0.6.14:6", "", "Catalog", "EARoot/EA6/EA14/EA4094.htm", "5.png", "E6056", "0", "", "Class0","{CC92427E-F3EE-4a09-9CA1-51F150BEF588}");
+tocTab[tocTab.length] = new Array("0.6.14:7", "", "Category", "EARoot/EA6/EA14/EA4095.htm", "247.png", "E6054", "0", "", "Enumeration0","{C535C7FF-EC91-4556-88ED-180B6D2FE0B0}");
+tocTab[tocTab.length] = new Array("0.6.14:8", "", "Editorial Review", "EARoot/EA6/EA14/EA4096.htm", "5.png", "E6045", "0", "", "Class0","{107DD900-EC54-41e4-9A1D-3AC3151F35E3}");
+tocTab[tocTab.length] = new Array("0.6.14:9", "", "Item", "EARoot/EA6/EA14/EA4098.htm", "5.png", "E3995", "0", "", "Class0","{0819E372-A5DF-49ca-80FF-41BD15B043F0}");
+tocTab[tocTab.length] = new Array("0.6.14:10", "", "Line Item", "EARoot/EA6/EA14/EA4099.htm", "5.png", "E6041", "0", "", "Class0","{09D18A45-768E-4c84-A885-C5065C67DAE9}");
+tocTab[tocTab.length] = new Array("0.6.14:11", "", "Order", "EARoot/EA6/EA14/EA4100.htm", "5.png", "E6053", "0", "", "Class0","{B9ECD326-08C9-4226-BA08-050B8D342736}");
+tocTab[tocTab.length] = new Array("0.6.14:12", "", "Payment Type", "EARoot/EA6/EA14/EA4101.htm", "247.png", "E6052", "0", "", "Enumeration0","{B61286C9-E147-4d21-9AA0-C4BCF8809DAE}");
+tocTab[tocTab.length] = new Array("0.6.14:13", "", "Publisher", "EARoot/EA6/EA14/EA4102.htm", "5.png", "E6057", "0", "", "Class0","{D19A1393-988D-4a8b-ABFA-287A2508827C}");
+tocTab[tocTab.length] = new Array("0.6.14:14", "", "Reader Review", "EARoot/EA6/EA14/EA4103.htm", "5.png", "E6048", "0", "", "Class0","{17334145-4B07-4aa8-8439-2458590F1216}");
+tocTab[tocTab.length] = new Array("0.6.14:15", "", "Review", "EARoot/EA6/EA14/EA4104.htm", "5.png", "E6049", "0", "", "Class0","{2079ACE5-7F44-4707-B3D6-D9D0201670A7}");
+tocTab[tocTab.length] = new Array("0.6.14:16", "", "Shopping Cart", "EARoot/EA6/EA14/EA4105.htm", "5.png", "E6051", "0", "", "Class0","{5E24B9F8-8EAF-42fe-BCA5-394A62F2C56F}");
+tocTab[tocTab.length] = new Array("0.6.14.1", "1", "Interface Payloads ", "EARoot/EA6/EA14/EA1/EA4106.htm", "4.png", "", "", "{E52FE85B-C68D-4c6e-969B-9E1569A588E0}", "Package");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.4:1", "", "Business Domain Model", "EARoot/EA7/EA4/EA5290.htm", "176.png", "253", "0", "", "Package diagram0","{0806676B-BC2E-465f-B830-333417FABE3E}");
+tocTab[tocTab.length] = new Array("0.7.4:2", "", "Overview", "EARoot/EA7/EA4/EA5299.htm", "103.png", "E2246", "0", "", "DiagramFrame0","{311C0E4D-B6C5-418f-B0F4-DD14086C23C9}");
+tocTab[tocTab.length] = new Array("0.7.4.1", "1", "Business Rule Model", "EARoot/EA7/EA4/EA1/EA5307.htm", "4.png", "", "", "{7D1CCD9B-3527-4ed1-BBB8-805447B98314}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4.2", "1", "Process Model", "EARoot/EA7/EA4/EA2/EA5368.htm", "4.png", "", "", "{AAEA9C0C-90EF-416b-B7A0-9AA3D6B5A12A}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4.3", "1", "Domain Model", "EARoot/EA7/EA4/EA3/EA5388.htm", "4.png", "", "", "{57F76ECD-6E00-4264-87B7-A8707CCA7AF4}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4.4", "1", "Opportunity Definition", "EARoot/EA7/EA4/EA4/EA5400.htm", "4.png", "", "", "{D0425213-7C59-4ed1-92A1-118C57151EB4}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.20.4.2.1", "1", "A Complete Example", "EARoot/EA20/EA4/EA2/EA1/EA11784.htm", "4.png", "", "", "{236B2989-BE85-4358-9C19-3147EAC75D3A}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.2.2", "1", "Decision Hierarchy", "EARoot/EA20/EA4/EA2/EA2/EA11854.htm", "4.png", "", "", "{80EE5F3A-209E-48e7-BCA8-55677793E524}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.2.3", "1", "Decision With BKM", "EARoot/EA20/EA4/EA2/EA3/EA11862.htm", "4.png", "", "", "{5886E796-1BDE-441d-A1D0-A6252F21A031}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.2.4", "1", "Decision With Input Data", "EARoot/EA20/EA4/EA2/EA4/EA11873.htm", "4.png", "", "", "{7BF1776D-92F6-46ec-B733-D3509887F75C}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.2.5", "1", "List Example", "EARoot/EA20/EA4/EA2/EA5/EA11882.htm", "4.png", "", "", "{201F2634-48EF-4ef4-B697-8E3D6E92BB42}", "Package");

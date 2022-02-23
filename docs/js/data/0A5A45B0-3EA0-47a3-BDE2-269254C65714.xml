@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.3.2.8:1", "", "Phase H", "EARoot/EA6/EA1/EA3/EA2/EA8/EA3114.htm", "188.png", "758", "0", "", "Custom diagram0","{0E2354EF-1765-4776-A1A9-2B0C966E28C1}");
+tocTab[tocTab.length] = new Array("0.6.1.3.2.8:2", "", "«Actor» Actor1", "EARoot/EA6/EA1/EA3/EA2/EA8/EA3117.htm", "6.png", "E4697", "0", "", "Actor0","{661FF0F9-748A-4dd1-AD67-85ADD54791C7}");
+tocTab[tocTab.length] = new Array("0.6.1.3.2.8:3", "", "«Role» Role1", "EARoot/EA6/EA1/EA3/EA2/EA8/EA3118.htm", "25.png", "E4698", "0", "", "Object0","{9E95F6CB-20A4-4830-BCF3-D69244309C45}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.15.2.1.1:1", "", "Features", "EARoot/EA15/EA2/EA1/EA1/EA7453.htm", "175.png", "67", "0", "", "Logical diagram0","{C0F15D18-22D1-47b7-94B7-6EBAE4DE7E96}");
+tocTab[tocTab.length] = new Array("0.15.2.1.1:2", "", "Building", "EARoot/EA15/EA2/EA1/EA1/EA7458.htm", "5.png", "E414", "0", "", "Class0","{BE16A659-A940-4043-ABED-AE40F5860D8F}");
+tocTab[tocTab.length] = new Array("0.15.2.1.1:3", "", "«Point» House", "EARoot/EA15/EA2/EA1/EA1/EA7459.htm", "5.png", "E415", "0", "", "Class0","{AFDD760B-148A-4b35-9346-9922C308B843}");
+tocTab[tocTab.length] = new Array("0.15.2.1.1:4", "", "«Point» Office", "EARoot/EA15/EA2/EA1/EA1/EA7460.htm", "5.png", "E412", "0", "", "Class0","{47F281AF-34A3-4389-B4E7-E47D9D26627A}");
+tocTab[tocTab.length] = new Array("0.15.2.1.1:5", "", "«Subtype» Brick", "EARoot/EA15/EA2/EA1/EA1/EA7461.htm", "5.png", "E411", "0", "", "Class0","{24F9D5E0-B375-4eb9-BF09-08A10201195A}");
+tocTab[tocTab.length] = new Array("0.15.2.1.1:6", "", "«Subtype» Weatherboard", "EARoot/EA15/EA2/EA1/EA1/EA7462.htm", "5.png", "E416", "0", "", "Class0","{E8E89C07-3D77-40b6-9B44-9B42648BD94C}");

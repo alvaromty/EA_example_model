@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nested Traces</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA12279.png" usemap="#EA12279" border="0" />
+
+<MAP NAME="EA12279">
+<area shape="rect" coords="45,59,286,108" href="EA12287.htm" target="_self">
+<area shape="rect" coords="46,234,758,334" href="EA12289.htm" target="_self">
+<area shape="rect" coords="46,169,717,224" href="EA12286.htm" target="_self">
+<area shape="rect" coords="46,129,286,160" href="EA12288.htm" target="_self">
+<area shape="rect" coords="356,1326,376,1346" href="EA12294.htm" target="_self">
+<area shape="rect" coords="94,1167,643,1282" href="EA12293.htm" target="_self">
+<area shape="rect" coords="110,1010,130,1030" href="EA12302.htm" target="_self">
+<area shape="rect" coords="400,949,589,1078" href="EA12301.htm" target="_self">
+<area shape="rect" coords="155,965,366,1080" href="EA12300.htm" target="_self">
+<area shape="rect" coords="94,853,643,1097" href="EA12292.htm" target="_self">
+<area shape="rect" coords="303,358,526,473" href="EA12290.htm" target="_self">
+<area shape="rect" coords="154,686,174,706" href="EA12299.htm" target="_self">
+<area shape="rect" coords="432,635,619,764" href="EA12298.htm" target="_self">
+<area shape="rect" coords="212,635,406,764" href="EA12297.htm" target="_self">
+<area shape="rect" coords="226,405,246,425" href="EA12295.htm" target="_self">
+<area shape="rect" coords="94,539,643,779" href="EA12291.htm" target="_self">
+<area shape="rect" coords="10,10,816,1406" href="EA12296.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Nested Traces : StateMachine diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/31/2011 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">6/11/2020 11:25:42 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Paulene Dean</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{4707AB09-F54F-49c0-9C1F-74835969D711}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

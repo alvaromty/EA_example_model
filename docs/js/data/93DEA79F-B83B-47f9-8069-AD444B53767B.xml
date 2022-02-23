@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:1", "", "Dell PowerEdge 1650", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11019.htm", "9.png", "E2705", "0", "", "Node0","{07B6F182-0B4D-40c4-9533-DB47DCAFE250}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:2", "", "Dell PowerEdge 2650", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11020.htm", "9.png", "E2709", "0", "", "Node0","{7E909CD8-8CD7-4999-84A3-194CFD596741}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:3", "", "Dell PowerEdge 350", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11021.htm", "9.png", "E2712", "0", "", "Node0","{E4922199-7070-4e3c-9A8E-0B35B25FFE35}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:4", "", "Dell PowerEdge 6650", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11022.htm", "9.png", "E2710", "0", "", "Node0","{A1C1F142-4AF1-457a-9129-E00AAD4B0DC0}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:5", "", "HP ProLiant DL320", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11023.htm", "9.png", "E2704", "0", "", "Node0","{03C2F76F-39ED-44de-9DC2-9DC0EE4281AA}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:6", "", "HP ProLiant DL360", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11024.htm", "9.png", "E2707", "0", "", "Node0","{25CEA006-6BAC-4543-B1BA-9C80D542528D}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:7", "", "HP ProLiant DL380", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11025.htm", "9.png", "E2706", "0", "", "Node0","{24579C8A-75F2-44e9-BF1D-E0BB774D0532}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:8", "", "IBM xSeries 345", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11026.htm", "9.png", "E2708", "0", "", "Node0","{3F4AA4B7-F0FC-401a-92FC-37CBE4A073A2}");
+tocTab[tocTab.length] = new Array("0.18.8.2.1.2:9", "", "IBM xSeries 360", "EARoot/EA18/EA8/EA2/EA1/EA2/EA11027.htm", "9.png", "E2711", "0", "", "Node0","{CFDB8D90-4217-4417-8D11-97B4EDEC6F89}");

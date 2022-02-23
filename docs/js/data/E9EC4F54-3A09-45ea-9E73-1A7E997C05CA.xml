@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.20.7.4:2", "", "Operating States", "EARoot/EA20/EA7/EA4/EA12390.htm", "183.png", "393", "0", "", "Statechart diagram0","{A166FADB-03A4-4b0d-BFAB-1D7FD0F89652}");
+tocTab[tocTab.length] = new Array("0.20.7.4:3", "", "mySignal", "EARoot/EA20/EA7/EA4/EA12393.htm", "196.png", "E3698", "0", "", "Signal0","{E0D62949-1963-4d01-B49C-FB1C66359F7B}");
+tocTab[tocTab.length] = new Array("0.20.7.4:4", "", "Operating States", "EARoot/EA20/EA7/EA4/EA12394.htm", "195.png", "E3010", "0", "", "StateMachine0","{2CB0B592-48D3-475e-A9CE-15522F32FE31}");
+tocTab[tocTab.length] = new Array("0.20.7.4:1", "", "Operating States", "EARoot/EA20/EA7/EA4/EA12388.htm", "183.png", "394", "E3010", "", "Statechart diagram0","{C525CBA4-E1D7-48e1-9DBE-78750935A896}");
+tocTab[tocTab.length] = new Array("0.20.7.4:5", "", "Final", "EARoot/EA20/EA7/EA4/EA12400.htm", "69.png", "E3016", "E3010", "", "StateNode0","{932F506D-74B2-4418-8B7A-8FAC5887A9D1}");
+tocTab[tocTab.length] = new Array("0.20.7.4:6", "", "Idle", "EARoot/EA20/EA7/EA4/EA12401.htm", "20.png", "E3017", "E3010", "", "State0","{DF044042-A2A9-459c-A0D5-D236722BC613}");
+tocTab[tocTab.length] = new Array("0.20.7.4:7", "", "Initial", "EARoot/EA20/EA7/EA4/EA12402.htm", "68.png", "E3015", "E3010", "", "StateNode0","{9BF6CACF-FAD5-40c7-9FFD-B62D2E7C10E9}");
+tocTab[tocTab.length] = new Array("0.20.7.4:8", "", "myTrigger", "EARoot/EA20/EA7/EA4/EA12403.htm", "198.png", "E3762", "E3010", "", "Trigger0","{D6CE037D-E7AE-41b1-8D77-4B787F7B9867}");
+tocTab[tocTab.length] = new Array("0.20.7.4:9", "", "Paused", "EARoot/EA20/EA7/EA4/EA12404.htm", "20.png", "E3013", "E3010", "", "State0","{3FC0FA2B-C3D5-4fd9-80C3-7BFFA48D9D88}");
+tocTab[tocTab.length] = new Array("0.20.7.4:10", "", "Playing", "EARoot/EA20/EA7/EA4/EA12405.htm", "20.png", "E3012", "E3010", "", "State0","{1AD9A61D-E34C-4e6b-8467-C5D5B5553D3D}");
+tocTab[tocTab.length] = new Array("0.20.7.4:11", "", "Power Down", "EARoot/EA20/EA7/EA4/EA12406.htm", "20.png", "E3014", "E3010", "", "State0","{2AA2A587-1EE6-40f0-88BD-772166141F63}");

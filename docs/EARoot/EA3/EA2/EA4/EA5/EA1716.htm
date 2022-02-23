@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Invoice Payment</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA1717.png" usemap="#EA1717" border="0" />
+
+<MAP NAME="EA1717">
+<area shape="rect" coords="10,10,427,41" href="EA1726.htm" target="_self">
+<area shape="rect" coords="658,110,861,292" href="EA1728.htm" target="_self">
+<area shape="rect" coords="550,210,574,234" href="EA1749.htm" target="_self">
+<area shape="rect" coords="237,139,263,173" href="EA1755.htm" target="_self">
+<area shape="rect" coords="333,305,413,343" href="EA1757.htm" target="_self">
+<area shape="rect" coords="353,422,369,438" href="EA1760.htm" target="_self">
+<area shape="rect" coords="333,385,413,423" href="EA1756.htm" target="_self">
+<area shape="rect" coords="230,422,246,438" href="EA1759.htm" target="_self">
+<area shape="rect" coords="210,385,290,423" href="EA1758.htm" target="_self">
+<area shape="rect" coords="452,139,478,173" href="EA1750.htm" target="_self">
+<area shape="rect" coords="522,137,602,175" href="EA1751.htm" target="_self">
+<area shape="rect" coords="333,137,413,175" href="EA1754.htm" target="_self">
+<area shape="rect" coords="333,217,413,255" href="EA1753.htm" target="_self">
+<area shape="rect" coords="112,137,192,175" href="EA1752.htm" target="_self">
+<area shape="rect" coords="53,148,69,164" href="EA1748.htm" target="_self">
+<area shape="rect" coords="25,70,603,285" href="EA1746.htm" target="_self">
+<area shape="rect" coords="25,285,603,480" href="EA1747.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Invoice Payment : Activity diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/18/2004 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 2:47:02 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Penny Dark</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{460727A2-F4C4-4c29-8C43-5B0D2A85948B}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Business Analysis tool,&#160;&#160;Activity diagram partitions in Sparx Systems Enterprise Architect&lt;br/&gt;page 12 UML 2.0 Specification&lt;br/&gt;&quot;A grouping of any set of model elements based on a set of criteria.&lt;br/&gt;1. activity diagram: A grouping of activity nodes and edges. Partitions divide the nodes and edges to constrain and&lt;br/&gt;show a view of the contained nodes. Partitions can share contents. They often correspond to organizational units in&lt;br/&gt;a business model. They may be used to allocate characteristics or resources among the nodes of an activity.&lt;br/&gt;2. architecture: A set of related classifiers or packages at the same level of abstraction or across layers in a layered&lt;br/&gt;architecture. A partition represents a vertical slice through an architecture, whereas a layer represents a horizontal&lt;br/&gt;slice. Contrast: layer.&quot;&lt;br/&gt;&lt;br/&gt;page. 307&lt;br/&gt;&quot;An activity partition is a kind of activity group for identifying actions that have some characteristic in&lt;br/&gt;common.&quot;&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

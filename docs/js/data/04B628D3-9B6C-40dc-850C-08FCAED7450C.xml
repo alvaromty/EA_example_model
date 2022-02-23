@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.13.2.2:1", "", "Data Model - PostgreSQL", "EARoot/EA13/EA2/EA2/EA7087.htm", "175.png", "443", "0", "", "Logical diagram0","{1A4FC02F-C078-4373-862A-C8E4075A581C}");
+tocTab[tocTab.length] = new Array("0.13.2.2:2", "", "«EAReportSpecification» «Database» PostgreSQL", "EARoot/EA13/EA2/EA2/EA7090.htm", "82.png", "E3841", "0", "", "Artifact0","{DBBE2C8A-E8B1-43e5-8993-FB0B00A6011D}");
+tocTab[tocTab.length] = new Array("0.13.2.2.1", "1", "Logical Model", "EARoot/EA13/EA2/EA2/EA1/EA7095.htm", "4.png", "", "", "{D267DC64-FF05-4f46-9F47-4CD33C63CAD6}", "Package");
+tocTab[tocTab.length] = new Array("0.13.2.2.2", "1", "«Database» Orders (postgres)", "EARoot/EA13/EA2/EA2/EA2/EA7109.htm", "4.png", "", "", "{DDE6E157-F585-4858-872A-08B9885C7405}", "Package");

@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1:1", "", "DecisionService", "EARoot/EA20/EA3/EA17/EA2/EA1/EA11647.htm", "189.png", "1019", "0", "", "Analysis diagram0","{D171C928-AD15-4f3a-AA38-FFA23EBEE6BE}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1:2", "", "Routing", "EARoot/EA20/EA3/EA17/EA2/EA1/EA11649.htm", "189.png", "1018", "0", "", "Analysis diagram0","{8D7EEDB0-0827-407d-AC99-D66ECBFFBEE0}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1:3", "", "Strategy", "EARoot/EA20/EA3/EA17/EA2/EA1/EA11651.htm", "189.png", "1016", "0", "", "Analysis diagram0","{15F17089-8168-4674-A8E0-8B48B8D55B64}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1:4", "", "«DecisionService» DecisionService1", "EARoot/EA20/EA3/EA17/EA2/EA1/EA11656.htm", "21.png", "E9928", "0", "", "Activity0","{2EFF5C21-9018-4194-B21C-426DB8F529AE}");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.1", "1", "Knowledge Sources", "EARoot/EA20/EA3/EA17/EA2/EA1/EA1/EA11663.htm", "4.png", "", "", "{9402B41F-F457-43a4-9F2B-E1197B5D06CE}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.2", "1", "Business Knowledge Models", "EARoot/EA20/EA3/EA17/EA2/EA1/EA2/EA11669.htm", "4.png", "", "", "{CB7A5132-AE57-447c-9A52-50CB15A93975}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.3", "1", "Decisions", "EARoot/EA20/EA3/EA17/EA2/EA1/EA3/EA11679.htm", "4.png", "", "", "{3B4A3039-C471-407d-89E2-E136701E085D}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.4", "1", "Input Data", "EARoot/EA20/EA3/EA17/EA2/EA1/EA4/EA11691.htm", "4.png", "", "", "{B24603F0-1A36-471e-A4E5-816E24DEF9F5}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.5", "1", "Item Definitions", "EARoot/EA20/EA3/EA17/EA2/EA1/EA5/EA11696.htm", "4.png", "", "", "{AABEC165-2736-4b91-AB64-3D91EAB47E03}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.17.2.1.6", "1", "Configuration", "EARoot/EA20/EA3/EA17/EA2/EA1/EA6/EA11721.htm", "4.png", "", "", "{7FC388A8-9B8E-4f1c-8015-14ED34E30628}", "Package");

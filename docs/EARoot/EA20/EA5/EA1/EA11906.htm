@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>StateMachine</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA11907.png" usemap="#EA11907" border="0" />
+
+<MAP NAME="EA11907">
+<area shape="rect" coords="26,143,46,163" href="EA11913.htm" target="_self">
+<area shape="rect" coords="359,95,379,115" href="EA11923.htm" target="_self">
+<area shape="rect" coords="359,197,379,217" href="EA11921.htm" target="_self">
+<area shape="rect" coords="361,305,381,325" href="EA11922.htm" target="_self">
+<area shape="rect" coords="519,386,582,416" href="EA11934.htm" target="_self">
+<area shape="rect" coords="411,386,474,416" href="EA11933.htm" target="_self">
+<area shape="rect" coords="359,392,379,412" href="EA11924.htm" target="_self">
+<area shape="rect" coords="627,386,690,416" href="EA11935.htm" target="_self">
+<area shape="rect" coords="411,292,474,322" href="EA11931.htm" target="_self">
+<area shape="rect" coords="559,290,622,320" href="EA11919.htm" target="_self">
+<area shape="rect" coords="538,267,642,336" href="EA11918.htm" target="_self">
+<area shape="rect" coords="524,247,652,344" href="EA11932.htm" target="_self">
+<area shape="rect" coords="519,195,582,225" href="EA11929.htm" target="_self">
+<area shape="rect" coords="627,195,690,225" href="EA11930.htm" target="_self">
+<area shape="rect" coords="411,195,474,225" href="EA11928.htm" target="_self">
+<area shape="rect" coords="411,91,474,121" href="EA11925.htm" target="_self">
+<area shape="rect" coords="627,137,690,167" href="EA11927.htm" target="_self">
+<area shape="rect" coords="519,136,582,166" href="EA11926.htm" target="_self">
+<area shape="rect" coords="302,251,317,266" href="EA11920.htm" target="_self">
+<area shape="rect" coords="309,47,704,436" href="EA11916.htm" target="_self">
+<area shape="rect" coords="89,68,239,173" href="EA11915.htm" target="_self">
+<area shape="rect" coords="26,83,46,103" href="EA11914.htm" target="_self">
+<area shape="rect" coords="10,10,722,453" href="EA11912.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">StateMachine : StateMachine diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/25/2016 10:34:20 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 11:05:25 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{4F8A92E3-FB08-48db-91E2-B3BA74BAC58C}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Example StateMachine transitions diagram in Sparx Systems Enterprise Architect&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

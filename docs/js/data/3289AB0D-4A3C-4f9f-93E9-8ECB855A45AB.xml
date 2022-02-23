@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.10:1", "", "Polar Chart - Javascript", "EARoot/EA2/EA10/EA10/EA957.htm", "188.png", "1054", "0", "", "Custom diagram0","{A7641B43-C687-41af-A3A5-5558666A7EF8}");
+tocTab[tocTab.length] = new Array("0.2.10.10:2", "", "Polar Chart - JSON", "EARoot/EA2/EA10/EA10/EA959.htm", "188.png", "1055", "0", "", "Custom diagram0","{ABF6B560-299A-4534-A9F3-D01188D466D5}");
+tocTab[tocTab.length] = new Array("0.2.10.10:3", "", "«SSDynamicChart» Polar Chart - JavaScript", "EARoot/EA2/EA10/EA10/EA962.htm", "5.png", "E10096", "0", "", "Class0","{6E35CE49-DBAB-4c3f-AD44-A2B7EEEE3246}");
+tocTab[tocTab.length] = new Array("0.2.10.10:4", "", "«SSDynamicChart» Polar Chart - JSON", "EARoot/EA2/EA10/EA10/EA963.htm", "5.png", "E10131", "0", "", "Class0","{65F24DE3-3A55-4117-8A83-DA7CF816572C}");

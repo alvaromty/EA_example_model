@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.21.2.4.1.2:1", "", "Pro Cloud Server", "EARoot/EA21/EA2/EA4/EA1/EA2/EA12806.htm", "10.png", "E3934", "0", "", "Component0","{2C82A866-1F4B-4b74-9936-0A77D8A97C00}");
+tocTab[tocTab.length] = new Array("0.21.2.4.1.2:2", "", "https port (configrable port number)", "EARoot/EA21/EA2/EA4/EA1/EA2/EA12807.htm", "95.png", "E4038", "E3934", "", "Port0","{B6BF5090-B454-4700-A10D-98CD142FE655}");
+tocTab[tocTab.length] = new Array("0.21.2.4.1.2:3", "", "Web Port (configrable port number)", "EARoot/EA21/EA2/EA4/EA1/EA2/EA12808.htm", "95.png", "E4039", "E3934", "", "Port0","{13450C3F-5E63-4a89-99BE-D028FD9C292B}");

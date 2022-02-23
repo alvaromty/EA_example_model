@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.11:1", "", "Radar - Javascript", "EARoot/EA2/EA10/EA11/EA964.htm", "188.png", "1056", "0", "", "Custom diagram0","{083A1B2E-17CE-44b0-9FDA-DA0C016AF2FD}");
+tocTab[tocTab.length] = new Array("0.2.10.11:2", "", "Radar - JSON", "EARoot/EA2/EA10/EA11/EA966.htm", "188.png", "1057", "0", "", "Custom diagram0","{A0B69AF0-0FD4-40df-89C8-92A218616620}");
+tocTab[tocTab.length] = new Array("0.2.10.11:3", "", "«SSDynamicChart» Radar - JavaScript", "EARoot/EA2/EA10/EA11/EA969.htm", "5.png", "E10098", "0", "", "Class0","{80DB3786-9DF9-4819-8EE6-03F77354F129}");
+tocTab[tocTab.length] = new Array("0.2.10.11:4", "", "«SSDynamicChart» Radar - JSON", "EARoot/EA2/EA10/EA11/EA970.htm", "5.png", "E10097", "0", "", "Class0","{98EB36A3-B9D0-4f4c-BA0A-E87430639CF1}");

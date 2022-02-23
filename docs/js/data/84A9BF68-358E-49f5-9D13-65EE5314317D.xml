@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.5.2:1", "", "«DMScripts» ArchiMate JSON Import", "EARoot/EA2/EA5/EA2/EA599.htm", "5.png", "E10010", "0", "", "Class0","{F42B15FF-27EB-4268-9037-C10DFA006AE4}");
+tocTab[tocTab.length] = new Array("0.2.5.2:2", "", "example.json", "EARoot/EA2/EA5/EA2/EA600.htm", "82.png", "E10005", "0", "", "Artifact0","{3F0828D5-CB88-4cfd-B46F-E024F65D1E3B}");
+tocTab[tocTab.length] = new Array("0.2.5.2:3", "", "«DMSet» Full File", "EARoot/EA2/EA5/EA2/EA601.htm", "5.png", "E10007", "0", "", "Class0","{75121A56-36E2-43cc-A257-5F80CB2C22ED}");
+tocTab[tocTab.length] = new Array("0.2.5.2:4", "", "«DMConnection» Local ArchiMate JSON example", "EARoot/EA2/EA5/EA2/EA602.htm", "5.png", "E10008", "0", "", "Class0","{8DA15EC1-2E7E-40ce-B2EE-5EDD33E839A1}");
+tocTab[tocTab.length] = new Array("0.2.5.2:5", "", "«DMConnection» Online ArchiMate JSON example", "EARoot/EA2/EA5/EA2/EA603.htm", "5.png", "E10001", "0", "", "Class0","{2D71DB67-FF6F-44cf-BC5C-1C0C30FEDC0B}");

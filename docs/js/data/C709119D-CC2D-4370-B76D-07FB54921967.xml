@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.18.6.2.2:1", "", "Register User", "EARoot/EA18/EA6/EA2/EA2/EA10787.htm", "175.png", "318", "0", "", "Logical diagram0","{39C20A97-CAFC-4f57-8875-B07818E94995}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:2", "", "«web page» Register as New User", "EARoot/EA18/EA6/EA2/EA2/EA10790.htm", "11.png", "E2530", "0", "", "Screen0","{3A4EDD7E-A699-4a51-9E10-65B13AEFBEB8}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:3", "", "«text» Address", "EARoot/EA18/EA6/EA2/EA2/EA10791.htm", "16.png", "E2529", "E2530", "", "GUIElement0","{0F9C82CC-589F-4a7e-954E-B2418E201B61}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:4", "", "«button» Cancel", "EARoot/EA18/EA6/EA2/EA2/EA10792.htm", "16.png", "E2533", "E2530", "", "GUIElement0","{58C5E663-0F2F-44e3-A7AA-1CE156D739D9}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:5", "", "«text» City", "EARoot/EA18/EA6/EA2/EA2/EA10793.htm", "16.png", "E2528", "E2530", "", "GUIElement0","{05B37854-996B-4e95-8825-7C6BE3657670}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:6", "", "«text» eMail", "EARoot/EA18/EA6/EA2/EA2/EA10794.htm", "16.png", "E2534", "E2530", "", "GUIElement0","{834D9288-1633-47b6-8A8F-1B630771D6A2}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:7", "", "«text» Password", "EARoot/EA18/EA6/EA2/EA2/EA10795.htm", "16.png", "E2535", "E2530", "", "GUIElement0","{B3C9AF6F-4B70-42c3-BD1A-1BD03F5EE953}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:8", "", "«button» Submit", "EARoot/EA18/EA6/EA2/EA2/EA10796.htm", "16.png", "E2532", "E2530", "", "GUIElement0","{52D9D29C-436B-4eab-8B80-197FDEF1405B}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:9", "", "«dropdown» Title", "EARoot/EA18/EA6/EA2/EA2/EA10797.htm", "16.png", "E2536", "E2530", "", "GUIElement0","{F2383997-8193-438a-A782-EBEC0E303E59}");
+tocTab[tocTab.length] = new Array("0.18.6.2.2:10", "", "«text» User Name", "EARoot/EA18/EA6/EA2/EA2/EA10798.htm", "16.png", "E2531", "E2530", "", "GUIElement0","{3F35B307-A686-4307-B111-4EB9ADE03860}");

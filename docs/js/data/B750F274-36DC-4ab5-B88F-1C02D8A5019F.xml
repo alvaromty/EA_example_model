@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.5:1", "", "Example UML Profile", "EARoot/EA4/EA5/EA2179.htm", "175.png", "75", "0", "", "Logical diagram0","{A3BB192C-66A5-4d9b-AE7C-9EC573E24B2E}");
+tocTab[tocTab.length] = new Array("0.4.5.1", "1", "«profile» ecoSystem Stereotypes", "EARoot/EA4/EA5/EA1/EA2195.htm", "4.png", "", "", "{66609878-B52E-4bcc-880D-9987D2251400}", "Package");
+tocTab[tocTab.length] = new Array("0.4.5.2", "1", "«diagram profile» ecoSystem Diagram", "EARoot/EA4/EA5/EA2/EA2210.htm", "4.png", "", "", "{14E306CF-40B1-44ad-A5DA-330DE5FF208A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.5.3", "1", "«toolbox profile» ecoSystemToolbox", "EARoot/EA4/EA5/EA3/EA2220.htm", "4.png", "", "", "{C5FF0F27-D3B7-4308-8FA6-14CBB261BF28}", "Package");

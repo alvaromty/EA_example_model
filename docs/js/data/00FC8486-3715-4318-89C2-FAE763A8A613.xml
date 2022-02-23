@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.8.6:1", "", "Discussion Review - screenshot", "EARoot/EA8/EA6/EA6446.htm", "188.png", "680", "0", "", "Custom diagram0","{8947AC97-3C2D-4690-813E-2E773BA484F5}");
+tocTab[tocTab.length] = new Array("0.8.6:2", "", "Element Discussions", "EARoot/EA8/EA6/EA6448.htm", "188.png", "452", "0", "", "Custom diagram0","{1A3BA279-ED8C-4725-8350-26ADC2C952BA}");
+tocTab[tocTab.length] = new Array("0.8.6:3", "", "Element Discussions - screenshot", "EARoot/EA8/EA6/EA6450.htm", "188.png", "676", "0", "", "Custom diagram0","{E2033DE1-8ABC-4a71-8099-8D58A0E9D28A}");
+tocTab[tocTab.length] = new Array("0.8.6:4", "", "Anne_Actor", "EARoot/EA8/EA6/EA6461.htm", "6.png", "E6716", "0", "", "Actor0","{505A5AB6-0705-4ff1-9E8A-F70ED1DD1B78}");
+tocTab[tocTab.length] = new Array("0.8.6:5", "", "«Image» DiscussionReview_window.png", "EARoot/EA8/EA6/EA6463.htm", "82.png", "E3125", "0", "", "Artifact0","{F639AD1C-2C28-4c9b-A2AE-B440B087BBA4}");
+tocTab[tocTab.length] = new Array("0.8.6:6", "", "«Image» ElementDiscussions_window.png", "EARoot/EA8/EA6/EA6465.htm", "82.png", "E3895", "0", "", "Artifact0","{BDD0AD9E-8664-4ded-B037-1DC03E1AEF74}");
+tocTab[tocTab.length] = new Array("0.8.6:7", "", "«Image» ElementDiscussions_window.png", "EARoot/EA8/EA6/EA6466.htm", "82.png", "E6718", "0", "", "Artifact0","{5321268A-9F84-4244-823F-976FFD7FFB49}");

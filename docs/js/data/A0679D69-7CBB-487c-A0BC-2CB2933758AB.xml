@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.4.1.2.1:1", "", "IDD_DEBUGMARKUP", "EARoot/EA4/EA1/EA2/EA1/EA1864.htm", "188.png", "79", "0", "", "Custom diagram0","{E51FB2AE-BF40-4eb9-B8B9-71084994B5E5}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:2", "", "«win32Tree» ", "EARoot/EA4/EA1/EA2/EA1/EA1869.htm", "16.png", "E509", "0", "", "GUIElement0","{5DEAB118-A7B1-4b28-8D4C-77FDFC522598}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:3", "", "«win32RadioButton» &Existing marker set", "EARoot/EA4/EA1/EA2/EA1/EA1870.htm", "16.png", "E514", "0", "", "GUIElement0","{D4107E70-8610-4799-84B2-E05E1A17D6BA}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:4", "", "«win32CheckBox» &Include disabled operations", "EARoot/EA4/EA1/EA2/EA1/EA1871.htm", "16.png", "E507", "0", "", "GUIElement0","{522D684E-8DEB-476b-8D91-8132546529BF}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:5", "", "«win32StaticText» &Limit recording frame depth:", "EARoot/EA4/EA1/EA2/EA1/EA1872.htm", "16.png", "E515", "0", "", "GUIElement0","{DE6EB450-D4D2-4346-9289-733CA5A7FB01}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:6", "", "«win32StaticText» &Marker Type:", "EARoot/EA4/EA1/EA2/EA1/EA1873.htm", "16.png", "E516", "0", "", "GUIElement0","{E688EFDF-F02C-43eb-8D38-E318D48CB9B1}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:7", "", "«win32RadioButton» &New marker set:", "EARoot/EA4/EA1/EA2/EA1/EA1874.htm", "16.png", "E512", "0", "", "GUIElement0","{BBB07B03-8A58-4a47-A713-FD7C2842485B}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:8", "", "«win32GroupBox» Add Markers To...", "EARoot/EA4/EA1/EA2/EA1/EA1875.htm", "16.png", "E475", "0", "", "GUIElement0","{A82E82D1-1906-473a-9FC8-C37606DD1EDB}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:9", "", "«win32Button» Cancel", "EARoot/EA4/EA1/EA2/EA1/EA1876.htm", "16.png", "E503", "0", "", "GUIElement0","{26504240-8E93-450c-A65D-44BCD5B7B467}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:10", "", "«win32Dialog» Class Markup Selection", "EARoot/EA4/EA1/EA2/EA1/EA1877.htm", "16.png", "E506", "0", "", "GUIElement0","{4A6C7D25-A145-4b85-8778-67A3879E25E5}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:11", "", "«win32Edit» IDC_BUDDY", "EARoot/EA4/EA1/EA2/EA1/EA1878.htm", "16.png", "E504", "0", "", "GUIElement0","{30D57DE0-C0F5-4754-8E99-3F89211824F2}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:12", "", "«win32ComboBox» IDC_COMBO1", "EARoot/EA4/EA1/EA2/EA1/EA1879.htm", "16.png", "E513", "0", "", "GUIElement0","{CA14A522-00B7-4014-BD3E-B8F0D1481134}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:13", "", "«win32Edit» IDC_SET_NAME", "EARoot/EA4/EA1/EA2/EA1/EA1880.htm", "16.png", "E501", "0", "", "GUIElement0","{261EEAC2-7063-4486-A33D-04CEB0CC838B}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:14", "", "«win32StaticText» N&ame:", "EARoot/EA4/EA1/EA2/EA1/EA1881.htm", "16.png", "E505", "0", "", "GUIElement0","{3199DB94-D45D-42e6-9921-A3ABA10982C7}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:15", "", "«win32Spin» ", "EARoot/EA4/EA1/EA2/EA1/EA1882.htm", "16.png", "E508", "E506", "", "GUIElement0","{5647FE36-3186-45d6-9DAA-6C7B16D42400}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1:16", "", "«win32Button» OK", "EARoot/EA4/EA1/EA2/EA1/EA1883.htm", "16.png", "E510", "E506", "", "GUIElement0","{9822904B-B369-424c-8252-D6E243A01AA1}");

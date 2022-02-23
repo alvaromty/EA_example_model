@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.16.3.5.5:1", "", "Components", "EARoot/EA16/EA3/EA5/EA5/EA10001.htm", "175.png", "149", "0", "", "Logical diagram0","{BDB6A3A5-7609-409b-8220-B084B224E0E1}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:2", "", "«block» Charging Unit - ADP2291", "EARoot/EA16/EA3/EA5/EA5/EA10004.htm", "5.png", "E1388", "0", "", "Class0","{674960CD-ECA3-49ba-8EAD-57C71E931104}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:3", "", "«block» Codec with Amplifier - TLV320AIC3107", "EARoot/EA16/EA3/EA5/EA5/EA10005.htm", "5.png", "E1391", "0", "", "Class0","{D99E4E44-CC77-4094-8422-9CF74ECB3885}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:4", "", "«block» Li-Ion Battery Monitoring System - AD7230", "EARoot/EA16/EA3/EA5/EA5/EA10006.htm", "5.png", "E1394", "0", "", "Class0","{EEE11DF1-44C7-41a3-974B-6AE34C7BDAA4}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:5", "", "«block» Memory - MT42L32M64D2KH-25", "EARoot/EA16/EA3/EA5/EA5/EA10007.htm", "5.png", "E1392", "0", "", "Class0","{DA8651B0-7D4C-48e5-AC35-AEDB40753D32}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:6", "", "«block» Panasonic Li-Ion CGR18650AF", "EARoot/EA16/EA3/EA5/EA5/EA10008.htm", "5.png", "E1383", "0", "", "Class0","{36CF5DF2-0AF2-44ae-A3A6-F2CC0F56995F}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:7", "", "«block» Processor - TMS320VC5507", "EARoot/EA16/EA3/EA5/EA5/EA10009.htm", "5.png", "E1386", "0", "", "Class0","{5EAAB13D-B1CE-449a-9FC6-B87BCBA73082}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:8", "", "«block» RS232", "EARoot/EA16/EA3/EA5/EA5/EA10010.htm", "5.png", "E1393", "0", "", "Class0","{EABA2049-CFA3-4643-8A8B-16682B938DDB}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:9", "", "«block» Touch-screen", "EARoot/EA16/EA3/EA5/EA5/EA10011.htm", "5.png", "E1389", "0", "", "Class0","{7CAB432B-9D1A-4694-B9B4-FA382C69B976}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:10", "", "«block» USB - PL-2528", "EARoot/EA16/EA3/EA5/EA5/EA10012.htm", "5.png", "E1385", "0", "", "Class0","{5B0597D7-4A1F-41f2-A8FB-02A9355CFF84}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:11", "", "chargeIndicator: FS_ChargeFlow", "EARoot/EA16/EA3/EA5/EA5/EA10013.htm", "95.png", "E1390", "E1383", "", "Port0","{7EE7F4F2-D2B2-4e93-B26A-BF31FE5EEB1E}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:12", "", "charger: FS_ChargeFlow", "EARoot/EA16/EA3/EA5/EA5/EA10014.htm", "95.png", "E1384", "E1388", "", "Port0","{4E20A324-0A0D-4bf8-BF49-849DE67E61B1}");
+tocTab[tocTab.length] = new Array("0.16.3.5.5:13", "", "chargeMonitor: FS_ChargeFlow", "EARoot/EA16/EA3/EA5/EA5/EA10015.htm", "95.png", "E1387", "E1394", "", "Port0","{61C2D02C-F0AB-406e-A1E7-96804CC142CA}");

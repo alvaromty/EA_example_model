@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.1.2.1.2:1", "", "Fusion CRM", "EARoot/EA12/EA1/EA2/EA1/EA2/EA7001.htm", "5.png", "E3312", "0", "", "Class0","{04AD22C8-F684-462b-AB91-022E5E284B50}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.2:2", "", "Fusion HCM", "EARoot/EA12/EA1/EA2/EA1/EA2/EA7002.htm", "5.png", "E3247", "0", "", "Class0","{BF37E078-C37F-448a-8FCE-C0FFF8D7BC07}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.2:3", "", "Social Network", "EARoot/EA12/EA1/EA2/EA1/EA2/EA7003.htm", "5.png", "E3313", "0", "", "Class0","{EDA0E534-5C05-4b9f-8BF6-39F3AF6AE297}");

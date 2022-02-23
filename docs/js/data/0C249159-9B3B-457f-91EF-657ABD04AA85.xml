@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.20.3.16.2:1", "", "DMN", "EARoot/EA20/EA3/EA16/EA2/EA11614.htm", "189.png", "1017", "0", "", "Analysis diagram0","{9DBE568F-FD8D-40cf-B306-98C5866F9D11}");
+tocTab[tocTab.length] = new Array("0.20.3.16.2:2", "", "«BusinessKnowledgeModel» Compute Delivery Cost", "EARoot/EA20/EA3/EA16/EA2/EA11617.htm", "45A3469A-1_BusinessKnowledgeModel.png", "E9920", "0", "", "Activity0","{8A103EA2-FCED-4e85-B750-505F5E92CAE1}");
+tocTab[tocTab.length] = new Array("0.20.3.16.2:3", "", "«DMNSimConfiguration» Delivery Cost Calculator", "EARoot/EA20/EA3/EA16/EA2/EA11618.htm", "82.png", "E9918", "0", "", "Artifact0","{C3F25316-4B18-43eb-89A7-D53E695C99CD}");
+tocTab[tocTab.length] = new Array("0.20.3.16.2:4", "", "«Decision» DummyDecision", "EARoot/EA20/EA3/EA16/EA2/EA11619.htm", "45A3469A-1_Decision.png", "E9919", "0", "", "Activity0","{BF85F457-57A5-4843-9F64-3E439F09D84D}");

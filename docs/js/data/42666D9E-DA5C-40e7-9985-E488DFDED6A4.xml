@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.20.5.1", "1", "Entering A State", "EARoot/EA20/EA5/EA1/EA11908.htm", "4.png", "", "", "{755148B9-33FE-4c00-AEEA-08D2EC6EC58B}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.2", "1", "Entry and Exit Points (Connection Point References)", "EARoot/EA20/EA5/EA2/EA11954.htm", "4.png", "", "", "{429E9D22-2278-4a95-9191-E919BD7A3EEB}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.3", "1", "History Pseudostate", "EARoot/EA20/EA5/EA3/EA11994.htm", "4.png", "", "", "{8B506FBE-495F-4133-9CF1-592552890222}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.4", "1", "Simulation Commands", "EARoot/EA20/EA5/EA4/EA12057.htm", "4.png", "", "", "{920EE812-68B6-4bf2-AA4F-FE636B48FF7D}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.5", "1", "Simulation with Deferred Event", "EARoot/EA20/EA5/EA5/EA12081.htm", "4.png", "", "", "{CED7DAD8-FA82-4977-9564-400D914A0071}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.6", "1", "ForkNJoin", "EARoot/EA20/EA5/EA6/EA12112.htm", "4.png", "", "", "{F1676819-31B0-48d8-8009-CCCA2DB9415A}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.7", "1", "Example: CD Player", "EARoot/EA20/EA5/EA7/EA12134.htm", "4.png", "", "", "{5D1C5458-6240-4714-BF54-49BDE6344ADE}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5.8", "1", "Example: Regular Expression Parser", "EARoot/EA20/EA5/EA8/EA12160.htm", "4.png", "", "", "{07309EB4-B4E0-4cee-97F6-5F61A70211FE}", "Package");

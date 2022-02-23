@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.8.8.3.1:1", "", "1 stage workflow", "EARoot/EA8/EA8/EA3/EA1/EA6557.htm", "188.png", "653", "0", "", "Custom diagram0","{9BC95FE8-F0CC-4727-84F2-821C88C9A293}");
+tocTab[tocTab.length] = new Array("0.8.8.3.1:2", "", "«UserStory» As a Customer I want to be able to add new orders to existing ones if they have not shipped", "EARoot/EA8/EA8/EA3/EA1/EA6561.htm", "19.png", "E6541", "0", "", "Requirement0","{DA9F1239-CE1E-409a-9A70-C7C2DD6BB5C9}");

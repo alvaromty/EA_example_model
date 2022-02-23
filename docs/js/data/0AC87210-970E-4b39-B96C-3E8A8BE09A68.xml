@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.17.1.2.2:1", "", "BookTestClient", "EARoot/EA17/EA1/EA2/EA2/EA10142.htm", "175.png", "176", "0", "", "Logical diagram0","{79564961-BDA9-45b5-B87F-97B9B3E38721}");
+tocTab[tocTab.length] = new Array("0.17.1.2.2:2", "", "PriceTotaller", "EARoot/EA17/EA1/EA2/EA2/EA10145.htm", "5.png", "E1456", "0", "", "Class0","{8EE5ECFD-390E-4474-B74A-FF4FE65BB9BA}");
+tocTab[tocTab.length] = new Array("0.17.1.2.2:3", "", "Test", "EARoot/EA17/EA1/EA2/EA2/EA10146.htm", "5.png", "E1457", "0", "", "Class0","{8F244139-6E4A-4219-BDEC-B01D3852B0BF}");

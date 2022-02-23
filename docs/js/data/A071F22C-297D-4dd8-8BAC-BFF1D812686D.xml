@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.11:1", "", "Model Based Add-Ins", "EARoot/EA2/EA11/EA992.htm", "175.png", "992", "0", "", "Logical diagram0","{62A719AD-E3EC-4e19-80F2-6EE690C5A771}");
+tocTab[tocTab.length] = new Array("0.2.11.1", "1", "Sample Addins", "EARoot/EA2/EA11/EA1/EA1002.htm", "4.png", "", "", "{ADF5F2FE-640E-4356-83B1-D3C255767496}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.2", "1", "Broadcast Types", "EARoot/EA2/EA11/EA2/EA1015.htm", "4.png", "", "", "{D6F9AE1A-CE46-4be6-A6E0-F280E738FC53}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.3", "1", "Utilities", "EARoot/EA2/EA11/EA3/EA1045.htm", "4.png", "", "", "{231817FE-9501-42e5-A351-AD1ED450B403}", "Package");

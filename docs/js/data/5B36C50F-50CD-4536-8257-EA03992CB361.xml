@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.21.2.4.2:1", "", "Branch Office Berlin local area network: Local Area Network", "EARoot/EA21/EA2/EA4/EA2/EA12810.htm", "25.png", "E6869", "0", "", "Object0","{F352ACE6-B188-460b-937B-AA75023A5698}");
+tocTab[tocTab.length] = new Array("0.21.2.4.2:2", "", "Branch Office London local area network: Local Area Network", "EARoot/EA21/EA2/EA4/EA2/EA12811.htm", "25.png", "E6670", "0", "", "Object0","{C4F4B105-023D-4121-BE66-283B0796AAC6}");
+tocTab[tocTab.length] = new Array("0.21.2.4.2:3", "", "Head Office New York local area network: Local Area Network", "EARoot/EA21/EA2/EA4/EA2/EA12812.htm", "25.png", "E6911", "0", "", "Object0","{428B3B6C-040C-48ca-99C4-6B7A27D96D27}");

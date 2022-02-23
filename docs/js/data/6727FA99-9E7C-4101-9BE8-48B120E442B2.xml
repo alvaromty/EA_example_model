@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.16.2:1", "", "Interface Types", "EARoot/EA6/EA16/EA2/EA4274.htm", "178.png", "621", "0", "", "Component diagram0","{FF844D8F-D886-40c0-8DCD-B99917C53912}");
+tocTab[tocTab.length] = new Array("0.6.16.2.1", "1", "Library Based", "EARoot/EA6/EA16/EA2/EA1/EA4283.htm", "4.png", "", "", "{12B6123D-B885-4517-8280-DED532A7D98C}", "Package");
+tocTab[tocTab.length] = new Array("0.6.16.2.2", "1", "File Transfer", "EARoot/EA6/EA16/EA2/EA2/EA4286.htm", "4.png", "", "", "{2EE6E999-62C9-40fa-A7E3-9F5443EAA8C5}", "Package");
+tocTab[tocTab.length] = new Array("0.6.16.2.3", "1", "Web Service", "EARoot/EA6/EA16/EA2/EA3/EA4291.htm", "4.png", "", "", "{235866CB-4C79-406b-A569-8B2506DF894B}", "Package");
+tocTab[tocTab.length] = new Array("0.6.16.2.4", "1", "Object Remoting", "EARoot/EA6/EA16/EA2/EA4/EA4296.htm", "4.png", "", "", "{652725F9-92AF-4fe6-B2B3-F7B9D3936BCD}", "Package");
+tocTab[tocTab.length] = new Array("0.6.16.2.5", "1", "Database", "EARoot/EA6/EA16/EA2/EA5/EA4299.htm", "4.png", "", "", "{547FF707-9D45-4d57-AB20-E6AB9877EF76}", "Package");

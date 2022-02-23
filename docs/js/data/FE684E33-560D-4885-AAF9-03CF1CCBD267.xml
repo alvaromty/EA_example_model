@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.7.7.1.2:2", "", "Sub Process Activity", "EARoot/EA7/EA7/EA1/EA2/EA5675.htm", "189.png", "210", "0", "", "Analysis diagram0","{ACEC98BC-9289-4fd9-93D3-ADEC605249CF}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:3", "", "«StartEvent» ", "EARoot/EA7/EA7/EA1/EA2/EA5678.htm", "4C9380A5-0_StartEvent.png", "E1689", "0", "", "Event0","{7F5C0B82-A5B1-4d24-86CA-4EE53781ED23}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:4", "", "«EndEvent» ", "EARoot/EA7/EA7/EA1/EA2/EA5679.htm", "4C9380A5-0_EndEvent.png", "E1691", "0", "", "Event0","{AE92ED84-EA34-4544-92DD-0B6084D274A6}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:5", "", "«Gateway» ", "EARoot/EA7/EA7/EA1/EA2/EA5681.htm", "56.png", "E1696", "0", "", "Decision0","{38FBF9A5-9073-4187-8FBF-F3D55515BCE9}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:6", "", "«EndEvent» ", "EARoot/EA7/EA7/EA1/EA2/EA5682.htm", "4C9380A5-0_EndEvent.png", "E1693", "0", "", "Event0","{D237F49A-1CC6-4532-890C-1FD19D955DAA}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:7", "", "«Gateway» ", "EARoot/EA7/EA7/EA1/EA2/EA5683.htm", "56.png", "E1703", "0", "", "Decision0","{B1C701EE-9000-4586-A858-87C0A3886518}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:8", "", "«Activity» Approve Order", "EARoot/EA7/EA7/EA1/EA2/EA5687.htm", "4C9380A5-0_Activity.png", "E1697", "0", "", "Activity0","{4A771747-DFAC-4c8b-B93E-1C40E7C26F16}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:9", "", "«Gateway» Approved?", "EARoot/EA7/EA7/EA1/EA2/EA5689.htm", "56.png", "E1695", "0", "", "Decision0","{28151BC1-3C70-465f-933C-9A1C03339FF7}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:10", "", "«Activity» Order Handling", "EARoot/EA7/EA7/EA1/EA2/EA5690.htm", "4C9380A5-0_Activity.png", "E1702", "0", "", "Activity0","{A3A43BB8-C9D9-4cd0-99E6-9C1B20A96D32}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:11", "", "«Activity» Quotation Handling", "EARoot/EA7/EA7/EA1/EA2/EA5691.htm", "4C9380A5-0_Activity.png", "E1694", "0", "", "Activity0","{27E8EFB7-A9B1-448e-B823-93F6A86A3217}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:12", "", "«Activity» Review Order", "EARoot/EA7/EA7/EA1/EA2/EA5692.htm", "4C9380A5-0_Activity.png", "E1700", "0", "", "Activity0","{8296B355-4ADC-4bca-9342-E72E20E1DAD0}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:13", "", "«Activity» Shipping Handling", "EARoot/EA7/EA7/EA1/EA2/EA5693.htm", "4C9380A5-0_Activity.png", "E1701", "0", "", "Activity0","{910B3B25-1D12-4ce7-B176-964DCFA87E4B}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:1", "", "Approve Order", "EARoot/EA7/EA7/EA1/EA2/EA5673.htm", "189.png", "211", "E1697", "", "Analysis diagram0","{5043D94C-E904-401b-BF5D-6B9CFB5CF355}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:14", "", "«EndEvent» ", "EARoot/EA7/EA7/EA1/EA2/EA5694.htm", "4C9380A5-0_EndEvent.png", "E1690", "E1697", "", "Event0","{A46A17CE-87B4-476a-8EC4-7384EC477099}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:15", "", "«StartEvent» ", "EARoot/EA7/EA7/EA1/EA2/EA5695.htm", "4C9380A5-0_StartEvent.png", "E1688", "E1697", "", "Event0","{01B1C426-3155-4e7e-A148-D1648671881D}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:16", "", "«Activity» Approve Customer", "EARoot/EA7/EA7/EA1/EA2/EA5698.htm", "4C9380A5-0_Activity.png", "E1699", "E1697", "", "Activity0","{792AD946-5C5C-4c53-BF65-FAA7DE0325E0}");
+tocTab[tocTab.length] = new Array("0.7.7.1.2:17", "", "«Activity» Approve Product", "EARoot/EA7/EA7/EA1/EA2/EA5699.htm", "4C9380A5-0_Activity.png", "E1698", "E1697", "", "Activity0","{69C60DA6-5E8A-4959-86F9-2506A6C53DBF}");

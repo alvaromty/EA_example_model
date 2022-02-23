@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.21.1.3.1.1:1", "", "Smart Phone", "EARoot/EA21/EA1/EA3/EA1/EA1/EA12573.htm", "9.png", "E7694", "0", "", "Node0","{A4B1F229-0DF3-4420-ABE1-530ADB31DCF7}");
+tocTab[tocTab.length] = new Array("0.21.1.3.1.1:2", "", "Tablet", "EARoot/EA21/EA1/EA3/EA1/EA1/EA12574.htm", "9.png", "E7696", "0", "", "Node0","{CD58BB09-4FD5-483c-A575-E7AA88B5A421}");
+tocTab[tocTab.length] = new Array("0.21.1.3.1.1:3", "", "Notebook", "EARoot/EA21/EA1/EA3/EA1/EA1/EA12575.htm", "9.png", "E7695", "0", "", "Node0","{DC68434D-1053-4850-9D73-045C1B966144}");
+tocTab[tocTab.length] = new Array("0.21.1.3.1.1:4", "", "Desktop", "EARoot/EA21/EA1/EA3/EA1/EA1/EA12576.htm", "9.png", "E7697", "0", "", "Node0","{61E81C96-CF3A-4d10-AC74-25A3C53AE221}");

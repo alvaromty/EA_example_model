@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.2.1:1", "", "Functional Requirements", "EARoot/EA6/EA1/EA4/EA3/EA6/EA2/EA1/EA3502.htm", "188.png", "729", "0", "", "Custom diagram0","{17E53FCF-2A61-435b-8981-531AA78D05CA}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.2.1:2", "", "«Functional» REQ011-Secure Access", "EARoot/EA6/EA1/EA4/EA3/EA6/EA2/EA1/EA3506.htm", "19.png", "E4410", "0", "", "Requirement0","{539C35F9-51D2-4e12-A7A1-B5A810E88352}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.2.1:3", "", "«Functional» REQ012 - Process Credit Card Payment", "EARoot/EA6/EA1/EA4/EA3/EA6/EA2/EA1/EA3507.htm", "19.png", "E4409", "0", "", "Requirement0","{C7718BFC-1E18-4e1a-A419-D1BFFC5314DE}");

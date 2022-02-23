@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.2:1", "", "Business Value", "EARoot/EA6/EA2/EA1/EA2/EA3729.htm", "5.png", "E7936", "0", "", "Class0","{DBD46E84-59EF-48d4-B67F-CA58DBC2EBC8}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2:2", "", "Customer Value", "EARoot/EA6/EA2/EA1/EA2/EA3730.htm", "5.png", "E7935", "0", "", "Class0","{18C591DD-A93F-4224-91F0-A1EFADBC51F4}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2:3", "", "Performance Gap", "EARoot/EA6/EA2/EA1/EA2/EA3731.htm", "5.png", "E7937", "0", "", "Class0","{C4669828-36B3-4b70-805E-A447C4442EAC}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2:4", "", "Risk", "EARoot/EA6/EA2/EA1/EA2/EA3732.htm", "5.png", "E7934", "0", "", "Class0","{15A6239C-A154-4e59-9B8D-A1092D06484F}");

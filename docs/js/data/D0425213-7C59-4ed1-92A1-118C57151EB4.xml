@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.4.4:1", "", "Opportunity Definition", "EARoot/EA7/EA4/EA4/EA5398.htm", "188.png", "261", "0", "", "Custom diagram0","{9407BA5D-081A-44a6-B0EA-76296F523090}");
+tocTab[tocTab.length] = new Array("0.7.4.4.1", "1", "Positioning", "EARoot/EA7/EA4/EA4/EA1/EA5410.htm", "4.png", "", "", "{9EFEDB4E-E9F4-46c4-A27B-121982A4CDD1}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4.4.2", "1", "Stakeholders", "EARoot/EA7/EA4/EA4/EA2/EA5420.htm", "4.png", "", "", "{529DD06A-F7A4-46d4-8E70-D4FC06339E39}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4.4.3", "1", "Stakeholders Interests", "EARoot/EA7/EA4/EA4/EA3/EA5433.htm", "4.png", "", "", "{74CE7D7B-9839-412f-A605-1FB1F2A1AE0A}", "Package");

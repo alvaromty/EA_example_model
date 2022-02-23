@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.16.2.2:1", "", "FTP", "EARoot/EA6/EA16/EA2/EA2/EA4287.htm", "8.png", "E6221", "0", "", "Interface0","{24EAFC8F-0995-46fc-8993-875D0E1D2EFF}");
+tocTab[tocTab.length] = new Array("0.6.16.2.2:2", "", "FTPS", "EARoot/EA6/EA16/EA2/EA2/EA4288.htm", "8.png", "E6225", "0", "", "Interface0","{959AFF44-87D6-48ae-90A3-D6E1B6BA7188}");
+tocTab[tocTab.length] = new Array("0.6.16.2.2:3", "", "SSH FTP", "EARoot/EA6/EA16/EA2/EA2/EA4289.htm", "8.png", "E6224", "0", "", "Interface0","{208F8FF6-91B7-4017-8773-CD1BC52739A9}");
+tocTab[tocTab.length] = new Array("0.6.16.2.2:4", "", "File Drop", "EARoot/EA6/EA16/EA2/EA2/EA4290.htm", "8.png", "E6220", "0", "", "Interface0","{4E9BE21B-D61D-4619-A8D9-8B3735767CB3}");

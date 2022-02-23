@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.1.1.1:1", "", "«KnowledgeSource» Affordability Spreadsheet", "EARoot/EA7/EA1/EA1/EA1/EA4706.htm", "45A3469A-1_KnowledgeSource.png", "E8048", "0", "", "Class0","{1204EE63-BB5A-4325-B379-16BA00FA34C5}");
+tocTab[tocTab.length] = new Array("0.7.1.1.1:2", "", "«KnowledgeSource» Analytics", "EARoot/EA7/EA1/EA1/EA1/EA4707.htm", "45A3469A-1_KnowledgeSource.png", "E8050", "0", "", "Class0","{4FA7CBCE-7042-4a1c-9590-9449C24D0283}");
+tocTab[tocTab.length] = new Array("0.7.1.1.1:3", "", "«KnowledgeSource» Credit officer", "EARoot/EA7/EA1/EA1/EA1/EA4708.htm", "45A3469A-1_KnowledgeSource.png", "E8051", "0", "", "Class0","{CD7C446B-E9A8-4197-B3B2-841833959CC0}");
+tocTab[tocTab.length] = new Array("0.7.1.1.1:4", "", "«KnowledgeSource» Product specification", "EARoot/EA7/EA1/EA1/EA1/EA4709.htm", "45A3469A-1_KnowledgeSource.png", "E8049", "0", "", "Class0","{CEF8F8D3-94F6-4f7f-9396-80AD7CD4092A}");
+tocTab[tocTab.length] = new Array("0.7.1.1.1:5", "", "«KnowledgeSource» Risk Manager", "EARoot/EA7/EA1/EA1/EA1/EA4710.htm", "45A3469A-1_KnowledgeSource.png", "E8047", "0", "", "Class0","{868AE542-BF73-43fb-B395-D9B18EC361F0}");

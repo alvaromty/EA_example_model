@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.3.2.2.1:1", "", "Sale", "EARoot/EA3/EA2/EA2/EA1/EA1456.htm", "187.png", "2", "0", "", "InteractionOverview diagram0","{A58EF9C9-217C-45db-93E5-A85302CABE19}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:2", "", "SearchForItem", "EARoot/EA3/EA2/EA2/EA1/EA1462.htm", "102.png", "E62", "0", "", "InteractionOccurrence0","{D4802286-2BA7-457f-8FC3-7D7ED4F1725D}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:3", "", "Add To Shopping Basket", "EARoot/EA3/EA2/EA2/EA1/EA1463.htm", "102.png", "E58", "0", "", "InteractionOccurrence0","{0C88B4D9-0F38-49e6-A6E9-B5D0964A82B6}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:4", "", "CancelSale", "EARoot/EA3/EA2/EA2/EA1/EA1464.htm", "102.png", "E61", "0", "", "InteractionOccurrence0","{5B1C675C-0689-4fc5-9A6B-9C6DDE1CC57F}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:5", "", "CreateRecord", "EARoot/EA3/EA2/EA2/EA1/EA1465.htm", "102.png", "E60", "0", "", "InteractionOccurrence0","{1815F284-2F88-41f4-ACD5-5C68EAA1378A}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:6", "", "Item Exists?", "EARoot/EA3/EA2/EA2/EA1/EA1466.htm", "56.png", "E65", "0", "", "Decision0","{640ED56D-00FA-4e4a-B994-5C7B4FC6EB4A}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:7", "", "Sale Finalized?", "EARoot/EA3/EA2/EA2/EA1/EA1467.htm", "56.png", "E67", "0", "", "Decision0","{9FF86768-FBC8-4ffd-8F3E-8C0B868C0651}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:8", "", "Request Item", "EARoot/EA3/EA2/EA2/EA1/EA1468.htm", "68.png", "E66", "0", "", "StateNode0","{C9F090C5-1E6A-4839-9914-AF89DF06F021}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:9", "", "Record Created", "EARoot/EA3/EA2/EA2/EA1/EA1469.htm", "69.png", "E63", "0", "", "StateNode0","{5B636D03-4C0A-47c9-B22D-461AA9F61D84}");
+tocTab[tocTab.length] = new Array("0.3.2.2.1:10", "", "Sale Canceled", "EARoot/EA3/EA2/EA2/EA1/EA1470.htm", "69.png", "E64", "0", "", "StateNode0","{85B2A8B3-BCD3-43ab-AE34-0AFE7EC13DA6}");

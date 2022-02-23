@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7:1", "", "Analysis and Business Modeling", "EARoot/EA7/EA4665.htm", "176.png", "203", "0", "", "Package diagram0","{B4AED816-9C00-48ec-A1C5-B7DCCF2ECCC0}");
+tocTab[tocTab.length] = new Array("0.7.1", "1", "DMN Examples", "EARoot/EA7/EA1/EA4691.htm", "4.png", "", "", "{0A6CC3E4-CD02-4555-AD09-1A3ADB816521}", "Package");
+tocTab[tocTab.length] = new Array("0.7.2", "1", "Analysis", "EARoot/EA7/EA2/EA4765.htm", "4.png", "", "", "{ED10851B-10A0-4a85-A288-9C1CCB90EC6C}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3", "1", "Business Analysis Tools", "EARoot/EA7/EA3/EA4828.htm", "4.png", "", "", "{9532FD56-4AFB-4103-A197-761E5B8A1DC3}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4", "1", "Business Domain Model", "EARoot/EA7/EA4/EA5292.htm", "4.png", "", "", "{0690845F-81CF-4471-AF84-853F1F83262D}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5", "1", "Business Modeling", "EARoot/EA7/EA5/EA5444.htm", "4.png", "", "", "{D7207CA0-9896-42d5-B63F-DF4DA9295041}", "Package");
+tocTab[tocTab.length] = new Array("0.7.6", "1", "BPEL Example", "EARoot/EA7/EA6/EA5489.htm", "4.png", "", "", "{B159E863-E1E4-470c-9CFF-0BE5735A5D59}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7", "1", "BPMN 2.0 Examples", "EARoot/EA7/EA7/EA5614.htm", "4.png", "", "", "{3EDB875D-0BF4-43b6-8800-B482D4E6B0A4}", "Package");
+tocTab[tocTab.length] = new Array("0.7.8", "1", "Requirements Model", "EARoot/EA7/EA8/EA6144.htm", "4.png", "", "", "{4CB94F1B-CA14-4502-B7F3-FF149B568B49}", "Package");
+tocTab[tocTab.length] = new Array("0.7.9", "1", "CMMN Example", "EARoot/EA7/EA9/EA6336.htm", "4.png", "", "", "{72805F13-9A9B-4abf-8799-DF36678E6E5B}", "Package");

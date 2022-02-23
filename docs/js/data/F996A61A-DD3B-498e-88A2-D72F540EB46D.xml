@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.21.4.3:1", "", "Element Discussions", "EARoot/EA21/EA4/EA3/EA13106.htm", "175.png", "847", "0", "", "Logical diagram0","{F3598D9E-E857-4d15-BC00-E967A9C599DB}");
+tocTab[tocTab.length] = new Array("0.21.4.3:2", "", "Account", "EARoot/EA21/EA4/EA3/EA13111.htm", "5.png", "E7566", "0", "", "Class0","{2601AF00-B149-4b18-AA28-AE2C08FF5E15}");
+tocTab[tocTab.length] = new Array("0.21.4.3:3", "", "Address", "EARoot/EA21/EA4/EA3/EA13112.htm", "5.png", "E7569", "0", "", "Class0","{F998340A-AEE9-49a4-ABD6-C6F7397779FC}");
+tocTab[tocTab.length] = new Array("0.21.4.3:4", "", "Author", "EARoot/EA21/EA4/EA3/EA13113.htm", "5.png", "E7571", "0", "", "Class0","{54BABDB0-5CEE-487a-BE1C-2275619E281B}");
+tocTab[tocTab.length] = new Array("0.21.4.3:5", "", "Cart Item", "EARoot/EA21/EA4/EA3/EA13114.htm", "5.png", "E7578", "0", "", "Class0","{2B81F66F-A283-4e39-A046-A79DD56D524A}");
+tocTab[tocTab.length] = new Array("0.21.4.3:6", "", "Catalog", "EARoot/EA21/EA4/EA3/EA13115.htm", "5.png", "E7579", "0", "", "Class0","{51323F8A-E578-4ecd-AC10-B22FA0D7B017}");
+tocTab[tocTab.length] = new Array("0.21.4.3:7", "", "Editorial Review", "EARoot/EA21/EA4/EA3/EA13116.htm", "5.png", "E7562", "0", "", "Class0","{E802D120-CC3A-4276-A0C2-543CB70E1722}");
+tocTab[tocTab.length] = new Array("0.21.4.3:8", "", "Item", "EARoot/EA21/EA4/EA3/EA13117.htm", "5.png", "E7573", "0", "", "Class0","{F5BC789F-9FDD-40e8-994C-B56C6F45A9D2}");
+tocTab[tocTab.length] = new Array("0.21.4.3:9", "", "Line Item", "EARoot/EA21/EA4/EA3/EA13118.htm", "5.png", "E7575", "0", "", "Class0","{7A534EDF-E73B-41b7-A74D-3A2FDDDD575B}");
+tocTab[tocTab.length] = new Array("0.21.4.3:10", "", "Order", "EARoot/EA21/EA4/EA3/EA13119.htm", "5.png", "E7567", "0", "", "Class0","{76DBAC97-7FF5-4e8c-BE5D-A56C1352F82A}");
+tocTab[tocTab.length] = new Array("0.21.4.3:11", "", "Publisher", "EARoot/EA21/EA4/EA3/EA13120.htm", "5.png", "E7574", "0", "", "Class0","{4C70467E-9361-4eb8-AE86-8FFE1A0ACB36}");
+tocTab[tocTab.length] = new Array("0.21.4.3:12", "", "Reader Review", "EARoot/EA21/EA4/EA3/EA13121.htm", "5.png", "E7561", "0", "", "Class0","{12178D56-8D47-4234-AA33-757462699C88}");
+tocTab[tocTab.length] = new Array("0.21.4.3:13", "", "Review", "EARoot/EA21/EA4/EA3/EA13122.htm", "5.png", "E7565", "0", "", "Class0","{8EA359A0-5F1B-413d-A27F-19357563523B}");
+tocTab[tocTab.length] = new Array("0.21.4.3:14", "", "Shopping Cart", "EARoot/EA21/EA4/EA3/EA13123.htm", "5.png", "E7576", "0", "", "Class0","{6614A5BB-BEF9-4070-84E8-25BCF4A93707}");

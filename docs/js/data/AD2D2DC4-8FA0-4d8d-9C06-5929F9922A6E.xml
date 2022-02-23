@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.4.1:1", "", "2D Clustered Bar Chart - Javascript", "EARoot/EA2/EA10/EA4/EA1/EA881.htm", "188.png", "1032", "0", "", "Custom diagram0","{C2547DF9-A102-4b50-BD6C-AAFA6E2319E6}");
+tocTab[tocTab.length] = new Array("0.2.10.4.1:2", "", "2D Clustered Bar Chart - JSON", "EARoot/EA2/EA10/EA4/EA1/EA883.htm", "188.png", "1033", "0", "", "Custom diagram0","{5ED8FCB6-5DFD-4ec4-B3E8-948ECBAB8D96}");
+tocTab[tocTab.length] = new Array("0.2.10.4.1:3", "", "«SSDynamicChart» 2D Clustered Bar Chart - JavaScript", "EARoot/EA2/EA10/EA4/EA1/EA886.htm", "5.png", "E10084", "0", "", "Class0","{B1B33AA6-6329-4675-8DB8-3E7557C41712}");
+tocTab[tocTab.length] = new Array("0.2.10.4.1:4", "", "«SSDynamicChart» 2D Clustered Bar Chart - JSON", "EARoot/EA2/EA10/EA4/EA1/EA887.htm", "5.png", "E10083", "0", "", "Class0","{BF667271-746D-4d95-971D-5F588FB88814}");

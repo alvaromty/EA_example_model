@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.16.1", "1", "Interface Catalog", "EARoot/EA6/EA16/EA1/EA4258.htm", "4.png", "", "", "{EA4C55EF-E72D-4817-99B8-33295F7B7C77}", "Package");
+tocTab[tocTab.length] = new Array("0.6.16.2", "1", "Interface Types", "EARoot/EA6/EA16/EA2/EA4276.htm", "4.png", "", "", "{6727FA99-9E7C-4101-9BE8-48B120E442B2}", "Package");

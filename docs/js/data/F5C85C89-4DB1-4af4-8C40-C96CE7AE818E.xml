@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.3.2:1", "", "Auto Names and Counters", "EARoot/EA7/EA3/EA2/EA4954.htm", "188.png", "226", "0", "", "Custom diagram0","{1A796EA2-EADE-4ac0-9607-3B021A28DBC6}");
+tocTab[tocTab.length] = new Array("0.7.3.2:2", "", "«Image» AutoNamesCountersDlg.png", "EARoot/EA7/EA3/EA2/EA4963.htm", "82.png", "E7512", "0", "", "Artifact0","{17B98FEB-3179-4c4b-B078-45C725612E88}");
+tocTab[tocTab.length] = new Array("0.7.3.2:3", "", "«Functional» REQ00268 - Manage User Accounts", "EARoot/EA7/EA3/EA2/EA4964.htm", "19.png", "E7507", "0", "", "Requirement0","{97CC20B7-43A6-49bd-8B61-C6C983CA707C}");
+tocTab[tocTab.length] = new Array("0.7.3.2:4", "", "REQ00269 - Create User Account", "EARoot/EA7/EA3/EA2/EA4965.htm", "19.png", "E7508", "0", "", "Requirement0","{240E66F1-F9BD-4b35-B6EC-2B7AA7CE4626}");
+tocTab[tocTab.length] = new Array("0.7.3.2:5", "", "«Functional» REQ00270 - Edit User Acocunt Details", "EARoot/EA7/EA3/EA2/EA4966.htm", "19.png", "E7510", "0", "", "Requirement0","{A2733D4C-CD06-4968-9F57-68EB6C4D0786}");
+tocTab[tocTab.length] = new Array("0.7.3.2:6", "", "REQ00271 - Delete User Account", "EARoot/EA7/EA3/EA2/EA4967.htm", "19.png", "E7509", "0", "", "Requirement0","{AA701BCF-E9BA-4d32-B0A5-99ACD29EA356}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.14.2.3.3:1", "", "PersonalizedMessage Request", "EARoot/EA14/EA2/EA3/EA3/EA7364.htm", "175.png", "877", "0", "", "Logical diagram0","{657445EA-E980-4f9a-9092-3183643770C0}");
+tocTab[tocTab.length] = new Array("0.14.2.3.3:2", "", "PersonalizedMessage Response", "EARoot/EA14/EA2/EA3/EA3/EA7366.htm", "175.png", "879", "0", "", "Logical diagram0","{112D2E4E-FCEA-4c99-BC3C-F08CE4DDEA51}");
+tocTab[tocTab.length] = new Array("0.14.2.3.3:3", "", "«PropertyHolder» PersonalizedMessageRequestPropertyHolder", "EARoot/EA14/EA2/EA3/EA3/EA7369.htm", "5.png", "E8133", "0", "", "Class0","{8A01BB77-FE4B-4606-9A7D-544104F1D7B6}");
+tocTab[tocTab.length] = new Array("0.14.2.3.3:4", "", "«ObjectType» PersonalizedMessageRequestType", "EARoot/EA14/EA2/EA3/EA3/EA7370.htm", "5.png", "E8134", "0", "", "Class0","{715AEFCF-A3C0-463d-AEAD-7C9148E995CB}");
+tocTab[tocTab.length] = new Array("0.14.2.3.3:5", "", "«PropertyHolder» PersonalizedMessageResponsePropertyHolder", "EARoot/EA14/EA2/EA3/EA3/EA7371.htm", "5.png", "E8131", "0", "", "Class0","{7D2917D6-C012-4b8b-A4EA-769B478C9903}");
+tocTab[tocTab.length] = new Array("0.14.2.3.3:6", "", "«ObjectType» PersonalizedMessageResponseType", "EARoot/EA14/EA2/EA3/EA3/EA7372.htm", "5.png", "E8132", "0", "", "Class0","{C34600ED-F557-45bc-895F-C2536132D1FC}");

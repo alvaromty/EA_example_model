@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.20.6:2", "", "Interaction Models", "EARoot/EA20/EA6/EA12180.htm", "175.png", "379", "0", "", "Logical diagram0","{CD7FF965-C256-4a44-BB92-0AB49D72CAF5}");
+tocTab[tocTab.length] = new Array("0.20.6:3", "", "Close Account", "EARoot/EA20/EA6/EA12191.htm", "207.png", "E2870", "0", "", "Interaction0","{C1169D1D-18E9-4270-A292-22BD2AB4ACD3}");
+tocTab[tocTab.length] = new Array("0.20.6:1", "", "Close Account", "EARoot/EA20/EA6/EA12178.htm", "185.png", "378", "E2870", "", "Sequence diagram0","{C2A10262-00E0-49c3-B709-EB9A31B73604}");
+tocTab[tocTab.length] = new Array("0.20.6:4", "", "", "EARoot/EA20/EA6/EA12192.htm", "101.png", "E2869", "E2870", "", "InteractionFragment0","{A6DDC927-D156-43a7-8506-FC4A3B08BBA1}");
+tocTab[tocTab.length] = new Array("0.20.6:5", "", "fifth", "EARoot/EA20/EA6/EA12194.htm", "25.png", "E2874", "E2870", "", "Object0","{640F357D-B291-44c4-826D-FF53BB83ADE9}");
+tocTab[tocTab.length] = new Array("0.20.6:6", "", "first: Client", "EARoot/EA20/EA6/EA12195.htm", "57.png", "E2877", "E2870", "", "Sequence0","{F1B5B810-BF6B-4e25-81BB-1D604065C34E}");
+tocTab[tocTab.length] = new Array("0.20.6:7", "", "fourth", "EARoot/EA20/EA6/EA12196.htm", "25.png", "E2876", "E2870", "", "Object0","{7FE10992-1B8B-46a9-8C6E-A7F54AD92A11}");
+tocTab[tocTab.length] = new Array("0.20.6:8", "", "«boundary» Second", "EARoot/EA20/EA6/EA12197.htm", "25.png", "E2872", "E2870", "", "Object0","{4B9546E6-9D54-4561-B750-AEAC6818A5EE}");
+tocTab[tocTab.length] = new Array("0.20.6:9", "", "«Control» third: Close Account", "EARoot/EA20/EA6/EA12198.htm", "25.png", "E2873", "E2870", "", "Object0","{57F509F0-2533-494f-B67D-7DA18B7214D4}");

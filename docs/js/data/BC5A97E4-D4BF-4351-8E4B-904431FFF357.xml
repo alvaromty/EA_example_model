@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.18.3.6:1", "", "ShoppingBasket", "EARoot/EA18/EA3/EA6/EA10570.htm", "175.png", "301", "0", "", "Logical diagram0","{1E054F0B-3DAA-433f-8364-325E8E386A6F}");
+tocTab[tocTab.length] = new Array("0.18.3.6:2", "", "«EJBRemoteInterface» ShoppingBasket", "EARoot/EA18/EA3/EA6/EA10574.htm", "8.png", "E2463", "0", "", "Interface0","{C0168118-85B3-4ae5-A27D-C9A1F073280C}");
+tocTab[tocTab.length] = new Array("0.18.3.6:3", "", "«EJBImplementation» ShoppingBasketBean", "EARoot/EA18/EA3/EA6/EA10575.htm", "5.png", "E2462", "0", "", "Class0","{64849614-9082-4497-8A32-3DB55D7F2CFD}");
+tocTab[tocTab.length] = new Array("0.18.3.6:4", "", "«EJBSessionHomeInterface» ShoppingBasketHome", "EARoot/EA18/EA3/EA6/EA10576.htm", "8.png", "E2461", "0", "", "Interface0","{251C03C5-1279-4f83-867D-7CC902E30A54}");
+tocTab[tocTab.length] = new Array("0.18.3.6.1", "1", "META-INF", "EARoot/EA18/EA3/EA6/EA1/EA10579.htm", "4.png", "", "", "{2BC920D6-32E4-48e2-8F23-F8F7E878BA48}", "Package");

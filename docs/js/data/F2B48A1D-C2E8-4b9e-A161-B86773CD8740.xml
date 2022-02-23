@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.1.1.1.1:1", "", "Fulfill Orders Use Case x Test Case", "EARoot/EA9/EA1/EA1/EA1/EA1/EA6743.htm", "188.png", "37", "0", "", "Custom diagram0","{36B798B9-33F3-4a3e-9A16-00AA924F5BD2}");
+tocTab[tocTab.length] = new Array("0.9.1.1.1.1:2", "", "Fulfill Orders Use Case x Test Case Detail", "EARoot/EA9/EA1/EA1/EA1/EA1/EA6745.htm", "188.png", "407", "0", "", "Custom diagram0","{FDE8C473-B1C9-4c50-AA6A-47AD779E3445}");
+tocTab[tocTab.length] = new Array("0.9.1.1.1.1:3", "", "«testcase» Open Orders", "EARoot/EA9/EA1/EA1/EA1/EA1/EA6749.htm", "7.png", "E3106", "0", "", "UseCase0","{BCECF9DD-AFA5-4ccb-900B-760C20DE8C01}");

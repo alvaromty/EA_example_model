@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.5:1", "", "Example 33 - Cross Layer Relationships", "EARoot/EA6/EA1/EA2/EA5/EA2990.htm", "175.png", "774", "0", "", "Logical diagram0","{7E7293EC-EB63-4f7e-8650-9AA431116750}");
+tocTab[tocTab.length] = new Array("0.6.1.2.5.1", "1", "Technology Layer", "EARoot/EA6/EA1/EA2/EA5/EA1/EA2997.htm", "4.png", "", "", "{1F913CC4-CEE6-453c-9F82-6BF15AB8488D}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.5.2", "1", "Business Layer", "EARoot/EA6/EA1/EA2/EA5/EA2/EA3006.htm", "4.png", "", "", "{9F8DB718-E64C-4dda-ADD6-88ADD3B210C6}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.5.3", "1", "Application Layer", "EARoot/EA6/EA1/EA2/EA5/EA3/EA3020.htm", "4.png", "", "", "{7AE50712-E13E-4544-A82A-F2038AFD060B}", "Package");

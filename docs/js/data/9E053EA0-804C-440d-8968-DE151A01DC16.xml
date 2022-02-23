@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.21.2.6:1", "", "Outsourced Team", "EARoot/EA21/EA2/EA6/EA12879.htm", "179.png", "535", "0", "", "Deployment diagram0","{F0C8F72D-D276-4743-96B0-8173AD82446E}");
+tocTab[tocTab.length] = new Array("0.21.2.6.1", "1", "Components", "EARoot/EA21/EA2/EA6/EA1/EA12908.htm", "4.png", "", "", "{2AC53E38-E532-4246-B3FD-2F2DF12644EE}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.6.2", "1", "Nodes Devices and Execution Environments", "EARoot/EA21/EA2/EA6/EA2/EA12921.htm", "4.png", "", "", "{52F4B390-661E-43e1-9E9F-FE7329BC7855}", "Package");

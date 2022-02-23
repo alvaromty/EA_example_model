@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.5.2:1", "", "ecoSystem Diagram", "EARoot/EA4/EA5/EA2/EA2208.htm", "175.png", "76", "0", "", "Logical diagram0","{D269BE76-BAAD-481b-9E24-3C18DF9FCBF6}");
+tocTab[tocTab.length] = new Array("0.4.5.2:2", "", "«metaclass» Diagram_Logical", "EARoot/EA4/EA5/EA2/EA2216.htm", "5.png", "E496", "0", "", "Class0","{9FE2DA3C-F0FC-4cd2-BB01-C82CCA18B22A}");
+tocTab[tocTab.length] = new Array("0.4.5.2:3", "", "«stereotype» ecoSystem", "EARoot/EA4/EA5/EA2/EA2217.htm", "5.png", "E495", "0", "", "Class0","{877FD381-62B8-4091-B07C-A7AD0B234301}");

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Operate Audio Player</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA8977.png" usemap="#EA8977" border="0" />
+
+<MAP NAME="EA8977">
+<area shape="rect" coords="85,373,121,446" href="EA9004.htm" target="_self">
+<area shape="rect" coords="276,293,381,363" href="EA9008.htm" target="_self">
+<area shape="rect" coords="550,181,655,251" href="EA9009.htm" target="_self">
+<area shape="rect" coords="550,276,655,346" href="EA9011.htm" target="_self">
+<area shape="rect" coords="550,561,655,631" href="EA9013.htm" target="_self">
+<area shape="rect" coords="550,371,655,441" href="EA9010.htm" target="_self">
+<area shape="rect" coords="276,561,381,631" href="EA9012.htm" target="_self">
+<area shape="rect" coords="550,466,655,536" href="EA9007.htm" target="_self">
+<area shape="rect" coords="34,109,217,140" href="EA9006.htm" target="_self">
+<area shape="rect" coords="34,56,399,102" href="EA9005.htm" target="_self">
+<area shape="rect" coords="221,159,671,660" href="EA8985.htm" target="_self">
+<area shape="rect" coords="10,10,711,697" href="EA9019.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Operate Audio Player : Use Case diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/18/2009 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/15/2020 5:03:04 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">George Brown</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{7ACC1F7D-17E7-4d18-9A08-16881E64020A}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

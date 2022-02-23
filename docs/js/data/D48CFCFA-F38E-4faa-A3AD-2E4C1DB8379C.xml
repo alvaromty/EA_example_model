@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.17.5:1", "", "PHP", "EARoot/EA17/EA5/EA10333.htm", "175.png", "197", "0", "", "Logical diagram0","{34A5E095-7844-4af0-B098-21D30F2A35FC}");
+tocTab[tocTab.length] = new Array("0.17.5.1", "1", "Recording and Tests", "EARoot/EA17/EA5/EA1/EA10345.htm", "4.png", "", "", "{F58F35A8-8606-4abf-8D1B-ED0026414EAF}", "Package");
+tocTab[tocTab.length] = new Array("0.17.5.2", "1", "Source", "EARoot/EA17/EA5/EA2/EA10361.htm", "4.png", "", "", "{FEA37420-E639-4d27-968B-42226BEEA2AD}", "Package");

@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Abstract Class Model::Transaction</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Transaction", " : "))</script>  : Public   Class</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">3/17/2005 1:36:05 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">10/27/2016 10:19:35 AM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Benjamin Hutton</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{10D04E0E-BA29-4b60-B5D8-9A9F310903B4}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../../EA9/EA1/EA1/EA3/EA1/EA6767.htm">Account</a>, <a href="EA1377.htm">Abstract Class Model</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
+			<li onClick="parent.toggleItem('Operations');" id="OperationsTitle">Operations</li>
+			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+<div class="ItemBody" id="AttributesTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Attribute</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public Date</i><br /><strong>&nbsp;&nbsp;date</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1047')" style="text-decoration: none; color: #000000;"><img src="../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1047" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes1047_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes1047_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes1047_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public String</i><br /><strong>&nbsp;&nbsp;orderNumber</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1048')" style="text-decoration: none; color: #000000;"><img src="../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1048" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes1048_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes1048_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes1048_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>
+	</table>
+</div>
+<div class="ItemBody" id="OperationsTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Operation</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>loadAccountHistory</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations1049" onclick="parent.toggleDiv('detailsDIVOperations1049','DetailsImageOperations1049')" />Details:
+						<div id="detailsDIVOperations1049" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>loadOpenOrders</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations1050" onclick="parent.toggleDiv('detailsDIVOperations1050','DetailsImageOperations1050')" />Details:
+						<div id="detailsDIVOperations1050" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+</div>		<div class="ItemBody" id="AssociationsToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA1382.htm">Account</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> history<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> account<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink1051" onclick="parent.toggleDiv('detailsDIVLink1051','DetailsImageLink1051')" />Details:
+							<div id="detailsDIVLink1051" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA1384.htm">Order</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink1052" onclick="parent.toggleDiv('detailsDIVLink1052','DetailsImageLink1052')" />Details:
+							<div id="detailsDIVLink1052" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Confirm quantity</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases1053" onclick="parent.toggleDiv('detailsDIVTestCases1053','DetailsImageTestCases1053')" />Details:
+							<div id="detailsDIVTestCases1053" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">On the user selecting the option to go to the checkout, the quantity of books on order must be confirmed to be greater than zero.&#160;&#160;If there are greater than zero books on the cart then the process will initiate the checkout page with a summary of the title and quantity displayed.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Create entries in the shopping cart and update the quantities do a checkout of these.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">Check the quantities are the updated quantities in the transaction table.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>No History</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Deferred</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases1054" onclick="parent.toggleDiv('detailsDIVTestCases1054','DetailsImageTestCases1054')" />Details:
+							<div id="detailsDIVTestCases1054" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">If the database search finds no previous transactions, then you don&#39;t display a sorted list of nothing: instead you put a message saying nothing was found. Note there is no need to put up an error message dialog.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Input an ID that has no transactions as well as an invalid UserID.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The no transaction userid should display zero transactions.&#160;&#160;The invalid Id should return an appropriate error.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>View History</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases1055" onclick="parent.toggleDiv('detailsDIVTestCases1055','DetailsImageTestCases1055')" />Details:
+							<div id="detailsDIVTestCases1055" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">When the user requests to view a history of transaction against their account. The account ID is used as a key to lookup the appropriate records in the database. The results are then displayed sorted in date order.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Input a known account ID to lookup the transaction history.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The complete account history is shown.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Zero Quantity</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases1056" onclick="parent.toggleDiv('detailsDIVTestCases1056','DetailsImageTestCases1056')" />Details:
+							<div id="detailsDIVTestCases1056" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">If all the items have been zeroed then user is informed that there are zero entries and they are given the options:&lt;br/&gt;1. Returned to the main selection screen&lt;br/&gt;2. Return to the Shopping cart with the original quantities.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Create a zero entry shoping cart.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">Check that no transaction has been created in the Transaction listing for this.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA2/EA4/EA4/EA1699.htm">Go To Checkout</a></td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

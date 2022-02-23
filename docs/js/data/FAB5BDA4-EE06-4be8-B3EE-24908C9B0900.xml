@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.15.2:1", "", "ArcGIS", "EARoot/EA15/EA2/EA7433.htm", "176.png", "64", "0", "", "Package diagram0","{FD417567-2108-4a71-AB25-262FD6AB3716}");
+tocTab[tocTab.length] = new Array("0.15.2.1", "1", "«ArcGIS» ArcGIS Workspace", "EARoot/EA15/EA2/EA1/EA7443.htm", "4.png", "", "", "{7488714E-BD5F-48ed-8C05-259694C1EE88}", "Package");

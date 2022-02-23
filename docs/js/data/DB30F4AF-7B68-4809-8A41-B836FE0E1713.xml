@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1:1", "", "Business Rule Model", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3486.htm", "188.png", "728", "0", "", "Custom diagram0","{71968E24-805D-4b2f-89F5-B0AEC77C2B46}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1:2", "", "«BusinessRule» BusinessRule1", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3489.htm", "19.png", "E4397", "0", "", "Requirement0","{C852CA26-5D2E-4122-BF77-163CBF4F3A7D}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1:3", "", "«BusinessRule» BusinessRule2", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3490.htm", "19.png", "E4399", "0", "", "Requirement0","{89E741CA-258C-4639-8D00-6E48614CF7D7}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1:4", "", "Feature1", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3491.htm", "190.png", "E4398", "0", "", "Feature0","{1445AB3E-9141-49c1-A702-19F057310236}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1:5", "", "Use Case1", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3493.htm", "7.png", "E4396", "0", "", "UseCase0","{AA99BD1C-F936-44b2-98CE-5CA34348FCAA}");

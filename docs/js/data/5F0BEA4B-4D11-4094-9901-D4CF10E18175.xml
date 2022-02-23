@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.11.2.1:1", "", "EA_GenerateFromSchema", "EARoot/EA2/EA11/EA2/EA1/EA1024.htm", "196.png", "E9708", "0", "", "Signal0","{9D6C17F7-E4D8-43bb-B8EC-E04E4E0875E5}");
+tocTab[tocTab.length] = new Array("0.2.11.2.1:2", "", "EA_GetProfileInfo", "EARoot/EA2/EA11/EA2/EA1/EA1025.htm", "196.png", "E9709", "0", "", "Signal0","{EFBEC468-C33F-415b-B68A-7C899A31FC2F}");
+tocTab[tocTab.length] = new Array("0.2.11.2.1:3", "", "EA_IsSchemaExporter", "EARoot/EA2/EA11/EA2/EA1/EA1026.htm", "196.png", "E9706", "0", "", "Signal0","{700E2FA5-3941-43cf-B752-FDFCFB461B11}");

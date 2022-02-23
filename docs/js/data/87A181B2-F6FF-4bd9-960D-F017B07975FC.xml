@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.7.8.4:1", "", "Functional Requirements", "EARoot/EA7/EA8/EA4/EA6201.htm", "176.png", "227", "0", "", "Package diagram0","{4AAB6715-EEE3-4b3d-A97E-CD07CC595D23}");
+tocTab[tocTab.length] = new Array("0.7.8.4:2", "", "Functional Requirements Dashboard Priority", "EARoot/EA7/EA8/EA4/EA6203.htm", "188.png", "17", "0", "", "Custom diagram0","{621EA9E7-35C8-495e-AD81-FC03CEAA9FA1}");
+tocTab[tocTab.length] = new Array("0.7.8.4:3", "", "«Chart» Elements by Priority", "EARoot/EA7/EA8/EA4/EA6208.htm", "5.png", "E3149", "0", "", "Class0","{36901869-33A2-48cc-828C-B6F6292C1043}");
+tocTab[tocTab.length] = new Array("0.7.8.4:4", "", "«Chart» Elements by Status", "EARoot/EA7/EA8/EA4/EA6209.htm", "5.png", "E3607", "0", "", "Class0","{67BE0BE5-9584-4e08-99DC-4867B98889E6}");
+tocTab[tocTab.length] = new Array("0.7.8.4:5", "", "«EAMatrixSpecification» UML Use Cases x Functional Requirements", "EARoot/EA7/EA8/EA4/EA6212.htm", "82.png", "E3693", "0", "", "Artifact0","{DDB8DA14-7257-4a5c-8E8A-A92B80D0D686}");
+tocTab[tocTab.length] = new Array("0.7.8.4.1", "1", "Manage Users", "EARoot/EA7/EA8/EA4/EA1/EA6221.htm", "4.png", "", "", "{17D2E6AC-CC19-402c-8F11-433DBD0FBA44}", "Package");
+tocTab[tocTab.length] = new Array("0.7.8.4.2", "1", "Manage Inventory", "EARoot/EA7/EA8/EA4/EA2/EA6241.htm", "4.png", "", "", "{8803E9F9-12F4-4d50-89E1-8F2FD072B0DC}", "Package");
+tocTab[tocTab.length] = new Array("0.7.8.4.3", "1", "Take Orders", "EARoot/EA7/EA8/EA4/EA3/EA6269.htm", "4.png", "", "", "{E5292D2C-9B37-42b2-81B2-0BB8A3B8C607}", "Package");
+tocTab[tocTab.length] = new Array("0.7.8.4.4", "1", "Fulfill Orders", "EARoot/EA7/EA8/EA4/EA4/EA6283.htm", "4.png", "", "", "{AFB60936-1219-4e7e-804F-19A677BF76F3}", "Package");

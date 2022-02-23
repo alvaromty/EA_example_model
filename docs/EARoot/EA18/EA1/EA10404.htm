@@ -1,0 +1,729 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>C# Model::ShoppingBasket</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("ShoppingBasket", " : "))</script>  : Public   Class</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/11/2005 1:52:53 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">11/3/2016 5:50:09 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Paulene Dean</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{83CB5FB5-D513-44a0-8F7E-612B7A5630BA}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../EA9/EA1/EA1/EA3/EA1/EA6771.htm">Shopping Cart</a>, <a href="EA10390.htm">C# Model</a>, <a href="EA10392.htm">C# Model - No Attributes</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
+			<li onClick="parent.toggleItem('Operations');" id="OperationsTitle">Operations</li>
+			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('AssociationsFrom');" id="AssociationsFromTitle">Associations From</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('ResourceAllocation');" id="ResourceAllocationTitle">Resource Allocation</li>
+			<li onClick="parent.toggleItem('Maintenance');" id="MaintenanceTitle">Maintenance</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+<div class="ItemBody" id="AttributesTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Attribute</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Private string</i><br /><strong>&nbsp;&nbsp;shoppingBasketNumber</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes13325')" style="text-decoration: none; color: #000000;"><img src="../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes13325" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes13325_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes13325_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes13325_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>
+	</table>
+</div>
+<div class="ItemBody" id="OperationsTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Operation</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>addLineItem</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13326" onclick="parent.toggleDiv('detailsDIVOperations13326','DetailsImageOperations13326')" />Details:
+						<div id="detailsDIVOperations13326" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>createNewBasket</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13327" onclick="parent.toggleDiv('detailsDIVOperations13327','DetailsImageOperations13327')" />Details:
+						<div id="detailsDIVOperations13327" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>deleteItem</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13328" onclick="parent.toggleDiv('detailsDIVOperations13328','DetailsImageOperations13328')" />Details:
+						<div id="detailsDIVOperations13328" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>LineItem</strong>():<a href="EA10402.htm">LineItem</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13329" onclick="parent.toggleDiv('detailsDIVOperations13329','DetailsImageOperations13329')" />Details:
+						<div id="detailsDIVOperations13329" class="DetailsDiv" >
+					<i>Sequential &lt;&lt;property&gt;&gt; </i>
+					<table>
+						<tr>
+							<td valign = "top"><i>Tags:</i><span style="margin-left: .7cm;"> </span></td>
+							<td>attribute_name=m_LineItem<br/></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>processOrder</strong>():void
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations13330" onclick="parent.toggleDiv('detailsDIVOperations13330','DetailsImageOperations13330')" />Details:
+						<div id="detailsDIVOperations13330" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+</div>		<div class="ItemBody" id="AssociationsToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10402.htm">LineItem</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13331" onclick="parent.toggleDiv('detailsDIVLink13331','DetailsImageLink13331')" />Details:
+							<div id="detailsDIVLink13331" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="AssociationsFromTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="EA10401.htm">Account</a><br />
+						Class &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> basket<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink13332" onclick="parent.toggleDiv('detailsDIVLink13332','DetailsImageLink13332')" />Details:
+							<div id="detailsDIVLink13332" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>View Cart Details</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13333" onclick="parent.toggleDiv('detailsDIVTestCases13333','DetailsImageTestCases13333')" />Details:
+							<div id="detailsDIVTestCases13333" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">The screen showing a view of the shopping cart has the Author Title and Publisher displayed.&#160;&#160;The quantity is displayed and is also editable by the user.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Display the shopping cart and verify that the entries correspond to additions to the shopping cart. &lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">All the details correspond to the details as entered.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>View Cart Details - Quantity Update</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13334" onclick="parent.toggleDiv('detailsDIVTestCases13334','DetailsImageTestCases13334')" />Details:
+							<div id="detailsDIVTestCases13334" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">The screen showing a view of the shopping cart has the Author Title and Publisher displayed.&#160;&#160;The quantity is displayed and is also editable by the user.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Display the shopping cart and alter the quantity of the entries then update it.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">All the details correspond to the details as entered.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Set to zero Quantity</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13335" onclick="parent.toggleDiv('detailsDIVTestCases13335','DetailsImageTestCases13335')" />Details:
+							<div id="detailsDIVTestCases13335" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">In the shopping cart the quantity for each entry can be changed.&#160;&#160;If quantity is modified and returns Zero then the entry will be removed from the shopping cart.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Change the quantity for each entry to zero. &lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">All the entries should be removed.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Delete an Item</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13336" onclick="parent.toggleDiv('detailsDIVTestCases13336','DetailsImageTestCases13336')" />Details:
+							<div id="detailsDIVTestCases13336" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">On viewing the shopping cart the user can select an entry and Delete this.&#160;&#160;This will remove the entry for the shopping cart list.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Select an entry and Delete it.&#160;&#160;Then Update the page.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The entry deleted should no longer be available.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Alter Quantity</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">&nbsp;</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13337" onclick="parent.toggleDiv('detailsDIVTestCases13337','DetailsImageTestCases13337')" />Details:
+							<div id="detailsDIVTestCases13337" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">The shopping cart view allows the user to make changes to the quantity of any of the entries listed.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Display the shopping cart and alter the quantity of the entries then update it.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">Check the quantity has been updated&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add Item</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Deferred</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13338" onclick="parent.toggleDiv('detailsDIVTestCases13338','DetailsImageTestCases13338')" />Details:
+							<div id="detailsDIVTestCases13338" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">This allows the user to add a item currently selected to the shopping cart. &lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Clicking on &quot;Add an Item&quot;&#160;&#160;add a quantity of this item&#160;&#160;to the shopping cart.&#160;&#160;The default quantity is one.&#160;&#160;The key for the book and the quantity are stored in the shopping cart.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">Check that the item is added to the shopping cart with the correct quantity.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Add Item - Zero Entry</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Deferred</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/27/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> Leo Burns<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases13339" onclick="parent.toggleDiv('detailsDIVTestCases13339','DetailsImageTestCases13339')" />Details:
+							<div id="detailsDIVTestCases13339" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">This allows the user to add a item currently selected to the shopping cart. &lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Clicking on &quot;Add an Item&quot;&#160;&#160;add a quantity of 0 for this&#160;&#160;item&#160;&#160;to the shopping cart.&#160;&#160;&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">Check that the item is not added to the shopping cart.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="ResourceAllocationTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="20%" class="TableHeading">Resource</td>
+					<td width="20%" class="TableHeading">Role</td>
+					<td width="20%" class="TableHeading">Time</td>
+					<td width="40%" class="TableHeading">Details</td>
+				</tr>
+				<tr>
+					<td width="20%" class="TableRow">Jane Ward</td>
+					<td width="20%" class="TableRow">Developer</td>
+					<td width="20%" class="TableRow">
+						<strong>Allocated:</strong> 80.00<br />
+						<strong>Percent Complete:</strong> 10%<br />
+						<strong>Expected Time:</strong> 0<br />
+						<strong>Actual Time:</strong> 0
+					</td>
+					<td width="40%" class="TableRow">
+						<div class="ObjectDetailsNotes">Take the outlined ShoppingBasket class generated from EA and complete the detailed code required for this class.&lt;br/&gt;</div>
+<br />
+						<strong>Start Date:</strong> 2/22/2017<br />
+						<strong>End Date:</strong> 2/24/2017
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="MaintenanceTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="16%" class="TableHeading">Item</td>
+					<td width="8%" class="TableHeading">Type</td>
+					<td width="8%" class="TableHeading">Status</td>
+					<td width="8%" class="TableHeading">Priority</td>
+					<td width="12%" class="TableHeading">Dates</td>
+				</tr>
+				<tr>
+					<td width="16%" class="TableRow">Update item quantity</td>
+					<td width="8%" class="TableRow">Change</td>
+					<td width="8%" class="TableRow">New <br>Version: 1702AEBAD2CHG</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 2/10/2017 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance13340" onclick="parent.toggleDiv('detailsDIVMaintenance13340','DetailsImageMaintenance13340')" />Details:
+							<div id="detailsDIVMaintenance13340" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Requirements updated to allow item quantities to be updated directly in shopping basket.&lt;br/&gt;</div>
+ <br>Reported by: Leo Burns <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">Missing Alter Quantity</td>
+					<td width="8%" class="TableRow">Issue</td>
+					<td width="8%" class="TableRow">New <br>Version: 17023C9310ISS</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 2/10/2017 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance13341" onclick="parent.toggleDiv('detailsDIVMaintenance13341','DetailsImageMaintenance13341')" />Details:
+							<div id="detailsDIVMaintenance13341" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">There is nothing on the Shopping Basket, that allows customers to alter the quantity ordered, of items in the basket.&lt;br/&gt;</div>
+ <br>Reported by: Benjamin Hutton <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">Remove items with Qty zero</td>
+					<td width="8%" class="TableRow">Issue</td>
+					<td width="8%" class="TableRow">New <br>Version: 17027FB312ISS</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 2/10/2017 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance13342" onclick="parent.toggleDiv('detailsDIVMaintenance13342','DetailsImageMaintenance13342')" />Details:
+							<div id="detailsDIVMaintenance13342" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">When the item quantity is reduced to zero, that item should be removed from the Shopping Basket&#39;s item list.&lt;br/&gt;</div>
+ <br>Reported by: Benjamin Hutton <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">Total Cost Incorrect</td>
+					<td width="8%" class="TableRow">Issue</td>
+					<td width="8%" class="TableRow">New <br>Version: 1702DF4966ISS</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 2/10/2017 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance13343" onclick="parent.toggleDiv('detailsDIVMaintenance13343','DetailsImageMaintenance13343')" />Details:
+							<div id="detailsDIVMaintenance13343" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">The Total Cost displayed in the Shopping Basket is incorrect when the quantity of any item is more than 1.&lt;br/&gt;</div>
+ <br>Reported by: Benjamin Hutton <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">Coding</td>
+					<td width="8%" class="TableRow">Task</td>
+					<td width="8%" class="TableRow">New <br>Version: 17022EE5ACTSK</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 2/10/2017 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance13344" onclick="parent.toggleDiv('detailsDIVMaintenance13344','DetailsImageMaintenance13344')" />Details:
+							<div id="detailsDIVMaintenance13344" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Take the outlined ShoppingBasket class generated from EA and complete the detailed code required for this class.&lt;br/&gt;&lt;br/&gt;</div>
+ <br>Reported by: Leo Burns <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA10/EA1/EA1/EA1/EA6803.htm">«Functional» View Basket - add: alter quantity against the entries.</a></td>
+					<td width="10%" class="TableRow" valign="top">Change</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA10/EA1/EA1/EA2/EA6808.htm">«Functional» Remove if quantity is modified and returns Zero</a></td>
+					<td width="10%" class="TableRow" valign="top">Issue</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA10/EA1/EA1/EA1/EA6802.htm">«Functional» View Basket - Add button to update Change</a></td>
+					<td width="10%" class="TableRow" valign="top">Change</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA10/EA1/EA1/EA2/EA6810.htm">«Functional» View basket total cost - not correct</a></td>
+					<td width="10%" class="TableRow" valign="top">Issue</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

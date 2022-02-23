@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.5:1", "", "Column Charts", "EARoot/EA2/EA10/EA5/EA902.htm", "188.png", "1038", "0", "", "Custom diagram0","{1CC69E05-DC38-4568-8361-015B3EAD92CD}");
+tocTab[tocTab.length] = new Array("0.2.10.5.1", "1", "2D Clustered Column", "EARoot/EA2/EA10/EA5/EA1/EA912.htm", "4.png", "", "", "{BFA267DA-0BCA-4212-A665-39248AA9CDF7}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.5.2", "1", "2D Stacked Column", "EARoot/EA2/EA10/EA5/EA2/EA919.htm", "4.png", "", "", "{08AB6F7D-A661-492a-9A8C-C66A70E7AAF9}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.5.3", "1", "2D 100% Stacked Column", "EARoot/EA2/EA10/EA5/EA3/EA926.htm", "4.png", "", "", "{EF882B65-3E13-4a82-8998-B37A6684CDB0}", "Package");

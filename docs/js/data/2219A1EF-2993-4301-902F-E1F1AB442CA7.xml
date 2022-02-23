@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5:1", "", "Time - Processing Structure", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3469.htm", "183.png", "724", "0", "", "Statechart diagram0","{9A0C4D82-D2AD-4b41-82E4-6CB1A36BEF98}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5:2", "", "ExitPoint", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3473.htm", "98.png", "E4386", "0", "", "StateNode0","{ADC9752C-9DA1-4ade-B219-ABA7514A0BF3}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5:3", "", "Initial", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3474.htm", "68.png", "E4385", "0", "", "StateNode0","{612AB11E-484F-456f-A978-8FAEF9C27B47}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5:4", "", "State1", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3475.htm", "20.png", "E4388", "0", "", "State0","{BC9DC5FB-EDBC-4c96-B8F7-317E6DCEF0A0}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5:5", "", "State2", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3476.htm", "20.png", "E4387", "0", "", "State0","{3966CF1D-B9A0-4eae-93DB-392482F814B3}");

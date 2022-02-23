@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.2.1:1", "", "Business Capabilities", "EARoot/EA6/EA2/EA1/EA3683.htm", "176.png", "468", "0", "", "Package diagram0","{34915DFA-4D74-4704-9A4A-3AEAD02DB45E}");
+tocTab[tocTab.length] = new Array("0.6.2.1:2", "", "Business Capabilities - Stereotyping", "EARoot/EA6/EA2/EA1/EA3685.htm", "175.png", "869", "0", "", "Logical diagram0","{4272C6DB-E5DC-4346-9D27-21F40DF76C95}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1", "1", "Capabilities", "EARoot/EA6/EA2/EA1/EA1/EA3698.htm", "4.png", "", "", "{8B49B4F5-6EF3-4755-AD48-FD3312372FF3}", "Package");
+tocTab[tocTab.length] = new Array("0.6.2.1.2", "1", "Criteria", "EARoot/EA6/EA2/EA1/EA2/EA3728.htm", "4.png", "", "", "{D659602F-A19D-4e41-B949-A4B326D0D610}", "Package");

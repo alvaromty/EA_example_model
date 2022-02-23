@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Boundary</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA4969.png" usemap="#EA4969" border="0" />
+
+<MAP NAME="EA4969">
+<area shape="rect" coords="510,240,634,264" href="http://www.sparxsystems.com/enterprise_architect_user_guide/15.2/boundaryobjectsettings.html" target="_top">
+<area shape="rect" coords="12,240,508,265" href="EA4971.htm" target="_self">
+<area shape="rect" coords="10,63,687,223" href="EA4975.htm" target="_self">
+<area shape="rect" coords="10,10,360,56" href="EA4972.htm" target="_self">
+<area shape="rect" coords="13,298,268,329" href="EA4974.htm" target="_self">
+<area shape="rect" coords="534,312,855,442" href="EA4973.htm" target="_self">
+<area shape="rect" coords="333,592,433,647" href="EA4982.htm" target="_self">
+<area shape="rect" coords="208,697,309,762" href="EA4979.htm" target="_self">
+<area shape="rect" coords="333,697,433,758" href="EA4988.htm" target="_self">
+<area shape="rect" coords="78,697,173,752" href="EA4980.htm" target="_self">
+<area shape="rect" coords="208,592,303,647" href="EA4986.htm" target="_self">
+<area shape="rect" coords="73,592,175,657" href="EA4983.htm" target="_self">
+<area shape="rect" coords="333,483,443,538" href="EA4989.htm" target="_self">
+<area shape="rect" coords="73,483,168,548" href="EA4981.htm" target="_self">
+<area shape="rect" coords="193,379,288,434" href="EA4984.htm" target="_self">
+<area shape="rect" coords="63,667,443,781" href="EA4987.htm" target="_self">
+<area shape="rect" coords="48,557,460,799" href="EA4978.htm" target="_self">
+<area shape="rect" coords="33,453,476,818" href="EA4985.htm" target="_self">
+<area shape="rect" coords="18,348,493,833" href="EA4977.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Boundary : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">3/27/2017 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/14/2020 5:56:04 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{CA4305C5-6E47-4139-98CC-E10794B8928F}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This diagram indicates the level of involvement the stakeholders have with the solution, which stakeholders will interact directly with the solution or participate in a business process, which are part of the whole organization, and which are outside the organization.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

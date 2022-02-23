@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.11.3.1:1", "", "Reusable Assets Service", "EARoot/EA11/EA3/EA1/EA6902.htm", "188.png", "814", "0", "", "Custom diagram0","{F6937F8D-8DC7-48ae-A92B-A47DB7C8E256}");
+tocTab[tocTab.length] = new Array("0.11.3.1:2", "", "«Image» RAS_CloudConnection.png", "EARoot/EA11/EA3/EA1/EA6910.htm", "82.png", "E7425", "0", "", "Artifact0","{7F1BF334-9D7C-4321-BC7F-234F77450066}");
+tocTab[tocTab.length] = new Array("0.11.3.1:3", "", "«Image» RAS_dialog.png", "EARoot/EA11/EA3/EA1/EA6911.htm", "82.png", "E7426", "0", "", "Artifact0","{739DB31F-E0B3-4b20-BBFE-4F0C98277E43}");

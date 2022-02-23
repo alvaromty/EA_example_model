@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:1", "", "«capability» Channel Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3709.htm", "5.png", "E7925", "0", "", "Class0","{B4D1C583-7AFD-452b-804F-E7FFC5A035BF}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:2", "", "«capability» Customer Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3710.htm", "5.png", "E7918", "0", "", "Class0","{68019A4D-5096-4f5f-B533-97A717F167BB}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:3", "", "«capability» Distribution Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3711.htm", "5.png", "E7923", "0", "", "Class0","{EECBF54A-79CA-44c6-904A-2B82251AB047}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:4", "", "«capability» Inventory Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3712.htm", "5.png", "E7926", "0", "", "Class0","{572401F5-C340-4bde-B411-01A709F06C08}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:5", "", "«capability» Order Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3713.htm", "5.png", "E7924", "0", "", "Class0","{07AA8AFF-8928-4ecc-87EC-66A2E88C2AA3}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:6", "", "«capability» Complaint Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3714.htm", "5.png", "E7921", "0", "", "Class0","{3392F5CE-0D55-4a6b-99D8-B36AE3E3A268}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:7", "", "«capability» Account Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3715.htm", "5.png", "E7922", "E7918", "", "Class0","{1D06A0BE-34EF-449b-8851-2F5844142E4D}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:8", "", "«capability» Relationship Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3716.htm", "5.png", "E7920", "E7918", "", "Class0","{E8452785-CEDD-4418-9156-135803D7F2A4}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:9", "", "«capability» Catalogue Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3717.htm", "5.png", "E7917", "E7926", "", "Class0","{D83E1CCF-AC9E-4a70-9BA2-C8A9B7ED1F22}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:10", "", "«capability» Stock Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3718.htm", "5.png", "E7916", "E7926", "", "Class0","{3B06567B-49F0-4139-BAE2-21BC3EACD745}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.2:11", "", "«capability» Virtual Inventory Management", "EARoot/EA6/EA2/EA1/EA1/EA2/EA3719.htm", "5.png", "E7919", "E7926", "", "Class0","{510DF8FE-CFCF-47d8-B24F-23D1BE27210B}");

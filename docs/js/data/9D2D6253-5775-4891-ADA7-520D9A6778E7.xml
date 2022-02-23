@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.8.8.3.4:1", "", "«Defect» Stock levels on financial reports don&#39;t include returned items", "EARoot/EA8/EA8/EA3/EA4/EA6581.htm", "307.png", "E6696", "0", "", "Defect0","{B26EC97A-4516-4810-BFB2-AAEFBFEC60E0}");
+tocTab[tocTab.length] = new Array("0.8.8.3.4:2", "", "«Defect» The Online Shop web site country drop down list is missing a number of small countries", "EARoot/EA8/EA8/EA3/EA4/EA6582.htm", "307.png", "E6695", "0", "", "Defect0","{9D2DBB32-FDF8-424b-8BB6-58622A1C791E}");

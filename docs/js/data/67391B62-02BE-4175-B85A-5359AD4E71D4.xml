@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.18.8.2.2:1", "", "ADSL Router", "EARoot/EA18/EA8/EA2/EA2/EA11029.htm", "9.png", "E2718", "0", "", "Node0","{B1794823-7549-4967-90B6-1C49C839D963}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:2", "", "Ethernet Adaptor", "EARoot/EA18/EA8/EA2/EA2/EA11030.htm", "9.png", "E2715", "0", "", "Node0","{4CFD17CF-E5FB-4ec3-85D9-260B786AE049}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:3", "", "Ethernet Hub", "EARoot/EA18/EA8/EA2/EA2/EA11031.htm", "9.png", "E2716", "0", "", "Node0","{B0DD046F-B5B2-497a-BF39-AE946795132D}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:4", "", "Ethernet Switched Hub", "EARoot/EA18/EA8/EA2/EA2/EA11032.htm", "9.png", "E2720", "0", "", "Node0","{6A6E94B4-06D3-41d7-8128-789378CAF500}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:5", "", "Intel 19510 Frame Relay Router", "EARoot/EA18/EA8/EA2/EA2/EA11033.htm", "9.png", "E2714", "0", "", "Node0","{3988E9CB-389C-4f5c-A995-5F02F19205AB}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:6", "", "Packet Filtering Router", "EARoot/EA18/EA8/EA2/EA2/EA11034.htm", "9.png", "E2717", "0", "", "Node0","{9E3F7EF1-9575-4e8f-ABDC-0F8937232D96}");
+tocTab[tocTab.length] = new Array("0.18.8.2.2:7", "", "WatchGuard III Firewall", "EARoot/EA18/EA8/EA2/EA2/EA11035.htm", "9.png", "E2713", "0", "", "Node0","{14039B3B-D15A-4db5-9A0B-93191D957DA3}");

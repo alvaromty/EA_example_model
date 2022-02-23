@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:1", "", "Office Client 1", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10951.htm", "179.png", "338", "0", "", "Deployment diagram0","{C4950A63-6B1C-4b96-B345-1E16EC69D554}");
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:2", "", ": Windows XP Professional", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10954.htm", "10.png", "E2663", "0", "", "Component0","{42039300-E6AC-4b9a-AE23-B828DCBE4EC6}");
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:3", "", "Application: BookStoreOrder Application", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10955.htm", "10.png", "E2661", "0", "", "Component0","{298C3780-61BB-451c-8F32-8C740A3AABD3}");
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:4", "", "Application Component - TBA", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10956.htm", "10.png", "E2665", "0", "", "Component0","{58F61E57-E852-4f4c-A99F-C9FBF42EED80}");
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:5", "", "«pc client» Office Client PC 1: Desktop PC", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10957.htm", "9.png", "E2664", "0", "", "Node0","{4DAB9E94-3B9A-434b-B1DB-77549B2152B9}");
+tocTab[tocTab.length] = new Array("0.18.8.1.1.1:6", "", "Web Browser: Internet Explorer 6.0", "EARoot/EA18/EA8/EA1/EA1/EA1/EA10958.htm", "10.png", "E2666", "0", "", "Component0","{6B6249AD-BDD3-4190-89CB-29C670A0856F}");

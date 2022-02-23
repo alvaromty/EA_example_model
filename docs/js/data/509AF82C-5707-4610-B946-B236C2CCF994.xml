@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.16.3.5:1", "", "Module Library", "EARoot/EA16/EA3/EA5/EA9917.htm", "176.png", "129", "0", "", "Package diagram0","{19340CF7-F4EF-437c-97A3-0970CE0F46F6}");
+tocTab[tocTab.length] = new Array("0.16.3.5.1", "1", "«model» Audio Player Value Types", "EARoot/EA16/EA3/EA5/EA1/EA9929.htm", "4.png", "", "", "{297200F5-E5B4-4e9d-B240-D6F0EE788364}", "Package");
+tocTab[tocTab.length] = new Array("0.16.3.5.2", "1", "Constraint Blocks", "EARoot/EA16/EA3/EA5/EA2/EA9959.htm", "4.png", "", "", "{C1262C7E-9A8A-47d9-AB11-33344A54D6EA}", "Package");
+tocTab[tocTab.length] = new Array("0.16.3.5.3", "1", "Specifications and Types", "EARoot/EA16/EA3/EA5/EA3/EA9989.htm", "4.png", "", "", "{15F8167D-AA1A-4380-8F48-F7709BC3294B}", "Package");
+tocTab[tocTab.length] = new Array("0.16.3.5.4", "1", "External", "EARoot/EA16/EA3/EA5/EA4/EA9995.htm", "4.png", "", "", "{0ACE70F2-49BB-4e10-99CA-942F64606806}", "Package");
+tocTab[tocTab.length] = new Array("0.16.3.5.5", "1", "Components", "EARoot/EA16/EA3/EA5/EA5/EA10003.htm", "4.png", "", "", "{6BD7D0C7-B566-459d-A515-EAC63C2E6DD1}", "Package");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.11.2.5:1", "", "EA_AllowPropertyUpdate", "EARoot/EA2/EA11/EA2/EA5/EA1041.htm", "196.png", "E9718", "0", "", "Signal0","{B063C5B3-FEAB-43bb-9B3F-04E8F46FD5CE}");
+tocTab[tocTab.length] = new Array("0.2.11.2.5:2", "", "EA_AllowTagUpdate", "EARoot/EA2/EA11/EA2/EA5/EA1042.htm", "196.png", "E9720", "0", "", "Signal0","{BA1B85A8-1888-4219-9A73-9F5476306E83}");
+tocTab[tocTab.length] = new Array("0.2.11.2.5:3", "", "EA_CanEditProperty", "EARoot/EA2/EA11/EA2/EA5/EA1043.htm", "196.png", "E9722", "0", "", "Signal0","{BC92C026-F371-410f-923C-FA0A958E2992}");
+tocTab[tocTab.length] = new Array("0.2.11.2.5:4", "", "EA_CanEditTag", "EARoot/EA2/EA11/EA2/EA5/EA1044.htm", "196.png", "E9724", "0", "", "Signal0","{CB025F20-431D-4548-BF06-DF30685BDBAA}");

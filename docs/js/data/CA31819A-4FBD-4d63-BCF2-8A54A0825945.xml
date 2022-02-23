@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.20.7.3.2:1", "", "PlayList", "EARoot/EA20/EA7/EA3/EA2/EA12382.htm", "198.png", "E3008", "0", "", "Trigger0","{FDE1BB6A-D53D-44df-9752-10F9C7E05287}");
+tocTab[tocTab.length] = new Array("0.20.7.3.2:2", "", "PlaySong", "EARoot/EA20/EA7/EA3/EA2/EA12383.htm", "198.png", "E3003", "0", "", "Trigger0","{0E1972ED-48C4-4ef2-843C-A0A68AC50164}");
+tocTab[tocTab.length] = new Array("0.20.7.3.2:3", "", "PowerOff", "EARoot/EA20/EA7/EA3/EA2/EA12384.htm", "198.png", "E3007", "0", "", "Trigger0","{C0E2711E-1532-4d13-8DFD-254F3B53FE1D}");
+tocTab[tocTab.length] = new Array("0.20.7.3.2:4", "", "PowerOn", "EARoot/EA20/EA7/EA3/EA2/EA12385.htm", "198.png", "E3004", "0", "", "Trigger0","{1139C593-033B-4236-BAE3-F46CA861244B}");
+tocTab[tocTab.length] = new Array("0.20.7.3.2:5", "", "SetRepeat", "EARoot/EA20/EA7/EA3/EA2/EA12386.htm", "198.png", "E3005", "0", "", "Trigger0","{597C2289-9CEA-446e-A334-ADC855ABB864}");
+tocTab[tocTab.length] = new Array("0.20.7.3.2:6", "", "Stop", "EARoot/EA20/EA7/EA3/EA2/EA12387.htm", "198.png", "E3006", "0", "", "Trigger0","{8E852ECF-4159-4b1a-AC3A-CCBEC89B65AD}");

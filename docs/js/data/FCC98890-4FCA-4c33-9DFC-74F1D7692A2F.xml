@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.18.2.2.1:1", "", "META-INF", "EARoot/EA18/EA2/EA2/EA1/EA10442.htm", "175.png", "274", "0", "", "Logical diagram0","{D01C1723-81DF-4381-BA80-85EB94F98B3C}");
+tocTab[tocTab.length] = new Array("0.18.2.2.1:2", "", "«EJBDeploymentDescriptor» ejb-jar", "EARoot/EA18/EA2/EA2/EA1/EA10445.htm", "5.png", "E2402", "0", "", "Class0","{B8EBE083-8B6E-476f-B657-569408F8FA19}");

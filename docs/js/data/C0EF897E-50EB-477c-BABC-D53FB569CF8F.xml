@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.7.2.1", "1", "Conversation Diagram", "EARoot/EA7/EA7/EA2/EA1/EA6005.htm", "4.png", "", "", "{DA679BA6-A982-46a1-ACC7-A3989B2C0D2F}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.2.2", "1", "Conversation Links to Activities and Events", "EARoot/EA7/EA7/EA2/EA2/EA6033.htm", "4.png", "", "", "{CE34592A-9354-4511-8D43-74AE506D8F73}", "Package");

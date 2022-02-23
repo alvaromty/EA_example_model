@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.7.9:1", "", "Warehouses", "EARoot/EA6/EA7/EA9/EA3881.htm", "175.png", "601", "0", "", "Logical diagram0","{139036E2-E9E3-4a04-8292-72333B5E5AD7}");
+tocTab[tocTab.length] = new Array("0.6.7.9:2", "", "«location» Chicago Central Distribution Center: Warehouse", "EARoot/EA6/EA7/EA9/EA3884.htm", "5.png", "E5863", "0", "", "Class0","{FA7E30FB-EB76-4492-A2F8-4EFF987CBCD7}");
+tocTab[tocTab.length] = new Array("0.6.7.9:3", "", "«location» London Northern Distribution: Warehouse", "EARoot/EA6/EA7/EA9/EA3885.htm", "5.png", "E5864", "0", "", "Class0","{32929AA4-9C54-4a1e-ACA6-C05E8FA3BAA3}");
+tocTab[tocTab.length] = new Array("0.6.7.9:4", "", "«location» London Worldwide Distribution Center: Warehouse", "EARoot/EA6/EA7/EA9/EA3886.htm", "5.png", "E5862", "0", "", "Class0","{60C4B2C7-72CD-42f2-8060-B27FDF93DAA3}");
+tocTab[tocTab.length] = new Array("0.6.7.9:5", "", "London Park Street", "EARoot/EA6/EA7/EA9/EA3887.htm", "95.png", "E5868", "E5862", "", "Port0","{B742157C-B708-41be-AC1B-7C31C810B778}");
+tocTab[tocTab.length] = new Array("0.6.7.9:6", "", "Chicago", "EARoot/EA6/EA7/EA9/EA3888.htm", "95.png", "E5865", "E5863", "", "Port0","{2A4AE470-FA0D-45e3-8777-9F866C7B5B0D}");

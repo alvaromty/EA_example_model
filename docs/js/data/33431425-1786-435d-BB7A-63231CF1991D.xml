@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.7.8:1", "", "Shop Fronts", "EARoot/EA6/EA7/EA8/EA3876.htm", "175.png", "598", "0", "", "Logical diagram0","{61EADBD5-B48D-4993-8274-A624DF7825CF}");
+tocTab[tocTab.length] = new Array("0.6.7.8:2", "", "«location» Chicago Down Town: Book Shop", "EARoot/EA6/EA7/EA8/EA3879.htm", "5.png", "E5860", "0", "", "Class0","{3F1BB7F2-1BCE-443c-9CE3-FC21834D22AD}");
+tocTab[tocTab.length] = new Array("0.6.7.8:3", "", "«location» London Central: Book Shop", "EARoot/EA6/EA7/EA8/EA3880.htm", "5.png", "E5861", "0", "", "Class0","{B91AF53C-7357-43aa-8B18-59C1BD05D136}");

@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.7.4.2:1", "", "Process Model", "EARoot/EA7/EA4/EA2/EA5366.htm", "189.png", "259", "0", "", "Analysis diagram0","{3F117E3B-10D5-4cde-935D-0D3FCF408918}");
+tocTab[tocTab.length] = new Array("0.7.4.2:2", "", "Book Catalogue", "EARoot/EA7/EA4/EA2/EA5371.htm", "25.png", "E2312", "0", "", "Object0","{78D12D16-ECCE-49d8-8145-D0D5A3C0771B}");
+tocTab[tocTab.length] = new Array("0.7.4.2:3", "", "Customer Order", "EARoot/EA7/EA4/EA2/EA5372.htm", "24.png", "E2302", "0", "", "Event0","{7EC0D0EB-3D0B-4b98-BE36-24966BC3F34B}");
+tocTab[tocTab.length] = new Array("0.7.4.2:4", "", "Delivered Order", "EARoot/EA7/EA4/EA2/EA5373.htm", "25.png", "E2309", "0", "", "Object0","{432106C8-7424-4d67-8AFC-1EF3E8FF2D36}");
+tocTab[tocTab.length] = new Array("0.7.4.2:5", "", "«process» Manage Customer Orders", "EARoot/EA7/EA4/EA2/EA5374.htm", "21.png", "E2317", "0", "", "Activity0","{C716E657-F6BC-4a07-A289-7138DD3786C1}");
+tocTab[tocTab.length] = new Array("0.7.4.2:6", "", "Order", "EARoot/EA7/EA4/EA2/EA5375.htm", "25.png", "E2310", "0", "", "Object0","{5772FB20-245F-47fe-98B9-947EB4944AE0}");
+tocTab[tocTab.length] = new Array("0.7.4.2:7", "", "«process» Sell Books On-Line", "EARoot/EA7/EA4/EA2/EA5376.htm", "21.png", "E2316", "0", "", "Activity0","{AE4528B4-5EF6-4ead-9833-5D77FF2724DB}");
+tocTab[tocTab.length] = new Array("0.7.4.2:8", "", "«goal» Ship Order", "EARoot/EA7/EA4/EA2/EA5377.htm", "25.png", "E2307", "0", "", "Object0","{0E496333-3CAE-4f01-9D2A-C0C29D39264E}");
+tocTab[tocTab.length] = new Array("0.7.4.2:9", "", "Shipping Company", "EARoot/EA7/EA4/EA2/EA5378.htm", "25.png", "E2306", "0", "", "Object0","{09AA5325-A84E-4968-8375-B3B122F612E3}");
+tocTab[tocTab.length] = new Array("0.7.4.2:10", "", "Shopping Basket", "EARoot/EA7/EA4/EA2/EA5379.htm", "25.png", "E2314", "0", "", "Object0","{EA934226-DA36-47dc-A9D7-0C8E15FDC827}");
+tocTab[tocTab.length] = new Array("0.7.4.2:11", "", "Shopping Basket Item", "EARoot/EA7/EA4/EA2/EA5380.htm", "25.png", "E2315", "0", "", "Object0","{EEE6DEF4-7938-4bec-91C6-335ADD925052}");
+tocTab[tocTab.length] = new Array("0.7.4.2:12", "", "«goal» Take Customer Orders", "EARoot/EA7/EA4/EA2/EA5381.htm", "25.png", "E2313", "0", "", "Object0","{BEFA61B3-0816-4a5b-A89B-C946C3882938}");
+tocTab[tocTab.length] = new Array("0.7.4.2:13", "", "User", "EARoot/EA7/EA4/EA2/EA5382.htm", "6.png", "E2303", "0", "", "Actor0","{F56A3A57-AC65-488c-B09B-78C21C7DEEC4}");
+tocTab[tocTab.length] = new Array("0.7.4.2:14", "", "User Enquiry", "EARoot/EA7/EA4/EA2/EA5383.htm", "24.png", "E2305", "0", "", "Event0","{FF702C04-B79A-478e-95BA-90D308E48A78}");
+tocTab[tocTab.length] = new Array("0.7.4.2:15", "", "Warehouse Inventory", "EARoot/EA7/EA4/EA2/EA5384.htm", "25.png", "E2308", "0", "", "Object0","{0C1A0A7D-550A-4f89-82E2-C7405C3D5B52}");
+tocTab[tocTab.length] = new Array("0.7.4.2:16", "", "«web page» Web Pages", "EARoot/EA7/EA4/EA2/EA5385.htm", "25.png", "E2311", "0", "", "Object0","{9E617DDC-BBE8-48a2-8DE1-85DE2CA07735}");

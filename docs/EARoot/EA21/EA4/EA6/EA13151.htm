@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Personas and User Stories</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA13152.png" usemap="#EA13152" border="0" />
+
+<MAP NAME="EA13152">
+<area shape="rect" coords="60,521,230,636" href="../EA5/EA13136.htm" target="_self">
+<area shape="rect" coords="59,238,485,473" href="EA13154.htm" target="_self">
+<area shape="rect" coords="178,10,402,200" href="EA13156.htm" target="_self">
+<area shape="rect" coords="10,59,129,150" href="EA13157.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Personas and User Stories : Custom diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">3/23/2017 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/16/2020 3:34:42 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{BAE7DF3C-33A9-41ef-935E-121A32CE3127}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">&lt;b&gt;Personas User Stories&lt;/b&gt;&lt;br/&gt;This custom diagram shows a &lt;b&gt;Persona &lt;/b&gt;linked to a &lt;b&gt;User Story&lt;/b&gt;. All of the details can be seen through the &lt;b&gt;WebEA interface&lt;/b&gt; which keeps all parties up-to-date and informed about progress including &lt;b&gt;customers&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;The Person is fully described in the &lt;b&gt;notes &lt;/b&gt;for the element. &lt;br/&gt;The User Story shows a number of compartments which can contain extra details as the User Story is Groomed and Developed including Unit Tests. For example, requirements (responsibilities) detail the User Story in preparation for development work to begin for a particular iteration or sprint or because it has reached the top of the Queue in a project &lt;b&gt;Kanban board.&lt;/b&gt;&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

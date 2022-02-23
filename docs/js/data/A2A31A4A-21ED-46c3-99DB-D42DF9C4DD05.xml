@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.3:1", "", "Checklists", "EARoot/EA8/EA3/EA6411.htm", "188.png", "688", "0", "", "Custom diagram0","{598B1721-089E-4214-9337-4FC86632DBB9}");
+tocTab[tocTab.length] = new Array("0.8.3:2", "", "Example Audit Records - AuditedChecklist", "EARoot/EA8/EA3/EA6413.htm", "188.png", "690", "0", "", "Custom diagram0","{41713629-78FD-4e05-9FEC-7A1846469B58}");
+tocTab[tocTab.length] = new Array("0.8.3:3", "", "«AuditedChecklist» AuditedChecklist", "EARoot/EA8/EA3/EA6424.htm", "82.png", "E6767", "0", "", "Artifact0","{308D9471-E095-4587-B37F-BE5FA030FD20}");
+tocTab[tocTab.length] = new Array("0.8.3:4", "", "«Checklist» Checklist - Stock Replenishment", "EARoot/EA8/EA3/EA6425.htm", "82.png", "E6763", "0", "", "Artifact0","{9CE8D943-C0F5-4346-A08B-959BE318F804}");
+tocTab[tocTab.length] = new Array("0.8.3:5", "", "«Image» ChecklistAuditRecords.png", "EARoot/EA8/EA3/EA6426.htm", "82.png", "E6769", "0", "", "Artifact0","{9977468B-0045-42d1-B038-367F988F8590}");

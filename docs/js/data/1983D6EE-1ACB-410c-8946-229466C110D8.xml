@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.7.3.1", "1", "Stand-alone Choreography Diagram", "EARoot/EA7/EA7/EA3/EA1/EA6062.htm", "4.png", "", "", "{F66FB129-599C-4187-97FE-993AD875CBED}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.3.2", "1", "Choreography With BlackBox Pools", "EARoot/EA7/EA7/EA3/EA2/EA6081.htm", "4.png", "", "", "{67A952F0-5F36-47d5-B49C-C20E4EAE41AA}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.3.3", "1", "Choreography within a Collaboration", "EARoot/EA7/EA7/EA3/EA3/EA6096.htm", "4.png", "", "", "{3DA9CD56-BB05-4bc9-9EA8-46659E388F24}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.3.4", "1", "Choreography with Pools containing Activities", "EARoot/EA7/EA7/EA3/EA4/EA6114.htm", "4.png", "", "", "{F89114C5-A91A-4cc5-B336-AF8FFF2F182F}", "Package");

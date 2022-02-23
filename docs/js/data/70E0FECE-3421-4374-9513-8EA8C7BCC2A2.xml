@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.20.1", "1", "Activity Models", "EARoot/EA20/EA1/EA11117.htm", "4.png", "", "", "{4F323D5C-705B-4dd3-8022-92F6913182D7}", "Package");
+tocTab[tocTab.length] = new Array("0.20.2", "1", "BPMN Models", "EARoot/EA20/EA2/EA11208.htm", "4.png", "", "", "{286EB024-A49C-4c27-A914-B6ED076ED42C}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3", "1", "BPSim Models", "EARoot/EA20/EA3/EA11217.htm", "4.png", "", "", "{5BDD57E9-D1BB-42ac-94B7-87FAE8B0D3F1}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4", "1", "DMN Models", "EARoot/EA20/EA4/EA11723.htm", "4.png", "", "", "{DCF5462A-2414-42f5-B375-B30A277D6BF8}", "Package");
+tocTab[tocTab.length] = new Array("0.20.5", "1", "Executable State Machine", "EARoot/EA20/EA5/EA11893.htm", "4.png", "", "", "{42666D9E-DA5C-40e7-9985-E488DFDED6A4}", "Package");
+tocTab[tocTab.length] = new Array("0.20.6", "1", "Interaction Models", "EARoot/EA20/EA6/EA12182.htm", "4.png", "", "", "{EDD0E9E2-F271-4734-8422-AB40CBBCB21C}", "Package");
+tocTab[tocTab.length] = new Array("0.20.7", "1", "State Machine Models", "EARoot/EA20/EA7/EA12201.htm", "4.png", "", "", "{B146B2DD-D218-4ea6-AE74-4334785F0388}", "Package");

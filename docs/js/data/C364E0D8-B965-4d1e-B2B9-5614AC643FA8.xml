@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.18.7.3.4:1", "", "IIS 5.0", "EARoot/EA18/EA7/EA3/EA4/EA10898.htm", "10.png", "E2654", "0", "", "Component0","{F7F7A051-D5AA-4d1b-B632-C9D61F6EB74C}");
+tocTab[tocTab.length] = new Array("0.18.7.3.4:2", "", "IIS 6.0", "EARoot/EA18/EA7/EA3/EA4/EA10899.htm", "10.png", "E2774", "0", "", "Component0","{C5F724F4-F2A4-424b-AC9A-CFD52B611AD8}");

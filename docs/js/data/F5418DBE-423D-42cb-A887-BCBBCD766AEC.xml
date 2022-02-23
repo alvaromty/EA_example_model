@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.5.3:1", "", "FEA001 - Integrates with security policy systems", "EARoot/EA7/EA5/EA3/EA5467.htm", "190.png", "E3338", "0", "", "Feature0","{82913A44-9C36-4be6-834E-94A00B6E420E}");
+tocTab[tocTab.length] = new Array("0.7.5.3:2", "", "FEA002 - Compatible with all handheld devices", "EARoot/EA7/EA5/EA3/EA5468.htm", "190.png", "E3341", "0", "", "Feature0","{3754203F-D7E1-4b99-922F-B4D97CBA9579}");
+tocTab[tocTab.length] = new Array("0.7.5.3:3", "", "FEA003 - Allows for inventory tracking and management", "EARoot/EA7/EA5/EA3/EA5469.htm", "190.png", "E3342", "0", "", "Feature0","{D9FAD9C1-EFB7-4d09-B8B0-A3B50F2D74DB}");
+tocTab[tocTab.length] = new Array("0.7.5.3:4", "", "FEA004 - User account management including user profiles", "EARoot/EA7/EA5/EA3/EA5470.htm", "190.png", "E3343", "0", "", "Feature0","{822FA60A-61BD-4bbe-B07A-7EA51B884E38}");
+tocTab[tocTab.length] = new Array("0.7.5.3:5", "", "FEA005 - Modern user interface and configurable styles", "EARoot/EA7/EA5/EA3/EA5471.htm", "190.png", "E3344", "0", "", "Feature0","{A6321C8B-35F0-4d10-A550-703BE7ABE7DC}");

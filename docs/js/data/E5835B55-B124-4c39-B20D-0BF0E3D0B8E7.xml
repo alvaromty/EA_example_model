@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.2.2:1", "", "Process Analysis Model", "EARoot/EA6/EA1/EA4/EA2/EA2/EA3306.htm", "189.png", "709", "0", "", "Analysis diagram0","{99AC9D76-8109-4c8c-BCA3-AD49376F44C0}");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.2:2", "", "«process»  Process", "EARoot/EA6/EA1/EA4/EA2/EA2/EA3309.htm", "21.png", "E4260", "0", "", "Activity0","{A0977F13-8A84-4821-BA4D-84219E6F6ABA}");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.2:3", "", "Control1", "EARoot/EA6/EA1/EA4/EA2/EA2/EA3310.htm", "25.png", "E4259", "0", "", "Object0","{B2A98B01-22EF-4a98-91BF-10C08FD5269B}");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.2:4", "", "Event1", "EARoot/EA6/EA1/EA4/EA2/EA2/EA3311.htm", "24.png", "E4258", "0", "", "Event0","{058487D1-EA25-4b49-9F32-23B4CB42A130}");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.2:5", "", "Output", "EARoot/EA6/EA1/EA4/EA2/EA2/EA3312.htm", "25.png", "E4257", "0", "", "Object0","{22913E6E-92B7-4ba1-9BC9-C389CF4166A0}");

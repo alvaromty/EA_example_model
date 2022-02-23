@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.1", "1", "«ZFCell» Logical Data Model", "EARoot/EA6/EA1/EA4/EA3/EA1/EA3396.htm", "4.png", "", "", "{4D2EEEEF-BB68-41b3-A992-C049590215C9}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2", "1", "«ZFCell» Application Architecture", "EARoot/EA6/EA1/EA4/EA3/EA2/EA3404.htm", "4.png", "", "", "{32E8A0B3-3398-450c-96E9-EF86EE32D2BC}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.3", "1", "«ZFCell» Distribution Sys Design", "EARoot/EA6/EA1/EA4/EA3/EA3/EA3417.htm", "4.png", "", "", "{CC0DFD86-CFDA-4658-B2DB-67870E68DE52}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4", "1", "«ZFCell» Human I/F Architecture", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3433.htm", "4.png", "", "", "{F21A7CBD-0868-4dea-9E65-DF02BB131DE6}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.5", "1", "«ZFCell» Processing Structure", "EARoot/EA6/EA1/EA4/EA3/EA5/EA3471.htm", "4.png", "", "", "{2219A1EF-2993-4301-902F-E1F1AB442CA7}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6", "1", "«ZFCell» Business Rule Model", "EARoot/EA6/EA1/EA4/EA3/EA6/EA3480.htm", "4.png", "", "", "{22C08027-696C-4391-B69A-7D22E88E867F}", "Package");

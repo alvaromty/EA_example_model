@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.6.11:1", "", "Stakeholder List", "EARoot/EA6/EA11/EA4013.htm", "175.png", "612", "0", "", "Logical diagram0","{9EC49EA4-2D01-4d0d-96BF-D52D3CABCB5E}");
+tocTab[tocTab.length] = new Array("0.6.11:2", "", "Stakeholders and Applications", "EARoot/EA6/EA11/EA4015.htm", "178.png", "613", "0", "", "Component diagram0","{7CEF6DB9-85D8-4c30-9E1B-091D85861A33}");
+tocTab[tocTab.length] = new Array("0.6.11:3", "", "«stakeholder» Chief Financial Officer", "EARoot/EA6/EA11/EA4020.htm", "5.png", "E5962", "0", "", "Class0","{3E62C43D-B94E-4bcd-80A9-D691361574B4}");
+tocTab[tocTab.length] = new Array("0.6.11:4", "", "«stakeholder» Chief Technical Officer", "EARoot/EA6/EA11/EA4021.htm", "5.png", "E5968", "0", "", "Class0","{13969AD8-A25B-4887-83F3-06FCB4AE762C}");
+tocTab[tocTab.length] = new Array("0.6.11:5", "", "«stakeholder» Customer Experience Manager", "EARoot/EA6/EA11/EA4022.htm", "5.png", "E5966", "0", "", "Class0","{CC80E07F-7F33-49bc-BEA2-92E9D8B4214B}");
+tocTab[tocTab.length] = new Array("0.6.11:6", "", "«stakeholder» Development and Implementation Manager", "EARoot/EA6/EA11/EA4023.htm", "5.png", "E5970", "0", "", "Class0","{4AA32ECF-5D46-4fc1-8F25-C224A19ABA5A}");
+tocTab[tocTab.length] = new Array("0.6.11:7", "", "«stakeholder» Facilities Manager", "EARoot/EA6/EA11/EA4024.htm", "5.png", "E5964", "0", "", "Class0","{54B1EAFE-97EC-4edb-BD14-3E374766628A}");
+tocTab[tocTab.length] = new Array("0.6.11:8", "", "«stakeholder» Human Resources Manager", "EARoot/EA6/EA11/EA4025.htm", "5.png", "E5960", "0", "", "Class0","{FB3C360D-74FD-4dfc-B003-FA382CB442FD}");
+tocTab[tocTab.length] = new Array("0.6.11:9", "", "«stakeholder» Operations Manager", "EARoot/EA6/EA11/EA4026.htm", "5.png", "E5967", "0", "", "Class0","{76255960-691D-4a84-8755-B7339CC443D4}");
+tocTab[tocTab.length] = new Array("0.6.11:10", "", "«stakeholder» Stock Control Manager", "EARoot/EA6/EA11/EA4027.htm", "5.png", "E5965", "0", "", "Class0","{A3435A6E-CA46-4ed6-966A-428366D56E0D}");
+tocTab[tocTab.length] = new Array("0.6.11:11", "", "«stakeholder» Test Manager", "EARoot/EA6/EA11/EA4028.htm", "5.png", "E5971", "0", "", "Class0","{EE9F225C-1CA1-4a15-82A0-3E5983B30033}");
+tocTab[tocTab.length] = new Array("0.6.11:12", "", "«stakeholder» Training Partner", "EARoot/EA6/EA11/EA4029.htm", "5.png", "E5969", "0", "", "Class0","{1FE0BCA7-DAB6-4cb0-BE7F-F9754E226638}");
+tocTab[tocTab.length] = new Array("0.6.11.1", "1", "Potential Stakeholder Analysis", "EARoot/EA6/EA11/EA1/EA4034.htm", "4.png", "", "", "{D1E92BA8-1564-4b8b-B7B3-BB053E7CE49E}", "Package");
+tocTab[tocTab.length] = new Array("0.6.11.2", "1", "Stakeholder Attributes", "EARoot/EA6/EA11/EA2/EA4052.htm", "4.png", "", "", "{0ABDD260-9B9F-4527-81BC-D466926000FE}", "Package");

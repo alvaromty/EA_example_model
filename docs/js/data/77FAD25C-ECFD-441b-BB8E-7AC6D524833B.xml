@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.17.1:1", "", "Online Bookstore Architecture", "EARoot/EA6/EA17/EA1/EA4305.htm", "176.png", "527", "0", "", "Package diagram0","{028A90ED-CC64-441a-ABD4-219F1651FCC0}");
+tocTab[tocTab.length] = new Array("0.6.17.1.1", "", "Academic Titles", "EARoot/EA6/EA17/EA1/EA1/EA4318.htm", "4.png", "", "", "{B51F9BFC-833B-4979-8F7E-0D18B035752F}", "Package");
+tocTab[tocTab.length] = new Array("0.6.17.1.2", "", "Item Real-Time Tracking", "EARoot/EA6/EA17/EA1/EA2/EA4319.htm", "4.png", "", "", "{966FABEE-9F95-4ae2-AF18-4DE952C3EDC3}", "Package");
+tocTab[tocTab.length] = new Array("0.6.17.1.3", "", "Logistics Rationalization", "EARoot/EA6/EA17/EA1/EA3/EA4320.htm", "4.png", "", "", "{F334C3C1-7C6C-4179-AB4B-95A376563E38}", "Package");
+tocTab[tocTab.length] = new Array("0.6.17.1.4", "", "Sales and Marketing Dashboards", "EARoot/EA6/EA17/EA1/EA4/EA4321.htm", "4.png", "", "", "{3BED3557-EFE4-47c2-A463-781FEA51ED82}", "Package");
+tocTab[tocTab.length] = new Array("0.6.17.1.5", "", "Warehouse Optimization", "EARoot/EA6/EA17/EA1/EA5/EA4322.htm", "4.png", "", "", "{2B1656A2-1103-4e32-985C-B3AFFF1D5D2B}", "Package");

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.7.3:1", "", "Campus Shops", "EARoot/EA6/EA7/EA3/EA3822.htm", "175.png", "591", "0", "", "Logical diagram0","{20B21737-155E-4be2-B680-CEE96F068740}");
+tocTab[tocTab.length] = new Array("0.6.7.3:2", "", "«location» Juilliard School: Book Shop", "EARoot/EA6/EA7/EA3/EA3825.htm", "5.png", "E5825", "0", "", "Class0","{50D38709-F03B-423d-A614-275370E248EB}");
+tocTab[tocTab.length] = new Array("0.6.7.3:3", "", "«location» Oxford University: Book Shop", "EARoot/EA6/EA7/EA3/EA3826.htm", "5.png", "E5822", "0", "", "Class0","{220ADFC5-16B3-401c-B176-C26268A2DCAE}");
+tocTab[tocTab.length] = new Array("0.6.7.3:4", "", "«location» Stanford University: Book Shop", "EARoot/EA6/EA7/EA3/EA3827.htm", "5.png", "E5824", "0", "", "Class0","{EFA88853-1E6C-4325-B5B5-6943780DDDB3}");
+tocTab[tocTab.length] = new Array("0.6.7.3:5", "", "Head Office Lime Street London", "EARoot/EA6/EA7/EA3/EA3828.htm", "95.png", "E5823", "E5822", "", "Port0","{3F1543A0-20C2-4557-9932-B03274945C76}");
+tocTab[tocTab.length] = new Array("0.6.7.3:6", "", "Chicago William Place", "EARoot/EA6/EA7/EA3/EA3829.htm", "95.png", "E5826", "E5824", "", "Port0","{15C5923D-420F-407c-958C-DE5AE45F8EDD}");
+tocTab[tocTab.length] = new Array("0.6.7.3:7", "", "Chicago Regional", "EARoot/EA6/EA7/EA3/EA3830.htm", "95.png", "E5829", "E5824", "", "Port0","{2A7B177E-F25D-481b-BAE3-DC072B1F8493}");
+tocTab[tocTab.length] = new Array("0.6.7.3:8", "", "Chicago William Place", "EARoot/EA6/EA7/EA3/EA3831.htm", "95.png", "E5820", "E5825", "", "Port0","{FF930219-4F9C-4ec1-9C1F-4222B74DC806}");

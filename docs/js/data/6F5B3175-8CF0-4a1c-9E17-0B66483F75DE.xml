@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6.5.1:1", "", "Organizational Units", "EARoot/EA6/EA5/EA1/EA3748.htm", "175.png", "454", "0", "", "Logical diagram0","{28DE3227-AD24-432a-BC1F-19C327784600}");
+tocTab[tocTab.length] = new Array("0.6.5.1:2", "", "«OC_Role» Executive Management", "EARoot/EA6/EA5/EA1/EA3753.htm", "5.png", "E5769", "0", "", "Class0","{22DB5F71-E14C-49f3-97E9-7F217C146D86}");
+tocTab[tocTab.length] = new Array("0.6.5.1:3", "", "«OC_Role» Finance", "EARoot/EA6/EA5/EA1/EA3754.htm", "5.png", "E5774", "0", "", "Class0","{04ADC9AF-5888-4098-85C1-0BE18387022C}");
+tocTab[tocTab.length] = new Array("0.6.5.1:4", "", "«OC_Role» Portfolio Management", "EARoot/EA6/EA5/EA1/EA3755.htm", "5.png", "E5772", "0", "", "Class0","{0A36A6A5-9E6D-4b09-893E-D43BC36B127E}");
+tocTab[tocTab.length] = new Array("0.6.5.1:5", "", "«OC_Role» Production and Logistics", "EARoot/EA6/EA5/EA1/EA3756.htm", "5.png", "E5775", "0", "", "Class0","{79F770FF-42B4-4a6c-A3EA-F3AE00B1FC62}");
+tocTab[tocTab.length] = new Array("0.6.5.1:6", "", "«OC_Role» Research and Development", "EARoot/EA6/EA5/EA1/EA3757.htm", "5.png", "E5777", "0", "", "Class0","{FF7E67C4-0B14-434d-9284-C68BEF518CC8}");
+tocTab[tocTab.length] = new Array("0.6.5.1:7", "", "«OC_Role» Sales", "EARoot/EA6/EA5/EA1/EA3758.htm", "5.png", "E5781", "0", "", "Class0","{BAFC3414-CF88-4475-967E-43F4F89474D6}");
+tocTab[tocTab.length] = new Array("0.6.5.1:8", "", "«OC_Role» International Sales", "EARoot/EA6/EA5/EA1/EA3759.htm", "5.png", "E5770", "0", "", "Class0","{23E527A6-B38B-4fd8-BFD5-BDD4242FBAFC}");
+tocTab[tocTab.length] = new Array("0.6.5.1:9", "", "«OC_Role» Domestic Sales", "EARoot/EA6/EA5/EA1/EA3760.htm", "5.png", "E5773", "0", "", "Class0","{6E4BA8EC-4C9E-4a29-9B66-0518478D4DC3}");

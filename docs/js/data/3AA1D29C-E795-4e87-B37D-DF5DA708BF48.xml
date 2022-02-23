@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.8.5.4:1", "", "Reliability Main", "EARoot/EA7/EA8/EA5/EA4/EA6320.htm", "188.png", "241", "0", "", "Custom diagram0","{85430BA3-4977-4f4f-B676-B87EC9C994A4}");
+tocTab[tocTab.length] = new Array("0.7.8.5.4:2", "", "«Performance» REQ112 - 2000 hours mean time between failure.", "EARoot/EA7/EA8/EA5/EA4/EA6324.htm", "19.png", "E2151", "0", "", "Requirement0","{C4612747-BBB3-450c-A470-DADB51CA7DFF}");
+tocTab[tocTab.length] = new Array("0.7.8.5.4:3", "", "«Functional» REQ113 - Must be recoverable quickly.", "EARoot/EA7/EA8/EA5/EA4/EA6325.htm", "19.png", "E2152", "0", "", "Requirement0","{F0E1F79B-6E3C-4456-A40C-33FAF823445A}");
+tocTab[tocTab.length] = new Array("0.7.8.5.4:4", "", "«Performance» REQ114 - 99.999% accuracy.", "EARoot/EA7/EA8/EA5/EA4/EA6326.htm", "19.png", "E2149", "0", "", "Requirement0","{1B8C99FA-5B09-44fd-94A7-5F747300F544}");
+tocTab[tocTab.length] = new Array("0.7.8.5.4:5", "", "«Functional» REQ115- 99.999% precision.", "EARoot/EA7/EA8/EA5/EA4/EA6327.htm", "19.png", "E2150", "0", "", "Requirement0","{5E817CF0-C914-4d43-93BB-804D904CE8BC}");

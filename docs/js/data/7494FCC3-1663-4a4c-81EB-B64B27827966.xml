@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.1.2:1", "", "Win32 UI - screenshot", "EARoot/EA4/EA1/EA2/EA1857.htm", "188.png", "678", "0", "", "Custom diagram0","{1297DAA7-0A8D-4b88-AE5F-E92A1E755F8F}");
+tocTab[tocTab.length] = new Array("0.4.1.2:2", "", "«Image» Win32UI_TagValues.png", "EARoot/EA4/EA1/EA2/EA1863.htm", "82.png", "E6633", "0", "", "Artifact0","{3F04AF3E-6E07-4e47-8DCD-0DD484E5AF23}");
+tocTab[tocTab.length] = new Array("0.4.1.2.1", "1", "Class Markup Selection Dialog", "EARoot/EA4/EA1/EA2/EA1/EA1866.htm", "4.png", "", "", "{A0679D69-7CBB-487c-A0BC-2CB2933758AB}", "Package");
+tocTab[tocTab.length] = new Array("0.4.1.2.2", "1", "Project Event Dialog", "EARoot/EA4/EA1/EA2/EA2/EA1886.htm", "4.png", "", "", "{C6F0F661-C583-4890-A586-AD0FA431847D}", "Package");

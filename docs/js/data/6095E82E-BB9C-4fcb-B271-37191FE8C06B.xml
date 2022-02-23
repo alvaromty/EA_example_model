@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.5:1", "", "Data Miner Examples", "EARoot/EA2/EA5/EA583.htm", "175.png", "977", "0", "", "Logical diagram0","{D74597FF-BB89-4d0b-9527-7352B60CF754}");
+tocTab[tocTab.length] = new Array("0.2.5.1", "1", "Excel Example", "EARoot/EA2/EA5/EA1/EA591.htm", "4.png", "", "", "{1AE6EE4C-C09D-4539-A013-319FB3413AA1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.2", "1", "JSON Example", "EARoot/EA2/EA5/EA2/EA598.htm", "4.png", "", "", "{84A9BF68-358E-49f5-9D13-65EE5314317D}", "Package");

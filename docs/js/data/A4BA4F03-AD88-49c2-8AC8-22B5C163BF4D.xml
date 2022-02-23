@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.21.4:1", "", "Usage Examples", "EARoot/EA21/EA4/EA13072.htm", "188.png", "677", "0", "", "Custom diagram0","{D0732AB2-EE07-4d61-88EE-0CB55B1D9052}");
+tocTab[tocTab.length] = new Array("0.21.4.1", "1", "Navigation", "EARoot/EA21/EA4/EA1/EA13096.htm", "4.png", "", "", "{60F69817-DDBD-45d8-8DCA-904107270ADD}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.2", "1", "Document Artifact", "EARoot/EA21/EA4/EA2/EA13099.htm", "4.png", "", "", "{05867573-C22A-48cc-BEA7-49E646817006}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.3", "1", "Element Discussions", "EARoot/EA21/EA4/EA3/EA13108.htm", "4.png", "", "", "{F996A61A-DD3B-498e-88A2-D72F540EB46D}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.4", "1", "Roadmaps", "EARoot/EA21/EA4/EA4/EA13126.htm", "4.png", "", "", "{48481F97-5D67-4186-B3C9-6547413C89F5}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.5", "1", "Agile with Kanban", "EARoot/EA21/EA4/EA5/EA13138.htm", "4.png", "", "", "{D683F9A0-625A-46d8-82FF-C6F9E33B4215}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.6", "1", "Personas and User Stories", "EARoot/EA21/EA4/EA6/EA13153.htm", "4.png", "", "", "{13C3CFCE-8970-41a4-8785-54F54900B590}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.7", "1", "Dashboards Charts and Graphs", "EARoot/EA21/EA4/EA7/EA13160.htm", "4.png", "", "", "{AB54DB43-0C7B-469f-A1DA-D0749388FDD9}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.8", "1", "Reviews", "EARoot/EA21/EA4/EA8/EA13168.htm", "4.png", "", "", "{F52F6B90-F54E-4a64-A25C-5252F4F0EDEE}", "Package");
+tocTab[tocTab.length] = new Array("0.21.4.9", "1", "Business Rules and Policies", "EARoot/EA21/EA4/EA9/EA13176.htm", "4.png", "", "", "{BB10878C-95BE-4adb-8120-19B2426AFBD4}", "Package");

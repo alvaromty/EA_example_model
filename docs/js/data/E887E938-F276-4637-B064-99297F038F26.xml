@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.2.2.2:1", "", "Search", "EARoot/EA7/EA2/EA2/EA2/EA4800.htm", "183.png", "208", "0", "", "Statechart diagram0","{38262967-D76A-481b-9E02-3413C6D90B5F}");
+tocTab[tocTab.length] = new Array("0.7.2.2.2:2", "", "Display Item Detail", "EARoot/EA7/EA2/EA2/EA2/EA4806.htm", "20.png", "E1664", "0", "", "State0","{96DE7E42-91F8-4403-9998-94FE868A5A09}");
+tocTab[tocTab.length] = new Array("0.7.2.2.2:3", "", "Display Results", "EARoot/EA7/EA2/EA2/EA2/EA4807.htm", "20.png", "E1668", "0", "", "State0","{E6AD7D87-5A46-494d-A136-80478635C179}");
+tocTab[tocTab.length] = new Array("0.7.2.2.2:4", "", "Final", "EARoot/EA7/EA2/EA2/EA2/EA4808.htm", "69.png", "E1663", "0", "", "StateNode0","{21B53015-0C7A-497c-A86E-6AF1F9BCABFD}");
+tocTab[tocTab.length] = new Array("0.7.2.2.2:5", "", "Initial", "EARoot/EA7/EA2/EA2/EA2/EA4809.htm", "68.png", "E1666", "0", "", "StateNode0","{AD5E3D45-4ECA-4643-BD55-1D87228B90B8}");
+tocTab[tocTab.length] = new Array("0.7.2.2.2:6", "", "Search Definition", "EARoot/EA7/EA2/EA2/EA2/EA4810.htm", "20.png", "E1665", "0", "", "State0","{2D9A0D28-30B7-4bad-9A77-577A3B54F7E7}");

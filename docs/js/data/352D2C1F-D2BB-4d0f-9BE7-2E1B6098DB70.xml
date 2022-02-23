@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.16.2.10:1", "", "PrimitiveValueTypes library", "EARoot/EA16/EA2/EA10/EA8862.htm", "175.png", "487", "0", "", "Logical diagram0","{F9B075E5-A3C9-49a4-8DA1-341F353A5E59}");
+tocTab[tocTab.length] = new Array("0.16.2.10:2", "", "«ValueType» Boolean", "EARoot/EA16/EA2/EA10/EA8865.htm", "230.png", "E4525", "0", "", "DataType0","{0CA9EBFF-152D-4237-BE40-3DACD70834D8}");
+tocTab[tocTab.length] = new Array("0.16.2.10:3", "", "«ValueType» Complex", "EARoot/EA16/EA2/EA10/EA8866.htm", "230.png", "E4526", "0", "", "DataType0","{5FED6563-8A3F-422a-BF01-5DAFCB1FC19D}");
+tocTab[tocTab.length] = new Array("0.16.2.10:4", "", "«ValueType» Integer", "EARoot/EA16/EA2/EA10/EA8867.htm", "230.png", "E4529", "0", "", "DataType0","{EFCFF7CC-49DA-4f9a-AA6B-87842EFB0992}");
+tocTab[tocTab.length] = new Array("0.16.2.10:5", "", "«ValueType» Number", "EARoot/EA16/EA2/EA10/EA8868.htm", "230.png", "E4530", "0", "", "DataType0","{F9AF369C-E72D-46f1-819B-0EF11CDDF4EF}");
+tocTab[tocTab.length] = new Array("0.16.2.10:6", "", "«ValueType» Real", "EARoot/EA16/EA2/EA10/EA8869.htm", "230.png", "E4528", "0", "", "DataType0","{98EAF0A1-1E6F-4cd6-8BCA-B6D013DE8AE3}");
+tocTab[tocTab.length] = new Array("0.16.2.10:7", "", "«ValueType» String", "EARoot/EA16/EA2/EA10/EA8870.htm", "230.png", "E4527", "0", "", "DataType0","{989D7EBA-1AE5-4cf3-919D-EA3CF3AC5B1C}");

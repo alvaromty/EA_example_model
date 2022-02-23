@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.14.2.3.2:1", "", "PersonalizedMessage niem-core subset", "EARoot/EA14/EA2/EA3/EA2/EA7355.htm", "175.png", "460", "0", "", "Logical diagram0","{BB52DE84-9316-43fe-88C6-BA8C9CA7B5AA}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:2", "", "«PropertyHolder» BinaryObjectAbstractPropertyHolder", "EARoot/EA14/EA2/EA3/EA2/EA7358.htm", "5.png", "E8130", "0", "", "Class0","{24CAEA45-2712-455a-9AD1-064ACF6A918A}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:3", "", "BinaryType", "EARoot/EA14/EA2/EA3/EA2/EA7359.htm", "5.png", "E8129", "0", "", "Class0","{09744B4B-AF63-4b37-BACD-ED41CB8EFF25}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:4", "", "ImageType", "EARoot/EA14/EA2/EA3/EA2/EA7360.htm", "5.png", "E8126", "0", "", "Class0","{90AE5056-8358-4fac-819C-8E46C8CFA594}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:5", "", "PersonNameType", "EARoot/EA14/EA2/EA3/EA2/EA7361.htm", "5.png", "E8128", "0", "", "Class0","{A1A041AF-85DA-42c8-A28F-7B98BC030FAB}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:6", "", "PersonType", "EARoot/EA14/EA2/EA3/EA2/EA7362.htm", "5.png", "E8127", "0", "", "Class0","{C8BBE9F0-7F73-41b9-A76B-F474B05A6BBA}");
+tocTab[tocTab.length] = new Array("0.14.2.3.2:7", "", "TextType", "EARoot/EA14/EA2/EA3/EA2/EA7363.htm", "230.png", "E8125", "0", "", "DataType0","{E9306989-5F9A-4b6f-8917-99729FBACD40}");

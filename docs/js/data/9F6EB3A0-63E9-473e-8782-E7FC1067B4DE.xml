@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.18.6.1.1:1", "", "Traceability - Shopping Basket Android", "EARoot/EA18/EA6/EA1/EA1/EA10727.htm", "188.png", "409", "0", "", "Custom diagram0","{47ABF23C-32F5-4c18-8F1D-8CF2F0925809}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:2", "", "View Cart", "EARoot/EA18/EA6/EA1/EA1/EA10729.htm", "175.png", "310", "0", "", "Logical diagram0","{0235B04E-92F9-484c-8328-A1C23A70BDBD}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:3", "", "«WireframeAndroidPhone» Shopping Basket Android Phone", "EARoot/EA18/EA6/EA1/EA1/EA10733.htm", "11.png", "E3079", "0", "", "Screen0","{B25C458B-B6A5-4fab-8A44-2BF24AFF0369}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:4", "", "View Basket", "EARoot/EA18/EA6/EA1/EA1/EA10734.htm", "11.png", "E2499", "0", "", "Screen0","{DC9DB952-19BF-4d5b-8A83-C83B9AE3C6A8}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:5", "", "«button» Back", "EARoot/EA18/EA6/EA1/EA1/EA10735.htm", "16.png", "E2498", "E2499", "", "GUIElement0","{DB992E82-5EAB-43ed-AD2D-FE97C4053806}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:6", "", "«list» Basket Items", "EARoot/EA18/EA6/EA1/EA1/EA10736.htm", "16.png", "E2497", "E2499", "", "GUIElement0","{AC5C5F02-6011-435d-B017-E2EB465B7F80}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:7", "", "«text» Basket Total", "EARoot/EA18/EA6/EA1/EA1/EA10737.htm", "16.png", "E2496", "E2499", "", "GUIElement0","{A64540BA-5709-44f5-BDFC-BE5C7549668D}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:8", "", "«button» Delete Item", "EARoot/EA18/EA6/EA1/EA1/EA10738.htm", "16.png", "E2494", "E2499", "", "GUIElement0","{926F2641-B135-433b-B11E-AD414785DD60}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:9", "", "«WireframeAndroidSimple2LaneList» Basket", "EARoot/EA18/EA6/EA1/EA1/EA10739.htm", "16.png", "E3082", "E3079", "", "GUIElement0","{84F7C8F8-9F9E-4977-B02A-AD7B1FD86273}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:10", "", "«label» Basket Contents", "EARoot/EA18/EA6/EA1/EA1/EA10740.htm", "16.png", "E3089", "E3079", "", "GUIElement0","{1B188CCF-CD65-484c-8879-5370766169B8}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:11", "", "«text» Basket Total Price", "EARoot/EA18/EA6/EA1/EA1/EA10741.htm", "16.png", "E3088", "E3079", "", "GUIElement0","{EA5B3FF1-BC5B-496f-9E7A-6AFF56EF4EDC}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:12", "", "«button» Checkout", "EARoot/EA18/EA6/EA1/EA1/EA10742.htm", "16.png", "E3087", "E3079", "", "GUIElement0","{32B93E0B-403E-4ed2-AFA6-19DA158D6A1C}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:13", "", "«button» Remove Item", "EARoot/EA18/EA6/EA1/EA1/EA10743.htm", "16.png", "E3081", "E3079", "", "GUIElement0","{E64C0DBD-6E8E-4e67-9D92-E428E15364C2}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1:14", "", "«WireframeTabControl» TabControl", "EARoot/EA18/EA6/EA1/EA1/EA10744.htm", "16.png", "E3080", "E3079", "", "GUIElement0","{325A852D-22C4-467a-86F4-703D8D036C0E}");

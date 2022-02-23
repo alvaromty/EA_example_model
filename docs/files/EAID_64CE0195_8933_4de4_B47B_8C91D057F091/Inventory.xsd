@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="Inventory" targetNamespace="Inventory" elementFormDefault="unqualified" attributeFormDefault="unqualified">
+	<xs:element name="Inventory" type="Inventory"/>
+	<xs:complexType name="Inventory">
+		<xs:sequence>
+			<xs:element name="Inventory" type="Inventory" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="Store" type="Store" minOccurs="1" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Address">
+		<xs:sequence>
+			<xs:element name="city" minOccurs="1" maxOccurs="1" type="xs:string"/>
+			<xs:element name="country" minOccurs="1" maxOccurs="1" type="xs:string"/>
+			<xs:element name="postcode" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:length value="4"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="street" minOccurs="1" maxOccurs="1" type="xs:string"/>
+			<xs:element name="streetno" minOccurs="1" maxOccurs="1" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Amount">
+		<xs:sequence>
+			<xs:element name="base" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:decimal">
+						<xs:fractionDigits value="2"/>
+						<xs:totalDigits value="8"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="unit" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:maxExclusive value="101"/>
+						<xs:minExclusive value="0"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="currency" minOccurs="1" maxOccurs="1" type="Currency"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Cost">
+		<xs:sequence>
+			<xs:element name="total" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:totalDigits value="8"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="type" minOccurs="1" maxOccurs="1" type="CostType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="CostType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="delivery"/>
+			<xs:enumeration value="manufacture"/>
+			<xs:enumeration value="marketing"/>
+			<xs:enumeration value="packaging"/>
+			<xs:enumeration value="recycle"/>
+			<xs:enumeration value="transport"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Currency">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="AUD"/>
+			<xs:enumeration value="CD"/>
+			<xs:enumeration value="DM"/>
+			<xs:enumeration value="EU"/>
+			<xs:enumeration value="FR"/>
+			<xs:enumeration value="GB"/>
+			<xs:enumeration value="USD"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="Inventory">
+		<xs:sequence>
+			<xs:element name="productTotal" minOccurs="1" maxOccurs="1" type="xs:integer"/>
+			<xs:element name="totalProducts" minOccurs="1" maxOccurs="1" type="xs:integer"/>
+			<xs:element name="Products" minOccurs="0" maxOccurs="unbounded" type="Product"/>
+			<xs:element name="totalCost" minOccurs="1" maxOccurs="1" type="Cost"/>
+			<xs:element name="totalValue" minOccurs="1" maxOccurs="1" type="Amount"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Price">
+		<xs:sequence>
+			<xs:element name="currency" minOccurs="1" maxOccurs="1" type="Currency"/>
+			<xs:element name="total" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:decimal">
+						<xs:fractionDigits value="4"/>
+						<xs:totalDigits value="8"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Product">
+		<xs:sequence>
+			<xs:element name="description" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:minLength value="16"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="name" minOccurs="1" maxOccurs="1">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="64"/>
+						<xs:minLength value="8"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="price" minOccurs="1" maxOccurs="1" type="Price"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Store">
+		<xs:sequence>
+			<xs:element name="name" minOccurs="1" maxOccurs="1" type="xs:string">
+				<xs:annotation>
+					<xs:documentation>The store name</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Address" minOccurs="1" maxOccurs="1" type="Address"/>
+			<xs:element name="Inventory" minOccurs="1" maxOccurs="1" type="Inventory"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

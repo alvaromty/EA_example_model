@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.4.4:1", "", "Presentation Architecture", "EARoot/EA6/EA1/EA4/EA4/EA4/EA3564.htm", "188.png", "737", "0", "", "Custom diagram0","{D6B23355-7E3A-4a55-8F4B-638891D44AA7}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.4:2", "", "Screen1", "EARoot/EA6/EA1/EA4/EA4/EA4/EA3568.htm", "11.png", "E4453", "0", "", "Screen0","{AE95CE2D-AF86-438c-A2C6-7DBF78B0EA0C}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.4:3", "", "«button» Button1", "EARoot/EA6/EA1/EA4/EA4/EA4/EA3570.htm", "16.png", "E4455", "E4453", "", "GUIElement0","{D8284CBE-B327-4c1a-90B1-360C98BEB894}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.4:4", "", "«form» Form1", "EARoot/EA6/EA1/EA4/EA4/EA4/EA3571.htm", "16.png", "E4454", "E4453", "", "GUIElement0","{A4682A3D-DD72-453b-8117-8BBF0A9C9BED}");

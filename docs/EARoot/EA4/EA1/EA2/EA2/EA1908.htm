@@ -1,0 +1,752 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Project Event</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Project Event", " : "))</script>  : Public  &lt;&lt;win32Dialog&gt;&gt; GUIElement</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/22/2010 12:38:46 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">12/22/2010 12:38:46 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Lenny Holmes</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{00EA00F6-8D88-4202-AC24-D1DC5BA1A981}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA1884.htm">IDD_APP_EDIT_DLG</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">3D Look</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2413" onclick="parent.toggleDiv('detailsDIVScenario2413','DetailsImageScenario2413')" />Details:
+						<div id="detailsDIVScenario2413" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies the dialog&#39;s font will be nonbold and controls will have a 3D border.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Absolute Align</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2414" onclick="parent.toggleDiv('detailsDIVScenario2414','DetailsImageScenario2414')" />Details:
+						<div id="detailsDIVScenario2414" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog is aligned relative to the screen.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Accept Files</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2415" onclick="parent.toggleDiv('detailsDIVScenario2415','DetailsImageScenario2415')" />Details:
+						<div id="detailsDIVScenario2415" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will accept drag and drop files.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Application Window</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2416" onclick="parent.toggleDiv('detailsDIVScenario2416','DetailsImageScenario2416')" />Details:
+						<div id="detailsDIVScenario2416" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog, when visible, will have an entry in the taskbar.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Border</td>
+				<td width="50%" class="TableRow" valign="top">Resizing</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2417" onclick="parent.toggleDiv('detailsDIVScenario2417','DetailsImageScenario2417')" />Details:
+						<div id="detailsDIVScenario2417" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: None,Thin,Resizing,Dialog Frame<br />Default: Dialog Frame<br />Description: One of: None, Thin, Resizing, or Dialog Frame.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Center</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2418" onclick="parent.toggleDiv('detailsDIVScenario2418','DetailsImageScenario2418')" />Details:
+						<div id="detailsDIVScenario2418" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Centers the dialog in the monitor that contains the owner window.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Center Mouse</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2419" onclick="parent.toggleDiv('detailsDIVScenario2419','DetailsImageScenario2419')" />Details:
+						<div id="detailsDIVScenario2419" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Centers the dialog box around the mouse cursor.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Client Edge</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2420" onclick="parent.toggleDiv('detailsDIVScenario2420','DetailsImageScenario2420')" />Details:
+						<div id="detailsDIVScenario2420" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have a border with a sunken edge.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Clip Children</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2421" onclick="parent.toggleDiv('detailsDIVScenario2421','DetailsImageScenario2421')" />Details:
+						<div id="detailsDIVScenario2421" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that child windows are clipped when drawing the dialog.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Clip Siblings</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2422" onclick="parent.toggleDiv('detailsDIVScenario2422','DetailsImageScenario2422')" />Details:
+						<div id="detailsDIVScenario2422" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that sibling windows are clipped when drawing the dialog.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Composited</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2423" onclick="parent.toggleDiv('detailsDIVScenario2423','DetailsImageScenario2423')" />Details:
+						<div id="detailsDIVScenario2423" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the window does not activate when the user clicks it.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Context Help</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2424" onclick="parent.toggleDiv('detailsDIVScenario2424','DetailsImageScenario2424')" />Details:
+						<div id="detailsDIVScenario2424" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog supports context-sensitive help.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Control</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2425" onclick="parent.toggleDiv('detailsDIVScenario2425','DetailsImageScenario2425')" />Details:
+						<div id="detailsDIVScenario2425" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Creates a dialog that works well as a child of another dialog.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Control Parent</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2426" onclick="parent.toggleDiv('detailsDIVScenario2426','DetailsImageScenario2426')" />Details:
+						<div id="detailsDIVScenario2426" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Extends dialog manager navigation to children of this window.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Disabled</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2427" onclick="parent.toggleDiv('detailsDIVScenario2427','DetailsImageScenario2427')" />Details:
+						<div id="detailsDIVScenario2427" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will be initially disabled.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Font(Size)</td>
+				<td width="50%" class="TableRow" valign="top">MS Shell Dlg(8)</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2428" onclick="parent.toggleDiv('detailsDIVScenario2428','DetailsImageScenario2428')" />Details:
+						<div id="detailsDIVScenario2428" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: MS Shell Dlg(8)<br />Description: Specifies the default font for the dialog. (Size is in points.)<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Horizontal Scrollbar</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2429" onclick="parent.toggleDiv('detailsDIVScenario2429','DetailsImageScenario2429')" />Details:
+						<div id="detailsDIVScenario2429" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have a horizontal scrollbar.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">ID</td>
+				<td width="50%" class="TableRow" valign="top">IDD_APP_EDIT_DLG</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2430" onclick="parent.toggleDiv('detailsDIVScenario2430','DetailsImageScenario2430')" />Details:
+						<div id="detailsDIVScenario2430" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Specifies the identifier of the dialog resource.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Layered</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2431" onclick="parent.toggleDiv('detailsDIVScenario2431','DetailsImageScenario2431')" />Details:
+						<div id="detailsDIVScenario2431" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the window is layered.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Layout RTL</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2432" onclick="parent.toggleDiv('detailsDIVScenario2432','DetailsImageScenario2432')" />Details:
+						<div id="detailsDIVScenario2432" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog&#39;s horizontal origin is the right edge with increasing values moving left.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Left Scrollbar</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2433" onclick="parent.toggleDiv('detailsDIVScenario2433','DetailsImageScenario2433')" />Details:
+						<div id="detailsDIVScenario2433" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the vertical scrollbar will be placed at the left side of the dialog.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Local Edit</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2434" onclick="parent.toggleDiv('detailsDIVScenario2434','DetailsImageScenario2434')" />Details:
+						<div id="detailsDIVScenario2434" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that edit controls in the dialog will use memory in the application&#39;s data segment.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Maximize Box</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2435" onclick="parent.toggleDiv('detailsDIVScenario2435','DetailsImageScenario2435')" />Details:
+						<div id="detailsDIVScenario2435" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog includes a maximize box.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Minimize Box</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2436" onclick="parent.toggleDiv('detailsDIVScenario2436','DetailsImageScenario2436')" />Details:
+						<div id="detailsDIVScenario2436" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog includes a minimize box.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">No Activate</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2437" onclick="parent.toggleDiv('detailsDIVScenario2437','DetailsImageScenario2437')" />Details:
+						<div id="detailsDIVScenario2437" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the window has a bottom-to-top painting order using double-buffering.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">No Fail Create</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2438" onclick="parent.toggleDiv('detailsDIVScenario2438','DetailsImageScenario2438')" />Details:
+						<div id="detailsDIVScenario2438" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog should be created even if errors occur.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">No Idle Message</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2439" onclick="parent.toggleDiv('detailsDIVScenario2439','DetailsImageScenario2439')" />Details:
+						<div id="detailsDIVScenario2439" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Prevents the system from sending a WM_ENTERIDLE message for the dialog while it is active.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">No Parent Notify</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2440" onclick="parent.toggleDiv('detailsDIVScenario2440','DetailsImageScenario2440')" />Details:
+						<div id="detailsDIVScenario2440" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will not send WM_PARENTNOTIFY messages to its parent.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">NoInheritLayout</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2441" onclick="parent.toggleDiv('detailsDIVScenario2441','DetailsImageScenario2441')" />Details:
+						<div id="detailsDIVScenario2441" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog&#39;s children will not inherit the layout of the dialog.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Overlapped Window</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2442" onclick="parent.toggleDiv('detailsDIVScenario2442','DetailsImageScenario2442')" />Details:
+						<div id="detailsDIVScenario2442" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Combines the Client Edge and Window Edge styles.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Palette Window</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2443" onclick="parent.toggleDiv('detailsDIVScenario2443','DetailsImageScenario2443')" />Details:
+						<div id="detailsDIVScenario2443" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Combines the Window Edge, Tool Window, and Topmost styles.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Right Align Text</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2444" onclick="parent.toggleDiv('detailsDIVScenario2444','DetailsImageScenario2444')" />Details:
+						<div id="detailsDIVScenario2444" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that text in the dialog is right-aligned.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Right to Left Reading Order</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2445" onclick="parent.toggleDiv('detailsDIVScenario2445','DetailsImageScenario2445')" />Details:
+						<div id="detailsDIVScenario2445" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog is displayed in right-to-left reading order.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Set Foreground</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2446" onclick="parent.toggleDiv('detailsDIVScenario2446','DetailsImageScenario2446')" />Details:
+						<div id="detailsDIVScenario2446" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will be brought to the foreground, even if the parent isn&#39;t in the foreground window.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Static Edge</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2447" onclick="parent.toggleDiv('detailsDIVScenario2447','DetailsImageScenario2447')" />Details:
+						<div id="detailsDIVScenario2447" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have a 3D border.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Style</td>
+				<td width="50%" class="TableRow" valign="top">Popup</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2448" onclick="parent.toggleDiv('detailsDIVScenario2448','DetailsImageScenario2448')" />Details:
+						<div id="detailsDIVScenario2448" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Overlapped,Popup,Child<br />Default: Popup<br />Description: One of: Overlapped, Popup, or Child.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">System Menu</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2449" onclick="parent.toggleDiv('detailsDIVScenario2449','DetailsImageScenario2449')" />Details:
+						<div id="detailsDIVScenario2449" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the dialog includes a system menu.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">System Modal</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2450" onclick="parent.toggleDiv('detailsDIVScenario2450','DetailsImageScenario2450')" />Details:
+						<div id="detailsDIVScenario2450" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have the Topmost style.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Title Bar</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2451" onclick="parent.toggleDiv('detailsDIVScenario2451','DetailsImageScenario2451')" />Details:
+						<div id="detailsDIVScenario2451" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the dialog will contain a title bar.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Tool Window</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2452" onclick="parent.toggleDiv('detailsDIVScenario2452','DetailsImageScenario2452')" />Details:
+						<div id="detailsDIVScenario2452" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Creates a tool window (a window to be used as a floating toolbar). The title bar of a tool window is shorter than a normal title bar and the window title is drawn using a smaller font.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Topmost</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2453" onclick="parent.toggleDiv('detailsDIVScenario2453','DetailsImageScenario2453')" />Details:
+						<div id="detailsDIVScenario2453" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will take z-order precedence over all non-topmost windows.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Transparent</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2454" onclick="parent.toggleDiv('detailsDIVScenario2454','DetailsImageScenario2454')" />Details:
+						<div id="detailsDIVScenario2454" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have a transparent background.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Use System Font</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2455" onclick="parent.toggleDiv('detailsDIVScenario2455','DetailsImageScenario2455')" />Details:
+						<div id="detailsDIVScenario2455" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog uses the MS Shell Dlg font (uses the size from the last selected font).<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Vertical Scrollbar</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2456" onclick="parent.toggleDiv('detailsDIVScenario2456','DetailsImageScenario2456')" />Details:
+						<div id="detailsDIVScenario2456" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will have a vertical scrollbar.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Visible</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2457" onclick="parent.toggleDiv('detailsDIVScenario2457','DetailsImageScenario2457')" />Details:
+						<div id="detailsDIVScenario2457" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog will be initially visible.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Window Edge</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2458" onclick="parent.toggleDiv('detailsDIVScenario2458','DetailsImageScenario2458')" />Details:
+						<div id="detailsDIVScenario2458" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the dialog has a border with a raised edge.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">X Pos</td>
+				<td width="50%" class="TableRow" valign="top">0</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2459" onclick="parent.toggleDiv('detailsDIVScenario2459','DetailsImageScenario2459')" />Details:
+						<div id="detailsDIVScenario2459" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: 0<br />Description: The x-coordinate of the upper-left corner of the dialog, in dialog units.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Y Pos</td>
+				<td width="50%" class="TableRow" valign="top">0</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2460" onclick="parent.toggleDiv('detailsDIVScenario2460','DetailsImageScenario2460')" />Details:
+						<div id="detailsDIVScenario2460" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: 0<br />Description: The y-coordinate of the upper-left corner of the dialog, in dialog units.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

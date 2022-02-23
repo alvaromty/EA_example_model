@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.8.8.3.2:1", "", "Backlog", "EARoot/EA8/EA8/EA3/EA2/EA6562.htm", "188.png", "655", "0", "", "Custom diagram0","{C7D81257-7FEE-47ad-B2A1-6CD483B2F3E4}");
+tocTab[tocTab.length] = new Array("0.8.8.3.2:2", "", "Iteration", "EARoot/EA8/EA8/EA3/EA2/EA6564.htm", "188.png", "656", "0", "", "Custom diagram0","{C2877B04-BE44-406f-A795-BAE54AE8F0EC}");
+tocTab[tocTab.length] = new Array("0.8.8.3.2:3", "", "«Change» The default purchase date order should be reversed in all Product reports", "EARoot/EA8/EA8/EA3/EA2/EA6569.htm", "53.png", "E7394", "0", "", "Change0","{78E76A0E-F54A-4327-A417-19E19E1384FB}");

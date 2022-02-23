@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.3.22:1", "", "Risk Modeling", "EARoot/EA7/EA3/EA22/EA5196.htm", "188.png", "436", "0", "", "Custom diagram0","{13345774-F873-4f66-9B85-B62F191D0DD3}");
+tocTab[tocTab.length] = new Array("0.7.3.22:2", "", "Risks as Separate Elements", "EARoot/EA7/EA3/EA22/EA5198.htm", "188.png", "459", "0", "", "Custom diagram0","{D9FC49D4-0197-4db4-BF44-856C76E86A3E}");
+tocTab[tocTab.length] = new Array("0.7.3.22:3", "", "Risks Associated with Model Elements", "EARoot/EA7/EA3/EA22/EA5200.htm", "188.png", "462", "0", "", "Custom diagram0","{C11D1084-EE39-4d15-AFF8-398B40503E5D}");
+tocTab[tocTab.length] = new Array("0.7.3.22.1", "1", "Business Analysis Approach", "EARoot/EA7/EA3/EA22/EA1/EA5219.htm", "4.png", "", "", "{73D9D518-202E-4dfa-8636-849177091FFE}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3.22.2", "", "Business Analysis Planning", "EARoot/EA7/EA3/EA22/EA2/EA5224.htm", "4.png", "", "", "{F291FB5D-9CC9-446f-9C15-968B38631190}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3.22.3", "1", "Requirements - Manage Inventory", "EARoot/EA7/EA3/EA22/EA3/EA5225.htm", "4.png", "", "", "{5AFAD00E-3C2A-4aca-A4A4-E5F1222B4F3B}", "Package");

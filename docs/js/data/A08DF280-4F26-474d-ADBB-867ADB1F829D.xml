@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.3.1.1:1", "", "Types", "EARoot/EA4/EA3/EA1/EA1/EA2008.htm", "175.png", "45", "0", "", "Logical diagram0","{9744C2DA-2A3C-4e79-B63E-9CB98AAA42A1}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:2", "", "«XSDcomplexType» InputParameters", "EARoot/EA4/EA3/EA1/EA1/EA2012.htm", "5.png", "E335", "0", "", "Class0","{A7E6DFA5-5797-41a5-BFC4-0B0AF8A9517E}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:3", "", "«XSDcomplexType» OutputParameters", "EARoot/EA4/EA3/EA1/EA1/EA2014.htm", "5.png", "E337", "0", "", "Class0","{DD6DE2E3-0EBA-401b-9479-6B45BF35E262}");

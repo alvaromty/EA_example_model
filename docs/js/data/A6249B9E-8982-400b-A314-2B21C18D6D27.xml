@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.8:1", "", "Kanban", "EARoot/EA8/EA8/EA6503.htm", "188.png", "651", "0", "", "Custom diagram0","{D66EC183-AE6A-445a-8FD4-E4FA8C13F7CE}");
+tocTab[tocTab.length] = new Array("0.8.8.1", "", "Kanban for Manage Users", "EARoot/EA8/EA8/EA1/EA6514.htm", "4.png", "", "", "{9C015929-4C84-4012-A551-831052400473}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8.2", "1", "Kanban Model Patterns", "EARoot/EA8/EA8/EA2/EA6515.htm", "4.png", "", "", "{93371269-65C5-489d-A9DC-ABA3940047BD}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8.3", "1", "Online Shop Example", "EARoot/EA8/EA8/EA3/EA6544.htm", "4.png", "", "", "{743C1B0F-1273-4621-80BB-08428F6E2BEF}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8.4", "1", "Kanban for game pitch", "EARoot/EA8/EA8/EA4/EA6620.htm", "4.png", "", "", "{CFAEEA7D-2341-4e67-BA21-4F7AE9F46812}", "Package");

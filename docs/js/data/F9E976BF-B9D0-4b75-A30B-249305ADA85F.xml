@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.1.1:1", "", "«capability» Finance Management", "EARoot/EA6/EA2/EA1/EA1/EA1/EA3705.htm", "5.png", "E7915", "0", "", "Class0","{6DB66437-66B4-4346-898C-87E4C51008D3}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.1:2", "", "«capability» Marketing", "EARoot/EA6/EA2/EA1/EA1/EA1/EA3706.htm", "5.png", "E7914", "0", "", "Class0","{AF9C4FD7-76FB-4da6-B142-B98DE44E045E}");
+tocTab[tocTab.length] = new Array("0.6.2.1.1.1:3", "", "«capability» Public Policy Management", "EARoot/EA6/EA2/EA1/EA1/EA1/EA3707.htm", "5.png", "E7913", "0", "", "Class0","{0F653E37-EB4B-4d54-8CBB-DB8392230EB6}");

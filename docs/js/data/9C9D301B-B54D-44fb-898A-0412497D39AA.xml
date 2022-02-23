@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Getting Started", "EARoot/EA1/EA1.htm", "188.png", "832", "0", "", "Custom diagram0","{44B0DA8E-747D-4b05-BE7A-20A981D4255D}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "Getting Started - WebEA", "EARoot/EA1/EA3.htm", "188.png", "842", "0", "", "Custom diagram0","{410529A5-8B2A-4ee5-BB7A-A8C9448B1048}");
+tocTab[tocTab.length] = new Array("0.1.1", "1", "Navigation", "EARoot/EA1/EA1/EA45.htm", "4.png", "", "", "{6E73D413-F381-4daf-B6CA-A7B514AEC705}", "Package");

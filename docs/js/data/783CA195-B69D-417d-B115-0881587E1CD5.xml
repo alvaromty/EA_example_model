@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.6:1", "", "Manhattan 3D Chart - Javascript", "EARoot/EA2/EA10/EA6/EA929.htm", "188.png", "1046", "0", "", "Custom diagram0","{9BAE8BD2-6DA1-46b9-A7C4-2B2638F5777C}");
+tocTab[tocTab.length] = new Array("0.2.10.6:2", "", "Manhattan 3D Chart - JSON", "EARoot/EA2/EA10/EA6/EA931.htm", "188.png", "1047", "0", "", "Custom diagram0","{25C6BAD5-1025-4fd0-B0DD-6EA18F6AE916}");
+tocTab[tocTab.length] = new Array("0.2.10.6:3", "", "«SSDynamicChart» Manhattan 3D Chart - JavaScript", "EARoot/EA2/EA10/EA6/EA934.htm", "5.png", "E10123", "0", "", "Class0","{1B73CD67-92A0-495b-B6C9-73AAFC089A22}");
+tocTab[tocTab.length] = new Array("0.2.10.6:4", "", "«SSDynamicChart» Manhattan 3D Chart - JSON", "EARoot/EA2/EA10/EA6/EA935.htm", "5.png", "E10124", "0", "", "Class0","{23460E79-DED4-4c32-9FE1-6E7568D0EA64}");

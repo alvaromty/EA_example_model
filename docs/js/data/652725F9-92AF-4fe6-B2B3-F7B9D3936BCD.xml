@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.16.2.4:1", "", ".NET Remoting", "EARoot/EA6/EA16/EA2/EA4/EA4297.htm", "8.png", "E6227", "0", "", "Interface0","{A1292828-6025-43f9-98AE-54BF2D086E97}");
+tocTab[tocTab.length] = new Array("0.6.16.2.4:2", "", "CORBA", "EARoot/EA6/EA16/EA2/EA4/EA4298.htm", "8.png", "E6232", "0", "", "Interface0","{36D350FF-E78A-4e1d-80F7-49A5FEC99D28}");

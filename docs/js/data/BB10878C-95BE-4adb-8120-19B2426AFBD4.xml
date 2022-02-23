@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.21.4.9:1", "", "Business Rules and Policies", "EARoot/EA21/EA4/EA9/EA13174.htm", "175.png", "848", "0", "", "Logical diagram0","{9DB2736F-2E76-4423-8A70-0B3013B23877}");
+tocTab[tocTab.length] = new Array("0.21.4.9:2", "", "«policy» Academic Purchases", "EARoot/EA21/EA4/EA9/EA13178.htm", "5.png", "E7739", "0", "", "Class0","{3B3048A1-00A4-422f-AA4E-4AB72DB3B2B1}");
+tocTab[tocTab.length] = new Array("0.21.4.9:3", "", "«business rule» Student Age", "EARoot/EA21/EA4/EA9/EA13179.htm", "5.png", "E7740", "0", "", "Class0","{8676F143-78DC-4415-BD10-4EB43710145C}");
+tocTab[tocTab.length] = new Array("0.21.4.9:4", "", "«business rule» Student Identity", "EARoot/EA21/EA4/EA9/EA13180.htm", "5.png", "E7741", "0", "", "Class0","{CD894808-F7B4-4a09-914E-3840B54EC9EA}");

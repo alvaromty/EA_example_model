@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.6.18:1", "", "Strategic Modeling", "EARoot/EA6/EA18/EA4345.htm", "176.png", "475", "0", "", "Package diagram0","{79AAB3A5-9904-4160-8BBC-DCB43B01F0B9}");
+tocTab[tocTab.length] = new Array("0.6.18.1", "1", "Balanced Scorecard", "EARoot/EA6/EA18/EA1/EA4363.htm", "4.png", "", "", "{6E63BA43-12C8-42e7-AEA0-383D69437A35}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.2", "1", "Decision Tree", "EARoot/EA6/EA18/EA2/EA4373.htm", "4.png", "", "", "{076E034A-F881-4fd7-9F48-7EA4BDA34574}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.3", "1", "Decision Tree Patterns", "EARoot/EA6/EA18/EA3/EA4389.htm", "4.png", "", "", "{E2BD03BF-CCB0-4f37-B4E5-A78335CC1205}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.4", "1", "Flow Chart", "EARoot/EA6/EA18/EA4/EA4426.htm", "4.png", "", "", "{D3D26A11-F54D-41c7-AC0E-2489DC8949B8}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.5", "1", "Flow Chart - Selection Process", "EARoot/EA6/EA18/EA5/EA4436.htm", "4.png", "", "", "{98EEC61B-E5AA-4603-A42D-2C8EE52FB346}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.6", "1", "MindMapping", "EARoot/EA6/EA18/EA6/EA4448.htm", "4.png", "", "", "{EA147A73-DC9E-4028-A18B-90597EA72FB7}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.7", "1", "Org Chart Pattern", "EARoot/EA6/EA18/EA7/EA4466.htm", "4.png", "", "", "{B0C4EE4D-5C0B-4ce2-89D9-A713CAFCF413}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.8", "1", "Strategy Map", "EARoot/EA6/EA18/EA8/EA4480.htm", "4.png", "", "", "{A608FC35-298F-4f4e-8835-0BA4C886F95C}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.9", "1", "Strategy Map Patterns", "EARoot/EA6/EA18/EA9/EA4507.htm", "4.png", "", "", "{FECED1B9-6CFF-49ca-85B1-3398C4C21B8E}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.10", "1", "The Org Chart", "EARoot/EA6/EA18/EA10/EA4589.htm", "4.png", "", "", "{89481E83-F021-433f-82F7-511DC285BB12}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.11", "1", "Value Chain", "EARoot/EA6/EA18/EA11/EA4601.htm", "4.png", "", "", "{B5F07C54-AE77-4f33-A357-7B779F3DB0FB}", "Package");
+tocTab[tocTab.length] = new Array("0.6.18.12", "1", "Value Chain Pattern", "EARoot/EA6/EA18/EA12/EA4618.htm", "4.png", "", "", "{2F111981-3921-441b-BC1D-7003A48AE5B0}", "Package");

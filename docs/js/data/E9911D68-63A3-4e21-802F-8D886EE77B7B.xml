@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.8:1", "", "Project Management", "EARoot/EA8/EA6371.htm", "188.png", "583", "0", "", "Custom diagram0","{6AA7AA1C-D8C4-44f0-BFC3-42AE9478BE2E}");
+tocTab[tocTab.length] = new Array("0.8:2", "", "«Image» ProjManagement_Logo.png", "EARoot/EA8/EA6375.htm", "82.png", "E3524", "0", "", "Artifact0","{F2274481-DA66-4b54-A5DE-5637EC9A128A}");
+tocTab[tocTab.length] = new Array("0.8.1", "", "Navigation Links", "EARoot/EA8/EA1/EA6387.htm", "4.png", "", "", "{981B6041-8C7C-4a41-B4C9-DE7B94044297}", "Package");
+tocTab[tocTab.length] = new Array("0.8.2", "1", "Calendar", "EARoot/EA8/EA2/EA6406.htm", "4.png", "", "", "{62850FD9-DD36-4511-8478-ED2F373EA956}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3", "1", "Checklists", "EARoot/EA8/EA3/EA6415.htm", "4.png", "", "", "{A2A31A4A-21ED-46c3-99DB-D42DF9C4DD05}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4", "1", "Auditing", "EARoot/EA8/EA4/EA6430.htm", "4.png", "", "", "{2660B9B7-5A05-4892-A08B-33B942E6B004}", "Package");
+tocTab[tocTab.length] = new Array("0.8.5", "1", "Baselines", "EARoot/EA8/EA5/EA6438.htm", "4.png", "", "", "{956FBAE1-8F40-4c2a-95D8-757EE55C5A4E}", "Package");
+tocTab[tocTab.length] = new Array("0.8.6", "1", "Element Discussions", "EARoot/EA8/EA6/EA6452.htm", "4.png", "", "", "{00FC8486-3715-4318-89C2-FAE763A8A613}", "Package");
+tocTab[tocTab.length] = new Array("0.8.7", "1", "Gantt View", "EARoot/EA8/EA7/EA6479.htm", "4.png", "", "", "{CDF13287-489F-40f3-A9E2-7566858C7748}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8", "1", "Kanban", "EARoot/EA8/EA8/EA6505.htm", "4.png", "", "", "{A6249B9E-8982-400b-A314-2B21C18D6D27}", "Package");
+tocTab[tocTab.length] = new Array("0.8.9", "1", "Team Library", "EARoot/EA8/EA9/EA6663.htm", "4.png", "", "", "{ABE8F197-451E-4da9-AFD6-06D772FE99D8}", "Package");
+tocTab[tocTab.length] = new Array("0.8.10", "1", "Metrics and Estimation", "EARoot/EA8/EA10/EA6673.htm", "4.png", "", "", "{B2BFE5D3-5C20-4160-A4E5-46C2E2B6E9D7}", "Package");
+tocTab[tocTab.length] = new Array("0.8.11", "1", "Resources", "EARoot/EA8/EA11/EA6695.htm", "4.png", "", "", "{32A412A4-2F58-4661-9312-9BA457DE0ABE}", "Package");

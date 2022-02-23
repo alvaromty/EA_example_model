@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.7.7.3.2:1", "", "Choreography With BlackBox Pools", "EARoot/EA7/EA7/EA3/EA2/EA6079.htm", "189.png", "222", "0", "", "Analysis diagram0","{5B7D7FB5-B40F-47e7-B1C2-57DDBB14AEF2}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:2", "", "«StartEvent» ", "EARoot/EA7/EA7/EA3/EA2/EA6085.htm", "4C9380A5-0_StartEvent.png", "E2025", "0", "", "Event0","{BCFA09A7-D28D-4cbb-837B-398D2CD80879}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:3", "", "«EndEvent» ", "EARoot/EA7/EA7/EA3/EA2/EA6087.htm", "4C9380A5-0_EndEvent.png", "E2026", "0", "", "Event0","{C30F704A-6B33-4ef5-8FFE-FF16D140406B}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:4", "", "«Choreography» Doctor Request", "EARoot/EA7/EA7/EA3/EA2/EA6088.htm", "4C9380A5-0_Choreography.png", "E2032", "0", "", "Activity0","{AA26BB33-B380-4c0a-B497-3AEDA261194F}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:5", "", "«Pool» Dr.Office", "EARoot/EA7/EA7/EA3/EA2/EA6089.htm", "116.png", "E2029", "0", "", "ActivityPartition0","{137974CC-2C4C-4317-9A12-309813AE1029}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:6", "", "«Choreography» Handle Medicine", "EARoot/EA7/EA7/EA3/EA2/EA6090.htm", "4C9380A5-0_Choreography.png", "E2028", "0", "", "Activity0","{0C442F3D-F961-4806-9B85-4F6042872DD3}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:7", "", "«Choreography» Handle Prescription", "EARoot/EA7/EA7/EA3/EA2/EA6091.htm", "4C9380A5-0_Choreography.png", "E2033", "0", "", "Activity0","{DBDEB9C0-105E-4481-BE0C-709BD87D6194}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:8", "", "«Choreography» Handle Symptoms", "EARoot/EA7/EA7/EA3/EA2/EA6092.htm", "4C9380A5-0_Choreography.png", "E2030", "0", "", "Activity0","{81906AEC-7EF7-43ff-A5E5-C3CB5ED4BBAF}");
+tocTab[tocTab.length] = new Array("0.7.7.3.2:9", "", "«Pool» Patient", "EARoot/EA7/EA7/EA3/EA2/EA6093.htm", "116.png", "E2031", "0", "", "ActivityPartition0","{A7A856E9-D1CE-4a57-8290-C7E857BC6136}");

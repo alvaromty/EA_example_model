@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public   Text</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">4/3/2017 2:29:39 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">7/21/2020 4:20:32 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Pat Malone</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{F14FE6C1-1A8C-41e0-8612-C63F97E4872D}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA4939.htm">Artifacts</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">The &#39;Artifacts&#39; tool box page offers a range of other Artifact types that can be created and placed on a diagram.&#160;&#160;Double-clicking the Artifact on the diagram will typically open or run the associated specification.&lt;br/&gt;They include:&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;Matrix Specification - encapsulates a saved Relationship Matrix profile&lt;/li&gt;&lt;li&gt;Report Specification - encapsulates a saved Document Generation specification&lt;/li&gt;&lt;li&gt;Model View - represents a table of model data, retrieved using a custom SQL search&lt;/li&gt;&lt;li&gt;Standard Chart - an artifact that records information for generating a bar chart or pie chart from data in your model; once you have defined the chart, it automatically displays with the latest information whenever you open the parent diagram&lt;/li&gt;&lt;li&gt;Time Series Chart - an artifact that records information for generating a linear graph of model properties over time; once you have defined the chart, it automatically displays with the latest information whenever you open the parent diagram&lt;/li&gt;&lt;li&gt;Executable State Machine - an artifact that specifies the objects that will be involved in a simulation&lt;/li&gt;&lt;li&gt;SysMLSim Configuration - records a specific SysML simulation configuration&lt;/li&gt;&lt;li&gt;Image Asset - an artifact used to store an image in the model repository&lt;/li&gt;&lt;li&gt;Reading List - provides an ordered list of elements; information from each element is displayed in the &#39;Dynamic Document&#39; view&lt;/li&gt;&lt;li&gt;Checklist - facilitates creation of a list of items, each with a checkbox&lt;/li&gt;&lt;li&gt;User Story - provides a Linked Document, for recording a Business Use Case&lt;/li&gt;&lt;li&gt;Working Set - a saved profile that specifies a workspace layout&lt;/li&gt;&lt;/ul&gt;&lt;p/&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

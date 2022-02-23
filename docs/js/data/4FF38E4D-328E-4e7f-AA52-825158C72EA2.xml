@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.5.2:1", "", "«OC_Role» Head of Sales, Asia and Pacific", "EARoot/EA6/EA5/EA2/EA3762.htm", "5.png", "E5778", "0", "", "Class0","{7337F02C-3DA4-41d4-8D7B-8F4CBC78F730}");
+tocTab[tocTab.length] = new Array("0.6.5.2:2", "", "«OC_Role» Head of Sales, Europe", "EARoot/EA6/EA5/EA2/EA3763.htm", "5.png", "E5779", "0", "", "Class0","{5B25724E-1834-4604-B3E7-6688436292BE}");
+tocTab[tocTab.length] = new Array("0.6.5.2:3", "", "«OC_Role» Head of Sales, North America", "EARoot/EA6/EA5/EA2/EA3764.htm", "5.png", "E5780", "0", "", "Class0","{C258E2EB-FFDD-4214-8D3F-157867F4FDE3}");

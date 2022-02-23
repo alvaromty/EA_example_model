@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.18.7.2:2", "", "Server Components", "EARoot/EA18/EA7/EA2/EA10849.htm", "178.png", "332", "0", "", "Component diagram0","{536BA1F5-9F3D-41b3-8D41-D2C08DCE8F8B}");
+tocTab[tocTab.length] = new Array("0.18.7.2:3", "", "Technical Assumptions", "EARoot/EA18/EA7/EA2/EA10851.htm", "175.png", "356", "0", "", "Logical diagram0","{C9AAABB1-59F1-4d5e-B57B-65863A30078C}");
+tocTab[tocTab.length] = new Array("0.18.7.2:4", "", "«Assumption» ", "EARoot/EA18/EA7/EA2/EA10854.htm", "202.png", "E3131", "0", "", "Constraint0","{2A87AC91-A680-444e-B8DF-599BBD432FA0}");
+tocTab[tocTab.length] = new Array("0.18.7.2:5", "", "«web page» ASP Pages", "EARoot/EA18/EA7/EA2/EA10859.htm", "10.png", "E2637", "0", "", "Component0","{BAD82DA5-5DCF-4532-9D6C-4CE66E85974E}");
+tocTab[tocTab.length] = new Array("0.18.7.2:6", "", "BasketManager", "EARoot/EA18/EA7/EA2/EA10860.htm", "10.png", "E2631", "0", "", "Component0","{2B152747-C7B6-4f29-9F18-1B50C34765DC}");
+tocTab[tocTab.length] = new Array("0.18.7.2:7", "", "BookStore Database", "EARoot/EA18/EA7/EA2/EA10861.htm", "10.png", "E2634", "0", "", "Component0","{89710410-54F7-4ff1-98F7-A9901D93823E}");
+tocTab[tocTab.length] = new Array("0.18.7.2:8", "", "COM+ Component Environment", "EARoot/EA18/EA7/EA2/EA10862.htm", "10.png", "E2633", "0", "", "Component0","{5362D212-98D4-47dc-9BF0-846E414D13E3}");
+tocTab[tocTab.length] = new Array("0.18.7.2:9", "", "Firewall", "EARoot/EA18/EA7/EA2/EA10863.htm", "10.png", "E2632", "0", "", "Component0","{399C489B-7A6F-4e0b-9553-B9E139D02526}");
+tocTab[tocTab.length] = new Array("0.18.7.2:10", "", "«Web Server» IIS 5.0", "EARoot/EA18/EA7/EA2/EA10864.htm", "10.png", "E2629", "0", "", "Component0","{0E018852-54A0-4a6a-B4F2-BEF57081F250}");
+tocTab[tocTab.length] = new Array("0.18.7.2:11", "", "Inventory Manager", "EARoot/EA18/EA7/EA2/EA10865.htm", "10.png", "E3101", "0", "", "Component0","{0E8CED8B-C714-4cbe-BF56-3C5A4A2C7A9C}");
+tocTab[tocTab.length] = new Array("0.18.7.2:12", "", "LAN: SQL Server Configuration", "EARoot/EA18/EA7/EA2/EA10866.htm", "25.png", "E2638", "0", "", "Object0","{5A8BC2B4-9F62-4074-9D0E-3E842E497C13}");
+tocTab[tocTab.length] = new Array("0.18.7.2:13", "", "Web", "EARoot/EA18/EA7/EA2/EA10867.htm", "25.png", "E2640", "0", "", "Object0","{890B2FC6-AFC8-44c6-B35A-ECC66DD8AEDB}");
+tocTab[tocTab.length] = new Array("0.18.7.2:14", "", "Web SQL Server", "EARoot/EA18/EA7/EA2/EA10868.htm", "10.png", "E2636", "0", "", "Component0","{9AF5018A-936C-4afe-A49A-BAED085A2D21}");
+tocTab[tocTab.length] = new Array("0.18.7.2:15", "", "XSL Stylesheets", "EARoot/EA18/EA7/EA2/EA10869.htm", "10.png", "E2630", "0", "", "Component0","{1444128B-F91D-4d87-B3EB-337A7D789843}");
+tocTab[tocTab.length] = new Array("0.18.7.2:16", "", "Business Logic", "EARoot/EA18/EA7/EA2/EA10870.htm", "10.png", "E2635", "E2633", "", "Component0","{96C2B931-1F83-40d6-A0A6-51F13D059265}");
+tocTab[tocTab.length] = new Array("0.18.7.2:1", "", "Implementation", "EARoot/EA18/EA7/EA2/EA10847.htm", "189.png", "333", "E2635", "", "Analysis diagram0","{6FD69895-7468-49e2-8E8A-7C7B7E3704C2}");

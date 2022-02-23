@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6.7.4:1", "", "Airport Kiosks", "EARoot/EA6/EA7/EA4/EA3832.htm", "175.png", "592", "0", "", "Logical diagram0","{C73E58C7-748F-4cd7-B12C-5393E332D6F8}");
+tocTab[tocTab.length] = new Array("0.6.7.4:2", "", "«location» Amsterdam Schiphol: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3835.htm", "5.png", "E5830", "0", "", "Class0","{C9460690-B531-402d-8C66-10577F9721E6}");
+tocTab[tocTab.length] = new Array("0.6.7.4:3", "", "«location» Bangkok Suvarnabhumi: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3836.htm", "5.png", "E5831", "0", "", "Class0","{F0E63C98-3F72-4d6d-9A37-7A36E29C71F3}");
+tocTab[tocTab.length] = new Array("0.6.7.4:4", "", "«location» London Heathrow: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3837.htm", "5.png", "E5827", "0", "", "Class0","{DE1FF008-F89B-418a-A645-926FCE71C0A8}");
+tocTab[tocTab.length] = new Array("0.6.7.4:5", "", "«location» New York JFK: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3838.htm", "5.png", "E5837", "0", "", "Class0","{8F6FAB3A-C0E7-42e8-8E1E-B674104269B8}");
+tocTab[tocTab.length] = new Array("0.6.7.4:6", "", "«location» Rome Fiumicino: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3839.htm", "5.png", "E5833", "0", "", "Class0","{4D00F118-C787-4e83-96AF-9F97CDD7E122}");
+tocTab[tocTab.length] = new Array("0.6.7.4:7", "", "«location» Singapore Changi: Airport Kiosk", "EARoot/EA6/EA7/EA4/EA3840.htm", "5.png", "E5832", "0", "", "Class0","{D5529F99-0FB4-4e90-9D80-9ABE04C3A4A7}");
+tocTab[tocTab.length] = new Array("0.6.7.4:8", "", "London Park Street", "EARoot/EA6/EA7/EA4/EA3841.htm", "95.png", "E5828", "E5827", "", "Port0","{98A3B551-7F7E-4748-9830-116CB1EB983B}");
+tocTab[tocTab.length] = new Array("0.6.7.4:9", "", "Chicago William Place", "EARoot/EA6/EA7/EA4/EA3842.htm", "95.png", "E5834", "E5837", "", "Port0","{AFB5DF4A-B147-4a2f-857C-DE1E9B6A49F3}");

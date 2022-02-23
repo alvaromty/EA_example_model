@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.18.6.1.3:1", "", "Make Payment", "EARoot/EA18/EA6/EA1/EA3/EA10756.htm", "175.png", "313", "0", "", "Logical diagram0","{9D15B1E1-E178-4417-A779-9167999A4084}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:2", "", "Payment Screen", "EARoot/EA18/EA6/EA1/EA3/EA10760.htm", "11.png", "E2513", "0", "", "Screen0","{6F1BBE9F-3820-453c-9824-A441155AAFA4}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:3", "", "«button» Back", "EARoot/EA18/EA6/EA1/EA3/EA10761.htm", "16.png", "E2509", "E2513", "", "GUIElement0","{0DF6E0F5-1A44-4eb0-BC02-DE64C5BF79C9}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:4", "", "«button» Cancel", "EARoot/EA18/EA6/EA1/EA3/EA10762.htm", "16.png", "E2518", "E2513", "", "GUIElement0","{CA3BDAC7-4681-459f-8C11-FAE62DDECD60}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:5", "", "«text» CreditCard#", "EARoot/EA18/EA6/EA1/EA3/EA10763.htm", "16.png", "E2519", "E2513", "", "GUIElement0","{F283DD57-CF0E-4192-A62E-5781C43F70CD}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:6", "", "«text» ExpiryDate", "EARoot/EA18/EA6/EA1/EA3/EA10764.htm", "16.png", "E2511", "E2513", "", "GUIElement0","{1A5B0596-94FD-4ca8-9CF0-F016CF4F1318}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:7", "", "«text» NameOnCard", "EARoot/EA18/EA6/EA1/EA3/EA10765.htm", "16.png", "E2508", "E2513", "", "GUIElement0","{077BC299-A440-40c9-B866-F7DEB7BFA267}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:8", "", "«list» Order Details", "EARoot/EA18/EA6/EA1/EA3/EA10766.htm", "16.png", "E2510", "E2513", "", "GUIElement0","{101744FA-3F26-4628-8916-934367E91624}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:9", "", "«text» OrderTotal", "EARoot/EA18/EA6/EA1/EA3/EA10767.htm", "16.png", "E2514", "E2513", "", "GUIElement0","{6833665D-235E-42d0-B033-109B4485F7BD}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:10", "", "«list» Ship Details", "EARoot/EA18/EA6/EA1/EA3/EA10768.htm", "16.png", "E2516", "E2513", "", "GUIElement0","{8C6EA992-3CB1-413d-ADA0-7986F070E2EB}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:11", "", "«button» Submit", "EARoot/EA18/EA6/EA1/EA3/EA10769.htm", "16.png", "E2517", "E2513", "", "GUIElement0","{ACADB4EA-B0C2-4892-9F83-2584DEF75FD2}");
+tocTab[tocTab.length] = new Array("0.18.6.1.3:12", "", "«button» View Basket", "EARoot/EA18/EA6/EA1/EA3/EA10770.htm", "16.png", "E2515", "E2513", "", "GUIElement0","{9970F3EF-3A2F-422e-9071-BBCEBC8268C7}");

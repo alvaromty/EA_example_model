@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.2.4.6:1", "", "Full Framework", "EARoot/EA2/EA4/EA6/EA452.htm", "175.png", "973", "0", "", "Logical diagram0","{AE579D3C-1199-414c-946C-19CB725C0F35}");
+tocTab[tocTab.length] = new Array("0.2.4.6:2", "", "Active structure", "EARoot/EA2/EA4/EA6/EA455.htm", "5.png", "E9464", "0", "", "Class0","{D9296CB0-941E-4702-923A-076C7CD25699}");
+tocTab[tocTab.length] = new Array("0.2.4.6:3", "", "Application", "EARoot/EA2/EA4/EA6/EA456.htm", "5.png", "E9454", "0", "", "Class0","{14494CD1-0C5A-4c0a-8AC7-FE11862E7D41}");
+tocTab[tocTab.length] = new Array("0.2.4.6:4", "", "Behavior", "EARoot/EA2/EA4/EA6/EA457.htm", "5.png", "E9456", "0", "", "Class0","{422CCD21-2B91-4456-A4AA-BB931A083279}");
+tocTab[tocTab.length] = new Array("0.2.4.6:5", "", "Business", "EARoot/EA2/EA4/EA6/EA458.htm", "5.png", "E9462", "0", "", "Class0","{B03BB9E1-9B97-4165-AB16-61C78BF62765}");
+tocTab[tocTab.length] = new Array("0.2.4.6:6", "", "Implementation & Migration", "EARoot/EA2/EA4/EA6/EA459.htm", "5.png", "E9461", "0", "", "Class0","{A0675193-8201-41ea-A11F-77D548F5F4CB}");
+tocTab[tocTab.length] = new Array("0.2.4.6:7", "", "Motivation", "EARoot/EA2/EA4/EA6/EA460.htm", "5.png", "E9452", "0", "", "Class0","{0C5BC41E-C404-4046-A88F-AA41BC5CA6A4}");
+tocTab[tocTab.length] = new Array("0.2.4.6:8", "", "Passive structure", "EARoot/EA2/EA4/EA6/EA461.htm", "5.png", "E9458", "0", "", "Class0","{59E7CDB8-3528-4925-BE6B-68088C0D0A7C}");
+tocTab[tocTab.length] = new Array("0.2.4.6:9", "", "Physical", "EARoot/EA2/EA4/EA6/EA462.htm", "5.png", "E9460", "0", "", "Class0","{6991B133-3629-49ea-8C73-C26198C36729}");
+tocTab[tocTab.length] = new Array("0.2.4.6:10", "", "Strategy", "EARoot/EA2/EA4/EA6/EA463.htm", "5.png", "E9465", "0", "", "Class0","{EAEB9551-E23B-4dda-A8D9-8D4861FB5394}");
+tocTab[tocTab.length] = new Array("0.2.4.6:11", "", "Technology", "EARoot/EA2/EA4/EA6/EA464.htm", "5.png", "E9463", "0", "", "Class0","{C0B5969A-C41D-4335-B503-CBCE42AD6C61}");

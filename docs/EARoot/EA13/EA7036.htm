@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Database Modeling</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA7037.png" usemap="#EA7037" border="0" />
+
+<MAP NAME="EA7037">
+<area shape="rect" coords="393,553,563,668" href="./EA4/EA7160.htm" target="_self">
+<area shape="rect" coords="213,388,383,503" href="../EA4/EA4/EA1/EA2128.htm" target="_self">
+<area shape="rect" coords="33,388,203,503" href="../EA7/EA3/EA8/EA5040.htm" target="_self">
+<area shape="rect" coords="393,193,563,308" href="./EA2/EA2/EA2/EA7107.htm" target="_self">
+<area shape="rect" coords="213,193,383,308" href="./EA2/EA2/EA1/EA7093.htm" target="_self">
+<area shape="rect" coords="33,193,203,308" href="./EA2/EA1/EA7074.htm" target="_self">
+<area shape="rect" coords="10,568,364,653" href="EA7040.htm" target="_self">
+<area shape="rect" coords="10,538,250,569" href="EA7041.htm" target="_self">
+<area shape="rect" coords="270,15,670,175" href="EA7039.htm" target="_self">
+<area shape="rect" coords="10,10,250,56" href="EA7042.htm" target="_self">
+<area shape="rect" coords="623,233,743,258" href="http://www.sparxsystems.com/enterprise_architect_user_guide/15.2/datamodelling2.html" target="_top">
+<area shape="rect" coords="13,68,262,168" href="EA7043.htm" target="_self">
+<area shape="rect" coords="10,333,560,373" href="EA7052.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Database Modeling : Custom diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/28/2016 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">3/14/2017 4:36:54 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Pat Malone</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{79F605DD-E126-463e-B68E-48E8D12E475E}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

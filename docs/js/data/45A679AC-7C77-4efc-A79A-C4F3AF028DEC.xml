@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.3:1", "", "WSDL", "EARoot/EA4/EA3/EA1988.htm", "176.png", "42", "0", "", "Package diagram0","{3E55AEDE-37E3-4f6e-BFA5-A445B32BD583}");
+tocTab[tocTab.length] = new Array("0.4.3.1", "1", "«WSDLnamespace» WSDLPackage1", "EARoot/EA4/EA3/EA1/EA1998.htm", "4.png", "", "", "{7AD51AAE-484F-4bcc-8B10-D7407CECD875}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3.2", "1", "«WSDLnamespace» WSDLPackage2", "EARoot/EA4/EA3/EA2/EA2040.htm", "4.png", "", "", "{951380BA-16AC-4374-980D-7ECBDF8DC38D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3.3", "1", "«WSDLnamespace» WSDLPackage3", "EARoot/EA4/EA3/EA3/EA2076.htm", "4.png", "", "", "{9EACBFD0-BAFE-4911-9FD9-F5C6E2944169}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3.4", "1", "«XSDschema» Schema", "EARoot/EA4/EA3/EA4/EA2120.htm", "4.png", "", "", "{C2A8C629-BA22-4676-8920-AB9AEBD1F0DE}", "Package");

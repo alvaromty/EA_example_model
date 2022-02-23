@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>As A Student I want to buy books at Academic Prices</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("As A Student I want to buy books at Academic Prices", " : "))</script>  : Public  &lt;&lt;UserStory&gt;&gt; UserStory</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/16/2016 3:47:07 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">7/15/2020 2:45:43 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Greg Nichols</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">In Progress</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue">High</td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue">High</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{513B2F21-7F37-4f2b-860D-16FFEF88FC67}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../EA6542.htm">Online Shop Example</a>, <a href="../../EA1/EA6557.htm">1 stage workflow</a>, <a href="../../EA6/EA6598.htm">Model Connections</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Requirements');" id="RequirementsTitle">Requirements</li>
+			<li onClick="parent.toggleItem('Constraints');" id="ConstraintsTitle">Constraints</li>
+			<li onClick="parent.toggleItem('Files');" id="FilesTitle">Files</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('ResourceAllocation');" id="ResourceAllocationTitle">Resource Allocation</li>
+			<li onClick="parent.toggleItem('Maintenance');" id="MaintenanceTitle">Maintenance</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+		<div class="ItemBody" id="RequirementsTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="60%" class="TableHeading">Requirement</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Status</td>
+					<td width="10%" class="TableHeading">Difficulty</td>
+					<td width="10%" class="TableHeading">Priority</td>
+					<td width="10%" class="TableHeading">Stability</td>
+				</tr>
+				<tr>
+					<td width="60%" class="TableRow">An item needs to be identified as an academic title</td>
+					<td width="10%" class="TableRow">Functional</td>
+					<td width="10%" class="TableRow">Proposed</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Moderate</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="6">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageRequirement10684" onclick="parent.toggleDiv('detailsDIVRequirement10684','DetailsImageRequirement10684')" />Details:
+							<div id="detailsDIVRequirement10684" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Students should not be permitted to buy any titles that are not marked as academic so a new property must be added to the item information model and related tables to categorize these titles.&lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="60%" class="TableRow">Student numbers need to be verified</td>
+					<td width="10%" class="TableRow">Functional</td>
+					<td width="10%" class="TableRow">Proposed</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Moderate</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="6">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageRequirement10685" onclick="parent.toggleDiv('detailsDIVRequirement10685','DetailsImageRequirement10685')" />Details:
+							<div id="detailsDIVRequirement10685" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">Student numbers need to be verified by an algorithm or range definition supplied by each academic institution.&lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="60%" class="TableRow">The Academic Price discount needs to be configurable at runtime</td>
+					<td width="10%" class="TableRow">Functional</td>
+					<td width="10%" class="TableRow">Proposed</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Medium</td>
+					<td width="10%" class="TableRow">Moderate</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="6">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageRequirement10686" onclick="parent.toggleDiv('detailsDIVRequirement10686','DetailsImageRequirement10686')" />Details:
+							<div id="detailsDIVRequirement10686" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">A Web Interface should exist allowing the product team to configure the discount as a percentage for regions, countries, publishers, and institutions.&lt;br/&gt;</div>
+
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="ConstraintsTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+			  	<tr>
+					<td width="80%" class="TableHeading">Constraint</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Status</td>
+				</tr>
+				<tr>
+					<td width="80%" class="TableRow">The solution must use existing stored procedures where applicable</td>
+					<td width="10%" class="TableRow">Technical</td>
+					<td width="10%" class="TableRow">Approved</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageConstraints10687" onclick="parent.toggleDiv('detailsDIVConstraints10687','DetailsImageConstraints10687')" />Details:
+							<div id="detailsDIVConstraints10687" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="FilesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="90%" class="TableHeading">File</td>
+					<td width="10%" class="TableHeading">Type</td>
+				</tr>
+			<tr>
+				<td width="50%" class="TableRow"><a href="E:\Projects\Online BookStore\Requirements\List of Academic Institutions.xlsx">E:\Projects\Online BookStore\Requirements\List of Academic Institutions.xlsx</a></td>
+				<td width="10%" class="TableRow">Local File</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageFiles10688" onclick="parent.toggleDiv('detailsDIVFiles10688','DetailsImageFiles10688')" />Details:
+						<div id="detailsDIVFiles10688" class="DetailsDiv" >
+							<br />
+							<span class="NoteHeading">File Size:</span> 8 k<br />
+							<span class="NoteHeading">Time Stamp:</span> <br />
+						</div>
+					</div>
+				</td>
+			</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="ResourceAllocationTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="20%" class="TableHeading">Resource</td>
+					<td width="20%" class="TableHeading">Role</td>
+					<td width="20%" class="TableHeading">Time</td>
+					<td width="40%" class="TableHeading">Details</td>
+				</tr>
+				<tr>
+					<td width="20%" class="TableRow">Pat Taylor</td>
+					<td width="20%" class="TableRow">C++ Programmer</td>
+					<td width="20%" class="TableRow">
+						<strong>Allocated:</strong> 0.00<br />
+						<strong>Percent Complete:</strong> 30%<br />
+						<strong>Expected Time:</strong> 0<br />
+						<strong>Actual Time:</strong> 0
+					</td>
+					<td width="40%" class="TableRow">
+						&nbsp;<br />
+						<strong>Start Date:</strong> 6/14/2016<br />
+						<strong>End Date:</strong> 6/18/2016
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="MaintenanceTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="16%" class="TableHeading">Item</td>
+					<td width="8%" class="TableHeading">Type</td>
+					<td width="8%" class="TableHeading">Status</td>
+					<td width="8%" class="TableHeading">Priority</td>
+					<td width="12%" class="TableHeading">Dates</td>
+				</tr>
+				<tr>
+					<td width="16%" class="TableRow">Academic Institutions need to register for discount</td>
+					<td width="8%" class="TableRow">Change</td>
+					<td width="8%" class="TableRow">New <br>Version: &nbsp;</td>
+					<td width="8%" class="TableRow">&nbsp;</td>
+					<td width="12%" class="TableRow">Reported: 6/14/2016 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance10689" onclick="parent.toggleDiv('detailsDIVMaintenance10689','DetailsImageMaintenance10689')" />Details:
+							<div id="detailsDIVMaintenance10689" class="DetailsDiv" >
+							&nbsp; <br>Reported by: Adam Goodchild <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">No need to cite or validate a student card</td>
+					<td width="8%" class="TableRow">Decision</td>
+					<td width="8%" class="TableRow">Verified <br>Version: &nbsp;</td>
+					<td width="8%" class="TableRow">&nbsp;</td>
+					<td width="12%" class="TableRow">Reported: 6/8/2016 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance10690" onclick="parent.toggleDiv('detailsDIVMaintenance10690','DetailsImageMaintenance10690')" />Details:
+							<div id="detailsDIVMaintenance10690" class="DetailsDiv" >
+							&nbsp; <br>Reported by: Greg Nichols <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">The database environments are locked down while the Linux upgrades are being done</td>
+					<td width="8%" class="TableRow">Issue</td>
+					<td width="8%" class="TableRow">New <br>Version: 160663CEE1ISS</td>
+					<td width="8%" class="TableRow">High</td>
+					<td width="12%" class="TableRow">Reported: 6/15/2016 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance10691" onclick="parent.toggleDiv('detailsDIVMaintenance10691','DetailsImageMaintenance10691')" />Details:
+							<div id="detailsDIVMaintenance10691" class="DetailsDiv" >
+							<div class="ObjectDetailsNotes">There is a Linux Operating system project in progress for the next couple of weeks and all non critical database changes have been frozen during this period. This will mean that the addition of the Student Verification table and associated stored procedures will have to be delayed. A replica environment will be built on another server to allow development to continue.&lt;br/&gt;</div>
+ <br>Reported by: Greg Nichols <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>				<tr>
+					<td width="16%" class="TableRow">The percentage for the academic price discount has not been set by the product team</td>
+					<td width="8%" class="TableRow">Issue</td>
+					<td width="8%" class="TableRow">Verified <br>Version: &nbsp;</td>
+					<td width="8%" class="TableRow">Medium</td>
+					<td width="12%" class="TableRow">Reported: 6/15/2016 12:00:00 AM <br>Resolved: 8/21/2020 4:34:23 PM</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageMaintenance10692" onclick="parent.toggleDiv('detailsDIVMaintenance10692','DetailsImageMaintenance10692')" />Details:
+							<div id="detailsDIVMaintenance10692" class="DetailsDiv" >
+							&nbsp; <br>Reported by: Pat Taylor <br>Resolved by: &nbsp; <br>Resolution:  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA7/EA8/EA4/EA3/EA6278.htm">«Functional» REQ117 - The system must provide a mechanism allowing students to identify themselves</a></td>
+					<td width="10%" class="TableRow" valign="top">Requirement</td>
+					<td width="10%" class="TableRow" valign="top">Abstraction</td>
+					<td width="10%" class="TableRow" valign="top">To</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA6/EA6602.htm">Rules Analyzer</a></td>
+					<td width="10%" class="TableRow" valign="top">Component</td>
+					<td width="10%" class="TableRow" valign="top">Abstraction</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA6/EA6603.htm">«table» Student Verification</a></td>
+					<td width="10%" class="TableRow" valign="top">Table</td>
+					<td width="10%" class="TableRow" valign="top">Abstraction</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

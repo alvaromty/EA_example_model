@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.7:1", "", "BPMN 2.0 Examples", "EARoot/EA7/EA7/EA5612.htm", "176.png", "528", "0", "", "Package diagram0","{C7EB2910-4056-4860-903D-CB074160C175}");
+tocTab[tocTab.length] = new Array("0.7.7.1", "1", "Process Diagrams", "EARoot/EA7/EA7/EA1/EA5632.htm", "4.png", "", "", "{4099C84C-C48E-4599-AC5D-FA52DF1C3B39}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.2", "1", "Conversation Diagrams", "EARoot/EA7/EA7/EA2/EA6000.htm", "4.png", "", "", "{C0EF897E-50EB-477c-BABC-D53FB569CF8F}", "Package");
+tocTab[tocTab.length] = new Array("0.7.7.3", "1", "Choreography Diagram", "EARoot/EA7/EA7/EA3/EA6055.htm", "4.png", "", "", "{1983D6EE-1ACB-410c-8946-229466C110D8}", "Package");

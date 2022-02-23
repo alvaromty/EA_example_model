@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.3.5:1", "", "Decision Tables", "EARoot/EA7/EA3/EA5/EA5006.htm", "188.png", "519", "0", "", "Custom diagram0","{2432DDF1-6CF0-41c3-99D9-7309641A3C6D}");
+tocTab[tocTab.length] = new Array("0.7.3.5:2", "", "Actuary", "EARoot/EA7/EA3/EA5/EA5013.htm", "5.png", "E3924", "0", "", "Class0","{C4545A6C-E98D-4e3f-BE29-E1555919B695}");
+tocTab[tocTab.length] = new Array("0.7.3.5:3", "", "«Image» DecisionTableEditor.png", "EARoot/EA7/EA3/EA5/EA5014.htm", "82.png", "E3899", "0", "", "Artifact0","{82252AAD-3687-4f27-943F-C32AD39141A0}");
+tocTab[tocTab.length] = new Array("0.7.3.5:4", "", "eMedicalHistory", "EARoot/EA7/EA3/EA5/EA5015.htm", "247.png", "E4066", "0", "", "Enumeration0","{C91E849F-86E0-40bb-8C34-5A1E6C9D729A}");
+tocTab[tocTab.length] = new Array("0.7.3.5:5", "", "eRiskRating", "EARoot/EA7/EA3/EA5/EA5016.htm", "247.png", "E4067", "0", "", "Enumeration0","{8DA6F26A-53F8-4267-8CF8-480799DB338F}");
+tocTab[tocTab.length] = new Array("0.7.3.5:6", "", "RiskAssessment", "EARoot/EA7/EA3/EA5/EA5017.htm", "21.png", "E3925", "E3924", "", "Activity0","{FC499E1B-BB26-4c7d-9DC9-AAA7D1F0C1FE}");

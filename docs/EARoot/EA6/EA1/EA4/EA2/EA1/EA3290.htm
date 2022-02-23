@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Data - Semantic Model</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA3291.png" usemap="#EA3291" border="0" />
+
+<MAP NAME="EA3291">
+<area shape="rect" coords="174,432,378,502" href="EA3296.htm" target="_self">
+<area shape="rect" coords="489,288,681,358" href="EA3304.htm" target="_self">
+<area shape="rect" coords="498,555,645,625" href="EA3298.htm" target="_self">
+<area shape="rect" coords="671,168,796,267" href="EA3294.htm" target="_self">
+<area shape="rect" coords="33,65,671,132" href="EA3295.htm" target="_self">
+<area shape="rect" coords="10,371,125,486" href="EA3293.htm" target="_self">
+<area shape="rect" coords="489,440,681,510" href="EA3301.htm" target="_self">
+<area shape="rect" coords="179,561,371,631" href="EA3300.htm" target="_self">
+<area shape="rect" coords="179,289,371,359" href="EA3299.htm" target="_self">
+<area shape="rect" coords="245,10,542,40" href="EA3305.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Data - Semantic Model : Data Map diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/15/2017 2:13:54 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">2/15/2017 2:13:54 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Meg Snyder</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{DBB9C49E-3FF5-40b1-BF1B-CF09A31723C6}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">The Data Map diagram captures the relationship between the existing business entities and helps in identifying the need for new business entities.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

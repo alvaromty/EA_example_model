@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Built In List Functions</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Built In List Functions", " : "))</script>  : Public  &lt;&lt;BusinessKnowledgeModel&gt;&gt; BusinessKnowledgeModel</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/16/2018 8:31:34 AM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">5/16/2018 8:31:34 AM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Tim Howard</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{15939FB2-48C7-4e66-B4A0-079190B7FB07}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA11732.htm">Built-in Functions</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">encapsulatedLogic</td>
+				<td width="50%" class="TableRow" valign="top">&lt;a href=&quot;#lt;dmn:encapsulatedLogic xmlns:dmn=&quot;http://www.omg.org/spec/DMN/20151101/dmn.xsd&quot; returnType=&quot;boolean&quot;#gt;&lt;br /&gt;	#lt;dmn:context#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable01&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;list contains([1,2,3], 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable02&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;count([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable03&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;min([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable04&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;min(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable05&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;max([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable06&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;max(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable07&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sum([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable08&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sum(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable09&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;mean([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable10&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;mean(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable11&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and([false,null,true])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable12&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and(false,null,true)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable13&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and([ ])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable14&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and(0)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable15&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or([false,null,true])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable16&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or(false,null,true)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable17&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or([ ])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable18&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or(0)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable19&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sublist([1,2,3], 1, 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable20&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;append([1], 2, 3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable21&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;concatenate([1,2],[3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable22&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;insert before([1,3],1,2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable23&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;remove([1,2,3], 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable24&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;reverse([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable25&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;index of([1,2,3,2],2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable26&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;union([1,2],[2,3], [3,4,5])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable27&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;distinct values([1,2,3,2,1])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable29&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;flatten([[1,2],[[3]], 4])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;true#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;	#lt;/dmn:context#gt;&lt;br /&gt;#lt;/dmn:encapsulatedLogic#gt;&lt;br /&gt;&quot; target=&quot;_blank&quot; &gt;#lt;dmn:encapsulatedLogic xmlns:dmn=&quot;http://www.omg.org/spec/DMN/20151101/dmn.xsd&quot; returnType=&quot;boolean&quot;#gt;&lt;br /&gt;	#lt;dmn:context#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable01&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;list contains([1,2,3], 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable02&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;count([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable03&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;min([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable04&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;min(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable05&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;max([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable06&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;max(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable07&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sum([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable08&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sum(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable09&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;mean([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable10&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;mean(1,2,3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable11&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and([false,null,true])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable12&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and(false,null,true)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable13&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and([ ])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable14&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;and(0)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable15&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or([false,null,true])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable16&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or(false,null,true)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable17&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or([ ])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable18&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;or(0)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable19&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;sublist([1,2,3], 1, 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable20&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;append([1], 2, 3)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable21&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;concatenate([1,2],[3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable22&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;insert before([1,3],1,2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable23&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;remove([1,2,3], 2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable24&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;reverse([1,2,3])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable25&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;index of([1,2,3,2],2)#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable26&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;union([1,2],[2,3], [3,4,5])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable27&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;distinct values([1,2,3,2,1])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:variable name=&quot;variable29&quot;/#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;flatten([[1,2],[[3]], 4])#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;		#lt;dmn:contextEntry#gt;&lt;br /&gt;			#lt;dmn:literalExpression#gt;&lt;br /&gt;				#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;true#lt;/dmn:text#gt;&lt;br /&gt;			#lt;/dmn:literalExpression#gt;&lt;br /&gt;		#lt;/dmn:contextEntry#gt;&lt;br /&gt;	#lt;/dmn:context#gt;&lt;br /&gt;#lt;/dmn:encapsulatedLogic#gt;&lt;br /&gt;&lt;/a&gt;</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario17103" onclick="parent.toggleDiv('detailsDIVScenario17103','DetailsImageScenario17103')" />Details:
+						<div id="detailsDIVScenario17103" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">expressionType</td>
+				<td width="50%" class="TableRow" valign="top">Context</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario17104" onclick="parent.toggleDiv('detailsDIVScenario17104','DetailsImageScenario17104')" />Details:
+						<div id="detailsDIVScenario17104" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: DecisionTable,Invocation,Context,LiteralExpression<br />Default: DecisionTable<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">isUsingLibrary</td>
+				<td width="50%" class="TableRow" valign="top">true</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario17105" onclick="parent.toggleDiv('detailsDIVScenario17105','DetailsImageScenario17105')" />Details:
+						<div id="detailsDIVScenario17105" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: true,false<br />Default: false<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">testLabInvocation</td>
+				<td width="50%" class="TableRow" valign="top">&lt;a href=&quot;#lt;dmn:testLabInvocation xmlns:dmn=&quot;http://www.omg.org/spec/DMN/20151101/dmn.xsd&quot; requestOutputType=&quot;boolean&quot;#gt;&lt;br /&gt;	#lt;dmn:literalExpression#gt;&lt;br /&gt;		#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;Built In List Functions#lt;/dmn:text#gt;&lt;br /&gt;	#lt;/dmn:literalExpression#gt;&lt;br /&gt;#lt;/dmn:testLabInvocation#gt;&lt;br /&gt;&quot; target=&quot;_blank&quot; &gt;#lt;dmn:testLabInvocation xmlns:dmn=&quot;http://www.omg.org/spec/DMN/20151101/dmn.xsd&quot; requestOutputType=&quot;boolean&quot;#gt;&lt;br /&gt;	#lt;dmn:literalExpression#gt;&lt;br /&gt;		#lt;dmn:text language=&quot;FEEL&quot; linesNumber=&quot;0&quot;#gt;Built In List Functions#lt;/dmn:text#gt;&lt;br /&gt;	#lt;/dmn:literalExpression#gt;&lt;br /&gt;#lt;/dmn:testLabInvocation#gt;&lt;br /&gt;&lt;/a&gt;</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario17106" onclick="parent.toggleDiv('detailsDIVScenario17106','DetailsImageScenario17106')" />Details:
+						<div id="detailsDIVScenario17106" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">_subtypeProperty:</td>
+				<td width="70%" class="TableRow">DMN1.1::BusinessKnowledgeModel::expressionType</td>
+			</tr>
+
+			<tr>
+				<td width="30%" class="TableRow">isReadOnly:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

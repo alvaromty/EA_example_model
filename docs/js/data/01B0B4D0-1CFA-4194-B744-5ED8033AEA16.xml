@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.14:1", "", "Combined Charts - Javascript", "EARoot/EA2/EA10/EA14/EA985.htm", "188.png", "1062", "0", "", "Custom diagram0","{AE85AAC8-988E-42fb-B112-E0FCB5F7C0D0}");
+tocTab[tocTab.length] = new Array("0.2.10.14:2", "", "Combined Charts - JSON", "EARoot/EA2/EA10/EA14/EA987.htm", "188.png", "1063", "0", "", "Custom diagram0","{81A90E92-AB21-41e8-858A-B2A7E09A6F83}");
+tocTab[tocTab.length] = new Array("0.2.10.14:3", "", "«SSDynamicChart» Combined Charts - JavaScript", "EARoot/EA2/EA10/EA14/EA990.htm", "5.png", "E10105", "0", "", "Class0","{42DCC0D0-ADE0-48b6-813B-4DBD3729D9CB}");
+tocTab[tocTab.length] = new Array("0.2.10.14:4", "", "«SSDynamicChart» Combined Charts - JSON", "EARoot/EA2/EA10/EA14/EA991.htm", "5.png", "E10103", "0", "", "Class0","{EEBDDB89-E02D-4262-BB5C-48653A570175}");

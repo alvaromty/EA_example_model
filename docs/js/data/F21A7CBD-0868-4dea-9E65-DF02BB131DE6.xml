@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:1", "", "Human I/F Architecture", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3431.htm", "180.png", "720", "0", "", "Use Case diagram0","{9C2D3B21-9A59-428a-8F24-39B2B4D58562}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:2", "", "Admin", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3435.htm", "6.png", "E4357", "0", "", "Actor0","{EF21ACEB-DA52-48df-98D0-B10B1AA2383A}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:3", "", "Print Protected File", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3437.htm", "7.png", "E4366", "0", "", "UseCase0","{44CC5224-259C-4fb0-9EF1-0966A33C11A9}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:4", "", "Print Shared File", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3438.htm", "7.png", "E4360", "0", "", "UseCase0","{334CEC66-AB2E-4233-B669-BA4C5AAF04D8}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:5", "", "«Device» Printer", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3439.htm", "6.png", "E4361", "0", "", "Actor0","{2451D0A6-7A6A-4030-9550-275C5FC150D0}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4:6", "", "User1", "EARoot/EA6/EA1/EA4/EA3/EA4/EA3442.htm", "6.png", "E4365", "0", "", "Actor0","{D146F19C-9EB2-4d65-B592-F7F97236475E}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.4.1", "1", "Use Case Model", "EARoot/EA6/EA1/EA4/EA3/EA4/EA1/EA3446.htm", "4.png", "", "", "{657CA920-3B99-4b3a-8B63-7461A3C4194E}", "Package");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.4.6:1", "", "Rule Design", "EARoot/EA6/EA1/EA4/EA4/EA6/EA3587.htm", "188.png", "740", "0", "", "Custom diagram0","{A12453BF-1EE7-46db-8054-C45815C94574}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.6:2", "", "«FormalRule» FormalRule1", "EARoot/EA6/EA1/EA4/EA4/EA6/EA3591.htm", "19.png", "E4470", "0", "", "Requirement0","{197DE944-D335-46e7-A2DC-992B9B9C23EE}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.6:3", "", "«FormalRule» FormalRule2", "EARoot/EA6/EA1/EA4/EA4/EA6/EA3592.htm", "19.png", "E4469", "0", "", "Requirement0","{9FAC692F-8D07-4764-8939-8936DCEE97E1}");

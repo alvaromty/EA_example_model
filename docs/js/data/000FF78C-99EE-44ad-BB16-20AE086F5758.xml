@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.18.6.1:1", "", "Orders", "EARoot/EA18/EA6/EA1/EA10721.htm", "175.png", "311", "0", "", "Logical diagram0","{680C0800-272E-4f46-8BDD-9F2FE1EBCFF0}");
+tocTab[tocTab.length] = new Array("0.18.6.1.1", "1", "View Basket", "", "4.png", "", "", "{9F6EB3A0-63E9-473e-8782-E7FC1067B4DE}", "Package");
+tocTab[tocTab.length] = new Array("0.18.6.1.2", "1", "PlaceOrder", "", "4.png", "", "", "{1D584D61-2B59-4765-B87A-AA60465ACCD9}", "Package");
+tocTab[tocTab.length] = new Array("0.18.6.1.3", "1", "MakePayment", "", "4.png", "", "", "{6C7A17A8-2E8F-415d-99B5-F64840AC2E59}", "Package");

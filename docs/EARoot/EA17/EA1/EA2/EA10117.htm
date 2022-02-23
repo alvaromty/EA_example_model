@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Example - Build and Debug</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA10118.png" usemap="#EA10118" border="0" />
+
+<MAP NAME="EA10118">
+<area shape="rect" coords="10,963,622,1018" href="EA10127.htm" target="_self">
+<area shape="rect" coords="10,1033,1363,1641" href="EA10136.htm" target="_self">
+<area shape="rect" coords="527,741,811,828" href="./EA1/EA10141.htm" target="_self">
+<area shape="rect" coords="527,597,691,701" href="./EA2/EA10145.htm" target="_self">
+<area shape="rect" coords="276,741,470,915" href="./EA1/EA10140.htm" target="_self">
+<area shape="rect" coords="276,597,470,701" href="./EA2/EA10146.htm" target="_self">
+<area shape="rect" coords="20,618,179,643" href="http://$uicmd=MenuCmd;param1=LocalPath;" target="_top">
+<area shape="rect" coords="20,778,133,803" href="http://$uicmd=MenuCmd;param1=DebugRun;" target="_top">
+<area shape="rect" coords="20,738,145,763" href="http://$uicmd=MenuCmd;param1=Build;" target="_top">
+<area shape="rect" coords="20,698,182,723" href="http://$uicmd=ShowView;param1=ViewDebug" target="_top">
+<area shape="rect" coords="20,658,248,683" href="http://$uicmd=ShowView;param1=ViewPackageScripts" target="_top">
+<area shape="rect" coords="20,578,137,609" href="EA10124.htm" target="_self">
+<area shape="rect" coords="10,163,876,518" href="EA10122.htm" target="_self">
+<area shape="rect" coords="10,123,80,153" href="EA10123.htm" target="_self">
+<area shape="rect" coords="10,63,435,118" href="EA10126.htm" target="_self">
+<area shape="rect" coords="10,10,513,56" href="EA10125.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Example - Build and Debug : Custom diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/5/2016 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">3/20/2017 3:40:04 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Pat Malone</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{0FCD9B44-94A6-4e3f-929D-CD9DB9F79A85}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.2.12:2", "", "Element Browser and Properties Window", "EARoot/EA2/EA12/EA1050.htm", "175.png", "996", "0", "", "Logical diagram0","{F1CB6A03-6BCC-4ca7-9559-14D889FED38F}");
+tocTab[tocTab.length] = new Array("0.2.12:3", "", "Elements&#39; Compartment Visibility", "EARoot/EA2/EA12/EA1052.htm", "175.png", "999", "0", "", "Logical diagram0","{9092ADB7-2CDB-4bed-8164-86AEB6087BC2}");
+tocTab[tocTab.length] = new Array("0.2.12:4", "", "Element Info View", "EARoot/EA2/EA12/EA1054.htm", "175.png", "1000", "0", "", "Logical diagram0","{2A41FE73-A909-4a96-8A3E-AA818BE4E2E1}");
+tocTab[tocTab.length] = new Array("0.2.12:5", "", "Actor2", "EARoot/EA2/EA12/EA1064.htm", "6.png", "E9731", "0", "", "Actor0","{7E6AC65C-A203-42ea-9A78-DC79043A8456}");
+tocTab[tocTab.length] = new Array("0.2.12:6", "", "Actor222", "EARoot/EA2/EA12/EA1065.htm", "6.png", "E9743", "0", "", "Actor0","{FC4DA7B1-DD18-421e-A52C-49F30C6B325A}");
+tocTab[tocTab.length] = new Array("0.2.12:7", "", "Class1", "EARoot/EA2/EA12/EA1066.htm", "5.png", "E9729", "0", "", "Class0","{6D27630D-5FE3-4912-9493-1636EDF33985}");
+tocTab[tocTab.length] = new Array("0.2.12:8", "", "Class2", "EARoot/EA2/EA12/EA1067.htm", "5.png", "E9727", "0", "", "Class0","{29323FB6-35EF-4df9-BA59-866F6F6FEBEC}");
+tocTab[tocTab.length] = new Array("0.2.12:9", "", "«adhoc table» Custom Table1", "EARoot/EA2/EA12/EA1068.htm", "82.png", "E9738", "0", "", "Artifact0","{DE771FF0-F716-4f0e-9DA4-D793AA66D6C2}");
+tocTab[tocTab.length] = new Array("0.2.12:10", "", "stopSignal", "EARoot/EA2/EA12/EA1071.htm", "196.png", "E9732", "0", "", "Signal0","{A498AD1F-81FB-4abe-A54E-20CA5F693A0E}");
+tocTab[tocTab.length] = new Array("0.2.12:11", "", "«ExternalReference» View the Burndown Chart", "EARoot/EA2/EA12/EA1072.htm", "82.png", "E9739", "0", "", "Artifact0","{E7541EA9-F29D-429e-B2A0-7562B6F8BBF0}");
+tocTab[tocTab.length] = new Array("0.2.12:12", "", "«EAReview» Review - Package1", "EARoot/EA2/EA12/EA1073.htm", "B7E40DEE-5_EAReview.png", "E9733", "0", "", "Artifact0","{B4F45895-22D8-48e7-B0FB-53CBEC141F28}");
+tocTab[tocTab.length] = new Array("0.2.12:1", "", "Package1", "EARoot/EA2/EA12/EA1048.htm", "188.png", "997", "E9733", "", "Custom diagram0","{3322FCF6-8ECE-4cc6-BAF7-348D85D35295}");
+tocTab[tocTab.length] = new Array("0.2.12.1", "", "«InformationModel» NIEM 3.0 Package", "EARoot/EA2/EA12/EA1/EA1074.htm", "4.png", "", "", "{634AEE72-F788-46a5-A32A-005064B3AB4B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.12.2", "", "«InformationModel» NIEM_Pkg", "EARoot/EA2/EA12/EA2/EA1075.htm", "4.png", "", "", "{416A7F3E-6644-49dc-A229-B639CC5A52F2}", "Package");

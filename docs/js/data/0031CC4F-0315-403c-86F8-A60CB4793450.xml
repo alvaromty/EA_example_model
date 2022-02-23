@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:1", "", "Assignments", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5576.htm", "189.png", "250", "0", "", "Analysis diagram0","{0E54920A-DA13-4670-BD35-6EE0AD5D9DCD}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:2", "", "«Assignment» ApproveLoanAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5579.htm", "5.png", "E2225", "0", "", "Class0","{DEF0E490-56A5-4475-99BD-1F955E4BDD3D}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:3", "", "«Assignment» GetLoanApprovalResponseAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5580.htm", "5.png", "E2224", "0", "", "Class0","{DD98C04E-BE4E-4df4-A13F-E3B2167CDA81}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:4", "", "«Assignment» LoanApprovalRequest_AmtAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5581.htm", "5.png", "E2222", "0", "", "Class0","{6B8EDC4C-9134-4929-BAE7-721E159C2DA7}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:5", "", "«Assignment» LoanApprovalRequest_IDAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5582.htm", "5.png", "E2227", "0", "", "Class0","{FBCD62FF-9744-4602-A70B-F8746F136235}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:6", "", "«Assignment» RiskAssessmentRequest_AmtAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5583.htm", "5.png", "E2223", "0", "", "Class0","{C565235F-19B3-499f-9AB5-D21FEBEA5EE1}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.1:7", "", "«Assignment» RiskAssessmentRequest_IDAssignment", "EARoot/EA7/EA6/EA2/EA1/EA1/EA5584.htm", "5.png", "E2226", "0", "", "Class0","{E6762F81-782A-4bc5-8199-C81BF9424418}");

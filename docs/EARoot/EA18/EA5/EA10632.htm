@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SelectionSort</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA10633.png" usemap="#EA10633" border="0" />
+
+<MAP NAME="EA10633">
+<area shape="rect" coords="621,10,1205,549" href="EA10682.htm" target="_self">
+<area shape="rect" coords="417,148,487,192" href="EA10687.htm" target="_self">
+<area shape="rect" coords="110,359,180,403" href="EA10688.htm" target="_self">
+<area shape="rect" coords="235,363,261,397" href="EA10681.htm" target="_self">
+<area shape="rect" coords="215,418,285,462" href="EA10686.htm" target="_self">
+<area shape="rect" coords="340,284,559,328" href="EA10691.htm" target="_self">
+<area shape="rect" coords="233,289,259,323" href="EA10680.htm" target="_self">
+<area shape="rect" coords="47,161,67,181" href="EA10684.htm" target="_self">
+<area shape="rect" coords="232,153,258,187" href="EA10683.htm" target="_self">
+<area shape="rect" coords="194,217,299,261" href="EA10690.htm" target="_self">
+<area shape="rect" coords="147,75,345,119" href="EA10689.htm" target="_self">
+<area shape="rect" coords="236,26,256,46" href="EA10685.htm" target="_self">
+<area shape="rect" coords="10,12,583,503" href="EA10643.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">SelectionSort : Activity diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/7/2012 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">12/10/2012 10:35:20 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{1846A2DA-E6A8-47d0-A09F-E2D9F9C53E5B}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

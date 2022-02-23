@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:1", "", "Customer Process", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1772.htm", "181.png", "36", "0", "", "Activity diagram0","{6DB73AD6-BECD-46c2-9165-644A921C4428}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:2", "", "Add to Shopping Basket", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1776.htm", "104.png", "E266", "0", "", "Action0","{067675E5-A190-4fa1-A4D8-AE076C508999}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:3", "", "Close Order", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1777.htm", "69.png", "E275", "0", "", "StateNode0","{6F69A8DC-F0C7-4b6e-AE20-02F7B1F854FA}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:4", "", "Commit Order", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1778.htm", "104.png", "E270", "0", "", "Action0","{2D387927-7B73-49fc-B9F9-06D9236FDF6E}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:5", "", "Confirm Purchase", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1779.htm", "104.png", "E271", "0", "", "Action0","{304C0660-D931-4d1d-B4A1-791E5C467EFF}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:6", "", "Credit OK?", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1780.htm", "56.png", "E278", "0", "", "Decision0","{B43AAF78-5BB4-4a0c-9A25-B299CDD129D0}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:7", "", "Customer Enters Web site", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1781.htm", "68.png", "E281", "0", "", "StateNode0","{F96BE4C7-E88C-4a9b-9A5C-64A715C8F044}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:8", "", "Customer Logs In", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1782.htm", "104.png", "E272", "0", "", "Action0","{3873E983-529D-4365-8AFE-76656C13F935}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:9", "", "Items Delivered", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1783.htm", "104.png", "E280", "0", "", "Action0","{D4457898-7B4F-46f0-8E15-D071BB697640}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:10", "", "Order Complete", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1784.htm", "69.png", "E268", "0", "", "StateNode0","{2D311FED-551F-41a2-839D-B6042BABBB1E}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:11", "", "Reject Credit Card", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1785.htm", "104.png", "E276", "0", "", "Action0","{B404E77F-D1E9-422e-BA69-39BEC47D0C7B}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:12", "", "Rejected", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1786.htm", "69.png", "E277", "0", "", "StateNode0","{7981FD8A-3CD5-4a78-8A8A-AA4F0B018DF5}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:13", "", "Select Book for Purchase", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1787.htm", "104.png", "E273", "0", "", "Action0","{4DBA1CEA-DB07-48e1-AEB4-F9A5A05DF8BD}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:14", "", "Supply Credit Card Details", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1788.htm", "104.png", "E269", "0", "", "Action0","{2FB90816-736F-46b6-A7B6-3CE0296EE22A}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:15", "", "Valid User?", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1789.htm", "56.png", "E279", "0", "", "Decision0","{CE0F2B51-F71D-47d3-AD3D-C00DB04FAEF4}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:16", "", "View BookStore", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1790.htm", "104.png", "E274", "0", "", "Action0","{4E5B1CB0-3DAD-4c28-94A4-1D986324BD33}");
+tocTab[tocTab.length] = new Array("0.3.2.4.6.1:17", "", "View Shopping Basket", "EARoot/EA3/EA2/EA4/EA6/EA1/EA1791.htm", "104.png", "E267", "0", "", "Action0","{1FC3BF05-EE4A-46fa-B4BD-D51BAE1D05E4}");

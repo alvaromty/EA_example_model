@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public   Note</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/10/2012 10:20:36 AM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">8/30/2019 3:18:29 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{F974ED0B-BB86-4a5c-A637-E450EE585D08}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA10632.htm">SelectionSort</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This is an example of generating code for Activity diagram with multiple loops.&lt;br/&gt;&#160;&#160;&#160;&#160;It demonstrates the ability to dynamically identify the loop nodes.&lt;br/&gt;&#160;&#160;&#160;&#160;Support multiple targeted languages such as Java, C#, C++, OOC, VBNet&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;&lt;b&gt;Steps to run:&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;<br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1. Context menu on &quot;TestS3electionSort&quot; | Generate Code | Specify the generating Path E.g. &quot;C:\foo\TestSelectionSort.java&quot;&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2. If your JDK, JAVA_HOME, CLASSPATH were set properly, you can simply test the generated code like this:&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;C:\foo#gt;javac TestSelectionSort.java&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;C:\foo#gt;java TestSelectionSort&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;The &lt;b&gt;generated code&lt;/b&gt; for Activity &quot;SelectionSort&quot; would look like this:&lt;/li&gt;&lt;/ul&gt;<br />&lt;br/&gt;	public void SelectionSort()&lt;br/&gt;	{&lt;br/&gt;		// behavior is a Activity&lt;br/&gt;		int i = 0, j = 0, min = -1, temp = -1;&lt;br/&gt;		while (i #lt; N - 1)&lt;br/&gt;		{&lt;br/&gt;			min = i;&lt;br/&gt;			j = i+1;&lt;br/&gt;			while (j #lt; N)&lt;br/&gt;			{&lt;br/&gt;				if (a[j] #lt; a[min])&lt;br/&gt;				{&lt;br/&gt;					min = j;&lt;br/&gt;				}&lt;br/&gt;				j++;&lt;br/&gt;			}&lt;br/&gt;			temp = a[min];&lt;br/&gt;			a[min] = a[i];&lt;br/&gt;			a[i] = temp;;&lt;br/&gt;			i++;&lt;br/&gt;		}&lt;br/&gt;	}&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;<br />&lt;li&gt;&lt;b&gt;The test result looks like:&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;<br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Selection Sort Test Result:&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-------------------------------&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Original Array:[5, 3, 2, 1, 4]&lt;br/&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sorted&#160;&#160;Array:[1, 2, 3, 4, 5]&lt;br/&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

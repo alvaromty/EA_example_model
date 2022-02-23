@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.13.2.2.2.5:1", "", "Views", "EARoot/EA13/EA2/EA2/EA2/EA5/EA7141.htm", "175.png", "449", "0", "", "Logical diagram0","{1B74598D-0661-4244-8BEA-A38C4AF78416}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.5:2", "", "«view» vwCustomerAddresses", "EARoot/EA13/EA2/EA2/EA2/EA5/EA7144.htm", "8C9E6706-8_view.png", "E3835", "0", "", "Class0","{1D5864FE-3373-4288-BB36-FCE0831C945E}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.5:3", "", "«view» vwCustomerOrders_AllDetails", "EARoot/EA13/EA2/EA2/EA2/EA5/EA7145.htm", "8C9E6706-8_view.png", "E3720", "0", "", "Class0","{DC80702E-7825-4fb4-924D-B1930E681AE0}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.5:4", "", "«view» vwCustomerOrderStatuses", "EARoot/EA13/EA2/EA2/EA2/EA5/EA7146.htm", "8C9E6706-8_view.png", "E3719", "0", "", "Class0","{548457DC-E600-4770-9EF5-6F9FF589D1AB}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.4.2:1", "", "Function - System Design", "EARoot/EA6/EA1/EA4/EA4/EA2/EA3535.htm", "178.png", "733", "0", "", "Component diagram0","{4E34B06D-8F4B-40e1-8B59-F71E21F9746C}");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.2.1", "1", "Java Model", "EARoot/EA6/EA1/EA4/EA4/EA2/EA1/EA3548.htm", "4.png", "", "", "{16CFE40F-3C67-4121-88B6-E87699588423}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.2.2", "", "Knowledge Base", "EARoot/EA6/EA1/EA4/EA4/EA2/EA2/EA3552.htm", "4.png", "", "", "{CEF2DA45-0E27-44f4-A373-3A962BB0D9E0}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.4.2.3", "1", "Component View", "EARoot/EA6/EA1/EA4/EA4/EA2/EA3/EA3555.htm", "4.png", "", "", "{BE6CF9B0-8BA4-4687-B602-466068E59965}", "Package");

@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.6.1", "1", "BPEL 1.1 Model", "EARoot/EA7/EA6/EA1/EA5496.htm", "4.png", "", "", "{BA2288E0-65A4-4e96-A86A-3A3BE547ABF8}", "Package");
+tocTab[tocTab.length] = new Array("0.7.6.2", "1", "BPEL 2.0 Model", "EARoot/EA7/EA6/EA2/EA5549.htm", "4.png", "", "", "{0C3258CE-00BB-44eb-8386-E9CE7386F4DD}", "Package");

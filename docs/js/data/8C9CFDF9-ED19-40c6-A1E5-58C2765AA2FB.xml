@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.18.2.5:1", "", "OrderStatus", "EARoot/EA18/EA2/EA5/EA10461.htm", "175.png", "279", "0", "", "Logical diagram0","{DF234403-281C-4aaa-8A80-0EE44F6F2433}");
+tocTab[tocTab.length] = new Array("0.18.2.5:2", "", "«EJBRemoteInterface» OrderStatus", "EARoot/EA18/EA2/EA5/EA10465.htm", "8.png", "E2410", "0", "", "Interface0","{C62BB4EC-0EE0-43fe-95D6-DBBDD540F923}");
+tocTab[tocTab.length] = new Array("0.18.2.5:3", "", "«EJBImplementation» OrderStatusBean", "EARoot/EA18/EA2/EA5/EA10466.htm", "5.png", "E2412", "0", "", "Class0","{FE7832D1-17DD-4f35-8C36-0BFA4077355F}");
+tocTab[tocTab.length] = new Array("0.18.2.5:4", "", "«EJBEntityHomeInterface» OrderStatusHome", "EARoot/EA18/EA2/EA5/EA10467.htm", "8.png", "E2409", "0", "", "Interface0","{A900A9BB-E9CE-4c9b-AD75-5F623BE65A17}");
+tocTab[tocTab.length] = new Array("0.18.2.5:5", "", "OrderStatusPK", "EARoot/EA18/EA2/EA5/EA10468.htm", "5.png", "E2411", "0", "", "Class0","{DC4A986E-EB1E-437d-B952-A7B7652CAE1B}");
+tocTab[tocTab.length] = new Array("0.18.2.5.1", "1", "META-INF", "EARoot/EA18/EA2/EA5/EA1/EA10471.htm", "4.png", "", "", "{C320A8CD-05E6-4c47-BAC7-25C2FB47F72C}", "Package");

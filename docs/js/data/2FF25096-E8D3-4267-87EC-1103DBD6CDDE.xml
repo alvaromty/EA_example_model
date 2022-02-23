@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.18.8.1.2:1", "", ": Ethernet Switched Hub", "EARoot/EA18/EA8/EA1/EA2/EA10963.htm", "9.png", "E2691", "0", "", "Node0","{48EB9AFD-7E44-4116-823C-DE14F0F578AF}");
+tocTab[tocTab.length] = new Array("0.18.8.1.2:2", "", "192.168.0.1: Ethernet Adaptor", "EARoot/EA18/EA8/EA1/EA2/EA10964.htm", "9.png", "E2692", "0", "", "Node0","{5EDCCC53-51E6-49e8-A1EA-F674359D9E26}");
+tocTab[tocTab.length] = new Array("0.18.8.1.2:3", "", "192.168.0.2: Ethernet Adaptor", "EARoot/EA18/EA8/EA1/EA2/EA10965.htm", "9.png", "E2690", "0", "", "Node0","{3C964A09-C225-47a1-8C06-70089CDB52F6}");
+tocTab[tocTab.length] = new Array("0.18.8.1.2:4", "", "216.239.46.185: Ethernet Adaptor", "EARoot/EA18/EA8/EA1/EA2/EA10966.htm", "9.png", "E2693", "0", "", "Node0","{819B53EB-C9C8-4119-A7D1-FCC485A9011D}");

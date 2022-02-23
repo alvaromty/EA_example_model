@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.20.3.7.2:1", "", "«BPSimReport» FiveSupport- Result", "EARoot/EA20/EA3/EA7/EA2/EA11382.htm", "82.png", "E5235", "0", "", "Artifact0","{EAC5D2F3-5EBE-4e72-934A-A4926B0E495F}");
+tocTab[tocTab.length] = new Array("0.20.3.7.2:2", "", "«BPSimReport» Pen&Paper Analysis- Result", "EARoot/EA20/EA3/EA7/EA2/EA11383.htm", "82.png", "E5236", "0", "", "Artifact0","{D23641F1-503C-4016-A3FE-AF1EDB856A6D}");
+tocTab[tocTab.length] = new Array("0.20.3.7.2:3", "", "«BPSimReport» ThreeSupport- Result", "EARoot/EA20/EA3/EA7/EA2/EA11384.htm", "82.png", "E5237", "0", "", "Artifact0","{ABDE430D-1B7E-48c9-B8DE-A8479EF22440}");
+tocTab[tocTab.length] = new Array("0.20.3.7.2:4", "", "«BPSimReport» TwoSupport- Result", "EARoot/EA20/EA3/EA7/EA2/EA11385.htm", "82.png", "E5238", "0", "", "Artifact0","{5FD752F1-E05A-4409-9CCF-93532FA7D50A}");

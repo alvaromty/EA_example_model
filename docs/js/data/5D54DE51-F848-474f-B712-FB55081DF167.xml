@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.2:1", "", "Business Capability Analysis", "EARoot/EA6/EA2/EA3649.htm", "188.png", "682", "0", "", "Custom diagram0","{2EFE5554-B72D-45ae-9933-52FA0C87F5A7}");
+tocTab[tocTab.length] = new Array("0.6.2:2", "", "Business Capability Matrix", "EARoot/EA6/EA2/EA3651.htm", "188.png", "838", "0", "", "Custom diagram0","{D5429064-57C4-4552-875D-9362A49A52A6}");
+tocTab[tocTab.length] = new Array("0.6.2:3", "", "«Image» CapabilityMap.png", "EARoot/EA6/EA2/EA3681.htm", "82.png", "E7825", "0", "", "Artifact0","{E389FEC4-0552-4b4f-9A3A-0D2107A3B9BC}");
+tocTab[tocTab.length] = new Array("0.6.2.1", "1", "Business Capabilities", "EARoot/EA6/EA2/EA1/EA3687.htm", "4.png", "", "", "{2F919848-ED2D-4753-981A-051227E630E5}", "Package");

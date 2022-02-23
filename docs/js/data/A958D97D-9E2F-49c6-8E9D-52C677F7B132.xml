@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.1.1.2.2:1", "", "Take Orders", "EARoot/EA9/EA1/EA1/EA2/EA2/EA6757.htm", "175.png", "90", "0", "", "Logical diagram0","{E210AA20-EF48-4734-A300-43B5F211F8B8}");
+tocTab[tocTab.length] = new Array("0.9.1.1.2.2:2", "", "«Functional» View Basket Alter quantity missing.", "EARoot/EA9/EA1/EA1/EA2/EA2/EA6763.htm", "52.png", "E623", "0", "", "Issue0","{ED8A54F2-9FE4-41c8-940A-F0B73665A2C0}");
+tocTab[tocTab.length] = new Array("0.9.1.1.2.2:3", "", "«testcase» View Basket Test", "EARoot/EA9/EA1/EA1/EA2/EA2/EA6764.htm", "7.png", "E620", "0", "", "UseCase0","{1B7AC5B4-9751-4906-8533-135078EFB3A0}");

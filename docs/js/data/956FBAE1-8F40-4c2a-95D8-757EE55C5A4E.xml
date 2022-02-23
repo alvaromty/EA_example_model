@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.8.5:1", "", "Baselines", "EARoot/EA8/EA5/EA6434.htm", "188.png", "309", "0", "", "Custom diagram0","{0AD788BC-B343-4962-A2F3-4C34311D6BD4}");
+tocTab[tocTab.length] = new Array("0.8.5:2", "", "Baselines - example", "EARoot/EA8/EA5/EA6436.htm", "188.png", "550", "0", "", "Custom diagram0","{726CF12E-EE15-42ba-BB1A-5AC75083B8BF}");
+tocTab[tocTab.length] = new Array("0.8.5:3", "", "«Image» BaselineComparisonDlg.png", "EARoot/EA8/EA5/EA6444.htm", "82.png", "E6536", "0", "", "Artifact0","{D1ACA5B2-6CE6-498a-B79E-9F0FEAFE9960}");
+tocTab[tocTab.length] = new Array("0.8.5:4", "", "«Image» BaselinesDlg.png", "EARoot/EA8/EA5/EA6445.htm", "82.png", "E6533", "0", "", "Artifact0","{4627FF4D-5E0C-4e3e-9938-8B56AC89D6B2}");

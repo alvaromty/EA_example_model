@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.20.4.2.2:1", "", "Decision Hierarchy", "EARoot/EA20/EA4/EA2/EA2/EA11852.htm", "189.png", "895", "0", "", "Analysis diagram0","{C2EC8899-F998-4a45-941E-7496AF49BDA4}");
+tocTab[tocTab.length] = new Array("0.20.4.2.2:2", "", "«Decision» Decision 1", "EARoot/EA20/EA4/EA2/EA2/EA11855.htm", "45A3469A-1_Decision.png", "E8244", "0", "", "Activity0","{909A4114-8A71-42be-9072-ED6CCE08CC94}");
+tocTab[tocTab.length] = new Array("0.20.4.2.2:3", "", "«Decision» Decision 2", "EARoot/EA20/EA4/EA2/EA2/EA11856.htm", "45A3469A-1_Decision.png", "E8245", "0", "", "Activity0","{28C23861-1769-4c89-B134-5A223AE470F3}");
+tocTab[tocTab.length] = new Array("0.20.4.2.2:4", "", "«Decision» Decision 3", "EARoot/EA20/EA4/EA2/EA2/EA11857.htm", "45A3469A-1_Decision.png", "E8243", "0", "", "Activity0","{ADA2C75C-35FF-428b-9263-450D416159B7}");
+tocTab[tocTab.length] = new Array("0.20.4.2.2:5", "", "«Decision» Decision 4", "EARoot/EA20/EA4/EA2/EA2/EA11858.htm", "45A3469A-1_Decision.png", "E8246", "0", "", "Activity0","{57DCB653-F205-49d3-A45B-588850B2BF49}");
+tocTab[tocTab.length] = new Array("0.20.4.2.2:6", "", "«DMNSimConfiguration» Simulation Artifact", "EARoot/EA20/EA4/EA2/EA2/EA11859.htm", "82.png", "E8242", "0", "", "Artifact0","{FAB182CC-4811-42ee-92AF-69D4EB94CA7D}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.20.4.1.1:1", "", "Built-in Functions", "EARoot/EA20/EA4/EA1/EA1/EA11732.htm", "189.png", "887", "0", "", "Analysis diagram0","{6B852051-B38F-4a9c-B271-38A9FF7AEEC4}");
+tocTab[tocTab.length] = new Array("0.20.4.1.1:2", "", "«BusinessKnowledgeModel» Built in function test", "EARoot/EA20/EA4/EA1/EA1/EA11736.htm", "45A3469A-1_BusinessKnowledgeModel.png", "E8225", "0", "", "Activity0","{E1A82E4B-8DF8-41f2-B3AE-3D23AEAF8ECF}");
+tocTab[tocTab.length] = new Array("0.20.4.1.1:3", "", "«BusinessKnowledgeModel» Built In List Functions", "EARoot/EA20/EA4/EA1/EA1/EA11737.htm", "45A3469A-1_BusinessKnowledgeModel.png", "E8226", "0", "", "Activity0","{15939FB2-48C7-4e66-B4A0-079190B7FB07}");

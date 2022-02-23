@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.1:1", "", "Data - Logical Data Model", "EARoot/EA6/EA1/EA4/EA3/EA1/EA3394.htm", "175.png", "716", "0", "", "Logical diagram0","{A7362C81-E506-4813-A929-A28C1238C299}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.1:2", "", "Class1", "EARoot/EA6/EA1/EA4/EA3/EA1/EA3398.htm", "5.png", "E4333", "0", "", "Class0","{C2841053-E6B7-4490-88D2-9191F5031EA3}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.1:3", "", "Class2", "EARoot/EA6/EA1/EA4/EA3/EA1/EA3399.htm", "5.png", "E4335", "0", "", "Class0","{1B38323D-78E7-4504-8F58-62F046970F9F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.1:4", "", "Class3", "EARoot/EA6/EA1/EA4/EA3/EA1/EA3400.htm", "5.png", "E4336", "0", "", "Class0","{201705D3-C079-4425-BC9C-6B65AFE6503F}");

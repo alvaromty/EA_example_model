@@ -1,0 +1,245 @@
+{
+  "description": "This file describes the Business Process Cooperation Viewpoint model pattern from Enterprise Architect. It serves as an example of how the data miner can import a json file.",
+  "model": {
+    "name": "Business Process Cooperation Viewpoint",
+    "elements": [
+      {
+        "id": "EAID_F4F14B18_6627_40d9_B86D_54031337E6AF",
+        "type": "BusinessRole",
+        "name": "Business Role A"
+      },
+      {
+        "id": "EAID_FD8F9818_5EB2_4fab_B00F_9FA68DE9F0C9",
+        "type": "BusinessActor",
+        "name": "Business Actor A"
+      },
+      {
+        "id": "EAID_FC8ED588_2963_4716_8CAC_BD50EAAD94C7",
+        "type": "BusinessEvent",
+        "name": "Business Event A"
+      },
+      {
+        "id": "EAID_3990589A_F0C7_4fc9_A393_FB0551D44D31",
+        "type": "BusinessEvent",
+        "name": "Business Event B"
+      },
+      {
+        "id": "EAID_C82955E1_ED36_4642_8969_5F291260FF6A",
+        "type": "BusinessService",
+        "name": "Business Service A"
+      },
+      {
+        "id": "EAID_ED654002_8452_428f_9B28_5958DA759523",
+        "type": "BusinessProcess",
+        "name": "1.0 Business Process"
+      },
+      {
+        "id": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9",
+        "type": "BusinessProcess",
+        "name": "1.1 Business Process"
+      },
+      {
+        "id": "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB",
+        "type": "BusinessProcess",
+        "name": "1.2 Business Process"
+      },
+      {
+        "id": "EAID_41D8686B_48FE_4fcf_803B_87E353A33484",
+        "type": "BusinessProcess",
+        "name": "1.3 Business Process"
+      },
+      {
+        "id": "EAID_A48EC2F6_48AC_4075_98CD_D80E828BAD3F",
+        "type": "BusinessObject",
+        "name": "Business Object A"
+      },
+      {
+        "id": "EAID_FF859343_8A17_4169_9B91_6ADC86557D0A",
+        "type": "BusinessObject",
+        "name": "Business Object B"
+      },
+      {
+        "id": "EAID_45BC96A2_3A17_438f_973E_8A7FCCFFDEC1",
+        "type": "BusinessObject",
+        "name": "Business Object C"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "EAID_100F4D5E_6C4F_4ea7_8F3C_B982B52F8F06",
+        "type": "Composition",
+        "source": "EAID_ED654002_8452_428f_9B28_5958DA759523",
+        "target": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9"
+      },
+      {
+        "id": "EAID_100F4D5E_6C4F_4ea7_8F3C_B982B52F8F06",
+        "type": "Composition",
+        "source": "EAID_ED654002_8452_428f_9B28_5958DA759523",
+        "target": "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB"
+      },
+      {
+        "id": "EAID_100F4D5E_6C4F_4ea7_8F3C_B982B52F8F06",
+        "type": "Composition",
+        "source": "EAID_ED654002_8452_428f_9B28_5958DA759523",
+        "target": "EAID_41D8686B_48FE_4fcf_803B_87E353A33484"
+      },
+      {
+        "id": "EAID_406A0A5A_8A0B_48e0_A342_A2DFFBC6DACD",
+        "type": "Triggering",
+        "source": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9",
+        "target": "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB"
+      },
+      {
+        "id": "EAID_F7032840_F51C_4596_8E95_F20616BEE097",
+        "type": "Triggering",
+        "source": "EAID_41D8686B_48FE_4fcf_803B_87E353A33484",
+        "target": "EAID_3990589A_F0C7_4fc9_A393_FB0551D44D31"
+      },
+      {
+        "id": "EAID_599B4536_B752_4f71_919A_902B839DEE3E",
+        "type": "Triggering",
+        "source": "EAID_FC8ED588_2963_4716_8CAC_BD50EAAD94C7",
+        "target": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9"
+      },
+      {
+        "id": "EAID_97E342F7_9620_4dd6_BCDC_2593D819323EE",
+        "type": "Triggering",
+        "source": "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB",
+        "target": "EAID_41D8686B_48FE_4fcf_803B_87E353A33484"
+      },
+      {
+        "id": "EAID_C63A0351_E2F6_4ac7_9DFC_4F7BD90B6168",
+        "type": "Association",
+        "source": "EAID_F4F14B18_6627_40d9_B86D_54031337E6AF",
+        "target": "EAID_ED654002_8452_428f_9B28_5958DA759523"
+      },
+      {
+        "id": "EAID_72953369_D341_4370_8318_FF9870A22425",
+        "type": "Association",
+        "source": "EAID_F4F14B18_6627_40d9_B86D_54031337E6AF",
+        "target": "EAID_FD8F9818_5EB2_4fab_B00F_9FA68DE9F0C9"
+      },
+      {
+        "id": "EAID_3A798D45_88AE_4f9d_9FCD_D97FF796D005",
+        "type": "Access",
+        "source": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9",
+        "target": "EAID_A48EC2F6_48AC_4075_98CD_D80E828BAD3F"
+      },
+      {
+        "id": "EAID_FF7968C3_D3A8_40d9_B55B_B7119F97300B",
+        "type": "Access",
+        "source": "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9",
+        "target": "EAID_45BC96A2_3A17_438f_973E_8A7FCCFFDEC1"
+      },
+      {
+        "id": "EAID_4803C23F_CA89_4c8d_AA70_1CE9971EDD84",
+        "type": "Access",
+        "source": "EAID_41D8686B_48FE_4fcf_803B_87E353A33484",
+        "target": "EAID_FF859343_8A17_4169_9B91_6ADC86557D0A"
+      },
+      {
+        "id": "EAID_44FBA819_0C30_458c_AB16_88F70BDDA000",
+        "type": "Realization",
+        "source": "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB",
+        "target": "EAID_C82955E1_ED36_4642_8969_5F291260FF6A"
+      }
+    ],
+    "organizations": [
+    ],
+    "views": [
+		{
+			"id": "EAID_0039E8EC_9173_4cd8_9B06_85F641DEDE39",
+			"label": "Business Process Cooperation Viewpoint",
+			"documentation": "Business Process Cooperation example",
+			"nodes" : [
+				{
+					"element" : "EAID_FC8ED588_2963_4716_8CAC_BD50EAAD94C7",
+					"x": 112,
+					"y": 260,
+					"w": 90,
+					"h": 45
+				},
+				{
+					"element" : "EAID_ED654002_8452_428f_9B28_5958DA759523",
+					"x": 232,
+					"y": 196,
+					"w": 511,
+					"h": 137
+				},
+				{
+					"element" : "EAID_236DD227_0D57_4bbe_AE34_3E8EA6B572D9",
+					"x": 263,
+					"y": 247,
+					"w": 104,
+					"h": 70
+				},
+				{
+					"element" : "EAID_3CCD8379_0A67_4fbb_9B9D_0DEAF52FD3DB",
+					"x": 437,
+					"y": 247,
+					"w": 104,
+					"h": 70
+				},
+				{
+					"element" : "EAID_41D8686B_48FE_4fcf_803B_87E353A33484",
+					"x": 611,
+					"y": 247,
+					"w": 104,
+					"h": 70
+				},
+				{
+					"element" : "EAID_3990589A_F0C7_4fc9_A393_FB0551D44D31",
+					"x": 781,
+					"y": 260,
+					"w": 90,
+					"h": 45
+				},
+				{
+					"element" : "EAID_A48EC2F6_48AC_4075_98CD_D80E828BAD3F",
+					"x": 270,
+					"y": 75,
+					"w": 90,
+					"h": 70
+				},
+				{
+					"element" : "EAID_FF859343_8A17_4169_9B91_6ADC86557D0A",
+					"x": 618,
+					"y": 75,
+					"w": 90,
+					"h": 70
+				},
+				{
+					"element" : "EAID_45BC96A2_3A17_438f_973E_8A7FCCFFDEC1",
+					"x": 270,
+					"y": 384,
+					"w": 90,
+					"h": 70
+				},
+				{
+					"element" : "EAID_F4F14B18_6627_40d9_B86D_54031337E6AF",
+					"x": 444,
+					"y": 384,
+					"w": 90,
+					"h": 70
+				},
+				{
+					"element" : "EAID_C82955E1_ED36_4642_8969_5F291260FF6A",
+					"x": 444,
+					"y": 88,
+					"w": 90,
+					"h": 50
+				},
+				{
+					"element" : "EAID_FD8F9818_5EB2_4fab_B00F_9FA68DE9F0C9",
+					"x": 618,
+					"y": 384,
+					"w": 90,
+					"h": 70
+				}
+			],
+			"connections" : [
+			]
+		}
+    ]
+  }
+}

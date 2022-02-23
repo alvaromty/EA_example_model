@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:1", "", "Tables", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7131.htm", "175.png", "448", "0", "", "Logical diagram0","{1ABD75CD-D82E-4e2e-B3D1-3D95218A0A95}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:2", "", "«table» customers", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7134.htm", "8C9E6706-8_table.png", "E3849", "0", "", "Class0","{ACE36D3B-3DF5-4ff4-BB3D-320B06C78A90}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:3", "", "«table» customers_addresses", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7135.htm", "8C9E6706-8_table.png", "E3851", "0", "", "Class0","{C16A6731-E4DC-4e02-BB1A-FB38D4CB60BF}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:4", "", "«table» customers_orders", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7136.htm", "8C9E6706-8_table.png", "E3850", "0", "", "Class0","{92DC34DB-6BF5-4783-A527-022B69C4C458}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:5", "", "«table» customers_orders_items", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7137.htm", "8C9E6706-8_table.png", "E3852", "0", "", "Class0","{8742DEA3-2115-453c-A190-E5915E744584}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:6", "", "«table» customers_orders_statuses", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7138.htm", "8C9E6706-8_table.png", "E3831", "0", "", "Class0","{0CBAF857-8261-4e5b-91BF-0F9046A4E760}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:7", "", "«table» products", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7139.htm", "8C9E6706-8_table.png", "E3829", "0", "", "Class0","{73B618D3-931D-4223-801D-175550CF02C3}");
+tocTab[tocTab.length] = new Array("0.13.2.2.2.4:8", "", "«table» suppliers", "EARoot/EA13/EA2/EA2/EA2/EA4/EA7140.htm", "8C9E6706-8_table.png", "E3830", "0", "", "Class0","{3C5FB5B6-2A01-4a9f-AE7A-A0E34C1C5562}");

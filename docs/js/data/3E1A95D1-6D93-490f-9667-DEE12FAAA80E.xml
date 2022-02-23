@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.6.10.2:4", "", "Supplier Management", "EARoot/EA6/EA10/EA2/EA3997.htm", "21.png", "E5952", "0", "", "Activity0","{A26516FE-4E46-4f9e-A064-46E1D150EEF4}");
+tocTab[tocTab.length] = new Array("0.6.10.2:2", "", "Supplier Management Flow", "EARoot/EA6/EA10/EA2/EA3992.htm", "181.png", "609", "E5952", "", "Activity diagram0","{B5E4D181-A91E-4316-8BB9-FCA71E76ECEA}");
+tocTab[tocTab.length] = new Array("0.6.10.2:3", "", "Supplier Management Hierarchy", "EARoot/EA6/EA10/EA2/EA3994.htm", "175.png", "611", "E5952", "", "Logical diagram0","{CD67BAD3-1917-4053-AE3B-DB6B910E6488}");
+tocTab[tocTab.length] = new Array("0.6.10.2:5", "", "", "EARoot/EA6/EA10/EA2/EA4000.htm", "68.png", "E5954", "E5952", "", "StateNode0","{85121C4D-75EC-4850-872B-28D550D6421F}");
+tocTab[tocTab.length] = new Array("0.6.10.2:6", "", "Identify Suppliers", "EARoot/EA6/EA10/EA2/EA4001.htm", "21.png", "E5956", "E5952", "", "Activity0","{1A8B3C54-56A4-4cbe-A696-7149D2F7CE23}");
+tocTab[tocTab.length] = new Array("0.6.10.2:7", "", "Administer Suppliers", "EARoot/EA6/EA10/EA2/EA4002.htm", "21.png", "E5950", "E5952", "", "Activity0","{A4E70234-9475-4efa-A530-A9F8D61E613A}");
+tocTab[tocTab.length] = new Array("0.6.10.2:8", "", "Register Supplier", "EARoot/EA6/EA10/EA2/EA4003.htm", "21.png", "E5958", "E5952", "", "Activity0","{C2EF427F-54A4-458f-899C-D31F6D8A7A52}");
+tocTab[tocTab.length] = new Array("0.6.10.2:9", "", "Retire Supplier", "EARoot/EA6/EA10/EA2/EA4004.htm", "21.png", "E5957", "E5952", "", "Activity0","{B975B93A-EE9C-473e-82EA-8606FC9E1308}");
+tocTab[tocTab.length] = new Array("0.6.10.2:10", "", "Retired", "EARoot/EA6/EA10/EA2/EA4005.htm", "69.png", "E5959", "E5952", "", "StateNode0","{28DF6232-04BC-42a5-8ED0-09C8A54C17B2}");
+tocTab[tocTab.length] = new Array("0.6.10.2:1", "", "Register Supplier", "EARoot/EA6/EA10/EA2/EA3990.htm", "181.png", "610", "E5958", "", "Activity diagram0","{AAC9C814-6908-4704-90F0-2E5E2D46086C}");
+tocTab[tocTab.length] = new Array("0.6.10.2:11", "", "Supplier Invitation", "EARoot/EA6/EA10/EA2/EA4006.htm", "24.png", "E5945", "E5958", "", "Event0","{484D8901-6E94-4db1-938E-013DD2B84890}");
+tocTab[tocTab.length] = new Array("0.6.10.2:12", "", "Prioritize Supplier", "EARoot/EA6/EA10/EA2/EA4007.htm", "21.png", "E5955", "E5958", "", "Activity0","{940A8EFC-3354-4ab5-B990-F23A790A84D9}");
+tocTab[tocTab.length] = new Array("0.6.10.2:13", "", "Create Supplier Record", "EARoot/EA6/EA10/EA2/EA4008.htm", "21.png", "E5946", "E5958", "", "Activity0","{79D28FCC-FD00-448a-8322-01254A27D0E9}");
+tocTab[tocTab.length] = new Array("0.6.10.2:14", "", "Create Supplier Performance Management Plan", "EARoot/EA6/EA10/EA2/EA4009.htm", "21.png", "E5951", "E5958", "", "Activity0","{A66D55BF-165A-4755-95AC-06394481799E}");
+tocTab[tocTab.length] = new Array("0.6.10.2:15", "", "Select Performance Measures and Tools", "EARoot/EA6/EA10/EA2/EA4010.htm", "21.png", "E5948", "E5958", "", "Activity0","{FCE398C3-97D0-49a9-9063-1F9C3FB65C18}");
+tocTab[tocTab.length] = new Array("0.6.10.2:16", "", "Activate Supplier", "EARoot/EA6/EA10/EA2/EA4011.htm", "21.png", "E5947", "E5958", "", "Activity0","{1A8ABFF1-532D-407d-AEF2-4D5CDE033649}");
+tocTab[tocTab.length] = new Array("0.6.10.2:17", "", "Supplier Registered", "EARoot/EA6/EA10/EA2/EA4012.htm", "69.png", "E5953", "E5958", "", "StateNode0","{9F31AD48-38C1-4eb1-9CB7-D31B9114D378}");

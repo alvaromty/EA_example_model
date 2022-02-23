@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.8.5.3:1", "", "Performance Main", "EARoot/EA7/EA8/EA5/EA3/EA6313.htm", "188.png", "238", "0", "", "Custom diagram0","{49F1F184-ED79-4f86-A04C-A8DD714E1413}");
+tocTab[tocTab.length] = new Array("0.7.8.5.3:2", "", "«Functional» REQ105 -  Data access Speed", "EARoot/EA7/EA8/EA5/EA3/EA6317.htm", "19.png", "E2146", "0", "", "Requirement0","{998B9F11-542D-4aa5-B7C4-89B55F5AC828}");
+tocTab[tocTab.length] = new Array("0.7.8.5.3:3", "", "«Functional» REQ106 - Retrieval of historic information.", "EARoot/EA7/EA8/EA5/EA3/EA6318.htm", "19.png", "E2147", "0", "", "Requirement0","{C07E3361-7681-456a-A5B6-02554F4841C0}");
+tocTab[tocTab.length] = new Array("0.7.8.5.3:4", "", "«Functional» REQ107 - Access to the secure site must be no longer than 2 seconds delay.", "EARoot/EA7/EA8/EA5/EA3/EA6319.htm", "19.png", "E2148", "0", "", "Requirement0","{D7BCD2E3-C936-4a2f-A73D-D4F9ADE5DB5E}");

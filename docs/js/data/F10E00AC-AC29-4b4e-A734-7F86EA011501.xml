@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.14.3.1.1:1", "", "Abstract Class Model", "EARoot/EA14/EA3/EA1/EA1/EA7385.htm", "175.png", "841", "0", "", "Logical diagram0","{DEBEBC30-A221-4b44-8680-5F4F6788E787}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:2", "", "«XSDcomplexType» Account", "EARoot/EA14/EA3/EA1/EA1/EA7392.htm", "5.png", "E7949", "0", "", "Class0","{56121F56-AA79-4c59-A75E-58233467D185}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:3", "", "«XSDcomplexType» LineItem", "EARoot/EA14/EA3/EA1/EA1/EA7393.htm", "5.png", "E7952", "0", "", "Class0","{E42077F3-F60F-438e-95A6-9F0562414BBD}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:4", "", "«XSDcomplexType» Order", "EARoot/EA14/EA3/EA1/EA1/EA7394.htm", "5.png", "E7953", "0", "", "Class0","{F8CCFBD9-1AC0-460d-A266-477D3CE57155}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:5", "", "«enumeration» OrderStatus", "EARoot/EA14/EA3/EA1/EA1/EA7395.htm", "247.png", "E7954", "0", "", "Enumeration0","{37B5229A-CA2C-43b4-B716-2D7DC13F7865}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:6", "", "«XSDcomplexType» ShoppingBasket", "EARoot/EA14/EA3/EA1/EA1/EA7396.htm", "5.png", "E7955", "0", "", "Class0","{7275E40C-E2ED-4b37-B8FA-DBDA5D3188A0}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:7", "", "«XSDcomplexType» StockItem", "EARoot/EA14/EA3/EA1/EA1/EA7397.htm", "5.png", "E7956", "0", "", "Class0","{7201A7A8-4430-4cb1-8E4B-1F622AEF0AFC}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1:8", "", "«XSDcomplexType» Transaction", "EARoot/EA14/EA3/EA1/EA1/EA7398.htm", "5.png", "E7957", "0", "", "Class0","{CCFDCB6F-C9B2-4226-839A-0A487C729F0F}");

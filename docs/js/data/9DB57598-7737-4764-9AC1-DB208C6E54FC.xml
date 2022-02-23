@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.13:1", "", "Surface 3D WireFrame - Javascript", "EARoot/EA2/EA10/EA13/EA978.htm", "188.png", "1060", "0", "", "Custom diagram0","{D9BF55B2-84B9-4731-B61C-64F0BC253195}");
+tocTab[tocTab.length] = new Array("0.2.10.13:2", "", "Surface 3D WireFrame - JSON", "EARoot/EA2/EA10/EA13/EA980.htm", "188.png", "1061", "0", "", "Custom diagram0","{FBE97466-116F-4c29-B4BA-0E205324E111}");
+tocTab[tocTab.length] = new Array("0.2.10.13:3", "", "«SSDynamicChart» Surface 3D WireFrame - JavaScript", "EARoot/EA2/EA10/EA13/EA983.htm", "5.png", "E10102", "0", "", "Class0","{D8D9D7B8-DA35-4811-B581-BEDEA0FB8092}");
+tocTab[tocTab.length] = new Array("0.2.10.13:4", "", "«SSDynamicChart» Surface 3D WireFrame - JSON", "EARoot/EA2/EA10/EA13/EA984.htm", "5.png", "E10101", "0", "", "Class0","{CEFD54A8-5018-471c-AFB8-60B8A6842CD9}");

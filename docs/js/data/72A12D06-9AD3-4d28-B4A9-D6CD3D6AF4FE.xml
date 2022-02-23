@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.21.1.1.1:1", "", "Desktop: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12502.htm", "10.png", "E7239", "0", "", "Component0","{6DBA65CD-8F12-44db-B5FC-476D352FB2BF}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:2", "", "Desktop: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12503.htm", "10.png", "E7246", "0", "", "Component0","{52485CAE-04CC-4095-91DD-48E7305FC216}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:3", "", "Desktop: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12504.htm", "10.png", "E7244", "0", "", "Component0","{9E41000D-9D46-4939-9347-C1CD8799A321}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:4", "", "Desktop: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12505.htm", "10.png", "E7252", "0", "", "Component0","{F49C2970-753E-42ea-8479-9DCE14978672}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:5", "", "Desktop: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12506.htm", "10.png", "E7243", "0", "", "Component0","{E713E846-7F6C-4259-B52A-7960F7C35B8B}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:6", "", "Desktop: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12507.htm", "10.png", "E7240", "0", "", "Component0","{28D60E88-9040-446a-8394-4112EE3E090C}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:7", "", "Notebook: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12508.htm", "10.png", "E7238", "0", "", "Component0","{C4571213-1BA4-49ca-A84A-9AF11EA4A9C7}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:8", "", "Notebook: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12509.htm", "10.png", "E7245", "0", "", "Component0","{EE4CC3BD-389A-4204-A9D8-297218A76735}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:9", "", "Notebook: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12510.htm", "10.png", "E7241", "0", "", "Component0","{D22390F0-7703-4c59-9905-5B1C5C663D21}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:10", "", "Notebook: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12511.htm", "10.png", "E7250", "0", "", "Component0","{2D1A87EA-C70D-4aa4-AADE-4EC6AE64C9D6}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:11", "", "Notebook: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12512.htm", "10.png", "E7242", "0", "", "Component0","{BD9712F1-8448-4252-ABE6-88FE95A4CFF4}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:12", "", "Notebook: EA Client", "EARoot/EA21/EA1/EA1/EA1/EA12513.htm", "10.png", "E7237", "0", "", "Component0","{4040466D-989C-4458-90C1-6595CE1AFF5B}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:13", "", "Smart Phone: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12514.htm", "10.png", "E7249", "0", "", "Component0","{D7F83113-F03D-4382-BB01-6FD7A7D64167}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:14", "", "Smart Phone: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12515.htm", "10.png", "E7248", "0", "", "Component0","{5549CE0D-1923-4f14-8507-C13B08E7AE9B}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:15", "", "Tablet: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12516.htm", "10.png", "E7247", "0", "", "Component0","{AED0D5D6-2960-4672-BFBD-E4743BB63BA4}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1:16", "", "Tablet: Web Browser", "EARoot/EA21/EA1/EA1/EA1/EA12517.htm", "10.png", "E7251", "0", "", "Component0","{02005F35-5BD3-4398-891C-F9DC4DA2E4F1}");
+tocTab[tocTab.length] = new Array("0.21.1.1.1.1", "1", "Classifiers", "EARoot/EA21/EA1/EA1/EA1/EA1/EA12518.htm", "4.png", "", "", "{CE74B6CB-9969-42e3-8807-9A17458C7BEB}", "Package");

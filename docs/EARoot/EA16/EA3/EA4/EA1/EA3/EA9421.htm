@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Controller</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA9422.png" usemap="#EA9422" border="0" />
+
+<MAP NAME="EA9422">
+<area shape="rect" coords="555,405,755,520" href="EA9431.htm" target="_self">
+<area shape="rect" coords="575,584,794,609" href="http://www.sparxsystems.com/enterprise_architect_user_guide/15.2/hw_code_generation_-_state_mac.html" target="_top">
+<area shape="rect" coords="510,560,953,600" href="../EA1/EA9316.htm" target="_self">
+<area shape="rect" coords="145,240,465,315" href="EA9434.htm" target="_self">
+<area shape="rect" coords="60,470,480,545" href="EA9439.htm" target="_self">
+<area shape="rect" coords="550,240,778,353" href="EA9436.htm" target="_self">
+<area shape="rect" coords="34,150,606,220" href="EA9450.htm" target="_self">
+<area shape="rect" coords="72,300,99,327" href="EA9449.htm" target="_self">
+<area shape="rect" coords="34,48,274,94" href="EA9451.htm" target="_self">
+<area shape="rect" coords="300,340,480,430" href="EA9431.htm" target="_self">
+<area shape="rect" coords="34,100,362,131" href="EA9448.htm" target="_self">
+<area shape="rect" coords="40,365,130,410" href="EA9454.htm" target="_self">
+<area shape="rect" coords="10,10,990,667" href="EA9461.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Controller : StateMachine diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/27/2009 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/15/2020 4:16:29 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{C7BB32B9-D034-4058-BF8F-6BCF4935557B}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

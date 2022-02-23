@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.11.2.3:1", "", "EA_OnContextItemChanged", "EARoot/EA2/EA11/EA2/EA3/EA1036.htm", "196.png", "E9710", "0", "", "Signal0","{5648296C-E1D4-4604-A939-FADE974E6547}");
+tocTab[tocTab.length] = new Array("0.2.11.2.3:2", "", "EA_OnNotifyContextItemModified", "EARoot/EA2/EA11/EA2/EA3/EA1037.htm", "196.png", "E9716", "0", "", "Signal0","{FE4DADD8-0B14-47cc-8666-37FB76829562}");

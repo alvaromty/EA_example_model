@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.20.4.1.1", "1", "Built-in Functions", "EARoot/EA20/EA4/EA1/EA1/EA11734.htm", "4.png", "", "", "{8CE3F9DA-0847-4348-B274-462ABDDF7D02}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.1.2", "1", "Business Knowledge Model Context", "EARoot/EA20/EA4/EA1/EA2/EA11740.htm", "4.png", "", "", "{6F0820D2-8997-4c00-B635-A37D6FEA14DD}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.1.3", "1", "Business Knowledge Model DecisionTable", "EARoot/EA20/EA4/EA1/EA3/EA11745.htm", "4.png", "", "", "{13763495-2746-44c3-B829-448CC2E9B08E}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.1.4", "1", "Business Knowledge Model Invocation", "EARoot/EA20/EA4/EA1/EA4/EA11749.htm", "4.png", "", "", "{6D858E08-5B02-4d33-A161-ADA7200C24DB}", "Package");
+tocTab[tocTab.length] = new Array("0.20.4.1.5", "1", "Business Knowledge Model Literal Expression", "EARoot/EA20/EA4/EA1/EA5/EA11757.htm", "4.png", "", "", "{AC1768F0-B047-41e4-AECE-AF8EA1DAEE0D}", "Package");

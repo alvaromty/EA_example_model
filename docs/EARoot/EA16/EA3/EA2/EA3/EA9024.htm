@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Maintain Playlist</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA9025.png" usemap="#EA9025" border="0" />
+
+<MAP NAME="EA9025">
+<area shape="rect" coords="84,661,507,692" href="EA9024.htm" target="_self">
+<area shape="rect" coords="80,447,503,478" href="EA9024.htm" target="_self">
+<area shape="rect" coords="80,536,503,567" href="EA9024.htm" target="_self">
+<area shape="rect" coords="79,752,501,783" href="EA9024.htm" target="_self">
+<area shape="rect" coords="80,372,503,403" href="EA9024.htm" target="_self">
+<area shape="rect" coords="80,314,503,345" href="EA9024.htm" target="_self">
+<area shape="rect" coords="80,247,503,278" href="EA9024.htm" target="_self">
+<area shape="rect" coords="35,48,341,94" href="EA9032.htm" target="_self">
+<area shape="rect" coords="35,102,275,133" href="EA9030.htm" target="_self">
+<area shape="rect" coords="86,150,176,839" href="EA9042.htm" target="_self">
+<area shape="rect" coords="402,150,497,839" href="EA9041.htm" target="_self">
+<area shape="rect" coords="57,620,525,709" href="EA9050.htm" target="_self">
+<area shape="rect" coords="32,494,545,729" href="EA9052.htm" target="_self">
+<area shape="rect" coords="10,10,582,876" href="EA9039.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Maintain Playlist : Sequence diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/19/2009 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/6/2018 9:26:59 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{B82D2C60-BDA2-4d69-ABC5-A2A758057E5C}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

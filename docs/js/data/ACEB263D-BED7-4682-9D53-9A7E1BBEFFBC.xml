@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.14.3.1:1", "", "XSD Model", "EARoot/EA14/EA3/EA1/EA7381.htm", "175.png", "840", "0", "", "Logical diagram0","{690A2EBE-3A15-465c-95B9-068AC24F1A46}");
+tocTab[tocTab.length] = new Array("0.14.3.1.1", "1", "«XSDschema» Abstract Class Model", "EARoot/EA14/EA3/EA1/EA1/EA7387.htm", "4.png", "", "", "{F10E00AC-AC29-4b4e-A734-7F86EA011501}", "Package");

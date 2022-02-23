@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1", "1", "Capability", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA2785.htm", "4.png", "", "", "{09281542-A579-4374-8E9F-430AF4281FB8}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.2", "1", "Operational Activities", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA2/EA2805.htm", "4.png", "", "", "{62EC87C5-7162-4ba7-A6E0-830D42BAE1BD}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.3", "1", "Resources", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA3/EA2821.htm", "4.png", "", "", "{7833E6EA-86E4-458c-9398-5CC750D38B16}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.4", "1", "SAR Value Types", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA4/EA2865.htm", "4.png", "", "", "{CC6AD5EF-227A-432b-BCE6-A7DCB11B041D}", "Package");

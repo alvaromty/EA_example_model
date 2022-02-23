@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.5.3:1", "", "2D 100% Stacked Column - Javascript", "EARoot/EA2/EA10/EA5/EA3/EA922.htm", "188.png", "1044", "0", "", "Custom diagram0","{54B64BD4-7638-42e5-A9F8-0A9402DBD4DC}");
+tocTab[tocTab.length] = new Array("0.2.10.5.3:2", "", "2D 100% Stacked Column - JSON", "EARoot/EA2/EA10/EA5/EA3/EA924.htm", "188.png", "1045", "0", "", "Custom diagram0","{DF26288B-A513-4bfb-990D-7D3AF2071299}");
+tocTab[tocTab.length] = new Array("0.2.10.5.3:3", "", "«SSDynamicChart» 2D 100% Stacked Column - JavaScript", "EARoot/EA2/EA10/EA5/EA3/EA927.htm", "5.png", "E10122", "0", "", "Class0","{3691370B-9B7F-4b5e-9EA9-B9F55A1592A1}");
+tocTab[tocTab.length] = new Array("0.2.10.5.3:4", "", "«SSDynamicChart» 2D 100% Stacked Column - JSON", "EARoot/EA2/EA10/EA5/EA3/EA928.htm", "5.png", "E10121", "0", "", "Class0","{5A516651-E935-431f-9D28-FDA97B089877}");

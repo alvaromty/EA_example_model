@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.21.2.8.2.2:1", "", "EC2 Server", "EARoot/EA21/EA2/EA8/EA2/EA2/EA13006.htm", "9.png", "E7290", "0", "", "Node0","{3A619706-5492-4e9e-8FE0-B5D7A7037EE1}");
+tocTab[tocTab.length] = new Array("0.21.2.8.2.2:2", "", "S3 Bucket", "EARoot/EA21/EA2/EA8/EA2/EA2/EA13007.htm", "9.png", "E7291", "0", "", "Node0","{DA43B6EF-8427-41c4-B9FA-C1E95F9E7A02}");

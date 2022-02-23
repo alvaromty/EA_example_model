@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.8:1", "", "Channels", "EARoot/EA6/EA8/EA3889.htm", "175.png", "604", "0", "", "Logical diagram0","{6C387A44-F294-4a0c-AAA2-CCFBB0A25D1E}");
+tocTab[tocTab.length] = new Array("0.6.8:2", "", "Airport Kiosk", "EARoot/EA6/EA8/EA3892.htm", "5.png", "E5866", "0", "", "Class0","{27DA74AB-D5EB-42c0-A706-B28432289766}");
+tocTab[tocTab.length] = new Array("0.6.8:3", "", "Campus Shop", "EARoot/EA6/EA8/EA3893.htm", "5.png", "E5867", "0", "", "Class0","{4CCDB363-EF2A-4042-A114-F6FBA584C6A3}");
+tocTab[tocTab.length] = new Array("0.6.8:4", "", "Internet", "EARoot/EA6/EA8/EA3894.htm", "5.png", "E5870", "0", "", "Class0","{AD1C1E55-6EC6-4687-A473-1E7253C10861}");
+tocTab[tocTab.length] = new Array("0.6.8:5", "", "Shop Fronts", "EARoot/EA6/EA8/EA3895.htm", "5.png", "E5874", "0", "", "Class0","{DCF57447-2F51-40b1-BDB6-963BBA29306B}");
+tocTab[tocTab.length] = new Array("0.6.8:6", "", "Trade Fair", "EARoot/EA6/EA8/EA3896.htm", "5.png", "E5871", "0", "", "Class0","{F7F15911-3DE3-454d-B213-CA587BFC53F1}");

@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.7.6.2:1", "", "BPEL 2.0 Model", "EARoot/EA7/EA6/EA2/EA5545.htm", "189.png", "249", "0", "", "Analysis diagram0","{228E9993-2C84-4b59-9A10-2A366B3B1BF4}");
+tocTab[tocTab.length] = new Array("0.7.6.2:3", "", "«Pool» Customer", "EARoot/EA7/EA6/EA2/EA5558.htm", "116.png", "E2216", "0", "", "ActivityPartition0","{CF88BA3C-A9C2-43e2-B670-956594F06C6E}");
+tocTab[tocTab.length] = new Array("0.7.6.2:4", "", "«Pool» LoanServicesOrg", "EARoot/EA7/EA6/EA2/EA5559.htm", "116.png", "E2213", "0", "", "ActivityPartition0","{6F1BB322-FD41-4ae9-A201-B0B393A4651E}");
+tocTab[tocTab.length] = new Array("0.7.6.2:5", "", "«BPELProcess» LoanApproval_Process", "EARoot/EA7/EA6/EA2/EA5561.htm", "4C9380A5-0_BPELProcess.png", "E2214", "0", "", "Activity0","{7A22C5EA-84C5-4495-9BA2-467ACB2E378D}");
+tocTab[tocTab.length] = new Array("0.7.6.2:2", "", "LoanApproval_Process", "EARoot/EA7/EA6/EA2/EA5547.htm", "189.png", "248", "E2214", "", "Analysis diagram0","{F505CC86-1335-4e0d-A869-1585D47C4973}");
+tocTab[tocTab.length] = new Array("0.7.6.2:6", "", "«Activity» ApproveLoan", "EARoot/EA7/EA6/EA2/EA5562.htm", "4C9380A5-0_Activity.png", "E2217", "E2214", "", "Activity0","{D80AAFB6-A691-4e3a-AE60-67B61FAA64D0}");
+tocTab[tocTab.length] = new Array("0.7.6.2:7", "", "«Activity» AssessLoanRisk", "EARoot/EA7/EA6/EA2/EA5563.htm", "4C9380A5-0_Activity.png", "E2215", "E2214", "", "Activity0","{C4248731-4FE2-4a0e-A7DD-DF46CEFF0C44}");
+tocTab[tocTab.length] = new Array("0.7.6.2:8", "", "«Gateway» CheckAmount", "EARoot/EA7/EA6/EA2/EA5564.htm", "56.png", "E2212", "E2214", "", "Decision0","{64052D73-9594-4aac-B428-624334C8EC0E}");
+tocTab[tocTab.length] = new Array("0.7.6.2:9", "", "«Activity» GetLoanApproval", "EARoot/EA7/EA6/EA2/EA5565.htm", "4C9380A5-0_Activity.png", "E2209", "E2214", "", "Activity0","{36EABFB8-F9F6-48af-A1B4-0139BDFAEFB5}");
+tocTab[tocTab.length] = new Array("0.7.6.2:10", "", "«StartEvent» ReceiveRequest", "EARoot/EA7/EA6/EA2/EA5566.htm", "4C9380A5-0_StartEvent.png", "E2206", "E2214", "", "Event0","{EEA58F9C-5ED4-4a4f-B67E-EFF9A95BB04F}");
+tocTab[tocTab.length] = new Array("0.7.6.2:11", "", "«EndEvent» ReplyResult", "EARoot/EA7/EA6/EA2/EA5567.htm", "4C9380A5-0_EndEvent.png", "E2205", "E2214", "", "Event0","{CD4D55FC-FA6B-4679-845B-7B37F68FC0E6}");
+tocTab[tocTab.length] = new Array("0.7.6.2:12", "", "«Activity» Assignment1", "EARoot/EA7/EA6/EA2/EA5568.htm", "4C9380A5-0_Activity.png", "E2210", "E2214", "", "Activity0","{48277F4E-C35D-4c19-9740-1B9BF6D27F38}");
+tocTab[tocTab.length] = new Array("0.7.6.2:13", "", "«Activity» Assignment2", "EARoot/EA7/EA6/EA2/EA5569.htm", "4C9380A5-0_Activity.png", "E2211", "E2214", "", "Activity0","{610CE3B5-7BB9-43b8-9C4B-7DBA0E50CF33}");
+tocTab[tocTab.length] = new Array("0.7.6.2:14", "", "«Gateway» CheckAssessment", "EARoot/EA7/EA6/EA2/EA5570.htm", "56.png", "E2208", "E2214", "", "Decision0","{13AD67A4-2DA1-4979-8675-4D3CC2904FE5}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1", "1", "SupportingElements", "EARoot/EA7/EA6/EA2/EA1/EA5571.htm", "4.png", "", "", "{C951B9BD-DF99-4da6-858D-C0D64E06814C}", "Package");

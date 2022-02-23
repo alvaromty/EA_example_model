@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.21.4.7:1", "", "Dashboards Charts and Graphs", "EARoot/EA21/EA4/EA7/EA13158.htm", "188.png", "810", "0", "", "Custom diagram0","{C09D1CFE-5060-4062-A52F-DCAB6C3AC991}");
+tocTab[tocTab.length] = new Array("0.21.4.7:2", "", "«Chart» Domain Elements by Status", "EARoot/EA21/EA4/EA7/EA13162.htm", "5.png", "E3309", "0", "", "Class0","{3C9CF08B-509D-4e96-80D6-8DE8035D505A}");
+tocTab[tocTab.length] = new Array("0.21.4.7:3", "", "«Chart» User Stories and Defects by Phase", "EARoot/EA21/EA4/EA7/EA13163.htm", "5.png", "E3876", "0", "", "Class0","{7985B2AB-8438-4014-9244-9D625CF86D15}");

@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.8.7:1", "", "The Gantt Views", "EARoot/EA8/EA7/EA6467.htm", "175.png", "667", "0", "", "Logical diagram0","{305A5F02-773E-40e4-A62A-6B489E77B19F}");
+tocTab[tocTab.length] = new Array("0.8.7:2", "", "Project Gantt View - screen shots", "EARoot/EA8/EA7/EA6469.htm", "188.png", "544", "0", "", "Custom diagram0","{E91639F7-1A72-4b6b-94DA-1F757D9921C8}");
+tocTab[tocTab.length] = new Array("0.8.7:3", "", "My Gantt View - screen shot", "EARoot/EA8/EA7/EA6471.htm", "188.png", "291", "0", "", "Custom diagram0","{A41095EF-67DF-44b1-B1FE-8477782F851C}");
+tocTab[tocTab.length] = new Array("0.8.7:4", "", "Diagram Gantt View", "EARoot/EA8/EA7/EA6473.htm", "188.png", "361", "0", "", "Custom diagram0","{71480D15-286F-4046-8C78-B6F80DAA6376}");
+tocTab[tocTab.length] = new Array("0.8.7:5", "", "Diagram Gantt View - screen shot", "EARoot/EA8/EA7/EA6475.htm", "188.png", "108", "0", "", "Custom diagram0","{730D0704-7F8C-4d21-883C-486D8D74EA72}");
+tocTab[tocTab.length] = new Array("0.8.7:6", "", "Package Gantt View - screen shot", "EARoot/EA8/EA7/EA6477.htm", "188.png", "287", "0", "", "Custom diagram0","{4C7393AA-8437-4858-8948-ADF2C935B42F}");
+tocTab[tocTab.length] = new Array("0.8.7:7", "", "«Image» AssignedResourcesDlg.png", "EARoot/EA8/EA7/EA6494.htm", "82.png", "E6659", "0", "", "Artifact0","{E9B7B95D-095D-4cb9-BEA2-7FEF101810D7}");
+tocTab[tocTab.length] = new Array("0.8.7:8", "", "«Image» DiagramGanttView.png", "EARoot/EA8/EA7/EA6497.htm", "82.png", "E3803", "0", "", "Artifact0","{B0DE1104-455A-42c1-98AF-914334A389FA}");
+tocTab[tocTab.length] = new Array("0.8.7:9", "", "«Image» GanttView-Package.png", "EARoot/EA8/EA7/EA6498.htm", "82.png", "E4065", "0", "", "Artifact0","{A66B13B6-459E-4d2e-9822-91379449DDAD}");
+tocTab[tocTab.length] = new Array("0.8.7:10", "", "«Image» GanttView-Project.png", "EARoot/EA8/EA7/EA6499.htm", "82.png", "E6660", "0", "", "Artifact0","{CAD7CE02-64F5-4ddc-B615-6EE3ABB439D8}");
+tocTab[tocTab.length] = new Array("0.8.7:11", "", "«Image» MyGanttView.png", "EARoot/EA8/EA7/EA6501.htm", "82.png", "E6656", "0", "", "Artifact0","{14BB036B-A138-48c0-9EF1-D0A8DCA54CEE}");

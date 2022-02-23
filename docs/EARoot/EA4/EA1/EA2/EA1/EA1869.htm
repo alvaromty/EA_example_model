@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public  &lt;&lt;win32Tree&gt;&gt; GUIElement</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/22/2010 12:38:57 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">11/30/2016 3:32:02 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Lenny Holmes</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{5DEAB118-A7B1-4b28-8D4C-77FDFC522598}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA1864.htm">IDD_DEBUGMARKUP</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">Accept Files</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1549" onclick="parent.toggleDiv('detailsDIVScenario1549','DetailsImageScenario1549')" />Details:
+						<div id="detailsDIVScenario1549" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will accept drag and drop files.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Always Show Selection</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1550" onclick="parent.toggleDiv('detailsDIVScenario1550','DetailsImageScenario1550')" />Details:
+						<div id="detailsDIVScenario1550" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the selection is always shown, even if the control doesn&#39;t have focus.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Border</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1551" onclick="parent.toggleDiv('detailsDIVScenario1551','DetailsImageScenario1551')" />Details:
+						<div id="detailsDIVScenario1551" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the control will have a thin border.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Check Boxes</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1552" onclick="parent.toggleDiv('detailsDIVScenario1552','DetailsImageScenario1552')" />Details:
+						<div id="detailsDIVScenario1552" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Enables check boxes for items in a tree view control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Client Edge</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1553" onclick="parent.toggleDiv('detailsDIVScenario1553','DetailsImageScenario1553')" />Details:
+						<div id="detailsDIVScenario1553" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will have a border with a sunken edge.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Disable Drag Drop</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1554" onclick="parent.toggleDiv('detailsDIVScenario1554','DetailsImageScenario1554')" />Details:
+						<div id="detailsDIVScenario1554" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Prevents the tree view control from sending TVN_BEGINDRAG notification messages.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Disabled</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1555" onclick="parent.toggleDiv('detailsDIVScenario1555','DetailsImageScenario1555')" />Details:
+						<div id="detailsDIVScenario1555" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will be initially disabled.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Edit Labels</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1556" onclick="parent.toggleDiv('detailsDIVScenario1556','DetailsImageScenario1556')" />Details:
+						<div id="detailsDIVScenario1556" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that item text can be edited in place.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Full Row Select</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1557" onclick="parent.toggleDiv('detailsDIVScenario1557','DetailsImageScenario1557')" />Details:
+						<div id="detailsDIVScenario1557" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Enables full-row selection in the tree view control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Group</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1558" onclick="parent.toggleDiv('detailsDIVScenario1558','DetailsImageScenario1558')" />Details:
+						<div id="detailsDIVScenario1558" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies the first control in a group of controls based on tab order.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Has Buttons</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1559" onclick="parent.toggleDiv('detailsDIVScenario1559','DetailsImageScenario1559')" />Details:
+						<div id="detailsDIVScenario1559" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Displays plus (+) and minus (-) buttons net to parent items.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Has Lines</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1560" onclick="parent.toggleDiv('detailsDIVScenario1560','DetailsImageScenario1560')" />Details:
+						<div id="detailsDIVScenario1560" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Uses lines to show the hierarchy of items.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Help ID</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1561" onclick="parent.toggleDiv('detailsDIVScenario1561','DetailsImageScenario1561')" />Details:
+						<div id="detailsDIVScenario1561" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Assigns a help ID based on the resource ID to the control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Horizontal Scroll</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1562" onclick="parent.toggleDiv('detailsDIVScenario1562','DetailsImageScenario1562')" />Details:
+						<div id="detailsDIVScenario1562" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the control will have a horizontal scroll bar.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">ID</td>
+				<td width="50%" class="TableRow" valign="top">IDC_TREE1</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1563" onclick="parent.toggleDiv('detailsDIVScenario1563','DetailsImageScenario1563')" />Details:
+						<div id="detailsDIVScenario1563" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Specifies the identifier of the control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Info Tip</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1564" onclick="parent.toggleDiv('detailsDIVScenario1564','DetailsImageScenario1564')" />Details:
+						<div id="detailsDIVScenario1564" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Obtains ToolTip information by sending the TVN_GETINFOTIP notification.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Left Scrollbar</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1565" onclick="parent.toggleDiv('detailsDIVScenario1565','DetailsImageScenario1565')" />Details:
+						<div id="detailsDIVScenario1565" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the vertical scrollbar (if present) will be on the left side of the control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Lines At Root</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1566" onclick="parent.toggleDiv('detailsDIVScenario1566','DetailsImageScenario1566')" />Details:
+						<div id="detailsDIVScenario1566" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Uses lines to link items at the root of the tree view control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Modal Frame</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1567" onclick="parent.toggleDiv('detailsDIVScenario1567','DetailsImageScenario1567')" />Details:
+						<div id="detailsDIVScenario1567" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will have a double border.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Non Even Height</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1568" onclick="parent.toggleDiv('detailsDIVScenario1568','DetailsImageScenario1568')" />Details:
+						<div id="detailsDIVScenario1568" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Allows setting of items to an odd height value via the TVM_SETITEMHEIGHT message.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Right Align Text</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1569" onclick="parent.toggleDiv('detailsDIVScenario1569','DetailsImageScenario1569')" />Details:
+						<div id="detailsDIVScenario1569" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control&#39;s text is right-aligned.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Right to Left Reading Order</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1570" onclick="parent.toggleDiv('detailsDIVScenario1570','DetailsImageScenario1570')" />Details:
+						<div id="detailsDIVScenario1570" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: For languages that support reading order alignment, specifies right-to-left reading order.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Scroll</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1571" onclick="parent.toggleDiv('detailsDIVScenario1571','DetailsImageScenario1571')" />Details:
+						<div id="detailsDIVScenario1571" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Enables horizontal and vertical scrolling in the control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Single Expand</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1572" onclick="parent.toggleDiv('detailsDIVScenario1572','DetailsImageScenario1572')" />Details:
+						<div id="detailsDIVScenario1572" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Causes the selected item to expand and the unselected item to collapse.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Static Edge</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1573" onclick="parent.toggleDiv('detailsDIVScenario1573','DetailsImageScenario1573')" />Details:
+						<div id="detailsDIVScenario1573" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that the control will have a three dimensional border.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Tabstop</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1574" onclick="parent.toggleDiv('detailsDIVScenario1574','DetailsImageScenario1574')" />Details:
+						<div id="detailsDIVScenario1574" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the user can move to this control with the TAB key.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Tooltips</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1575" onclick="parent.toggleDiv('detailsDIVScenario1575','DetailsImageScenario1575')" />Details:
+						<div id="detailsDIVScenario1575" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Enables ToolTips for the control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Track Select</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1576" onclick="parent.toggleDiv('detailsDIVScenario1576','DetailsImageScenario1576')" />Details:
+						<div id="detailsDIVScenario1576" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Enables hot tracking in a treeview control.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Transparent</td>
+				<td width="50%" class="TableRow" valign="top">False</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1577" onclick="parent.toggleDiv('detailsDIVScenario1577','DetailsImageScenario1577')" />Details:
+						<div id="detailsDIVScenario1577" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: False<br />Description: Specifies that this control will have a transparent background.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Visible</td>
+				<td width="50%" class="TableRow" valign="top">True</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1578" onclick="parent.toggleDiv('detailsDIVScenario1578','DetailsImageScenario1578')" />Details:
+						<div id="detailsDIVScenario1578" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: True,False<br />Default: True<br />Description: Specifies that the control is initially visible.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

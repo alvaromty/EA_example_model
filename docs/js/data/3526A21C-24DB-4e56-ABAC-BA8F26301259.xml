@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.17.1.2:1", "", "Example - Build and Debug", "EARoot/EA17/EA1/EA2/EA10117.htm", "188.png", "184", "0", "", "Custom diagram0","{0FCD9B44-94A6-4e3f-929D-CD9DB9F79A85}");
+tocTab[tocTab.length] = new Array("0.17.1.2:2", "", "Source", "EARoot/EA17/EA1/EA2/EA10119.htm", "175.png", "177", "0", "", "Logical diagram0","{2592FD09-25FC-4ddd-BC28-D4AD9FD00BFF}");
+tocTab[tocTab.length] = new Array("0.17.1.2:3", "", "CExample", "EARoot/EA17/EA1/EA2/EA10135.htm", "5.png", "E1453", "0", "", "Class0","{850B3B36-1B99-4371-94EE-B48FD9E9F335}");
+tocTab[tocTab.length] = new Array("0.17.1.2:4", "", "«Image» VEA_Debug.png", "EARoot/EA17/EA1/EA2/EA10136.htm", "82.png", "E651", "0", "", "Artifact0","{05666701-4159-4dfd-8FC1-E4E65DA75D7E}");
+tocTab[tocTab.length] = new Array("0.17.1.2.1", "1", "Bookstore", "EARoot/EA17/EA1/EA2/EA1/EA10139.htm", "4.png", "", "", "{85C8049D-EB30-4c57-8A01-6CE3494F4BF8}", "Package");
+tocTab[tocTab.length] = new Array("0.17.1.2.2", "1", "BookTestClient", "EARoot/EA17/EA1/EA2/EA2/EA10144.htm", "4.png", "", "", "{0AC87210-970E-4b39-B96C-3E8A8BE09A68}", "Package");

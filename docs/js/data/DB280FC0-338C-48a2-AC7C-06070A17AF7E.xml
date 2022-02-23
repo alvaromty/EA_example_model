@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.6.2.1.2:1", "", "Customer", "EARoot/EA7/EA6/EA2/EA1/EA2/EA5585.htm", "189.png", "251", "0", "", "Analysis diagram0","{CA751EDA-943A-40f2-A89E-A32E20D22C1C}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.2:2", "", "«Participant» loanRequester", "EARoot/EA7/EA6/EA2/EA1/EA2/EA5588.htm", "5.png", "E2231", "0", "", "Class0","{F90D589B-6C71-4f0f-A36D-93E8466CA977}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.2:5", "", "«Interface» loanServiceCallbackPT", "EARoot/EA7/EA6/EA2/EA1/EA2/EA5591.htm", "5.png", "E2230", "E2231", "", "Class0","{DE8F19A8-E70D-4f94-9C4C-023665706E42}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.2:4", "", "«Operation» requestCallback", "EARoot/EA7/EA6/EA2/EA1/EA2/EA5590.htm", "5.png", "E2229", "E2230", "", "Class0","{926024B8-18DE-4c9b-9FFE-3EB3F2B3DAE8}");
+tocTab[tocTab.length] = new Array("0.7.6.2.1.2:3", "", "«Message» loanResponseMessage", "EARoot/EA7/EA6/EA2/EA1/EA2/EA5589.htm", "4C9380A5-0_Message.png", "E2228", "E2229", "", "Class0","{138BCEEC-7C7E-4710-B8D9-5D8E02A5C5FC}");

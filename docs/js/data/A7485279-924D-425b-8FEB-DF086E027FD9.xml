@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.18.7.3.2:1", "", "SQL Server 2000", "EARoot/EA18/EA7/EA3/EA2/EA10887.htm", "10.png", "E2648", "0", "", "Component0","{960FE2AC-9C3E-4901-A3D4-505A1DB22A9C}");
+tocTab[tocTab.length] = new Array("0.18.7.3.2.1", "1", "SQL Server 2003", "EARoot/EA18/EA7/EA3/EA2/EA1/EA10891.htm", "4.png", "", "", "{B1167D3E-AFCA-4abc-B350-95001598E8F6}", "Package");

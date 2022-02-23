@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6:1", "", "Business Rule Model", "EARoot/EA6/EA1/EA4/EA3/EA6/EA3478.htm", "188.png", "726", "0", "", "Custom diagram0","{79C0305F-28D1-42d0-A3CD-BEB7FD2D53FB}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.1", "1", "Business Rules", "EARoot/EA6/EA1/EA4/EA3/EA6/EA1/EA3488.htm", "4.png", "", "", "{DB30F4AF-7B68-4809-8A41-B836FE0E1713}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.6.2", "1", "Requirements Model", "EARoot/EA6/EA1/EA4/EA3/EA6/EA2/EA3496.htm", "4.png", "", "", "{F9983438-7A31-4146-9CC8-6B441C64EC69}", "Package");

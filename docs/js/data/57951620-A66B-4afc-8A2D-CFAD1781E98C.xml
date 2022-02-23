@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.17.1.3:1", "", "Example - TestPoints", "EARoot/EA17/EA1/EA3/EA10147.htm", "188.png", "602", "0", "", "Custom diagram0","{879BC2DA-8F8F-45a1-8E12-87D3215ED452}");
+tocTab[tocTab.length] = new Array("0.17.1.3:2", "", "TestPoints", "EARoot/EA17/EA1/EA3/EA10149.htm", "180.png", "694", "0", "", "Use Case diagram0","{D4C34629-2C3E-475a-96C4-E74EFE3902CF}");
+tocTab[tocTab.length] = new Array("0.17.1.3:3", "", "«Image» TestPoint_Editor.png", "EARoot/EA17/EA1/EA3/EA10158.htm", "82.png", "E5356", "0", "", "Artifact0","{539BA0D7-52D8-465f-B97D-ED77FB42AACD}");
+tocTab[tocTab.length] = new Array("0.17.1.3:4", "", "«Image» TestPoints_SysOutput.png", "EARoot/EA17/EA1/EA3/EA10159.htm", "82.png", "E5357", "0", "", "Artifact0","{DAD12E1F-66E8-4822-B59D-1F71DBE942AC}");
+tocTab[tocTab.length] = new Array("0.17.1.3:5", "", "«Image» TestPoints_window.png", "EARoot/EA17/EA1/EA3/EA10160.htm", "82.png", "E5355", "0", "", "Artifact0","{CD86BDBD-1213-44d4-8BA4-AE9EDC3928FC}");
+tocTab[tocTab.length] = new Array("0.17.1.3:6", "", "«testsuite» TestSuite1", "EARoot/EA17/EA1/EA3/EA10162.htm", "7.png", "E3679", "0", "", "UseCase0","{CA457CBC-75C5-4064-83C9-19C18DB8D491}");

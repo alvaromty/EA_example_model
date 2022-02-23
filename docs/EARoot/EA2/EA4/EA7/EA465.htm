@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Management Enterprise Architecture</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA466.png" usemap="#EA466" border="0" />
+
+<MAP NAME="EA466">
+<area shape="rect" coords="903,745,1139,815" href="EA506.htm" target="_self">
+<area shape="rect" coords="617,746,853,816" href="EA476.htm" target="_self">
+<area shape="rect" coords="263,745,499,815" href="EA505.htm" target="_self">
+<area shape="rect" coords="245,709,1160,839" href="EA508.htm" target="_self">
+<area shape="rect" coords="880,568,970,638" href="EA494.htm" target="_self">
+<area shape="rect" coords="765,568,855,638" href="EA493.htm" target="_self">
+<area shape="rect" coords="645,568,735,638" href="EA492.htm" target="_self">
+<area shape="rect" coords="625,535,997,669" href="EA507.htm" target="_self">
+<area shape="rect" coords="1016,249,1139,376" href="EA472.htm" target="_self">
+<area shape="rect" coords="879,249,1002,376" href="EA473.htm" target="_self">
+<area shape="rect" coords="1016,110,1139,237" href="EA475.htm" target="_self">
+<area shape="rect" coords="879,110,1002,237" href="EA474.htm" target="_self">
+<area shape="rect" coords="861,63,1161,429" href="EA491.htm" target="_self">
+<area shape="rect" coords="738,233,813,276" href="EA496.htm" target="_self">
+<area shape="rect" coords="633,361,708,404" href="EA498.htm" target="_self">
+<area shape="rect" coords="538,301,613,344" href="EA499.htm" target="_self">
+<area shape="rect" coords="633,301,708,344" href="EA497.htm" target="_self">
+<area shape="rect" coords="633,233,708,276" href="EA500.htm" target="_self">
+<area shape="rect" coords="633,165,708,211" href="EA495.htm" target="_self">
+<area shape="rect" coords="449,233,524,276" href="EA502.htm" target="_self">
+<area shape="rect" coords="449,165,524,208" href="EA501.htm" target="_self">
+<area shape="rect" coords="538,165,613,208" href="EA504.htm" target="_self">
+<area shape="rect" coords="538,104,613,147" href="EA503.htm" target="_self">
+<area shape="rect" coords="433,63,832,429" href="EA489.htm" target="_self">
+<area shape="rect" coords="275,311,368,368" href="EA486.htm" target="_self">
+<area shape="rect" coords="260,287,384,384" href="EA482.htm" target="_self">
+<area shape="rect" coords="245,263,389,402" href="EA485.htm" target="_self">
+<area shape="rect" coords="275,141,368,200" href="EA483.htm" target="_self">
+<area shape="rect" coords="260,117,383,214" href="EA481.htm" target="_self">
+<area shape="rect" coords="245,93,389,232" href="EA484.htm" target="_self">
+<area shape="rect" coords="229,63,405,429" href="EA490.htm" target="_self">
+<area shape="rect" coords="197,494,1187,855" href="EA487.htm" target="_self">
+<area shape="rect" coords="197,40,1187,469" href="EA488.htm" target="_self">
+<area shape="rect" coords="180,10,1219,885" href="EA468.htm" target="_self">
+<area shape="rect" coords="10,566,159,703" href="EA470.htm" target="_self">
+<area shape="rect" coords="32,282,137,337" href="EA480.htm" target="_self">
+<area shape="rect" coords="32,215,148,270" href="EA477.htm" target="_self">
+<area shape="rect" coords="32,116,137,206" href="EA478.htm" target="_self">
+<area shape="rect" coords="32,49,137,104" href="EA479.htm" target="_self">
+<area shape="rect" coords="10,10,159,370" href="EA469.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Management Enterprise Architecture : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/24/2018 4:54:44 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">4/4/2019 11:04:35 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Philip Marlowe</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{2B7709CF-D178-4ad8-B09E-0158BE7BC802}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

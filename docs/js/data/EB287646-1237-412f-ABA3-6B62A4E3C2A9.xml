@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.21.2.6.1.1:1", "", "Desktop: EA Client", "EARoot/EA21/EA2/EA6/EA1/EA1/EA12912.htm", "10.png", "E7467", "0", "", "Component0","{FCC35E9D-91D9-42a3-94C8-5B84FEFFD7EE}");
+tocTab[tocTab.length] = new Array("0.21.2.6.1.1:2", "", "Notebook: Web Browser", "EARoot/EA21/EA2/EA6/EA1/EA1/EA12913.htm", "10.png", "E7464", "0", "", "Component0","{22D9E535-6059-4d0a-A46A-0BCF0B58A510}");
+tocTab[tocTab.length] = new Array("0.21.2.6.1.1:3", "", "Notebook: Web Browser", "EARoot/EA21/EA2/EA6/EA1/EA1/EA12914.htm", "10.png", "E7472", "0", "", "Component0","{47EFD49F-C3C9-4006-93CF-FEF4A97DD4E8}");
+tocTab[tocTab.length] = new Array("0.21.2.6.1.1:4", "", "Smart Phone: Web Browser", "EARoot/EA21/EA2/EA6/EA1/EA1/EA12915.htm", "10.png", "E7469", "0", "", "Component0","{33BF4C85-4E2E-4804-9B29-1B8D9C77A86D}");
+tocTab[tocTab.length] = new Array("0.21.2.6.1.1:5", "", "Tablet: Web Browser", "EARoot/EA21/EA2/EA6/EA1/EA1/EA12916.htm", "10.png", "E7468", "0", "", "Component0","{527D4710-AB3E-486c-9FAB-EE4592200859}");

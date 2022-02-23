@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.20.4.2.4:1", "", "DecisionTable", "EARoot/EA20/EA4/EA2/EA4/EA11871.htm", "189.png", "897", "0", "", "Analysis diagram0","{512A4C6A-5E07-4d4c-ADEB-661B66B64477}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:2", "", "«InputData» Applicant Data", "EARoot/EA20/EA4/EA2/EA4/EA11874.htm", "45A3469A-1_InputData.png", "E8257", "0", "", "Class0","{8EEAE8F8-A21E-4df3-A965-69BCBF5EA728}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:3", "", "«ItemDefinition» Applicant Data Definition", "EARoot/EA20/EA4/EA2/EA4/EA11875.htm", "5.png", "E8260", "0", "", "Class0","{96BF3860-2F34-4994-850D-F778A23B351E}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:4", "", "«Decision» Bureau call type", "EARoot/EA20/EA4/EA2/EA4/EA11876.htm", "45A3469A-1_Decision.png", "E8262", "0", "", "Activity0","{D6419C4B-BB02-41fa-91F0-4FF98113A36E}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:5", "", "«DMNSimConfiguration» Simulate Artifact", "EARoot/EA20/EA4/EA2/EA4/EA11877.htm", "82.png", "E8259", "0", "", "Artifact0","{84BC73CC-EF9C-4bb7-86C9-870E4D474C09}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:6", "", "«ItemDefinition» Application Risk Score", "EARoot/EA20/EA4/EA2/EA4/EA11878.htm", "5.png", "E8258", "E8260", "", "Class0","{49DDD32E-6F0A-406f-82C7-41A276735162}");
+tocTab[tocTab.length] = new Array("0.20.4.2.4:7", "", "«ItemDefinition» Existing Customer", "EARoot/EA20/EA4/EA2/EA4/EA11879.htm", "5.png", "E8261", "E8260", "", "Class0","{60B66FA1-22A7-45d7-86CE-BC288F68D96C}");

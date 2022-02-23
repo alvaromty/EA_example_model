@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.7:1", "", "Stocks by Javascript", "EARoot/EA2/EA10/EA7/EA936.htm", "188.png", "1048", "0", "", "Custom diagram0","{E20619A0-5ECB-4114-B1D0-FE2B82DED3B4}");
+tocTab[tocTab.length] = new Array("0.2.10.7:2", "", "Stocks by JSON", "EARoot/EA2/EA10/EA7/EA938.htm", "188.png", "1049", "0", "", "Custom diagram0","{E85B7230-6800-4cbb-AA04-9B60EBBD811B}");
+tocTab[tocTab.length] = new Array("0.2.10.7:3", "", "«SSDynamicChart» Stocks by JavaScript", "EARoot/EA2/EA10/EA7/EA941.htm", "5.png", "E10126", "0", "", "Class0","{C0E24FC8-D5CC-4238-8D5A-B89A6D987F4C}");
+tocTab[tocTab.length] = new Array("0.2.10.7:4", "", "«SSDynamicChart» Stocks by JSON", "EARoot/EA2/EA10/EA7/EA942.htm", "5.png", "E10125", "0", "", "Class0","{0F741DED-4759-455a-B1FA-D1E589D6A9E1}");

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Risk Taxonomy</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA5238.png" usemap="#EA5238" border="0" />
+
+<MAP NAME="EA5238">
+<area shape="rect" coords="10,62,476,147" href="EA5243.htm" target="_self">
+<area shape="rect" coords="10,10,259,56" href="EA5242.htm" target="_self">
+<area shape="rect" coords="525,119,720,336" href="EA5240.htm" target="_self">
+<area shape="rect" coords="263,603,357,654" href="EA5248.htm" target="_self">
+<area shape="rect" coords="395,425,530,565" href="EA5249.htm" target="_self">
+<area shape="rect" coords="245,425,375,565" href="EA5246.htm" target="_self">
+<area shape="rect" coords="25,425,220,571" href="EA5245.htm" target="_self">
+<area shape="rect" coords="246,218,376,305" href="EA5247.htm" target="_self">
+<area shape="rect" coords="218,326,404,401" href="./EA1/EA5250.htm" target="_self">
+<area shape="rect" coords="10,156,469,196" href="EA5241.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Risk Taxonomy : Risk Taxonomy diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/23/2015 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 11:59:38 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{F6F8F43E-240B-400d-A90B-A8215219820E}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">Risk Taxonomy and Risk Analysis diagram in Sparx Systems Enterprise Architect&lt;br/&gt;This Risk Taxonomy Diagram shows the use of elements to model risk in a formal way including the Risk Scenario, Threat Communities, the frequency of the threat, the Threat Community&#39;s capability and the strength of the controls. Vulnerability can then be derived from these other factors.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

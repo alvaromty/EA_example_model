@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.18.8.3:1", "", "macOS", "EARoot/EA18/EA8/EA3/EA11037.htm", "10.png", "E2725", "0", "", "Component0","{CC4019CA-8368-4c15-A172-FA8481B205E7}");
+tocTab[tocTab.length] = new Array("0.18.8.3:2", "", "RedHat Linux 9.0", "EARoot/EA18/EA8/EA3/EA11038.htm", "10.png", "E2726", "0", "", "Component0","{D9F5A451-D144-453c-8484-27B9C72344E6}");
+tocTab[tocTab.length] = new Array("0.18.8.3:3", "", "Sun Linux JVM 1.4.0", "EARoot/EA18/EA8/EA3/EA11039.htm", "10.png", "E2723", "0", "", "Component0","{B05BE261-2733-487e-98CE-F3DC6AFCF435}");
+tocTab[tocTab.length] = new Array("0.18.8.3:4", "", "Windows 2000 Professional", "EARoot/EA18/EA8/EA3/EA11040.htm", "10.png", "E2722", "0", "", "Component0","{7045D0F1-9266-4375-BBBD-3912A49184D2}");
+tocTab[tocTab.length] = new Array("0.18.8.3:5", "", "Windows 2000 Server", "EARoot/EA18/EA8/EA3/EA11041.htm", "10.png", "E2721", "0", "", "Component0","{52B2E16D-323E-4f6a-8F28-A18B3D516A72}");
+tocTab[tocTab.length] = new Array("0.18.8.3:6", "", "Windows 2003 Server", "EARoot/EA18/EA8/EA3/EA11042.htm", "10.png", "E2724", "0", "", "Component0","{C466089E-CF08-45d0-BFF5-D47E679AD6C9}");
+tocTab[tocTab.length] = new Array("0.18.8.3:7", "", "Windows XP Professional", "EARoot/EA18/EA8/EA3/EA11043.htm", "10.png", "E2719", "0", "", "Component0","{3D2DAD69-51F0-4c74-882C-9BD20B0B0E56}");

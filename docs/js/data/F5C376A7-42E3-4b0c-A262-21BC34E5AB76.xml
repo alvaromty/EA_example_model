@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2:1", "", "Pro Cloud Server", "EARoot/EA21/EA3/EA1/EA1/EA2/EA13050.htm", "10.png", "E7996", "0", "", "Component0","{EA158208-BE2F-4708-A1BD-C5B22A17A92F}");
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2:3", "", "https port (configrable port number)", "EARoot/EA21/EA3/EA1/EA1/EA2/EA13052.htm", "95.png", "E7998", "E7996", "", "Port0","{6E62629E-722A-4f39-BEA0-9F204EA4D6D7}");
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2:4", "", "oslc port (configrable port number)", "EARoot/EA21/EA3/EA1/EA1/EA2/EA13053.htm", "95.png", "E7860", "E7996", "", "Port0","{799FE413-47D4-4c7f-AACD-45770D8437C5}");
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2:5", "", "Web Port (configrable port number)", "EARoot/EA21/EA3/EA1/EA1/EA2/EA13054.htm", "95.png", "E7999", "E7996", "", "Port0","{C065F5C2-15CB-4a15-AC74-5FB8CD7CC364}");
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2:2", "", "OSLC Interface", "EARoot/EA21/EA3/EA1/EA1/EA2/EA13051.htm", "112.png", "E7833", "E7860", "", "ProvidedInterface0","{4BD49501-B31B-4ca2-8C66-9E94181BCAC0}");
+tocTab[tocTab.length] = new Array("0.21.3.1.1.2.1", "1", "Interfaces", "EARoot/EA21/EA3/EA1/EA1/EA2/EA1/EA13055.htm", "4.png", "", "", "{6E531562-4EB2-4c0c-93D2-9C78C9776B04}", "Package");

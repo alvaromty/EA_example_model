@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.12.1.2:1", "", "«Chart» Cost vs Platform Lifecycle", "EARoot/EA12/EA1/EA2/EA6977.htm", "5.png", "E3161", "0", "", "Class0","{33CF964A-1E25-462c-BF1B-A3B37865E127}");
+tocTab[tocTab.length] = new Array("0.12.1.2:2", "", "«Chart» Issues by Status", "EARoot/EA12/EA1/EA2/EA6978.htm", "5.png", "E3170", "0", "", "Class0","{6BA3171F-FDFA-4038-8D6C-659EE9D4D372}");
+tocTab[tocTab.length] = new Array("0.12.1.2:3", "", "«Chart» Department Costing", "EARoot/EA12/EA1/EA2/EA6979.htm", "5.png", "E3148", "0", "", "Class0","{1588A01F-6976-4b6b-BD54-C3628B8685D2}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1", "1", "Technology Architecture", "EARoot/EA12/EA1/EA2/EA1/EA6983.htm", "4.png", "", "", "{2A6526A0-232F-4e12-8144-902C9C8D84CA}", "Package");

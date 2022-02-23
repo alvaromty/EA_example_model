@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.1.5:1", "", "Business Events", "EARoot/EA6/EA1/EA4/EA1/EA5/EA3264.htm", "188.png", "706", "0", "", "Custom diagram0","{9F8C55E8-7C35-4d6e-B26C-ABED58471F76}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.5:2", "", "«BusinessEvent» BusinessEvent1", "EARoot/EA6/EA1/EA4/EA1/EA5/EA3267.htm", "24.png", "E4221", "0", "", "Event0","{29C93320-7BA7-4d67-8475-7E25898AEB0D}");
+tocTab[tocTab.length] = new Array("0.6.1.4.1.5:3", "", "«BusinessEvent» BusinessEvent2", "EARoot/EA6/EA1/EA4/EA1/EA5/EA3268.htm", "24.png", "E4222", "0", "", "Event0","{0D0208BC-586D-4411-83AC-234E60D02057}");

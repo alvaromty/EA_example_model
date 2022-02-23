@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Stakeholders and Applications</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA4016.png" usemap="#EA4016" border="0" />
+
+<MAP NAME="EA4016">
+<area shape="rect" coords="174,181,284,272" href="../EA15/EA3/EA4127.htm" target="_self">
+<area shape="rect" coords="174,332,284,436" href="../EA15/EA3/EA4125.htm" target="_self">
+<area shape="rect" coords="174,30,284,121" href="../EA15/EA3/EA4132.htm" target="_self">
+<area shape="rect" coords="331,333,486,463" href="EA4018.htm" target="_self">
+<area shape="rect" coords="371,10,456,110" href="EA4026.htm" target="_self">
+<area shape="rect" coords="10,160,95,260" href="EA4025.htm" target="_self">
+<area shape="rect" coords="371,160,456,260" href="EA4020.htm" target="_self">
+<area shape="rect" coords="10,310,95,410" href="EA4022.htm" target="_self">
+<area shape="rect" coords="10,10,95,110" href="EA4027.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Stakeholders and Applications : Component diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">11/2/2016 1:46:23 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">11/2/2016 1:46:23 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Chuck Wilson</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{7CEF6DB9-85D8-4c30-9E1B-091D85861A33}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This diagram shows the relationship between stakeholders and solution components using an Association relationship. The stakeholders are UML Classes that have had an image assigned as an appearance option.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

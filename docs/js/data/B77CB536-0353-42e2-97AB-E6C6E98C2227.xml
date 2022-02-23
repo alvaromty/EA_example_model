@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.3.23:1", "", "Risk Taxonomy", "EARoot/EA7/EA3/EA23/EA5237.htm", "188.png", "437", "0", "", "Custom diagram0","{F6F8F43E-240B-400d-A90B-A8215219820E}");
+tocTab[tocTab.length] = new Array("0.7.3.23:2", "", "«ThreatEventFrequency» High", "EARoot/EA7/EA3/EA23/EA5245.htm", "5.png", "E3981", "0", "", "Class0","{2137CC6B-C51C-4c5a-860A-4A3BC386A6E8}");
+tocTab[tocTab.length] = new Array("0.7.3.23:3", "", "«ThreatCapability» Medium", "EARoot/EA7/EA3/EA23/EA5246.htm", "5.png", "E3902", "0", "", "Class0","{08E64B00-D536-4c0b-9D8B-A57ED2018572}");
+tocTab[tocTab.length] = new Array("0.7.3.23:4", "", "«Risk Scenario» User Name and Password left on Sticky Note by Warehouse Manager", "EARoot/EA7/EA3/EA23/EA5247.htm", "7.png", "E3980", "0", "", "UseCase0","{7D564E40-C275-4bc0-A8FE-F6374233D81D}");
+tocTab[tocTab.length] = new Array("0.7.3.23:5", "", "«Vulnerability» Very High", "EARoot/EA7/EA3/EA23/EA5248.htm", "5.png", "E3982", "0", "", "Class0","{4F8BA482-87F8-4cfe-8868-50F3413FAA06}");
+tocTab[tocTab.length] = new Array("0.7.3.23:6", "", "«ResistanceStrength» Very Low", "EARoot/EA7/EA3/EA23/EA5249.htm", "5.png", "E3903", "0", "", "Class0","{909C295E-4C13-4939-B9CE-2FE73BD4EB68}");
+tocTab[tocTab.length] = new Array("0.7.3.23.1", "", "«ThreatCommunity» Contract Couriers", "EARoot/EA7/EA3/EA23/EA1/EA5250.htm", "4.png", "", "", "{F2739BFA-0003-4744-B839-532EFFDCA823}", "Package");

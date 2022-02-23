@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:1", "", "Administration", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7024.htm", "5.png", "E3331", "0", "", "Class0","{797775F2-6A87-4008-99BD-A9268553584B}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:2", "", "File & Data Transfer", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7025.htm", "5.png", "E3332", "0", "", "Class0","{0D6582B8-4684-431f-93FB-AEF60C6EABF2}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:3", "", "SSO & User Profile", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7026.htm", "5.png", "E3333", "0", "", "Class0","{140FF88D-55A9-4ab3-ADA1-9F22544E6149}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:4", "", "Usage & Billing", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7027.htm", "5.png", "E3329", "0", "", "Class0","{E759AF1D-5349-4b1b-AB28-5051DC15E2B0}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:5", "", "User Directory", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7028.htm", "5.png", "E3330", "0", "", "Class0","{17906590-A8B9-459e-8FE4-AC817337D2CD}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.8:6", "", "Virus Scan", "EARoot/EA12/EA1/EA2/EA1/EA8/EA7029.htm", "5.png", "E3328", "0", "", "Class0","{4275C24C-C0EF-4fa8-9072-78AD0A0DE4F0}");

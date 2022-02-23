@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SubMachine</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA11953.png" usemap="#EA11953" border="0" />
+
+<MAP NAME="EA11953">
+<area shape="rect" coords="193,149,213,169" href="EA11971.htm" target="_self">
+<area shape="rect" coords="264,189,320,229" href="EA11975.htm" target="_self">
+<area shape="rect" coords="93,314,113,334" href="EA11972.htm" target="_self">
+<area shape="rect" coords="145,188,201,228" href="EA11974.htm" target="_self">
+<area shape="rect" coords="375,312,395,332" href="EA11970.htm" target="_self">
+<area shape="rect" coords="145,304,201,344" href="EA11976.htm" target="_self">
+<area shape="rect" coords="145,47,201,87" href="EA11973.htm" target="_self">
+<area shape="rect" coords="264,303,320,343" href="EA11977.htm" target="_self">
+<area shape="rect" coords="64,161,79,176" href="EA11967.htm" target="_self">
+<area shape="rect" coords="410,202,425,217" href="EA11969.htm" target="_self">
+<area shape="rect" coords="410,61,425,76" href="EA11968.htm" target="_self">
+<area shape="rect" coords="71,10,417,375" href="EA11966.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">SubMachine : StateMachine diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/7/2016 1:43:42 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/20/2018 11:02:44 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Patrick Ripley</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{1E863504-75B3-4a99-B489-5A0667A754BD}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">SubMachine Entry, Exit and Connection Points in Sparx Systems Enterprise Architect&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

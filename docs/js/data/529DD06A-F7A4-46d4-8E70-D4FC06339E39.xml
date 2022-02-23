@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.4.4.2:1", "", "Stakeholders", "EARoot/EA7/EA4/EA4/EA2/EA5416.htm", "188.png", "264", "0", "", "Custom diagram0","{32EB8517-A657-4dec-9EBD-DDB17975F4B8}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:2", "", "Stakeholders Images", "EARoot/EA7/EA4/EA4/EA2/EA5418.htm", "175.png", "266", "0", "", "Logical diagram0","{E74521F2-C461-4c2c-92F4-5280E5C637F0}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:3", "", "«internal worker» Business Manager", "EARoot/EA7/EA4/EA4/EA2/EA5422.htm", "5.png", "E2345", "0", "", "Class0","{421C1730-E3E3-4319-BB69-BCE52FDF3FE1}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:4", "", "«internal worker» Chief Executive Officer", "EARoot/EA7/EA4/EA4/EA2/EA5423.htm", "5.png", "E2341", "0", "", "Class0","{1F074B61-BD7E-420d-B921-B5ADC57D84EA}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:5", "", "«internal worker» Credit Controller", "EARoot/EA7/EA4/EA4/EA2/EA5424.htm", "5.png", "E2348", "0", "", "Class0","{CC2B3902-1770-44ba-A5D8-B5C00047D9CE}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:6", "", "«internal worker» Development Manager", "EARoot/EA7/EA4/EA4/EA2/EA5425.htm", "5.png", "E2352", "0", "", "Class0","{F9690EC3-5A3E-4e4d-AD53-7404284B560E}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:7", "", "«internal worker» Finance Manager", "EARoot/EA7/EA4/EA4/EA2/EA5426.htm", "5.png", "E2346", "0", "", "Class0","{6DBCC33B-FF54-471b-ABDA-B6B623FA6A57}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:8", "", "«internal worker» IT Manager", "EARoot/EA7/EA4/EA4/EA2/EA5427.htm", "5.png", "E2343", "0", "", "Class0","{383687B2-3A88-49fe-B9AC-7B0354143949}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:9", "", "«internal worker» Operation Managers", "EARoot/EA7/EA4/EA4/EA2/EA5428.htm", "5.png", "E2350", "0", "", "Class0","{ED9AC5D5-B156-4368-8A24-C0BB24F569FA}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:10", "", "«internal worker» Process Manager", "EARoot/EA7/EA4/EA4/EA2/EA5429.htm", "5.png", "E2349", "0", "", "Class0","{DBC3538D-1EE3-41ce-98E3-BEE5B94E6EE2}");
+tocTab[tocTab.length] = new Array("0.7.4.4.2:11", "", "«internal worker» Stock Control Manager", "EARoot/EA7/EA4/EA4/EA2/EA5430.htm", "5.png", "E2347", "0", "", "Class0","{77B7F05E-65C0-4072-80BD-EEA719984EE3}");

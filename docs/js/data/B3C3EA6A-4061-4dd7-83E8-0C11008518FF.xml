@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.21.2:1", "", "Deployment Scenarios", "EARoot/EA21/EA2/EA12583.htm", "188.png", "818", "0", "", "Custom diagram0","{92BE77A5-0977-4f90-B66F-BA634A7380E9}");
+tocTab[tocTab.length] = new Array("0.21.2.1", "1", "Small Team", "EARoot/EA21/EA2/EA1/EA12607.htm", "4.png", "", "", "{9749F8FD-1889-44a1-9AB1-D6D2419555AA}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.2", "1", "Government Agency", "EARoot/EA21/EA2/EA2/EA12657.htm", "4.png", "", "", "{F0DBECCE-FDF5-45ed-BD52-07696BAC9B45}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.3", "1", "Out of the Office", "EARoot/EA21/EA2/EA3/EA12728.htm", "4.png", "", "", "{B22793B1-917C-4d38-B817-2EB414D62776}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.4", "1", "Branch Office", "EARoot/EA21/EA2/EA4/EA12771.htm", "4.png", "", "", "{AA95C552-160E-4b59-BD8D-6767709C4DC1}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.5", "1", "Standards Development", "EARoot/EA21/EA2/EA5/EA12826.htm", "4.png", "", "", "{DD7E53FC-225C-4c65-A3BD-683B7B934483}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.6", "1", "Outsourced Team", "EARoot/EA21/EA2/EA6/EA12881.htm", "4.png", "", "", "{9E053EA0-804C-440d-8968-DE151A01DC16}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.7", "1", "Consulting Office", "EARoot/EA21/EA2/EA7/EA12934.htm", "4.png", "", "", "{2F1C5E04-E073-4269-A1A4-446B0D11CB86}", "Package");
+tocTab[tocTab.length] = new Array("0.21.2.8", "1", "Amazon Web Services", "EARoot/EA21/EA2/EA8/EA12990.htm", "4.png", "", "", "{3DA8155D-DCDC-4f41-89A7-D62BB90E92B1}", "Package");

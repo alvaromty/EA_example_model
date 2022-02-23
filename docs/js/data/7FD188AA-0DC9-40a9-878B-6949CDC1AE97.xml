@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1:1", "", "Business Process1", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3408.htm", "181.png", "718", "0", "", "Activity diagram0","{10A40647-A380-40e0-8BC2-9F020EA0260C}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1:2", "", "Activity1", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3411.htm", "21.png", "E4341", "0", "", "Activity0","{E049D211-F660-4c86-B765-790234F1ACFE}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1:3", "", "Activity2", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3412.htm", "21.png", "E4342", "0", "", "Activity0","{52C86A9B-4B28-46fa-B35C-99817739BFDD}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1:4", "", "ActivityFinal", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3413.htm", "69.png", "E4344", "0", "", "StateNode0","{8E2AFA3A-DE62-494c-A3B4-5E6C1C2885B4}");
+tocTab[tocTab.length] = new Array("0.6.1.4.3.2.1:5", "", "ActivityInitial", "EARoot/EA6/EA1/EA4/EA3/EA2/EA1/EA3414.htm", "68.png", "E4343", "0", "", "StateNode0","{054B4B44-CB1E-4b32-B40D-159409712D6B}");

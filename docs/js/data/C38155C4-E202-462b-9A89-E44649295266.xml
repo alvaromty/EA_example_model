@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.20.3.16.1", "1", "BPMN", "EARoot/EA20/EA3/EA16/EA1/EA11607.htm", "4.png", "", "", "{A38050D4-41DC-42e3-8217-1E0C7994DD43}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.16.2", "1", "DMN", "EARoot/EA20/EA3/EA16/EA2/EA11616.htm", "4.png", "", "", "{0C249159-9B3B-457f-91EF-657ABD04AA85}", "Package");

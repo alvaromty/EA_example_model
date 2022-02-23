@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.8.8.2.1", "1", "1 Stage Workflow", "EARoot/EA8/EA8/EA2/EA1/EA6521.htm", "4.png", "", "", "{05808014-7425-4d6e-8125-2523A840D6A9}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8.2.2", "1", "2 Stage Workflow", "EARoot/EA8/EA8/EA2/EA2/EA6527.htm", "4.png", "", "", "{8EE403C6-E546-4b69-816C-32C05505E48D}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8.2.3", "1", "3 Stage Workflow", "EARoot/EA8/EA8/EA2/EA3/EA6536.htm", "4.png", "", "", "{12CC8E50-AEA9-4fd7-81DF-E4FE28411B9A}", "Package");

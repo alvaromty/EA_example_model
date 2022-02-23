@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.11.2:1", "", "Broadcast Types", "EARoot/EA2/EA11/EA2/EA1013.htm", "175.png", "995", "0", "", "Logical diagram0","{571EE048-3951-47b4-8BF2-AAFEE64EC3D8}");
+tocTab[tocTab.length] = new Array("0.2.11.2:2", "", "EA_OnPostNewElement", "EARoot/EA2/EA11/EA2/EA1016.htm", "196.png", "E9908", "0", "", "Signal0","{76C473D4-1C1B-415c-9DF6-C4C25F912F99}");
+tocTab[tocTab.length] = new Array("0.2.11.2:3", "", "EA_OnPreNewElement", "EARoot/EA2/EA11/EA2/EA1017.htm", "196.png", "E8096", "0", "", "Signal0","{9635C049-7C8D-486d-A7A9-6E1694364B5C}");
+tocTab[tocTab.length] = new Array("0.2.11.2.1", "1", "Schema Composer Events", "EARoot/EA2/EA11/EA2/EA1/EA1023.htm", "4.png", "", "", "{5F0BEA4B-4D11-4094-9901-D4CF10E18175}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.2.2", "1", "Add-In Events", "EARoot/EA2/EA11/EA2/EA2/EA1027.htm", "4.png", "", "", "{B45A5111-FD55-4374-BF1F-84E0EECB5793}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.2.3", "1", "Context Item Events", "EARoot/EA2/EA11/EA2/EA3/EA1035.htm", "4.png", "", "", "{D9D852BD-B9C9-4679-8421-2532515B37EC}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.2.4", "1", "Pre-Deletion Events", "EARoot/EA2/EA11/EA2/EA4/EA1038.htm", "4.png", "", "", "{73ED32F7-FD45-48d7-8BA0-EBEA529BC3CE}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.2.5", "1", "Workflow Events", "EARoot/EA2/EA11/EA2/EA5/EA1040.htm", "4.png", "", "", "{CEB4F0FD-D7B4-424d-9626-8CAA78C0E4C0}", "Package");

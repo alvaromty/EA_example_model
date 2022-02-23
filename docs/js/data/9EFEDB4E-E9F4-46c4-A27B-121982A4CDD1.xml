@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.4.4.1:1", "", "Positioning", "EARoot/EA7/EA4/EA4/EA1/EA5408.htm", "188.png", "263", "0", "", "Custom diagram0","{2A091D8E-E116-4348-B94F-C6FA6E85F937}");
+tocTab[tocTab.length] = new Array("0.7.4.4.1:2", "", "«Functional» Higher volume - faster client accessibility.", "EARoot/EA7/EA4/EA4/EA1/EA5411.htm", "19.png", "E2339", "0", "", "Requirement0","{4BB276B6-EF6E-41af-9D22-C9093BFB0504}");
+tocTab[tocTab.length] = new Array("0.7.4.4.1:3", "", "«Functional» Passing on of roles leading to inefficiency and extra costs.", "EARoot/EA7/EA4/EA4/EA1/EA5413.htm", "19.png", "E2338", "0", "", "Requirement0","{243D6BE8-9755-4c96-AE85-5616E6F5FEF5}");
+tocTab[tocTab.length] = new Array("0.7.4.4.1:4", "", "«Functional» Reduce wasted time sending messages to customers", "EARoot/EA7/EA4/EA4/EA1/EA5414.htm", "19.png", "E2340", "0", "", "Requirement0","{88BC9D1C-6FC4-4b70-96AA-F5028400894E}");
+tocTab[tocTab.length] = new Array("0.7.4.4.1:5", "", "«Functional» View of customer messages directly related to transactions", "EARoot/EA7/EA4/EA4/EA1/EA5415.htm", "19.png", "E2337", "0", "", "Requirement0","{22AD2730-E383-44ca-A9E1-F29A735BE8D5}");

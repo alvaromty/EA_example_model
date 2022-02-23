@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.8.4.4:1", "", "Fulfill orders", "EARoot/EA7/EA8/EA4/EA4/EA6281.htm", "188.png", "234", "0", "", "Custom diagram0","{8F167444-F703-43c3-9822-F7CC9417F274}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:2", "", "«Functional» REQ013 - Manage Deliveries", "EARoot/EA7/EA8/EA4/EA4/EA6285.htm", "19.png", "E2129", "0", "", "Requirement0","{3D152E1B-874E-4dfc-831A-D1EF693D6204}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:3", "", "REQ028 - Process Order", "EARoot/EA7/EA8/EA4/EA4/EA6286.htm", "19.png", "E2134", "0", "", "Requirement0","{D1819B2B-3D33-444b-AA50-8FD79F065437}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:4", "", "«Functional» REQ029 - Ship Order", "EARoot/EA7/EA8/EA4/EA4/EA6287.htm", "19.png", "E2131", "0", "", "Requirement0","{401BBC0C-EB3E-4df9-9BCF-CB8DBAC8AF94}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:5", "", "REQ030 - Package Order", "EARoot/EA7/EA8/EA4/EA4/EA6288.htm", "19.png", "E2135", "0", "", "Requirement0","{F72C08E3-D969-4221-AD05-E7B951B9F55B}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:6", "", "«Functional» REQ031 - List Current Orders", "EARoot/EA7/EA8/EA4/EA4/EA6289.htm", "19.png", "E2133", "0", "", "Requirement0","{7F8A2065-4474-4b81-BD4F-B6EB0BFC6CA0}");
+tocTab[tocTab.length] = new Array("0.7.8.4.4:7", "", "«Functional» REQ033 - Retrieve Books", "EARoot/EA7/EA8/EA4/EA4/EA6290.htm", "19.png", "E2132", "0", "", "Requirement0","{70257B9A-30DB-4712-94FC-22FC29964379}");

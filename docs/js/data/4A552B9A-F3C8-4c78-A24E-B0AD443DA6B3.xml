@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.1.2.1.4:1", "", "API", "EARoot/EA12/EA1/EA2/EA1/EA4/EA7010.htm", "5.png", "E3320", "0", "", "Class0","{EA85C6D7-F64E-47d5-B0C9-566DC468B6ED}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.4:2", "", "CLI", "EARoot/EA12/EA1/EA2/EA1/EA4/EA7011.htm", "5.png", "E3319", "0", "", "Class0","{0F25C601-24FF-4fc8-87C0-2028BDBD919D}");
+tocTab[tocTab.length] = new Array("0.12.1.2.1.4:3", "", "IDE", "EARoot/EA12/EA1/EA2/EA1/EA4/EA7012.htm", "5.png", "E3318", "0", "", "Class0","{40D003BE-00CF-4055-94D8-7AE4436FFA69}");

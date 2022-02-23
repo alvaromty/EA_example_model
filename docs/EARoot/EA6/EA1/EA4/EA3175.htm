@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Zachman Framework</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA3176.png" usemap="#EA3176" border="0" />
+
+<MAP NAME="EA3176">
+<area shape="rect" coords="529,621,647,725" href="./EA6/EA4/EA3646.htm" target="_self">
+<area shape="rect" coords="786,620,904,725" href="./EA6/EA6/EA3648.htm" target="_self">
+<area shape="rect" coords="654,620,780,724" href="./EA6/EA5/EA3647.htm" target="_self">
+<area shape="rect" coords="396,622,520,726" href="./EA6/EA3/EA3645.htm" target="_self">
+<area shape="rect" coords="263,621,389,725" href="./EA6/EA2/EA3644.htm" target="_self">
+<area shape="rect" coords="134,621,254,725" href="./EA6/EA1/EA3643.htm" target="_self">
+<area shape="rect" coords="786,512,904,612" href="./EA5/EA6/EA3631.htm" target="_self">
+<area shape="rect" coords="654,512,780,612" href="./EA5/EA5/EA3624.htm" target="_self">
+<area shape="rect" coords="529,511,647,611" href="./EA5/EA4/EA3619.htm" target="_self">
+<area shape="rect" coords="396,512,520,612" href="./EA5/EA3/EA3612.htm" target="_self">
+<area shape="rect" coords="263,512,389,612" href="./EA5/EA2/EA3607.htm" target="_self">
+<area shape="rect" coords="134,512,254,612" href="./EA5/EA1/EA3602.htm" target="_self">
+<area shape="rect" coords="786,408,904,502" href="./EA4/EA6/EA3587.htm" target="_self">
+<area shape="rect" coords="654,408,780,502" href="./EA4/EA5/EA3572.htm" target="_self">
+<area shape="rect" coords="529,407,647,501" href="./EA4/EA4/EA3564.htm" target="_self">
+<area shape="rect" coords="396,408,520,502" href="./EA4/EA3/EA3558.htm" target="_self">
+<area shape="rect" coords="263,408,389,502" href="./EA4/EA2/EA3535.htm" target="_self">
+<area shape="rect" coords="134,408,254,502" href="./EA4/EA1/EA3522.htm" target="_self">
+<area shape="rect" coords="786,292,904,396" href="./EA3/EA6/EA3478.htm" target="_self">
+<area shape="rect" coords="654,292,780,396" href="./EA3/EA5/EA3469.htm" target="_self">
+<area shape="rect" coords="529,291,647,395" href="./EA3/EA4/EA3431.htm" target="_self">
+<area shape="rect" coords="396,292,520,396" href="./EA3/EA3/EA3415.htm" target="_self">
+<area shape="rect" coords="263,292,389,396" href="./EA3/EA2/EA3402.htm" target="_self">
+<area shape="rect" coords="134,292,254,396" href="./EA3/EA1/EA3394.htm" target="_self">
+<area shape="rect" coords="786,178,904,280" href="./EA2/EA6/EA3351.htm" target="_self">
+<area shape="rect" coords="654,178,780,280" href="./EA2/EA5/EA3332.htm" target="_self">
+<area shape="rect" coords="529,177,647,279" href="./EA2/EA4/EA3321.htm" target="_self">
+<area shape="rect" coords="396,178,520,280" href="./EA2/EA3/EA3314.htm" target="_self">
+<area shape="rect" coords="263,178,389,280" href="./EA2/EA2/EA3306.htm" target="_self">
+<area shape="rect" coords="134,178,254,280" href="./EA2/EA1/EA3290.htm" target="_self">
+<area shape="rect" coords="786,62,904,165" href="./EA1/EA6/EA3271.htm" target="_self">
+<area shape="rect" coords="654,62,780,165" href="./EA1/EA5/EA3264.htm" target="_self">
+<area shape="rect" coords="529,61,647,164" href="./EA1/EA4/EA3248.htm" target="_self">
+<area shape="rect" coords="396,62,520,165" href="./EA1/EA3/EA3235.htm" target="_self">
+<area shape="rect" coords="263,62,389,165" href="./EA1/EA2/EA3222.htm" target="_self">
+<area shape="rect" coords="134,62,254,165" href="./EA1/EA1/EA3192.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Zachman Framework : Zachman Framework Interface diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">2/15/2017 2:13:49 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">3/1/2017 3:17:53 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Meg Snyder</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{D1C823CB-644C-4549-B696-D84420B75BFF}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This&#160;&#160;EA diagram servers as an interface for the development of Enterprise Architecture based on the Zachman Framework.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

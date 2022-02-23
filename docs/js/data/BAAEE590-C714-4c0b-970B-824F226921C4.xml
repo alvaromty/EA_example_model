@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.10.9:1", "", "AreaChartByRange - Javascript", "EARoot/EA2/EA10/EA9/EA950.htm", "175.png", "1052", "0", "", "Logical diagram0","{1B8C6D33-48C6-46e7-8B30-A5E2F66DC07E}");
+tocTab[tocTab.length] = new Array("0.2.10.9:2", "", "AreaChartByRange - JSON", "EARoot/EA2/EA10/EA9/EA952.htm", "188.png", "1053", "0", "", "Custom diagram0","{6B071479-B65D-4ef7-819F-17454D93D811}");
+tocTab[tocTab.length] = new Array("0.2.10.9:3", "", "«SSDynamicChart» AreaChartByRange - JavaScript", "EARoot/EA2/EA10/EA9/EA955.htm", "5.png", "E10130", "0", "", "Class0","{C29D803C-2D56-46ef-9567-0A366816C441}");
+tocTab[tocTab.length] = new Array("0.2.10.9:4", "", "«SSDynamicChart» AreaChartByRange - JSON", "EARoot/EA2/EA10/EA9/EA956.htm", "5.png", "E10129", "0", "", "Class0","{20A0CF76-09CD-497c-98D3-634D24E79184}");

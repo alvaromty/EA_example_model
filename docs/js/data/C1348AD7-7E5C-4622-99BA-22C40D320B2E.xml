@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.20.3.7:2", "", "«BusinessProcess» Help Desk Phone Support Process", "EARoot/EA20/EA3/EA7/EA11367.htm", "4C9380A5-0_BusinessProcess.png", "E5224", "0", "", "Activity0","{F81352C9-2705-43eb-BEF9-08B03FCA0C74}");
+tocTab[tocTab.length] = new Array("0.20.3.7:3", "", "«Resource» Support", "EARoot/EA20/EA3/EA7/EA11368.htm", "5.png", "E5223", "0", "", "Class0","{C306C8E6-19B4-4676-9DB4-0F23808F535F}");
+tocTab[tocTab.length] = new Array("0.20.3.7:1", "", "Help Desk Phone Support Process", "EARoot/EA20/EA3/EA7/EA11361.htm", "189.png", "408", "E5224", "", "Analysis diagram0","{8F7E9641-C9FE-4e03-9ADD-27198C338DFD}");
+tocTab[tocTab.length] = new Array("0.20.3.7:4", "", "«StartEvent» Customer calls in", "EARoot/EA20/EA3/EA7/EA11369.htm", "4C9380A5-0_StartEvent.png", "E5226", "E5224", "", "Event0","{9213051D-6899-48f9-AC9C-C544EA78B8D1}");
+tocTab[tocTab.length] = new Array("0.20.3.7:5", "", "«EndEvent» Customer hangs up", "EARoot/EA20/EA3/EA7/EA11370.htm", "4C9380A5-0_EndEvent.png", "E5227", "E5224", "", "Event0","{574B61AD-BE76-4f73-BA4A-76261F996598}");
+tocTab[tocTab.length] = new Array("0.20.3.7:6", "", "«Activity» Service Customer", "EARoot/EA20/EA3/EA7/EA11371.htm", "4C9380A5-0_Activity.png", "E5225", "E5224", "", "Activity0","{72FA1253-ADBC-4543-A3A3-F47B49BD98FD}");
+tocTab[tocTab.length] = new Array("0.20.3.7:7", "", "«ResourceRole» ResourceRole", "EARoot/EA20/EA3/EA7/EA11372.htm", "5.png", "E5230", "E5225", "", "Class0","{7CB97D57-D467-4484-BD69-A00A08CDCAE3}");
+tocTab[tocTab.length] = new Array("0.20.3.7:8", "", "«ResourceRole» ResourceRole", "EARoot/EA20/EA3/EA7/EA11373.htm", "5.png", "E5245", "E5225", "", "Class0","{D31D230C-A513-43c1-8C2F-F3A335616E69}");
+tocTab[tocTab.length] = new Array("0.20.3.7.1", "1", "BPSim", "EARoot/EA20/EA3/EA7/EA1/EA11376.htm", "4.png", "", "", "{15AAB1DD-63FD-488d-B304-9A13B31AFB2A}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.7.2", "1", "BPSimReport", "EARoot/EA20/EA3/EA7/EA2/EA11381.htm", "4.png", "", "", "{EC298631-0487-4f52-AA72-B053AC5095FF}", "Package");
+tocTab[tocTab.length] = new Array("0.20.3.7.3", "1", "BPSimResultChart", "EARoot/EA20/EA3/EA7/EA3/EA11390.htm", "4.png", "", "", "{A855F22C-2521-4c54-AD22-871FE864FA2B}", "Package");

@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.2.10:1", "", "Dynamic Charts", "EARoot/EA2/EA10/EA764.htm", "188.png", "1027", "0", "", "Custom diagram0","{68BB7438-65CE-491c-A45E-62ED9EFE4759}");
+tocTab[tocTab.length] = new Array("0.2.10.1", "1", "Reference Model", "EARoot/EA2/EA10/EA1/EA785.htm", "4.png", "", "", "{A7525C5E-DC7A-4845-A644-C90CD559B568}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.2", "1", "Pie Charts", "EARoot/EA2/EA10/EA2/EA857.htm", "4.png", "", "", "{1DA5A24D-09DB-46b4-A1D0-0420AAB2DCDC}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.3", "1", "Box Plot", "EARoot/EA2/EA10/EA3/EA872.htm", "4.png", "", "", "{16243897-9F8E-44c3-BF99-9AB511534D02}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.4", "1", "Bar Charts", "EARoot/EA2/EA10/EA4/EA877.htm", "4.png", "", "", "{2ECE8A99-5075-4071-A49E-0C0ED711C5E6}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.5", "1", "Column Charts", "EARoot/EA2/EA10/EA5/EA904.htm", "4.png", "", "", "{2C5F0923-22D3-4a5e-9882-76AED66B12AD}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.6", "1", "Manhattan 3D Chart", "EARoot/EA2/EA10/EA6/EA933.htm", "4.png", "", "", "{783CA195-B69D-417d-B115-0881587E1CD5}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.7", "1", "Stocks", "EARoot/EA2/EA10/EA7/EA940.htm", "4.png", "", "", "{D8596B92-4066-49b6-A59E-D1A4E41B2230}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.8", "1", "AreaChartSimple", "EARoot/EA2/EA10/EA8/EA947.htm", "4.png", "", "", "{9AC35BC5-BDDF-4cba-9AC0-1FD886C026FB}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.9", "1", "AreaChartByRange", "EARoot/EA2/EA10/EA9/EA954.htm", "4.png", "", "", "{BAAEE590-C714-4c0b-970B-824F226921C4}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.10", "1", "Polar", "EARoot/EA2/EA10/EA10/EA961.htm", "4.png", "", "", "{3289AB0D-4A3C-4f9f-93E9-8ECB855A45AB}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.11", "1", "Radar", "EARoot/EA2/EA10/EA11/EA968.htm", "4.png", "", "", "{F8F8FCA0-0477-4e4e-BBBB-43F22E9E8684}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.12", "1", "Surface 3D Basic", "EARoot/EA2/EA10/EA12/EA975.htm", "4.png", "", "", "{84CED80D-DE47-4f13-AC1B-770590E55198}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.13", "1", "Surface 3D WireFrame", "EARoot/EA2/EA10/EA13/EA982.htm", "4.png", "", "", "{9DB57598-7737-4764-9AC1-DB208C6E54FC}", "Package");
+tocTab[tocTab.length] = new Array("0.2.10.14", "1", "Combined Charts", "EARoot/EA2/EA10/EA14/EA989.htm", "4.png", "", "", "{01B0B4D0-1CFA-4194-B744-5ED8033AEA16}", "Package");

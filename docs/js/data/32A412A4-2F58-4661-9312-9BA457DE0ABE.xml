@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.8.11:1", "", "Allocating Resources", "EARoot/EA8/EA11/EA6689.htm", "188.png", "542", "0", "", "Custom diagram0","{81D9024B-1BDD-4b90-B847-03FE75AFB328}");
+tocTab[tocTab.length] = new Array("0.8.11:2", "", "Assigned Resources dialog - screen shot", "EARoot/EA8/EA11/EA6691.htm", "188.png", "288", "0", "", "Custom diagram0","{089E7081-F69A-4240-B669-73FD8B9A957D}");
+tocTab[tocTab.length] = new Array("0.8.11:3", "", "Resource Allocation Window - screen shot", "EARoot/EA8/EA11/EA6693.htm", "188.png", "547", "0", "", "Custom diagram0","{5BEAD9D7-B2A6-4332-A5D0-362CE2B9F75B}");
+tocTab[tocTab.length] = new Array("0.8.11:4", "", "«Image» AssignedResourcesDlg.png", "EARoot/EA8/EA11/EA6705.htm", "82.png", "E3915", "0", "", "Artifact0","{98843BC3-C5B3-4ae8-A093-5A841D4A9B3A}");
+tocTab[tocTab.length] = new Array("0.8.11:5", "", "«Image» ResourceAllocation.png", "EARoot/EA8/EA11/EA6710.htm", "82.png", "E3468", "0", "", "Artifact0","{6461451F-58EE-4ffd-B1D8-9F45966F243C}");
+tocTab[tocTab.length] = new Array("0.8.11.1", "1", "Overview", "EARoot/EA8/EA11/EA1/EA6715.htm", "4.png", "", "", "{13927D99-BEFB-4f49-B80E-8FC337772DC2}", "Package");

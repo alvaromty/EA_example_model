@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Queries::Show Table List</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Show Table List", " : "))</script>  : Public  &lt;&lt;sqlquery&gt;&gt; SQL Query</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/1/2015 1:15:22 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">10/1/2015 1:45:54 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Paulene Dean</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{C5C45ACA-E6CB-4399-8F38-357585182C54}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">SQL</td>
+				<td width="50%" class="TableRow" valign="top">SELECT<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> n.nspname&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> AS ObjectSchema,&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> --1<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> c.relname&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> AS ObjectName,&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> --2<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> CASE<br />	WHEN c.relkind = &#39;r&#39; THEN &#39;TABLE&#39;<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> WHEN c.relkind = &#39;v&#39; THEN &#39;VIEW&#39;<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> WHEN c.relkind = &#39;S&#39; THEN &#39;SEQUENCE&#39;<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> END&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> AS ObjectType,	&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> --3<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> COALESCE(OBJ_DESCRIPTION(c.oid),&#39;&#39;)&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> AS Remarks,		&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> --4<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> COALESCE(&#39;TABLESPACE=&#39; || t.spcname || &#39;;&#39;,&#39;&#39;)&nbsp;<WBR> AS Properties	&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> --5<br />FROM<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> (SELECT *, oid <br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> FROM pg_class<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> WHERE relkind IN (&#39;r&#39;,&#39;v&#39;)<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> ) c&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> <br />INNER JOIN&nbsp;<WBR> <br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> (SELECT *, oid<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> FROM&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> pg_namespace<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> WHERE&nbsp;<WBR>&nbsp;<WBR> nspname NOT IN (&#39;information_schema&#39;,&#39;pg_catalog&#39;,&#39;pg_toast&#39;)<br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> ) n <br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> ON&nbsp;<WBR> c.relnamespace = n.oid<br />LEFT JOIN&nbsp;<WBR>&nbsp;<WBR> <br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> pg_tablespace t<br />ON&nbsp;<WBR> <br />&nbsp;<WBR>&nbsp;<WBR>&nbsp;<WBR> c.reltablespace = t.oid<br />--where c.relname like &#39;data%&#39;<br />order by n.nspname, c.relname<br /></td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario10953" onclick="parent.toggleDiv('detailsDIVScenario10953','DetailsImageScenario10953')" />Details:
+						<div id="detailsDIVScenario10953" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

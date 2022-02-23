@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>View Basket</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("View Basket", " : "))</script>  : Public   Screen</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9/30/2000 12:00:00 AM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">12/20/2005 12:15:07 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Frank McIver</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{DC9DB952-19BF-4d5b-8A83-C83B9AE3C6A8}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../../../EA9/EA1/EA1/EA2/EA2/EA6757.htm">Take Orders</a>, <a href="EA10729.htm">View Cart</a>, <a href="../../EA4/EA10820.htm">Traceability Full</a>, <a href="../../EA4/EA10822.htm">Traceability Requirements</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This screen allows the users to view the current contents of their shopping basket.&lt;br/&gt;</div>
+
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('AssociationsTo');" id="AssociationsToTitle">Associations To</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+		<div class="ItemBody" id="AssociationsToTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="40%" class="TableHeading">Element</td>
+					<td width="30%" class="TableHeading">Source Role</td>
+					<td width="30%" class="TableHeading">Target Role</td>
+				</tr>
+				<tr>
+					<td width="40%" class="TableRow" valign="top">
+						<a href="../../../../EA9/EA1/EA1/EA2/EA2/EA6764.htm">«testcase» View Basket Test</a><br />
+						UseCase &nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;
+					</td>
+					<td width="30%" class="TableRow" valign="top">
+						<strong>Name:</strong> &nbsp;<br />
+						&nbsp;	
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="3">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLink14192" onclick="parent.toggleDiv('detailsDIVLink14192','DetailsImageLink14192')" />Details:
+							<div id="detailsDIVLink14192" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>View Cart Details</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/18/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases14193" onclick="parent.toggleDiv('detailsDIVTestCases14193','DetailsImageTestCases14193')" />Details:
+							<div id="detailsDIVTestCases14193" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">The screen showing a view of the shopping cart has the Author Title and Publisher displayed.&#160;&#160;The quantity is displayed.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Cart Total is correct.</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/18/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases14194" onclick="parent.toggleDiv('detailsDIVTestCases14194','DetailsImageTestCases14194')" />Details:
+							<div id="detailsDIVTestCases14194" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Check that the Cart Total is displayed correctly.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Set up an order with a range of items selected for purchase. Open the View Cart window.&#160;&#160;Check that the Cart Total is calculated correctly to match the sum of the (Cost by Qunatity) for all the items.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The Total matches the sum of ( Cost *Quantities) of all the items selected.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Cart Items Quantities are correct.</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/18/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases14195" onclick="parent.toggleDiv('detailsDIVTestCases14195','DetailsImageTestCases14195')" />Details:
+							<div id="detailsDIVTestCases14195" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Check that the Cart Items Quantities are displayed correctly&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Set up an order with a range items selected for purchase. Open the View Cart window. &lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The Quantities of each of the items matches the quantity of set of items selected.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Cart Items displayed are correct.</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/18/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases14196" onclick="parent.toggleDiv('detailsDIVTestCases14196','DetailsImageTestCases14196')" />Details:
+							<div id="detailsDIVTestCases14196" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">Check that the Cart Items displayed are correct.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> <div class="ObjectDetailsNotes">Set up an order with a range items selected for purchase. Open the View Cart window.&lt;br/&gt;</div>
+ <br />
+								<strong>Acceptance:</strong> <div class="ObjectDetailsNotes">The list of items matches the set of items selected.&lt;br/&gt;</div>
+ <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Alter Quantity</strong></span></td>
+					<td width="7%" class="TableRow">Unit</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 10/18/2005 12:00:00 AM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases14197" onclick="parent.toggleDiv('detailsDIVTestCases14197','DetailsImageTestCases14197')" />Details:
+							<div id="detailsDIVTestCases14197" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">The shopping cart view allows the user to make changes to the quantity of any of the entries listed.&lt;br/&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../EA9/EA1/EA1/EA2/EA2/EA6763.htm">«Functional» View Basket Alter quantity missing.</a></td>
+					<td width="10%" class="TableRow" valign="top">Issue</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../EA3/EA2/EA4/EA4/EA1702.htm">View Shopping Basket</a></td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">Abstraction</td>
+					<td width="10%" class="TableRow" valign="top">To</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

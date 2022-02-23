@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.3.2.3.1:1", "", "Datamap", "EARoot/EA6/EA1/EA3/EA2/EA3/EA1/EA3096.htm", "175.png", "753", "0", "", "UMLDiagram diagram0","{615C5C73-F4E0-4fad-A055-200F3A1FF7AC}");
+tocTab[tocTab.length] = new Array("0.6.1.3.2.3.1:2", "", "«IntersectingEntity» IntersectingEntity1", "EARoot/EA6/EA1/EA3/EA2/EA3/EA1/EA3099.htm", "5.png", "E4690", "0", "", "Entity0","{3C5BC0A4-BD08-4f44-8547-B37457ECDD7F}");
+tocTab[tocTab.length] = new Array("0.6.1.3.2.3.1:3", "", "«PrincipalEntity» PrincipalEntity1", "EARoot/EA6/EA1/EA3/EA2/EA3/EA1/EA3100.htm", "5.png", "E4693", "0", "", "Entity0","{0CDE5E39-E970-47d4-9B94-06FEE9E28A57}");
+tocTab[tocTab.length] = new Array("0.6.1.3.2.3.1:4", "", "«PrincipalEntity» PrincipalEntity2", "EARoot/EA6/EA1/EA3/EA2/EA3/EA1/EA3101.htm", "5.png", "E4696", "0", "", "Entity0","{7AFA32CF-E1A3-43d3-80C4-1D835A011073}");

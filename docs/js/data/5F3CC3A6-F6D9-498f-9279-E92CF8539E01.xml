@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.18.3.4:1", "", "Order", "EARoot/EA18/EA3/EA4/EA10548.htm", "175.png", "297", "0", "", "Logical diagram0","{2A7F88E0-CC32-4002-9D2D-EA2A669305E6}");
+tocTab[tocTab.length] = new Array("0.18.3.4:2", "", "«EJBRemoteInterface» Order", "EARoot/EA18/EA3/EA4/EA10552.htm", "8.png", "E2451", "0", "", "Interface0","{3DF4845F-45A9-47c5-9BBC-062D0F39AD97}");
+tocTab[tocTab.length] = new Array("0.18.3.4:3", "", "«EJBImplementation» OrderBean", "EARoot/EA18/EA3/EA4/EA10553.htm", "5.png", "E2452", "0", "", "Class0","{D0BF7AE5-2CBE-4004-B9FD-90BF3D6A791B}");
+tocTab[tocTab.length] = new Array("0.18.3.4:4", "", "«EJBSessionHomeInterface» OrderHome", "EARoot/EA18/EA3/EA4/EA10554.htm", "8.png", "E2453", "0", "", "Interface0","{E52476FE-CAA4-4a66-9F4B-554A17809E8B}");
+tocTab[tocTab.length] = new Array("0.18.3.4.1", "1", "META-INF", "EARoot/EA18/EA3/EA4/EA1/EA10557.htm", "4.png", "", "", "{CFFDF841-2E6B-4e38-BE04-B892F0AD3A65}", "Package");

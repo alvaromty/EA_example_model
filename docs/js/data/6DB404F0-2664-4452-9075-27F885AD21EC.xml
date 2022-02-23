@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.2.6:1", "", "Business Plan", "EARoot/EA6/EA1/EA4/EA2/EA6/EA3351.htm", "175.png", "714", "0", "", "Logical diagram0","{8BE03874-BC96-44f3-818E-837700B7BE29}");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.6.1", "1", "Mind Map", "EARoot/EA6/EA1/EA4/EA2/EA6/EA1/EA3361.htm", "4.png", "", "", "{BEB805F3-E268-4e34-BA83-04F30334D7FB}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.4.2.6.2", "1", "Strategic Plan", "EARoot/EA6/EA1/EA4/EA2/EA6/EA2/EA3375.htm", "4.png", "", "", "{7B3E6E8D-6DBD-4200-87B6-6F401D9A30B1}", "Package");

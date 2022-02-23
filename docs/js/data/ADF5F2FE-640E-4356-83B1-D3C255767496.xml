@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.11.1.1", "1", "myDemo Addin", "EARoot/EA2/EA11/EA1/EA1/EA1007.htm", "4.png", "", "", "{A8537BFA-28A3-4b4f-8BA0-462A657F93D9}", "Package");
+tocTab[tocTab.length] = new Array("0.2.11.1.2", "1", "TypeInfo Addin", "EARoot/EA2/EA11/EA1/EA2/EA1011.htm", "4.png", "", "", "{AF321A8A-F55E-4b84-90BB-C8833226B8F2}", "Package");

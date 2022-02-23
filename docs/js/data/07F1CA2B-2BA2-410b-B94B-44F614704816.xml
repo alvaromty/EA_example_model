@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.3.1", "", "PRM", "EARoot/EA6/EA1/EA3/EA1/EA3055.htm", "4.png", "", "", "{1CC18804-EE9E-4326-B672-000D02CC5C86}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.2", "1", "TOGAF-ADM", "EARoot/EA6/EA1/EA3/EA2/EA3058.htm", "4.png", "", "", "{65DF38E7-05B0-4a90-BADD-B88B4E1E8550}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.3", "1", "Enterprise Continuum", "EARoot/EA6/EA1/EA3/EA3/EA3130.htm", "4.png", "", "", "{58559D59-1DF1-43fe-86E3-1FFE64A82846}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.3.4", "1", "TOGAF Catalogs", "EARoot/EA6/EA1/EA3/EA4/EA3166.htm", "4.png", "", "", "{4960CAB5-0ED6-417d-A2AA-0C78B31922A3}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.16.2.6.3:1", "", "ValueTypes", "EARoot/EA16/EA2/EA6/EA3/EA8642.htm", "175.png", "514", "0", "", "Logical diagram0","{20755E05-5DBC-46a3-A708-4D7210EC0DB2}");
+tocTab[tocTab.length] = new Array("0.16.2.6.3:2", "", "«ValueType» Force", "EARoot/EA16/EA2/EA6/EA3/EA8645.htm", "230.png", "E9164", "0", "", "DataType0","{DF317D0C-C782-40c1-9B45-139907EE2F74}");
+tocTab[tocTab.length] = new Array("0.16.2.6.3:3", "", "«ValueType» Length", "EARoot/EA16/EA2/EA6/EA3/EA8646.htm", "230.png", "E9170", "0", "", "DataType0","{A116D55D-256E-4848-8001-0E8BA9B6613A}");
+tocTab[tocTab.length] = new Array("0.16.2.6.3:4", "", "newton", "EARoot/EA16/EA2/EA6/EA3/EA8647.htm", "25.png", "E9166", "0", "", "Object0","{2801DF33-0AF2-40ab-9D82-59DF1340468A}");
+tocTab[tocTab.length] = new Array("0.16.2.6.3:5", "", "«ValueType» Real", "EARoot/EA16/EA2/EA6/EA3/EA8648.htm", "230.png", "E9168", "0", "", "DataType0","{8E030515-9F10-41ee-A0DE-CB88B35D586E}");

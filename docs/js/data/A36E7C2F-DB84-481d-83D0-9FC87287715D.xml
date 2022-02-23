@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.3.19:1", "", "Properties of Requirements", "EARoot/EA7/EA3/EA19/EA5173.htm", "188.png", "693", "0", "", "Custom diagram0","{0E5B3FFE-FB9A-4060-BC79-EFB3C28B45F0}");
+tocTab[tocTab.length] = new Array("0.7.3.19:2", "", "«Image» RequirementProps.png", "EARoot/EA7/EA3/EA19/EA5180.htm", "82.png", "E3388", "0", "", "Artifact0","{E7F12061-B987-45f9-81F4-24FC0AA0893D}");
+tocTab[tocTab.length] = new Array("0.7.3.19:3", "", "«Image» RequirementProps2.png", "EARoot/EA7/EA3/EA19/EA5181.htm", "82.png", "E7352", "0", "", "Artifact0","{FF6FB262-5426-4dbf-BF4C-BAF816A101C4}");
+tocTab[tocTab.length] = new Array("0.7.3.19:4", "", "«Image» RequirementsList-Filtered.png", "EARoot/EA7/EA3/EA19/EA5182.htm", "82.png", "E7362", "0", "", "Artifact0","{CA4DD77A-3E19-47ab-8668-58915FCFF266}");

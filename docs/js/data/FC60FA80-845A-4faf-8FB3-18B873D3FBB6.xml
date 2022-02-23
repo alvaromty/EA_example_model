@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.8.8.3.6:1", "", "Model Connections", "EARoot/EA8/EA8/EA3/EA6/EA6598.htm", "188.png", "662", "0", "", "Custom diagram0","{CFBB6338-DA73-4336-9085-780049F91C1A}");
+tocTab[tocTab.length] = new Array("0.8.8.3.6:2", "", "Rules Analyzer", "EARoot/EA8/EA8/EA3/EA6/EA6602.htm", "10.png", "E6709", "0", "", "Component0","{388B0F68-2E7E-4787-BF32-6A5CF660833D}");
+tocTab[tocTab.length] = new Array("0.8.8.3.6:3", "", "«table» Student Verification", "EARoot/EA8/EA8/EA3/EA6/EA6603.htm", "8C9E6706-8_table.png", "E6711", "0", "", "Class0","{FD872E55-FF22-49a8-8F17-82EE0F5F998D}");
+tocTab[tocTab.length] = new Array("0.8.8.3.6.1", "1", "Wireframe", "EARoot/EA8/EA8/EA3/EA6/EA1/EA6605.htm", "4.png", "", "", "{997BEAE0-C7E3-4523-9BCF-37EF2CEE048E}", "Package");
